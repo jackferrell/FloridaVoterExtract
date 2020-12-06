@@ -1,6 +1,6 @@
 import csv
 import time
-import sortedcontainers as smp
+import bintrees as tree
 from Party import Party
 from Person import Person
 class County:
@@ -16,7 +16,7 @@ class County:
         self.gender_percentages = { "M": 0.0, "F": 0.0, "U": 0.0}
         self.party_percentages = { "CPF": 0.0, "DEM": 0.0, "ECO": 0.0, "GRE": 0.0, "IND": 0.0, "LPF": 0.0, "NPA": 0.0, "PSL": 0.0, "REF": 0.0, "REP": 0.0}
         self.people_dict = {}
-        self.people_sorted_dict = smp.SortedDict()
+        self.people_sorted_tree = tree.RBTree()
 
     #loads number of people associated with parties and races, also counts number of total voters and active voters
     def load_data(self):
@@ -54,8 +54,8 @@ class County:
                 if self.people_dict.get(name, False) == False:
                     self.people_dict[name] = []
                 self.people_dict[name].append(temp_person)
-                self.people_sorted_dict.setdefault(name, [])
-                self.people_sorted_dict[name].append(temp_person)
+                self.people_sorted_tree.set_default(name, [])
+                self.people_sorted_tree.__getitem__(name).append(temp_person)
     
 
     #this is assuming name is "<First Name>" + " " + "<Last Name>"
@@ -75,7 +75,7 @@ class County:
         if self.people_dict.get(name, False) == False:
              print("Error: Voter not found")
              time_taken = time.time() - start_time
-             print("Search took " + str(time_taken) + " seconds")
+             print("Search took " + str(time_taken) + " seconds for the HashMap")
              return -1
         #voter's name is in the map    
         else:
@@ -90,18 +90,18 @@ class County:
                         correct = input("Is this your date of birth? y/n ")
                         if(correct == "y"):
                             print("Voter found.")
-                            print("Search took " + str(time_taken) + " seconds")
+                            print("Search took " + str(time_taken) + " seconds for the HashMap")
                             return person.precinct
                 else:    
                     if (person.address_l1 + person.address_l2) == address:
                         print("Voter found.")
                         time_taken = time.time() - start_time
-                        print("Search took " + str(time_taken) + " seconds")
+                        print("Search took " + str(time_taken) + " seconds for the HashMap")
                         return person.precinct
         #voter name found but no matching address
         print("Error: Voter not found")
         time_taken = time.time() - start_time
-        print("Search took " + str(time_taken) + " seconds")
+        print("Search took " + str(time_taken) + " seconds for the HashMap")
         return -1
     
     #same method but for the sorted dictionary
@@ -115,14 +115,14 @@ class County:
         address = number + address_arr[1] + " "
         start_time = time.time()
         #check if voter exists
-        if self.people_sorted_dict.get(name, False) == False:
+        if self.people_sorted_tree.__contains__(name) == False:
              print("Error: Voter not found")
              time_taken = time.time() - start_time
-             print("Search took " + str(time_taken) + " seconds")
+             print("Search took " + str(time_taken) + " seconds for the RBTree")
              return -1
         #voter's name is in the map    
         else:
-            for person in self.people_sorted_dict[name]:
+            for person in self.people_sorted_tree.get(name):
                 #check for if they don't have a second line in their address
                 #this caused a bug at first with the extra space
                 if(person.address_l2 == " "):
@@ -133,18 +133,18 @@ class County:
                         correct = input("Is this your date of birth? y/n ")
                         if(correct == "y"):
                             print("Voter found.")
-                            print("Search took " + str(time_taken) + " seconds")
+                            print("Search took " + str(time_taken) + " seconds for the RBTree")
                             return person.precinct
                 else:    
                     if (person.address_l1 + person.address_l2) == address:
                         print("Voter found.")
                         time_taken = time.time() - start_time
-                        print("Search took " + str(time_taken) + " seconds")
+                        print("Search took " + str(time_taken) + " seconds for the RBTree")
                         return person.precinct
         #voter name found but no matching address
         print("Error: Voter not found")
         time_taken = time.time() - start_time
-        print("Search took " + str(time_taken) + " seconds")
+        print("Search took " + str(time_taken) + " seconds for the RBTree")
         return -1
         
     #This is not fantastic code (it is repetitive), but it is the simple percentage calculations of the number of different races and parties in the county
@@ -184,7 +184,6 @@ class County:
 
     #This method just takes the format from the .txt and hard codes the prints
     def display(self):
-        print("Race Data: " + str(self.races))
         print("Number of Voters: " + str(self.total_voters))
         print("Number of Active Voters: " + str(self.active_voters))
         print("Percentage Race Data: ")
@@ -211,3 +210,31 @@ class County:
         print("Male: " + str("{:.2f}".format(self.gender_percentages["M"])) + "%")
         print("Female: " + str("{:.2f}".format(self.gender_percentages["F"])) + "%")
         print("Other: " + str("{:.2f}".format(self.gender_percentages["U"])) + "%")
+
+    def create_file(self):
+        f = open("statistics.txt", "a")
+        f.write("Number of Voters: " + str(self.total_voters) + "\t")
+        f.write("Number of Active Voters: " + str(self.active_voters) + "\t")
+        f.write("American Indian or Alaskan Native: " + str("{:.2f}".format(self.race_percentages["1"])) + "%" + "\t")
+        f.write("Asian Or Pacific Islander: " + str("{:.2f}".format(self.race_percentages["2"])) + "%" + "\t")
+        f.write("Black, Not Hispanic: " + str("{:.2f}".format(self.race_percentages["3"])) + "%" + "\t")
+        f.write("Hispanic: " + str("{:.2f}".format(self.race_percentages["4"])) + "%")
+        f.write("White, Not Hispanic: " + str("{:.2f}".format(self.race_percentages["5"])) + "%" + "\t")
+        f.write("Other: " + str("{:.2f}".format(self.race_percentages["6"])) + "%")
+        f.write("Multi-racial: " + str("{:.2f}".format(self.race_percentages["7"])) + "%" + "\t")
+        f.write("Unknown: " + str("{:.2f}".format(self.race_percentages["9"])) + "%" + "\t")
+        f.write("Constitution Party of Florida: " + str("{:.2f}".format(self.party_percentages["CPF"])) + "%" + "\t")
+        f.write("Florida Democratic Party: " + str("{:.2f}".format(self.party_percentages["DEM"])) + "%" + "\t")
+        f.write("Ecology Party of Florida: " + str("{:.2f}".format(self.party_percentages["ECO"])) + "%" + "\t")
+        f.write("Green Party of Florida: " + str("{:.2f}".format(self.party_percentages["GRE"])) + "%" + "\t")
+        f.write("Independent Party of Florida: " + str("{:.2f}".format(self.party_percentages["IND"])) + "%" + "\t")
+        f.write("Libertarian Party of Florida: " + str("{:.2f}".format(self.party_percentages["LPF"])) + "%" + "\t")
+        f.write("No Party Affiliation: " + str("{:.2f}".format(self.party_percentages["NPA"])) + "%" + "\t")
+        f.write("Party for Socialism and Liberation - Florida: " + str("{:.2f}".format(self.party_percentages["PSL"])) + "%" + "\t")
+        f.write("Reform Party of Florida: " + str("{:.2f}".format(self.party_percentages["REF"])) + "%" + "\t")
+        f.write("Republican Party of Florida: " + str("{:.2f}".format(self.party_percentages["REP"])) + "%" + "\t")
+        f.write("Male: " + str("{:.2f}".format(self.gender_percentages["M"])) + "%" + "\t")
+        f.write("Female: " + str("{:.2f}".format(self.gender_percentages["F"])) + "%" + "\t")
+        f.write("Other: " + str("{:.2f}".format(self.gender_percentages["U"])) + "%" + "\t")
+        f.write("\n")
+        f.close()
