@@ -35,3 +35,11 @@ def search_sorted(name, address, county):
         county_dict[county].store_people
     county_dict[county].search_people_sorted(name, address)
 
+#function to read data from the statistics file
+def read_stats(county_code):
+    with open("statistics.txt", "r") as statistics_file:
+            reader = csv.reader(statistics_file, dialect="excel-tab")
+            for row in reader:
+                if row[0] == county_code:
+                    for i in row:
+                        print(i)
