@@ -7,7 +7,9 @@ class Party:
         self.race_percentages = { "1": 0.0, "2": 0.0, "3": 0.0, "4": 0.0, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0, "9": 0.0}
         self.gender_percentages = { "M": 0.0, "F": 0.0, "U": 0.0}
 
+    #similar process data function to the county class, just calculates the percentage makeup of the genders and races
     def process_data(self):
+        #check in case some counties had no members of a certain party
         if self.num_voters > 0:
             self.race_percentages["1"] = float(self.races["1"]) / float(self.num_voters) * 100
             self.race_percentages["2"] = float(self.races["2"]) / float(self.num_voters) * 100
@@ -21,6 +23,7 @@ class Party:
             self.gender_percentages["F"] = float(self.genders["F"]) / float(self.num_voters) * 100
             self.gender_percentages["U"] = float(self.genders["U"]) / float(self.num_voters) * 100
 
+    #prints all the data
     def display(self):
         print("Race Data: " + str(self.races))
         print("Number of Voters: " + str(self.num_voters))
