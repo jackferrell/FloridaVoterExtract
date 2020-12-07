@@ -48,6 +48,7 @@ class County:
                 temp_person.set_suffix(row[3].lower())
                 temp_person.set_address_l1(row[7].lower())
                 temp_person.set_address_l2(row[8].lower())
+                temp_person.merge_addresses()
                 temp_person.set_city(row[9].lower())
                 temp_person.set_precinct(row[24].lower())
                 temp_person.set_dob(row[21].lower())
@@ -73,54 +74,34 @@ class County:
         name = name.lower()
         address = address.lower()
         #correction for 3 spaces in address from data
-        address_arr = address.split(" ", 1)
-        if self.countycode == "ALA":
-            number = address_arr[0] + "  "
-        else:
-            number = address_arr[0] + "   "
-        address = number + address_arr[1] + " "
+        address = address.replace(' ', '')
+        address = address.replace(',', '')
         start_time = time.time()
         #check if voter exists
         if self.people_dict.get(name, False) == False:
              print("Error: Voter not found")
              time_taken = time.time() - start_time
-             print("Search took " + str(time_taken) + " seconds for the HashMap")
+             print("Search took " + str(time_taken) + " seconds for the Hashmap")
              return -1
         #voter's name is in the map    
         else:
             for person in self.people_dict[name]:
-                #check for if they don't have a second line in their address
-                #this caused a bug at first with the extra space
-                if(person.address_l2 == " "):
-                    if (person.address_l1) == address:
-                        #check to see if birthday is right
-                        time_taken = time.time()- start_time
-                        print(person.dob)
-                        #input time is tracked to correct the search time to not include how long it took to get user input
-                        input_time_first = time.time()
-                        correct = input("Is this your date of birth? y/n ")
-                        input_time = time.time() - input_time_first
-                        if(correct == "y"):
-                            print("Voter found.")
-                            print("Search took " + str(time_taken) + " seconds for the HashMap")
-                            return person
-                else:
-                    total_address = str(person.address_l1 + person.address_l2 + " ")
-                    if (total_address) == address:
-                        time_taken = time.time()- start_time
-                        print(person.dob)
-                        #input time is tracked to correct the search time to not include how long it took to get user input
-                        input_time_first = time.time()
-                        correct = input("Is this your date of birth? y/n ")
-                        input_time = time.time() - input_time_first
-                        if(correct == "y"):
-                            print("Voter found.")
-                            print("Search took " + str(time_taken) + " seconds for the HashMap")
-                            return person
+                if (person.address) == address:
+                    #check to see if birthday is right
+                    time_taken = time.time()- start_time
+                    print(person.dob)
+                    #input time is tracked to correct the search time to not include how long it took to get user input
+                    input_time_first = time.time()
+                    correct = input("Is this your date of birth? y/n ")
+                    input_time = time.time() - input_time_first
+                    if(correct == "y"):
+                        print("Voter found.")
+                        print("Search took " + str(time_taken) + " seconds for the Hashmap")
+                        return person
         #voter name found but no matching address
         print("Error: Voter not found")
         time_taken = time.time() - start_time - input_time
-        print("Search took " + str(time_taken) + " seconds for the HashMap")
+        print("Search took " + str(time_taken) + " seconds for the Hashmap")
         return -1
     
     #same method but for the sorted dictionary
@@ -129,12 +110,8 @@ class County:
         name = name.lower()
         address = address.lower()
         #correction for 3 spaces in address from data
-        address_arr = address.split(" ", 1)
-        if self.countycode == "ALA":
-            number = address_arr[0] + "  "
-        else:
-            number = address_arr[0] + "   "
-        address = number + address_arr[1] + " "
+        address = address.replace(' ', '')
+        address = address.replace(',', '')
         start_time = time.time()
         #check if voter exists
         if self.people_sorted_dict.get(name, False) == False:
@@ -145,34 +122,18 @@ class County:
         #voter's name is in the map    
         else:
             for person in self.people_sorted_dict[name]:
-                #check for if they don't have a second line in their address
-                #this caused a bug at first with the extra space
-                if(person.address_l2 == " "):
-                    if (person.address_l1) == address:
-                        #check to see if birthday is right
-                        time_taken = time.time()- start_time
-                        print(person.dob)
-                        #input time is tracked to correct the search time to not include how long it took to get user input
-                        input_time_first = time.time()
-                        correct = input("Is this your date of birth? y/n ")
-                        input_time = time.time() - input_time_first
-                        if(correct == "y"):
-                            print("Voter found.")
-                            print("Search took " + str(time_taken) + " seconds for the tree based Map")
-                            return person
-                else:
-                    total_address = str(person.address_l1 + person.address_l2 + " ")
-                    if (total_address) == address:
-                        time_taken = time.time()- start_time
-                        print(person.dob)
-                        #input time is tracked to correct the search time to not include how long it took to get user input
-                        input_time_first = time.time()
-                        correct = input("Is this your date of birth? y/n ")
-                        input_time = time.time() - input_time_first
-                        if(correct == "y"):
-                            print("Voter found.")
-                            print("Search took " + str(time_taken) + " seconds for the tree based Map")
-                            return person
+                if (person.address) == address:
+                    #check to see if birthday is right
+                    time_taken = time.time()- start_time
+                    print(person.dob)
+                    #input time is tracked to correct the search time to not include how long it took to get user input
+                    input_time_first = time.time()
+                    correct = input("Is this your date of birth? y/n ")
+                    input_time = time.time() - input_time_first
+                    if(correct == "y"):
+                        print("Voter found.")
+                        print("Search took " + str(time_taken) + " seconds for the tree based Map")
+                        return person
         #voter name found but no matching address
         print("Error: Voter not found")
         time_taken = time.time() - start_time - input_time

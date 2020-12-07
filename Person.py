@@ -6,6 +6,7 @@ class Person:
         self.last_name = last_name
         self.middle_name = ""
         self.suffix = ""
+        self.address = ""
         self.address_l1 = ""
         self.address_l2 = ""
         self.city = ""
@@ -44,5 +45,8 @@ class Person:
 
     def set_active(self, active):
         self.active = active
+
+    def merge_addresses(self):
+        self.address = self.address_l1.replace(' ', '') + self.address_l2.replace(' ', '')
 
 
