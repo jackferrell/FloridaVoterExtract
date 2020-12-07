@@ -13,7 +13,7 @@ class County:
         self.genders = { "M": 0, "F": 0, "U": 0}
         self.total_voters = 0
         self.active_voters = 0
-        self.race_percentages = { "1": 0.0, "2": 0.0, "3": 0.0, "4": 0.0, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0, "9": 0.0}
+        self.race_percentages = { "1": 0.0, "2": 0.0, "3": 0.0, "4": 0.0, "5": 0.0, "6": 0.0, "7": 0.0, "9": 0.0}
         self.gender_percentages = { "M": 0.0, "F": 0.0, "U": 0.0}
         self.party_percentages = { "CPF": 0.0, "DEM": 0.0, "ECO": 0.0, "GRE": 0.0, "IND": 0.0, "LPF": 0.0, "NPA": 0.0, "PSL": 0.0, "REF": 0.0, "REP": 0.0}
         self.people_dict = {}
@@ -143,37 +143,18 @@ class County:
     #This is not fantastic code (it is repetitive), but it is the simple percentage calculations of the number of different races and parties in the county
     #It also calls a similar function on each of the parties associated with the county
     def process_data(self):
-        self.race_percentages["1"] = float(self.races["1"]) / float(self.total_voters) * 100
-        self.race_percentages["2"] = float(self.races["2"]) / float(self.total_voters) * 100
-        self.race_percentages["3"] = float(self.races["3"]) / float(self.total_voters) * 100
-        self.race_percentages["4"] = float(self.races["4"]) / float(self.total_voters) * 100
-        self.race_percentages["5"] = float(self.races["5"]) / float(self.total_voters) * 100
-        self.race_percentages["6"] = float(self.races["6"]) / float(self.total_voters) * 100
-        self.race_percentages["7"] = float(self.races["7"]) / float(self.total_voters) * 100
-        self.race_percentages["9"] = float(self.races["9"]) / float(self.total_voters) * 100
-        self.gender_percentages["M"] = float(self.genders["M"]) / float(self.total_voters) * 100
-        self.gender_percentages["F"] = float(self.genders["F"]) / float(self.total_voters) * 100
-        self.gender_percentages["U"] = float(self.genders["U"]) / float(self.total_voters) * 100
-        self.party_percentages["CPF"] = float(self.party_affiliations["CPF"].num_voters) / float(self.total_voters) * 100
-        self.party_percentages["DEM"] = float(self.party_affiliations["DEM"].num_voters) / float(self.total_voters) * 100
-        self.party_percentages["ECO"] = float(self.party_affiliations["ECO"].num_voters) / float(self.total_voters) * 100
-        self.party_percentages["GRE"] = float(self.party_affiliations["GRE"].num_voters) / float(self.total_voters) * 100
-        self.party_percentages["IND"] = float(self.party_affiliations["IND"].num_voters) / float(self.total_voters) * 100
-        self.party_percentages["LPF"] = float(self.party_affiliations["LPF"].num_voters) / float(self.total_voters) * 100
-        self.party_percentages["NPA"] = float(self.party_affiliations["NPA"].num_voters) / float(self.total_voters) * 100
-        self.party_percentages["PSL"] = float(self.party_affiliations["PSL"].num_voters) / float(self.total_voters) * 100
-        self.party_percentages["REF"] = float(self.party_affiliations["REF"].num_voters) / float(self.total_voters) * 100
-        self.party_percentages["REP"] = float(self.party_affiliations["REP"].num_voters) / float(self.total_voters) * 100
-        self.party_affiliations["CPF"].process_data()
-        self.party_affiliations["DEM"].process_data()
-        self.party_affiliations["ECO"].process_data()
-        self.party_affiliations["GRE"].process_data()
-        self.party_affiliations["IND"].process_data()
-        self.party_affiliations["LPF"].process_data()
-        self.party_affiliations["NPA"].process_data()
-        self.party_affiliations["PSL"].process_data()
-        self.party_affiliations["REF"].process_data()
-        self.party_affiliations["REP"].process_data()
+        #calculate race percentage in this county
+        for key in self.race_percentages:
+            self.race_percentages[key] = float(self.races[key]) / float(self.total_voters) * 100
+        #calculate gender percentage in this county
+        for key in self.gender_percentages:
+            self.gender_percentages[key] = float(self.genders[key]) / float(self.total_voters) * 100
+        #calculate party percentages in this county
+        for key in self.party_percentages:
+            self.party_percentages[key] = float(self.party_affiliations[key].num_voters) / float(self.total_voters) * 100
+        #calculate the data for each party
+        for key in self.party_affiliations:
+            self.party_affiliations[key].process_data()
 
     #This method just takes the format from the .txt and hard codes the prints
     def display(self):
