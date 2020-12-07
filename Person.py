@@ -12,6 +12,8 @@ class Person:
         self.precinct = ""
         self.dob = ""
         self.zipcode = ""
+        self.county = ""
+        self.active = False
 
     def set_middle_name(self, middle_name):
         self.middle_name = middle_name
@@ -36,5 +38,11 @@ class Person:
 
     def set_zipcode(self, zipcode):
         self.zipcode = zipcode
+
+    def set_county(self, county):
+        self.county = county
+
+    def set_active(self, active):
+        self.active = active
 
 

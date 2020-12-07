@@ -1,11 +1,12 @@
 import csv
 import time
-import bintrees as tree
+import sortedcontainers as smp
 from Party import Party
 from Person import Person
 class County:
     def __init__(self, file_name):
         #Most of the keys here are hard coded, taken straight from the document about which number represents which race, and what the party codes are
+        self.countycode = file_name
         self.file_name = file_name + "_20201027.txt"
         self.races = { "1": 0, "2": 0, "3": 0, "4": 0, "5": 0, "6": 0, "7": 0, "9": 0}
         self.party_affiliations = { "CPF": Party(), "DEM": Party(), "ECO": Party(), "GRE": Party(), "IND": Party(), "LPF": Party(), "NPA": Party(), "PSL": Party(), "REF": Party(), "REP": Party()}
@@ -16,7 +17,7 @@ class County:
         self.gender_percentages = { "M": 0.0, "F": 0.0, "U": 0.0}
         self.party_percentages = { "CPF": 0.0, "DEM": 0.0, "ECO": 0.0, "GRE": 0.0, "IND": 0.0, "LPF": 0.0, "NPA": 0.0, "PSL": 0.0, "REF": 0.0, "REP": 0.0}
         self.people_dict = {}
-        self.people_sorted_tree = tree.RBTree()
+        self.people_sorted_dict = smp.SortedDict()
 
     #loads number of people associated with parties and races, also counts number of total voters and active voters
     def load_data(self):
@@ -51,20 +52,25 @@ class County:
                 temp_person.set_precinct(row[24].lower())
                 temp_person.set_dob(row[21].lower())
                 temp_person.set_zipcode(row[11])
+                temp_person.set_county(self.countycode)
+                if row[28] == "ACT":
+                    temp_person.set_active(True)
+                else:
+                    temp_person.set_active(False)
                 if self.people_dict.get(name, False) == False:
                     self.people_dict[name] = []
                 self.people_dict[name].append(temp_person)
-                self.people_sorted_tree.set_default(name, [])
-                self.people_sorted_tree.__getitem__(name).append(temp_person)
+                self.people_sorted_dict.setdefault(name, [])
+                self.people_sorted_dict[name].append(temp_person)
     
 
     #this is assuming name is "<First Name>" + " " + "<Last Name>"
     #Address is also assumed to be "<line 1>" + " " + "<line 2>"
     #returns precinct number
     #returns -1 if not found
-    def search_people_regular(self, name, suffix, address):
+    def search_people_regular(self, name,  address):
+        input_time = 0
         name = name.lower()
-        suffix = suffix.lower()
         address = address.lower()
         #correction for 3 spaces in address from data
         address_arr = address.split(" ", 1)
@@ -87,27 +93,37 @@ class County:
                         #check to see if birthday is right
                         time_taken = time.time()- start_time
                         print(person.dob)
+                        #input time is tracked to correct the search time to not include how long it took to get user input
+                        input_time_first = time.time()
                         correct = input("Is this your date of birth? y/n ")
+                        input_time = time.time() - input_time_first
                         if(correct == "y"):
                             print("Voter found.")
                             print("Search took " + str(time_taken) + " seconds for the HashMap")
-                            return person.precinct
-                else:    
-                    if (person.address_l1 + person.address_l2) == address:
-                        print("Voter found.")
-                        time_taken = time.time() - start_time
-                        print("Search took " + str(time_taken) + " seconds for the HashMap")
-                        return person.precinct
+                            return person
+                else:
+                    total_address = str(person.address_l1 + person.address_l2 + " ")
+                    if (total_address) == address:
+                        time_taken = time.time()- start_time
+                        print(person.dob)
+                        #input time is tracked to correct the search time to not include how long it took to get user input
+                        input_time_first = time.time()
+                        correct = input("Is this your date of birth? y/n ")
+                        input_time = time.time() - input_time_first
+                        if(correct == "y"):
+                            print("Voter found.")
+                            print("Search took " + str(time_taken) + " seconds for the HashMap")
+                            return person
         #voter name found but no matching address
         print("Error: Voter not found")
-        time_taken = time.time() - start_time
+        time_taken = time.time() - start_time - input_time
         print("Search took " + str(time_taken) + " seconds for the HashMap")
         return -1
     
     #same method but for the sorted dictionary
-    def search_people_sorted(self, name, suffix, address):
+    def search_people_sorted(self, name, address):
+        input_time = 0
         name = name.lower()
-        suffix = suffix.lower()
         address = address.lower()
         #correction for 3 spaces in address from data
         address_arr = address.split(" ", 1)
@@ -115,36 +131,46 @@ class County:
         address = number + address_arr[1] + " "
         start_time = time.time()
         #check if voter exists
-        if self.people_sorted_tree.__contains__(name) == False:
+        if self.people_sorted_dict.get(name, False) == False:
              print("Error: Voter not found")
              time_taken = time.time() - start_time
-             print("Search took " + str(time_taken) + " seconds for the RBTree")
+             print("Search took " + str(time_taken) + " seconds for the tree based Map")
              return -1
         #voter's name is in the map    
         else:
-            for person in self.people_sorted_tree.get(name):
+            for person in self.people_sorted_dict[name]:
                 #check for if they don't have a second line in their address
                 #this caused a bug at first with the extra space
                 if(person.address_l2 == " "):
                     if (person.address_l1) == address:
                         #check to see if birthday is right
-                        time_taken = time.time() - start_time
+                        time_taken = time.time()- start_time
                         print(person.dob)
+                        #input time is tracked to correct the search time to not include how long it took to get user input
+                        input_time_first = time.time()
                         correct = input("Is this your date of birth? y/n ")
+                        input_time = time.time() - input_time_first
                         if(correct == "y"):
                             print("Voter found.")
-                            print("Search took " + str(time_taken) + " seconds for the RBTree")
-                            return person.precinct
-                else:    
-                    if (person.address_l1 + person.address_l2) == address:
-                        print("Voter found.")
-                        time_taken = time.time() - start_time
-                        print("Search took " + str(time_taken) + " seconds for the RBTree")
-                        return person.precinct
+                            print("Search took " + str(time_taken) + " seconds for the tree based Map")
+                            return person
+                else:
+                    total_address = str(person.address_l1 + person.address_l2 + " ")
+                    if (total_address) == address:
+                        time_taken = time.time()- start_time
+                        print(person.dob)
+                        #input time is tracked to correct the search time to not include how long it took to get user input
+                        input_time_first = time.time()
+                        correct = input("Is this your date of birth? y/n ")
+                        input_time = time.time() - input_time_first
+                        if(correct == "y"):
+                            print("Voter found.")
+                            print("Search took " + str(time_taken) + " seconds for the tree based Map")
+                            return person
         #voter name found but no matching address
         print("Error: Voter not found")
-        time_taken = time.time() - start_time
-        print("Search took " + str(time_taken) + " seconds for the RBTree")
+        time_taken = time.time() - start_time - input_time
+        print("Search took " + str(time_taken) + " seconds for the tree based Map")
         return -1
         
     #This is not fantastic code (it is repetitive), but it is the simple percentage calculations of the number of different races and parties in the county
@@ -213,6 +239,7 @@ class County:
 
     def create_file(self):
         f = open("statistics.txt", "a")
+        f.write(str(self.countycode) + "\t")
         f.write("Number of Voters: " + str(self.total_voters) + "\t")
         f.write("Number of Active Voters: " + str(self.active_voters) + "\t")
         f.write("American Indian or Alaskan Native: " + str("{:.2f}".format(self.race_percentages["1"])) + "%" + "\t")
