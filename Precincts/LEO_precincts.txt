@@ -1,0 +1,156 @@
+1201	1203	John Wesley United Methodist Church	1689 Old Saint Augustine Rd	Tallahassee, FL 32301	
+1205	Optimist Park	1806 Indianhead Dr E	Tallahassee, FL 32301	
+1213	1230	Optimist Park	1806 Indianhead Dr E	Tallahassee, FL 32301	
+1231	1251	Jack L. McLean Center	700 Paul Russell Rd	Tallahassee, FL 32301	
+1255	Faith Christian Family Center	310 Laura Lee Ave	Tallahassee, FL 32301	
+1257	Woodville Community Center	8000 Old Woodville Rd	Tallahassee, FL 32305	
+1258	Faith Christian Family Center	310 Laura Lee Ave	Tallahassee, FL 32301	
+1259	Southwood Community Center	4675 Grove Park Dr	Tallahassee, FL 32311	
+1301	Tallahassee Urban League	923 Old Bainbridge Rd	Tallahassee, FL 32303-6097	
+1302	Lincoln Neighborhood Center	438 W Brevard St	Tallahassee, FL 32301	
+1303	Palmer Munroe Teen Center	1900 Jackson Bluff Rd	Tallahassee, FL 32304	
+1304	1309	FAMU Student Union Multi-Purpose Room D	1628 S Martin Luther King Jr. Blvd	Tallahassee, FL 32307	
+1311	Bethel AME Church	501 Orange Ave W	Tallahassee, FL 32310	
+1313	Smith-Williams Service Center	2295 Pasco St	Tallahassee, FL 32310	
+1314	FSU Tucker Center (East Entrance)	505 W Pensacola St	Tallahassee, FL 32301	
+1315	Jacob Chapel Baptist Church	2333 Lake Bradford Rd	Tallahassee, FL 32310	
+1317	Jake Gaither Community Center	801 Tanner Dr	Tallahassee, FL 32305	
+1319	Bethel AME Church	501 Orange Ave W	Tallahassee, FL 32310	
+1321	Jack L. McLean Center	700 Paul Russell Rd	Tallahassee, FL 32301	
+1327	Southwood Baptist Church	5177 Capital Circle SW	Tallahassee, FL 32305	
+1351	Jacob Chapel Baptist Church	2333 Lake Bradford Rd	Tallahassee, FL 32310	
+1353	Jacob Chapel Baptist Church	2333 Lake Bradford Rd	Tallahassee, FL 32310	
+1355	Southwood Baptist Church	5177 Capital Circle SW	Tallahassee, FL 32305	
+1359	Southwood Baptist Church	5177 Capital Circle SW	Tallahassee, FL 32305	
+1361	Woodville Community Center	8000 Old Woodville Rd	Tallahassee, FL 32305	
+1362	Woodville Community Center	8000 Old Woodville Rd	Tallahassee, FL 32305	
+1501	Family Worship and Praise Center	1609 Branch St	Tallahassee, FL 32303	
+1502	Family Worship and Praise Center	1609 Branch St	Tallahassee, FL 32303	
+1503	Lawrence-Gregory Community Center	1115 Dade St	Tallahassee, FL 32304	
+1505	Springfield Community Center	1702 Joe Louis St	Tallahassee, FL 32304	
+1507	FSU Tucker Center (East Entrance)	505 W Pensacola St	Tallahassee, FL 32301	
+2251	Woodville Community Center	8000 Old Woodville Rd	Tallahassee, FL 32305	
+2252	Woodville Community Center	8000 Old Woodville Rd	Tallahassee, FL 32305	
+2253	Woodville Community Center	8000 Old Woodville Rd	Tallahassee, FL 32305	
+2303	Saint City Ministries	1415 Daniels St	Tallahassee, FL 32310	
+2305	Aquilina Howell Conference Center	3955 W Pensacola St	Tallahassee, FL 32304-2837	
+2306	Calvary the Cornerstone M.B. Church	1915 Dale St	Tallahassee, FL 32310	
+2307	Crossway Baptist Church	405 Crossway Rd	Tallahassee, FL 32305	
+2355	Jacob Chapel Baptist Church	2333 Lake Bradford Rd	Tallahassee, FL 32310	
+2358	Aquilina Howell Conference Center	3955 W Pensacola St	Tallahassee, FL 32304-2837	
+2359	Bethel Methodist Church	1470 Bethel Church Rd	Tallahassee, FL 32304	
+2363	Crossway Baptist Church	405 Crossway Rd	Tallahassee, FL 32305	
+2365	Fort Braden Community Center	16387 Blountstown Hwy	Tallahassee, FL 32310	
+2366	Crossway Baptist Church	405 Crossway Rd	Tallahassee, FL 32305	
+2380	Generations Church	3080 W Tennessee St	Tallahassee, FL 32304	
+2401	Moose Lodge	1478 Capital Cir NW	Tallahassee, FL 32303	
+2451	Bethel Methodist Church	1470 Bethel Church Rd	Tallahassee, FL 32304	
+2502	Palmer Munroe Teen Center	1900 Jackson Bluff Rd	Tallahassee, FL 32304	
+2503	FSU Tucker Center (East Entrance)	505 W Pensacola St	Tallahassee, FL 32301	
+2504	Palmer Munroe Teen Center	1900 Jackson Bluff Rd	Tallahassee, FL 32304	
+2506	Palmer Munroe Teen Center	1900 Jackson Bluff Rd	Tallahassee, FL 32304	
+2507	Truth Gatherers Dream Center	1317 High Rd	Tallahassee, FL 32304	
+2509	ALARM International Ministries	2532 W Tharpe St	Tallahassee, FL 32303-3308	
+2511	Generations Church	3080 W Tennessee St	Tallahassee, FL 32304	
+2513	Moose Lodge	1478 Capital Cir NW	Tallahassee, FL 32303	
+3101	Freedom Church 1st Assembly of God	2801 Thomasville Rd	Tallahassee, FL 32312	
+3103	Thomasville Road Baptist Church	3131 Thomasville Rd	Tallahassee, FL 32308	
+3104	Thomasville Road Baptist Church	3131 Thomasville Rd	Tallahassee, FL 32308	
+3107	Thomasville Road Baptist Church	3131 Thomasville Rd	Tallahassee, FL 32308	
+3109	Immanuel Baptist Church	2351 Mahan Dr	Tallahassee, FL 32308	
+3110	Immanuel Baptist Church	2351 Mahan Dr	Tallahassee, FL 32308	
+3401	Freedom Church 1st Assembly of God	2801 Thomasville Rd	Tallahassee, FL 32312	
+3402	3403	The Episcopal Church of the Advent	815 Piedmont Dr	Tallahassee, FL 32312	
+3405	Freedom Church 1st Assembly of God	2801 Thomasville Rd	Tallahassee, FL 32312	
+3409	Gray Memorial United Methodist Church	2201 Old Bainbridge Rd	Tallahassee, FL 32303	
+3411	Lake Jackson Community Center	3840 N Monroe St	Tallahassee, FL 32303	
+3412	Lake Jackson Community Center	3840 N Monroe St	Tallahassee, FL 32303	
+3413	Wildwood Presbyterian Church	100 Ox Bottom Rd	Tallahassee, FL 32312	
+3414	Wildwood Presbyterian Church	100 Ox Bottom Rd	Tallahassee, FL 32312	
+3451	Freedom Church 1st Assembly of God	2801 Thomasville Rd	Tallahassee, FL 32312	
+3453	Salvation Army	2410 Allen Rd	Tallahassee, FL 32312-2603	
+3455	Unitarian Universalist Church	2810 N Meridian Rd	Tallahassee, FL 32312	
+3457	Fellowship Baptist Church	3705 N Monroe St	Tallahassee, FL 32303	
+3459	Fellowship Baptist Church	3705 N Monroe St	Tallahassee, FL 32303	
+3461	Lake Jackson Community Center	3840 N Monroe St	Tallahassee, FL 32303	
+3467	St. Louis Catholic Church	3640 Fred George Rd	Tallahassee, FL 32303	
+3468	Seminole Baptist Church	3330 Mission Rd	Tallahassee, FL 32303	
+3469	Northwoods Baptist Church	3762 Capital Circle NW	Tallahassee, FL 32303	
+3473	Friendship AME Church	5975 Old Bainbridge Rd	Tallahassee, FL 32303	
+3475	Wildwood Presbyterian Church	100 Ox Bottom Rd	Tallahassee, FL 32312	
+3477	Bethelonia AME Church	8997 N Meridian Rd	Tallahassee, FL 32312	
+3501	Faith Presbyterian Church	2200 N Meridian Rd	Tallahassee, FL 32303	
+3502	Salvation Army	2410 Allen Rd	Tallahassee, FL 32312-2603	
+3507	Gray Memorial United Methodist Church	2201 Old Bainbridge Rd	Tallahassee, FL 32303	
+3509	Marzuq Shrine Center	1805 N Monroe St	Tallahassee, FL 32303	
+3513	Seminole Baptist Church	3330 Mission Rd	Tallahassee, FL 32303	
+3551	Salvation Army	2410 Allen Rd	Tallahassee, FL 32312-2603	
+4101	Premier Health & Fitness Center	3521 Maclay Blvd	Tallahassee, FL 32312	
+4103	Fellowship Presbyterian Church	3158 Shamrock S	Tallahassee, FL 32309	
+4105	St. Peters Prim. Bap. Church	2565 Centerville Rd	Tallahassee, FL 32308	
+4106	St. Peters Prim. Bap. Church	2565 Centerville Rd	Tallahassee, FL 32308	
+4107	St. Peters Prim. Bap. Church	2565 Centerville Rd	Tallahassee, FL 32308	
+4109	St. Peters Prim. Bap. Church	2565 Centerville Rd	Tallahassee, FL 32308	
+4111	4115	4119	Good Shepherd Catholic Church	4665 Thomasville Rd	Tallahssee, FL 32309	
+4125	Celebration Baptist Church	3300 Shamrock St E	Tallahassee, FL 32309	
+4152	Grace Lutheran Church	2919 Miccosukee Rd	Tallahassee, FL 32308	
+4153	Tallahassee Heights United Methodist Church	3004 Mahan Dr	Tallahassee, FL 32308	
+4154	Tallahassee Heights United Methodist Church	3004 Mahan Dr	Tallahassee, FL 32308	
+4155	Westminster Oaks	1221 Commencement Cove	Tallahassee, FL 32308	
+4157	Lighthouse Childrens Home	7771 Mahan Dr	Tallahassee, FL 32309	
+4159	Miccosukee Community Center	13887 Moccasin Gap Rd	Tallahassee, FL 32309	
+4161	The Retreat at Bradleys Pond	9002 Bradley Rd	Tallahassee, FL 32309	
+4162	Calvary Chapel	8614 Mahan Dr	Tallahassee, FL 32309	
+4163	Fellowship Presbyterian Church	3158 Shamrock S	Tallahassee, FL 32309	
+4167	Four Oaks Community Church	4500 W Shannon Lakes Dr	Tallahassee, FL 32309-2285	
+4168	Four Oaks Community Church	4500 W Shannon Lakes Dr	Tallahassee, FL 32309-2285	
+4173	Indian Springs Baptist Church	5593 Veterans Memorial Dr	Tallahassee, FL 32309	
+4184	St. Peters Prim. Bap. Church	2565 Centerville Rd	Tallahassee, FL 32308	
+4401	Premier Health & Fitness Center	3521 Maclay Blvd	Tallahassee, FL 32312	
+4403	Good Shepherd Catholic Church	4665 Thomasville Rd	Tallahssee, FL 32309	
+4405	Wildwood Presbyterian Church	100 Ox Bottom Rd	Tallahassee, FL 32312	
+4408	Summerbrooke Golf Club	7505 Preservation Rd	Tallahassee, FL 32312	
+4451	Unitarian Universalist Church	2810 N Meridian Rd	Tallahassee, FL 32312	
+4453	FL Association of Court Clerks	3544 Maclay Blvd	Tallahassee, FL 32312	
+4455	Christ Presbyterian Church	2317 Bannerman Rd	Tallahassee, FL 32312	
+4456	Christ Presbyterian Church	2317 Bannerman Rd	Tallahassee, FL 32312	
+4457	Canopy Roads Baptist Church	925 Bannerman Rd	Tallahassee, FL 32312	
+4458	Canopy Roads Baptist Church	925 Bannerman Rd	Tallahassee, FL 32312	
+4459	Epiphany Lutheran Church	8300 Deerlake Rd	Tallahassee, FL 32312	
+4461	Deer Lake United Methodist	8013 Deerlake Rd S	Tallahassee, FL 32312	
+5101	Westminster Gardens	301 E Carolina St	Tallahassee, FL 32301	
+5103	Tallahassee Elks Lodge	276 N Magnolia Dr	Tallahassee, FL 32301	
+5105	Sue H. McCollum Community Center	501 Ingleside Ave	Tallahassee, FL 32303	
+5107	St. Stephens Lutheran Church	2198 N Meridian Rd	Tallahassee, FL 32303	
+5110	United Church of Tallahassee	1834 Mahan Dr	Tallahassee, FL 32308	
+5113	5115	Grace Lutheran Church	2919 Miccosukee Rd	Tallahassee, FL 32308	
+5153	Calvary Chapel	8614 Mahan Dr	Tallahassee, FL 32309	
+5154	Lighthouse Childrens Home	7771 Mahan Dr	Tallahassee, FL 32309	
+5165	Grace Lutheran Church	2919 Miccosukee Rd	Tallahassee, FL 32308	
+5201	Parks & Recreation Dept.	1201 Myers Park Dr	Tallahassee, FL 32301-4585	
+5203	Optimist Park	1806 Indianhead Dr E	Tallahassee, FL 32301	
+5204	Parks & Recreation Dept.	1201 Myers Park Dr	Tallahassee, FL 32301-4585	
+5205	John Wesley United Methodist Church	1689 Old Saint Augustine Rd	Tallahassee, FL 32301	
+5207	Jackson Lodge	2818 Apalachee Pkwy	Tallahassee, FL 32301	
+5209	Tallahassee Elks Lodge	276 N Magnolia Dr	Tallahassee, FL 32301	
+5211	Towne East Baptist Church	1055 Richview Rd	Tallahassee, FL 32301	
+5212	Capital City Christian Church	6115 Mahan Dr	Tallahassee, FL 32308	
+5214	First Church of the Nazarene	1983 Mahan Dr	Tallahassee, FL 32308	
+5219	Life Point Church	1224 Pedrick Rd	Tallahassee, FL 32317	
+5220	Piney Z Plantation Lodge	950 Piney Z Plantation Rd	Tallahassee, FL 32311	
+5221	Dept. of Agriculture Complex	3125 Conner Blvd	Tallahassee, FL 32311	
+5223	Gospel Light Church	3415 Apalachee Pkwy	Tallahassee, FL 32311	
+5224	Gospel Light Church	3415 Apalachee Pkwy	Tallahassee, FL 32311	
+5225	Southwood Community Center	4675 Grove Park Dr	Tallahassee, FL 32311	
+5227	Tallahassee Heights United Methodist Church	3004 Mahan Dr	Tallahassee, FL 32308	
+5228	Life Point Church	1224 Pedrick Rd	Tallahassee, FL 32317	
+5251	Morningside Baptist Church	1560 Pedrick Rd	Tallahassee, FL 32317	
+5252	Morningside Baptist Church	1560 Pedrick Rd	Tallahassee, FL 32317	
+5258	Gospel Light Church	3415 Apalachee Pkwy	Tallahassee, FL 32311	
+5260	Woodrun Baptist Church	8203 Apalachee Pkwy	Tallahassee, FL 32311	
+5261	Celebrate New Life Church	3050 Agape Ln	Tallahassee, FL 32311	
+5263	Dorothy Spence Community Center	4768 Chaires Cross Rd	Tallahassee, FL 32317	
+5264	Dorothy Spence Community Center	4768 Chaires Cross Rd	Tallahassee, FL 32317	
+5265	Dorothy Spence Community Center	4768 Chaires Cross Rd	Tallahassee, FL 32317	
+5284	Capital City Christian Church	6115 Mahan Dr	Tallahassee, FL 32308	
+9000	Supervisor of Elections Office	2990 -1 Apalachee Pkwy	Tallahassee, FL 32301	

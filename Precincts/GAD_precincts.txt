@@ -1,0 +1,25 @@
+1	Centenary United Methodist Church	206 N Madison St	Quincy, FL 32351	
+2	Havana Public Library	203 E 5th Ave	Havana, FL 32333	
+3	Concordia Baptist Church	4098 Concord Rd	Havana, FL 32333	
+4	Eugene Lamb Recreation Center	420 Palmer rd	Midway, FL 32343	
+5	Quincy Recreation Center	122 N Graves St	Quincy, FL 32351	
+6	Wetumpka Fire Dept.	25 McCall Bridge Rd	Quincy, FL 32351	
+7	Union Chapel AME Church	536 Union Chapel Rd	Quincy, FL 32351	
+8	Sycamore Methodist Church	3246 Sycamore Rd	Quincy, FL 32351	
+9	Chattahoochee Recreation Center	131 Oak St	Chattahoochee, FL 32324	
+10	Mt Pleasant Fire Dept.	2875 Mt. Pleasant Rd N	Mt. Pleasant, FL 32352	
+11	Gretna Town Hall	14615 Main St	Gretna, FL 32332	
+12	Greensboro Town Hall	150 E 11th St	Greensboro, FL 32330	
+13	FAMU Research Center	4259 Bainbridge HWY	Quincy, FL 32352	
+14	Shiloh Church	1091 Gibson Sawmill Rd	Havana, FL 32333	
+15	St. James Baptist Church	545 Scotland Rd	Havana, FL 32333	
+16	National Guard Armory	2049 Pat Thomas Pky.	Quincy, FL 32351	
+17	New Bethel A.M.E.Church	23209 Blue Star HWY	Quincy, FL 32351	
+18	St. Matthew Primitive Bapt. Church	1455 Post Plant Rd	Quincy, FL 32352	
+19	Hopewell Church (China Hill)	6578 Havana HWY	Havana, FL 32333	
+20	Assembly of God	7579 Florida Georgia HWY	Havana, FL 32333	
+21	Green Shade AME Church	8152 Salem Rd	Quincy, FL 32352	
+22	Second Elizabeth Church	2718 Attapulgus HWY	Quincy, FL 32352	
+23	New Direction Christian Center	1832 Florida Ave	Quincy, FL 32351	
+24	St. Joseph Missionary Bap. Church	2050 S Atlanta St	Quincy, FL 32351	
+25	Elizabeth A.M.E. Church	2853 Lincoln Dr	Chattahoochee, FL 32324	

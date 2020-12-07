@@ -1,0 +1,128 @@
+1	Alva Community Center	21471 North River Road	Alva, FL 33920	
+2	Bethlehem Lutheran Church	14531 Old Olga Rd	Fort Myers, FL 33905	
+3	St. Raphael's Catholic Church	2514 Lee Blvd	Lehigh Acres, FL 33971	
+4	East County Regional Library	881 Gunnery Rd N	Lehigh Acres, FL 33971	
+5	Sonshine Christian Academy	12925 Palm Beach Blvd	Fort Myers, FL 33905	
+6	Russell Park Community Center	290 Miramar Rd	Fort Myers, FL 33905	
+7	Manna Ministries	4630 Palm Beach Blvd	Fort Myers, FL 33905	
+8	Riverside Community Center	3061 E Riverside Dr	Fort Myers, FL 33916	
+9	Christ Community Church	4050 Colonial Blvd	Fort Myers, FL 33966	
+10	McGregor Baptist Church	3750 Colonial Blvd	Fort Myers, FL 33966	
+11	Lee County Elections Center	13180 S Cleveland Ave	Fort Myers, FL 33907	
+12	Cross Way Baptist Church	4481 Pine Rd	Fort Myers, FL 33908	
+13	Bonita Lions Club	10346 Pennsylvania Ave	Bonita Springs, FL 34135	
+14	Fishers Of Men Lutheran Church	10360 Stringfellow Rd	St James City, FL 33956	
+15	Pine Island United Methodist Church	5701 Pine Island Rd	Bokeelia, FL 33922	
+16	Center 4 Life	2401 Library Way	Sanibel, FL 33957	
+17	Captiva Civic Center	11550 Chapin Lane	Captiva, FL 33924	
+18	Boca Grande Community Center	131 First Street W.	Boca Grande, FL 33921	
+19	Riverside Baptist Church	8660 Daniels Pkwy	Fort Myers, FL 33912	
+20	Faith U.M.C. - Family Life Center	15690 Mc Gregor Blvd	Fort Myers, FL 33908	
+21	Our Lady Of Miraculous Medal Catholic Church	12175 Stringfellow Rd	Bokeelia, FL 33922	
+22	Bayside Estates Clubhouse	17601 San Carlos Blvd	Fort Myers Beach, FL 33931	
+23	Cinnamon Cove Clubhouse	11650 Caravel Cir	Fort Myers, FL 33908	
+24	Bonita Springs Fire Control District	27701 Bonita Grande Dr	Bonita Springs, FL 34135	
+25	Bonita Springs Ymca	27200 Kent Rd	Bonita Springs, FL 34135	
+26	World Wide Miracle Ministries	235 Suite C Joel Blv	Lehigh Acres, FL 33936	
+27	St. Columbkille Catholic Church	12171 Iona Road	Fort Myers, FL 33908	
+28	First Church Of Christ Scientist	2608 Country Club Blvd	Cape Coral, FL 33904	
+29	Cape Christian Fellowship	2110 Chiquita Blvd S	Cape Coral, FL 33991	
+30	Messiah Lutheran Church	2691 NE Pine Island Rd	Cape Coral, FL 33909	
+31	Fort Myers Event Center	1900 Park Meadows Dr	Fort Myers, FL 33907	
+32	Dr. Carrie Robinson Community Center	2990 Edison Ave	Fort Myers, FL 33916	
+33	Life Church	11735 Plantation Rd	Fort Myers, FL 33966	
+34	Karl J Drews Community Center	18412 Lee Rd	Fort Myers, FL 33967	
+35	Rotino Senior Center - South Side	5817 Driftwood Pkwy	Cape Coral, FL 33904	
+36	Gulf Coast Church Of Christ	9550 Six Mile Cypress Pkwy	Fort Myers, FL 33966	
+37	Good Shepherd United Methodist Church	2951 Trail Dairy Circ Cir	North Fort Myers, FL 33917	
+38	North Fort Myers Recreation Center	2000 N Recreation Park Way	North Fort Myers, FL 33903	
+39	Faith Assembly Of God - North Campus	7101 Bayshore Rd	North Fort Myers, FL 33917	
+40	SWFL Inc.	25071 Chamber Of Commerce Dr	Bonita Springs, FL 34135	
+41	Gospel Baptist Church	24861 Old 41 Rd	Bonita Springs, FL 34135	
+42	New Life Assembly Of God	5146 Leonard Blvd S	Lehigh Acres, FL 33973	
+43	Lee County Elections Bonita Springs Branch Office	25987 S Tamiami Trl	Bonita Springs, FL 34134	
+44	Hope Lutheran Church	25999 Old 41 Rd	Bonita Sprins, FL 34135	
+45	Iglesia Peniel	12800 Orange River Blvd	Fort Myers, FL 33905	
+46	St. Hilary's Episcopal Church	5011 Mc Gregor Blvd	Fort Myers, FL 33901	
+47	Boy Scout Conference Center	1801 Boy Scout Dr	Fort Myers, FL 33907	
+48	First Christian Church - F.M.	2061 McGregor Blvd	Fort Myers, FL 33901	
+49	St. Leo Catholic Church-Parish Life Center	28388 Beaumont Rd	Bonita Springs, FL 34134	
+50	Lehigh Acres Mun Svcs Imp District	601 East County Lane	Lehigh Acres, FL 33936	
+51	Knights Of Columbus	1250 Business Way	Lehigh Acres, FL 33936	
+52	Christ United Methodist Church	1430 Homestead Rd N	Lehigh Acres, FL 33936	
+53	Faith Lutheran Church	705 Leeland Heights Blvd E	Lehigh Acres, FL 33936	
+54	Buckingham Presbyterian Church	4241 Buckingham Rd	Fort Myers, FL 33905	
+55	Grace Baptist Church	1300 Ceitus Ter	Cape Coral, FL 33991	
+56	Crosspoint Christian Church	204 SW 11Th Pl	Cape Coral, FL 33991	
+57	Rotary Park Environmental Center	5505 Rose Garden Rd	Cape Coral, FL 33914	
+58	Veterans Park Recreation Center	55 Homestead Rd S	Lehigh Acres, FL 33936	
+59	Fort Myers Cong. U.C.C.	8210 College Pkwy	Fort Myers, FL 33919	
+60	Estero Recreation Center	9200 Corkscrew Palms Blvd	Estero, FL 33928	
+61	Bonita Springs Old Recreation Center	26740 Pine Ave	Bonita Springs, FL 34135	
+62	Our Lady Of Light	19680 Cypress View Dr	Fort Myers, FL 33967	
+63	North Fort Myers Public Library	2001 N Tamiami Trl	North Fort Myers, FL 33903	
+64	International House of Worship Church of God	940 Pondella Rd	North Fort Myers, FL 33903	
+65	Herons Glen Golf And Country Club	2250 Herons Glen Pkwy	North Fort Myers, FL 33917	
+66	Summit Church	19601 Ben Hill Griffin Pkwy	Fort Myers, FL 33913	
+67	Lee Civic Center Whaley Hall	11831 Bayshore Rd	North Fort Myers, FL 33917	
+68	North Fort Myers Church Of The Nazarene	6781 Bayshore Rd	N Fort Myers, FL 33917	
+69	Estero Recreation Center	9200 Corkscrew Palms Blvd	Estero, FL 33928	
+70	Wa-Ke Hatchee Recreation Center	16760 Bass Rd	Fort Myers, FL 33908	
+71	Lakes Regional Library	15290 Bass Rd	Fort Myers, FL 33919	
+72	Wa-Ke Hatchee Recreation Center	16760 Bass Rd	Fort Myers, FL 33908	
+73	Cypress Lake Presbyterian Church	8260 Cypress Lake Dr	Fort Myers, FL 33919	
+74	Winkler Road Baptist Church	5770 Winkler Rd	Fort Myers, FL 33919	
+75	Gateway Trinity Church	11381 Gateway Blvd	Fort Myers, FL 33913	
+76	Summit Church Gateway Campus	12941 Express Ct	Fort Myers, FL 33913	
+77	Faith Lutheran Church	705 Leeland Heights Blvd E	Lehigh Acres, FL 33936	
+78	Beautiful Savior Lutheran Church	215 N Richmond Ave	Lehigh Acres, FL 33936	
+79	Zion Lutheran Church	7401 Winkler Road	Fort Myers, FL 33919	
+80	St. Leo Catholic Church-Parish Life Center	28388 Beaumont Rd	Bonita Springs, FL 34134	
+81	Church Of The Ascension	6025 Estero Blvd	Fort Myers Beach, FL 33931	
+82	Chapel By The Sea	100 Chapel St	Fort Myers Beach, FL 33931	
+83	Peace Lutheran Church	15840 McGregor Blvd	Fort Myers, FL 33908	
+84	Peace Lutheran Church	15840 McGregor Blvd	Fort Myers, FL 33908	
+85	Daniels Road Baptist Church	5878 Daniels Pkwy	Fort Myers, FL 33912	
+86	Lee County Elections Center	13180 S Cleveland Ave	Fort Myers, FL 33907	
+87	Jamaica Bay	15235 S Tamiami Trail	Fort Myers, FL 33908	
+88	Unitarian Universalist Church	13411 Shire Lane	Fort Myers, FL 33912	
+89	St. Raphael's Catholic Church	2514 Lee Blvd	Lehigh Acres, FL 33971	
+90	St. Cecilia Parish Center	5632 Sunrise Drive	Fort Myers, FL 33919	
+91	Fort Myers Christian Church	5916 Winkler Road	Fort Myers, FL 33919	
+92	Waters Edge Church	2213 Country Club Blvd	Cape Coral, FL 33990	
+93	Cape Coral Alliance Church-Fellowshp Hall	4307 Skyline Blvd	Cape Coral, FL 33914	
+94	Vineyard Community Church	923 SE 47Th Ter	Cape Coral, FL 33904	
+95	Temple Beth Shalom	702 SE 24Th Ave	Cape Coral, FL 33990	
+96	Rotino Senior Center - Middle Room	5817 Driftwood Pkwy	Cape Coral, FL 33904	
+97	Vineyard Community Church	923 SE 47th Ter	Cape Coral, FL 33904	
+98	Epiphany Episcopal Church	2507 Del Prado Blvd	Cape Coral, FL 33904	
+99	First Christian Church - C.C.	2620 Country Club Blvd	Cape Coral, FL 33904	
+100	North Fort Myers Recreation Center	2000 N Recreation Park Way	North Fort Myers, FL 33903-2802	
+101	Northwest Regional Library	3601 Cape Cole Blvd	Punta Gorda, FL 33955	
+102	Seventh-Day Adventist Church	1813 El Dorado Pkwy W	Cape Coral, FL 33914	
+103	Cape Coral - Lee County Public Library	921 SW 39Th Ter	Cape Coral, FL 33914	
+104	Cape Coral Alliance Church-Sanctuary	4307 Skyline Blvd	Cape Coral, FL 33914	
+105	Hope United Methodist Church	2006 Chiquita Blvd S	Cape Coral, FL 33991	
+106	Lee County Elections Branch Office	1039 SE 9Th Ave	Cape Coral, FL 33990	
+107	St. Katharine Drexel Parish Hall	1922 SW 20Th Ave	Cape Coral, FL 33991	
+108	Lee County Elections Branch Office	1039 SE 9th Ave	Cape Coral, FL 33990	
+109	Temple Beth Shalom	702 SE 24th Ave	Cape Coral, FL 33990	
+110	Lake Kennedy Senior Center	400 Santa Barbara Blvd	Cape Coral, FL 33991	
+111	Cape Coral Church Of Christ	1010 SW 20Th Ave	Cape Coral, FL 33991	
+112	Northwest Regional Library	519 Chiquita Blvd N	Cape Coral, FL 33993	
+113	First Congregational Community Church	312 Santa Barbara Blvd	Cape Coral, FL 33991	
+114	City First Church	121 Del Prado Blvd	Cape Coral, FL 33990	
+115	Diplomat Wesleyan Church	1833 Diplomat Pkwy E	Cape Coral, FL 33909	
+116	Cape Coral Kiwanis Club	360 Santa Barbara Blvd	Cape Coral, FL 33991	
+117	Sanibel Community Church	1740 Periwinkle Way	Sanibel, FL 33957	
+118	Parkway Baptist Church - Education	6211 Briarcliff Rd	Fort Myers, FL 33912	
+119	Church Of The Cross	13500 Freshman Lane	Fort Myers, FL 33912	
+120	Park Alliance Church	7469 San Carlos Blvd	Fort Myers, FL 33967	
+121	South County Regional Library	21100 Three Oaks Pkwy	Estero, FL 33928	
+122	Estero United Methodist Church	8188 Lord's Way St	Estero, FL 33928	
+123	Ocean Church	22100 S Tamiami Trl	Estero, FL 33928	
+124	Fountain Lakes	22201 Fountain Lakes Blvd	Estero, FL 33928	
+125	Legacy Church	21115 Design Parc Ln	Estero, FL 33928	
+126	Sanibel Congreg United Church of Christ	2050 Periwinkle Way	Sanibel, FL 33957	
+127	St. Peter Evangelical Lutheran Church	3751 Estero Blvd	Fort Myers Beach, FL 33931	
+200	300	400	500	801	802	803	804	805	806	807	808	989	990	991	992	993	994	995	996	997	998	999	

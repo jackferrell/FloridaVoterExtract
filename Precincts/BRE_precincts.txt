@@ -1,0 +1,171 @@
+100	Harry T. & Harriette V. Moore Cultural Complex	2180 Freedom Ave	Mims, FL 32754	
+102	Walter Butler Community Center	4201 N Hwy 1	Cocoa, FL 32927	
+103	Life Church of Titusville	3155 South St	Titusville, FL 32780	
+104	Mims Scottsmoor Public Library	3615 Lionel Rd	Mims, FL 32754	
+105	Sandrift Community Center	585 N Singleton Ave	Titusville, FL 32796	
+106	Mims Scottsmoor Public Library	3615 Lionel Rd	Mims, FL 32754	
+107	Life Church of Titusville	3155 South St	Titusville, FL 32780	
+108	Titusville Public Library	2121 S Hopkins Ave	Titusville, FL 32780	
+109	North Brevard Senior Center	909 Lane Ave	Titusville, FL 32780	
+111	Titusville Public Library	2121 S Hopkins Ave	Titusville, FL 32780	
+112	Life Church of Titusville	3155 South St	Titusville, FL 32780	
+113	Victory Baptist Church	242 Capron Rd	Cocoa, FL 32927	
+114	San Mateo Mobile Village	5205 Sisson Rd	Titusville, FL 32780	
+115	Titusville Public Library	2121 S Hopkins Ave	Titusville, FL 32780	
+116	San Mateo Mobile Village	5205 Sisson Rd	Titusville, FL 32780	
+118	Walter Butler Community Center	4201 N Hwy 1	Cocoa, FL 32927	
+120	UF/IFAS Brevard County Extension Services	3695 Lake Dr	Cocoa, FL 32926	
+121	Travis Recreation Center	2001 Michigan Ave	Cocoa, FL 32926	
+122	Space Coast Jr/Sr High School	6150 Banyan St	Cocoa, FL 32927	
+123	Space Coast Jr/Sr High School	6150 Banyan St	Cocoa, FL 32927	
+124	Victory Baptist Church	242 Capron Rd	Cocoa, FL 32927	
+125	Space Coast Jr/Sr High School	6150 Banyan St	Cocoa, FL 32927	
+126	Harry T. & Harriette V. Moore Cultural Complex	2180 Freedom Ave	Mims, FL 32754	
+127	Victory Baptist Church	242 Capron Rd	Cocoa, FL 32927	
+128	Travis Recreation Center	2001 Michigan Ave	Cocoa, FL 32926	
+129	Walter Butler Community Center	4201 N Hwy 1	Cocoa, FL 32927	
+130	UF/IFAS Brevard County Extension Services	3695 Lake Dr	Cocoa, FL 32926	
+131	Travis Recreation Center	2001 Michigan Ave	Cocoa, FL 32926	
+132	McLarty Recreation Hall	790 Barton Blvd	Rockledge, FL 32955	
+133	Travis Recreation Center	2001 Michigan Ave	Cocoa, FL 32926	
+135	UF/IFAS Brevard County Extension Services	3695 Lake Dr	Cocoa, FL 32926	
+136	Space Coast Jr/Sr High School	6150 Banyan St	Cocoa, FL 32927	
+200	Rockledge Fire Station #1	1800 South US 1	Rockledge, FL 32955	
+201	Kiwanis Island Park Gym	950 Kiwanis Island Park RD	Merritt Island, FL 32952	
+202	Veterans Memorial Center	400 S Sykes Creek Pkwy	Merritt Island, FL 32952	
+203	Veterans Memorial Center	400 S Sykes Creek Pkwy	Merritt Island, FL 32952	
+204	Nancy Hanson Recreation Complex	7300 N Atlantic Ave	Cape Canaveral, FL 32920	
+205	Moose Lodge #2073	3150 N Courtenay Pkwy	Merritt Island, FL 32953	
+206	Kiwanis Island Park Gym	950 Kiwanis Island Park RD	Merritt Island, FL 32952	
+207	Travis Recreation Center	2001 Michigan Ave	Cocoa, FL 32926	
+208	Cocoa Beach Community Church	126 S Atlantic Ave	Cocoa Beach, FL 32931	
+209	Clearlake Education Center	1225 Clearlake Rd	Cocoa, FL 32922	
+211	McLarty Recreation Hall	790 Barton Blvd	Rockledge, FL 32955	
+212	Dr. Joe Lee Smith Community Center	415 Stone St	Cocoa, FL 32922	
+213	Dr. Joe Lee Smith Community Center	415 Stone St	Cocoa, FL 32922	
+214	Clearlake Education Center	1225 Clearlake Rd	Cocoa, FL 32922	
+215	Church of Our Saviour Social Hall	5301 N Atlantic Ave	Cocoa Beach, FL 32931	
+216	Woody Simpson Park	1590 Schoolhouse St	Merritt Island, FL 32953	
+217	Lighthouse Christian Church	1250 N Banana River Dr	Merritt Island, FL 32952	
+218	St. David's by the Sea Episcopal Church	600 S 4th St	Cocoa Beach, FL 32931	
+219	Cocoa/Rockledge Garden Club	1493 S Fiske Blvd	Rockledge, FL 32955	
+220	Cape Canaveral Public Library	201 Polk Ave	Cape Canaveral, FL 32920	
+221	Riverside Presbyterian Church Hall	3400 N Atlantic Ave	Cocoa Beach, FL 32931	
+222	St. David's by the Sea Episcopal Church	600 S 4th St	Cocoa Beach, FL 32931	
+223	Trinity Wellsprings Church	638 South Patrick Dr	Satellite Beach, FL 32937	
+224	Hope United Church of Christ	2555 S Fiske Blvd	Rockledge, FL 32955	
+225	Cape Canaveral Public Library	201 Polk Ave	Cape Canaveral, FL 32920	
+226	Cape Canaveral Public Library	201 Polk Ave	Cape Canaveral, FL 32920	
+227	Travis Recreation Center	2001 Michigan Ave	Cocoa, FL 32926	
+228	Hope United Church of Christ	2555 S Fiske Blvd	Rockledge, FL 32955	
+229	David R. Schechter Community Center	1089 South Patrick Dr	Satellite Beach, FL 32937	
+230	Walter Butler Community Center	4201 N Hwy 1	Cocoa, FL 32927	
+231	Dr. Joe Lee Smith Community Center	415 Stone St	Cocoa, FL 32922	
+233	Dr. Joe Lee Smith Community Center	415 Stone St	Cocoa, FL 32922	
+234	Clearlake Education Center	1225 Clearlake Rd	Cocoa, FL 32922	
+235	Kiwanis Island Park Gym	950 Kiwanis Island Park RD	Merritt Island, FL 32952	
+236	St. David's by the Sea Episcopal Church	600 S 4th St	Cocoa Beach, FL 32931	
+237	Rockledge Fire Station #1	1800 South US 1	Rockledge, FL 32955	
+238	McLarty Recreation Hall	790 Barton Blvd	Rockledge, FL 32955	
+239	Rockledge Fire Station #1	1800 South US 1	Rockledge, FL 32955	
+240	Kiwanis Island Park Gym	950 Kiwanis Island Park RD	Merritt Island, FL 32952	
+300	Front Street Civic Center	2205 Front St	Melbourne, FL 32901	
+301	First Baptist Church of Malabar	1665 Malabar Rd	Malabar, FL 32950	
+302	Grant Community Center	4580 1st St	Grant, FL 32949	
+303	Palm Bay (Tony Rosa) Community Center	1502 Port Malabar Blvd NE	Palm Bay, FL 32905	
+304	Barefoot Bay Building D-E	1225 Barefoot Blvd	Barefoot Bay, FL 32976	
+305	Town Hall Community Center	509 Ocean Ave	Melbourne Beach, FL 32951	
+306	Lipscomb Park Community Center	3316 Monroe St	Melbourne, FL 32901	
+307	Max K. Rodes Park Comm Center	3410 Flanagan Ave	West Melbourne, FL 32904	
+308	Church of Our Savior	1000 Jersey Ln NE	Palm Bay, FL 32905	
+309	Veterans Memorial Complex	2285 Minton Rd	West Melbourne, FL 32904	
+310	Central Baptist Church	2503 S Country Club Rd	Melbourne, FL 32901	
+311	Immaculate Conception Church	3780 S A1A	Melbourne Beach, FL 32951	
+312	Barefoot Bay Building D-E	1225 Barefoot Blvd	Barefoot Bay, FL 32976	
+313	Franklin T. De Groodt Public Library	6475 Minton Rd SE	Palm Bay, FL 32908	
+314	Palm Bay (Tony Rosa) Community Center	1502 Port Malabar Blvd NE	Palm Bay, FL 32905	
+315	Palm Bay (Tony Rosa) Community Center	1502 Port Malabar Blvd NE	Palm Bay, FL 32905	
+316	Palm Bay Fire Station #4	1200 San Filippo Dr SE	Palm Bay, FL 32909	
+317	Presbyterian Ch of Good Shepherd	810 W Florida Ave	Melbourne, FL 32901	
+318	Chapel by the Sea	8240 A1A S	Melbourne Beach, FL 32951	
+319	Palm Bay (Tony Rosa) Community Center	1502 Port Malabar Blvd NE	Palm Bay, FL 32905	
+320	EFSC Palm Bay - Community Dining Rm	250 Community College Pkwy	Palm Bay, FL 32909	
+321	Presbyterian Ch of Good Shepherd	810 W Florida Ave	Melbourne, FL 32901	
+322	Community of Christ	1901 Emerson Dr SE	Palm Bay, FL 32909	
+323	Central Baptist Church	2503 S Country Club Rd	Melbourne, FL 32901	
+324	Immaculate Conception Church	3780 S A1A	Melbourne Beach, FL 32951	
+325	Iglesia Cristiana Elohim Church	2170 Malabar Rd	Malabar, FL 32950	
+326	Iglesia Cristiana Elohim Church	2170 Malabar Rd	Malabar, FL 32950	
+327	Iglesia Cristiana Elohim Church	2170 Malabar Rd	Malabar, FL 32950	
+328	First Baptist Church of Malabar	1665 Malabar Rd	Malabar, FL 32950	
+400	St. Timothy Lutheran Church Friendship Hall	1903 Croton Rd	Melbourne, FL 32935	
+402	Wickham Park Community Center	2815 Leisure Way	Melbourne, FL 32935	
+403	Emmanuel United Methodist Church	2800 W Eau Gallie Blvd	Melbourne, FL 32935	
+404	Trinity Wellsprings Church	638 South Patrick Dr	Satellite Beach, FL 32937	
+405	Scotty Culp Municipal Complex	565 Cassia Blvd	Satellite Beach, FL 32937	
+406	The Springs of Suntree	8300 Holiday Springs Rd	Melbourne, FL 32940	
+407	St. Timothy Lutheran Church Friendship Hall	1903 Croton Rd	Melbourne, FL 32935	
+408	Eau Gallie Civic Center	1551 Highland Ave	Melbourne, FL 32935	
+409	I H B City Hall Council Chambers	2055 South Patrick Dr	Indian Harbour Beach, FL 32937	
+410	Palm Shores Town Hall	5030 Paul Hurtt Ln	Palm Shores, FL 32940	
+411	I H B City Hall Council Chambers	2055 South Patrick Dr	Indian Harbour Beach, FL 32937	
+412	Brevard Baptist Association	4235 S US 1	Rockledge, FL 32955	
+414	Ascension Catholic Church	2950 N Harbor City Blvd	Melbourne, FL 32935	
+415	David R. Schechter Community Center	1089 South Patrick Dr	Satellite Beach, FL 32937	
+416	Palm Shores Town Hall	5030 Paul Hurtt Ln	Palm Shores, FL 32940	
+417	Cross Bridge Church	651 Barnes Blvd	Rockledge, FL 32955	
+418	Viera Regional Community Center	2300 Judge Fran Jamieson Way	Melbourne, FL 32940	
+419	Indian River Colony Club	1600 Old Glory Blvd	Melbourne, FL 32940	
+420	St Katherine Greek Orthodox Church	5965 N Wickham Rd	Melbourne, FL 32940	
+421	Suntree United Methodist Church	7400 N Wickham Rd	Melbourne, FL 32940	
+422	First Baptist Ch of South Brevard	4300 N Wickham Rd	Melbourne, FL 32935	
+424	Church at Viera	9005 N Wickham Rd	Melbourne, FL 32940	
+425	Cross Bridge Church	651 Barnes Blvd	Rockledge, FL 32955	
+426	Beacon Baptist Church	3185 Aurora Rd	Melbourne, FL 32934	
+427	Faith Fellowship Church	2820 Business Center Blvd	Melbourne, FL 32935	
+428	Faith Viera Lutheran Church	5550 Faith Dr	Rockledge, FL 32955	
+429	Church at Viera	9005 N Wickham Rd	Melbourne, FL 32940	
+430	Suntree United Methodist Church	7400 N Wickham Rd	Melbourne, FL 32940	
+431	Prince of Peace Anglican Church	6895 Murrell Rd	Melbourne, FL 32940	
+432	I H B City Hall Council Chambers	2055 South Patrick Dr	Indian Harbour Beach, FL 32937	
+433	Cross Bridge Church	651 Barnes Blvd	Rockledge, FL 32955	
+434	I H B City Hall Council Chambers	2055 South Patrick Dr	Indian Harbour Beach, FL 32937	
+435	Viera Regional Community Center	2300 Judge Fran Jamieson Way	Melbourne, FL 32940	
+436	Faith Viera Lutheran Church	5550 Faith Dr	Rockledge, FL 32955	
+437	David R. Schechter Community Center	1089 South Patrick Dr	Satellite Beach, FL 32937	
+438	Brevard Baptist Association	4235 S US 1	Rockledge, FL 32955	
+439	Brevard Baptist Association	4235 S US 1	Rockledge, FL 32955	
+440	Viera Regional Community Center	2300 Judge Fran Jamieson Way	Melbourne, FL 32940	
+441	Church at Viera	9005 N Wickham Rd	Melbourne, FL 32940	
+442	Cross Bridge Church	651 Barnes Blvd	Rockledge, FL 32955	
+443	Prince of Peace Anglican Church	6895 Murrell Rd	Melbourne, FL 32940	
+500	Tropical Haven Auditorium	1205 S Eddie Allen Rd	Melbourne, FL 32901	
+501	American Homesteading Foundation	535 Hammock Rd	Melbourne Village, FL 32904	
+502	Eau Gallie First Baptist Church	1501 W Eau Gallie Blvd	Melbourne, FL 32935	
+503	West Melbourne Public Library	2755 Wingate Blvd	Melbourne, FL 32904	
+504	New Shiloh Christian Center	3900 Sarno Rd	Melbourne, FL 32934	
+505	First Baptist Church of Indialantic	170 Washington Ave	Indialantic, FL 32903	
+506	Eastminster Presbyterian Church	106 N Riverside Dr	Indialantic, FL 32903	
+507	Bowe Gardens Baptist Church	2700 Sarno Rd	Melbourne, FL 32935	
+508	Riverside Baptist Church	3333 N Riverside Dr	Indialantic, FL 32903	
+509	Front Street Civic Center	2205 Front St	Melbourne, FL 32901	
+510	Greater Palm Bay Senior Center	1275 Culver Dr NE	Palm Bay, FL 32907	
+511	Beacon Baptist Church	3185 Aurora Rd	Melbourne, FL 32934	
+512	Max K. Rodes Park Comm Center	3410 Flanagan Ave	West Melbourne, FL 32904	
+513	EFSC Palm Bay - Community Dining Rm	250 Community College Pkwy	Palm Bay, FL 32909	
+515	Riverside Baptist Church	3333 N Riverside Dr	Indialantic, FL 32903	
+516	Palm Bay City Hall Council Chambers	120 Malabar Rd SE	Palm Bay, FL 32907	
+517	Faith Baptist Church of Palm Bay	341 Emerson Dr NW	Palm Bay, FL 32907	
+518	Harbor City Christian Church Hall	3210 Aurora Rd	Melbourne, FL 32934	
+519	Ted Whitlock Community Center	370 Championship Cir NW	Palm Bay, FL 32907	
+520	Glory Bound Church of God	2855 Jupiter Blvd SE	Palm Bay, FL 32909	
+521	Ted Whitlock Community Center	370 Championship Cir NW	Palm Bay, FL 32907	
+522	EFSC Palm Bay - Community Dining Rm	250 Community College Pkwy	Palm Bay, FL 32909	
+523	American Homesteading Foundation	535 Hammock Rd	Melbourne Village, FL 32904	
+525	Max K. Rodes Park Comm Center	3410 Flanagan Ave	West Melbourne, FL 32904	
+527	Franklin T. De Groodt Public Library	6475 Minton Rd SE	Palm Bay, FL 32908	
+528	Tropical Haven Auditorium	1205 S Eddie Allen Rd	Melbourne, FL 32901	
+529	Eau Gallie First Baptist Church	1501 W Eau Gallie Blvd	Melbourne, FL 32935	
+530	New Shiloh Christian Center	3900 Sarno Rd	Melbourne, FL 32934	
+531	Ted Whitlock Community Center	370 Championship Cir NW	Palm Bay, FL 32907	
+999	Supervisor of Elections Office	400 South St.	Titusville, FL 32780	

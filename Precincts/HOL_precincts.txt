@@ -1,0 +1,8 @@
+1	Ponce de Leon	1580 Highway 90	Ponce de Leon, FL 32455	
+2	Pine Log	1652 N Highway 81	Westville, FL 32464	
+3	New Hope	1243 Highway 179A	Westville, FL 32464	
+4	Bethlehem	2767 Highway 160	Bonifay, FL 32425	
+5	Gritney	2141 Tobe Retherford Rd	Bonifay, FL 32425	
+6	Noma	3467 Skipper Ave	Bonifay, FL 32425	
+7	West Bonifay	497 St. Johns Rd	Bonifay, FL 32425	
+8	East Bonifay	497 St. Johns RD	Bonifay, FL 32425	

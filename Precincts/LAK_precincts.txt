@@ -1,0 +1,103 @@
+01	Community Building	24648 Ann Street	Astor, FL 32102-3125	
+02	First Baptist Church of Altoona	42226 SR 19	Altoona, FL 32702-9656	
+03	Community Building	24958 CR 42	Paisley, FL 32767	
+04	Community Building-Cassia	29245 SR 44	Eustis, FL 32736-8113	
+05	First Baptist Church-Fellowship Hall	24125 SR 46	Sorrento, FL 32776	
+06	Community Building	601 Northshore Dr	Eustis, FL 32726-2961	
+07	Sullivan Ranch Clubhouse	30450 Bretton Loop	Mount Dora, FL 32757	
+08	Grand Island Baptist Church-Ed. Bldg.	13229 County Road 44	Grand Island, FL 32735-9654	
+09	Midway Manor Office Bldg.	36033 Emeralda Ave	Leesburg, FL 34788-2547	
+10	Rogers Park Pavilion	610 S 9th St.	Leesburg, FL 34748	
+11	Lady Lake Library	225 W Guava St	Lady Lake, FL 32159-3735	
+12	First Baptist Leesburg-South Campus	25900 US HWY 27	Leesburg, FL 34748-9042	
+13	Berean Baptist Church	5640 CR 48	Okahumpka, FL 34762-3326	
+14	Community Building	121 N Sunset Ave	Mascotte, FL 34753-9702	
+15	Clermont City Center	620 W Montrose St	Clermont, FL 34711-2120	
+16	Embrace Church	17409 8th St	Montverde, FL 34756	
+17	Town of Astatula Community Center	13251 Park Ave	Astatula, FL 34705	
+18	448 Community Club	16024 County Road 448	Tavares, FL 32778-9796	
+19	First United Methodist Church-UMAC Bldg	610 Barrow Ave	Tavares, FL 32778-2610	
+20	Moyer Village Recreation Center	3000 Moyer Loop	The Villages, FL 32163	
+21	Howey Community Church	420 N Palm Ave	Howey In The Hills, FL 34737-3122	
+22	Minneola City Hall	800 N Highway 27	Minneola, FL 34715-6821	
+23	Hope International Church	13806 State Road 33	Groveland, FL 34736-9499	
+24	Ferndale Baptist Church-Fellowship Hall	15050 County Road 561A	Clermont, FL 34715-8714	
+25	Community United Methodist Church	309 College Ave	Fruitland Park, FL 34731-3103	
+26	Leesburg Public Library	100 E MAIN ST	Leesburg, FL 34748-5225	
+27	Bible Teachers International	2005 Johns Ave	Leesburg, FL 34748-4223	
+28	Grace Bible Baptist Church	1703 Lewis Rd	Leesburg, FL 34748-9609	
+29	Moose Lodge	1512 W SR 44	Leesburg, FL 34748-8705	
+30	Grace Way Church	10200 Morningside Dr	Leesburg, FL 34788-3685	
+31	Seventh Day Adventist Church	18440 US Highway 441	Mt. Dora, FL 32757-6707	
+32	Grace Baptist Church-Multi Purpose Rm	19650 State Road 44	Eustis, FL 32736-2103	
+33	Church at Whistling Pines	16311 Whistling Pines Rd	Umatilla, FL 32784-8159	
+34	The Fellowship at 473	33110 CR 473	Leesburg, FL 34788-4258	
+35	Community Chapel	3601 W Old US Highway 441	Mount Dora, FL 32757-5300	
+36	Arlington Ridge-Fairfax Hall	4475 Arlington Ridge Blvd	Leesburg, FL 34748	
+37	Hawthorne-Clubhouse	100 Hawthorne Blvd	Leesburg, FL 34748-8639	
+38	Family Christian Center	2500 S Hwy 27	Clermont, FL 34711-6820	
+39	City Hall	201 E Main St	Tavares, FL 32778-3807	
+40	St. Philip Lutheran Church	1050 Boyd Dr	Mount Dora, FL 32757-4551	
+41	Bee's RV Resort Clubhouse	20260 US HWY 27	Clermont, FL 34715-9006	
+42	Lake County Ag. Center	1951 Woodlea Rd	Tavares, FL 32778-4204	
+43	Church of Christ	1511 E Orange Ave	Eustis, FL 32726-4323	
+44	Eustis Service Center	301 W Ward Ave	Eustis, FL 32726	
+45	Welcome Home Christian Church	335 Tomato Hill Rd	Leesburg, FL 34748-9163	
+46	Lake Griffin Harbor-Clubhouse	33399 Waterview Ln	Leesburg, FL 34788-7500	
+47	Liberty Baptist Church	11043 True Life Way	Clermont, FL 34711-8604	
+48	Lake Frances Estate-Clubhouse	1150 Skyline Dr	Tavares, FL 32778-2507	
+49	Crossroads Community Church	275 Griffin Ave	Lady Lake, FL 32159	
+50	Leesburg Church of the Nazarene	2100 Dr Martin Luther King Jr Blvd	Leesburg, FL 34748-7200	
+51	Sun Lake Estates-Clubhouse	1045 Great Lakes Blvd	Grand Island, FL 32735-9769	
+52	Clermont Arts & Recreation Center	3700 S US Hwy 27	Clermont, FL 34711-7636	
+54	Forest Hills Community Building	31039 Lake Mack Rd	Deland, FL 32720-5629	
+56	Holiday Inn Express-Meeting Room	3601 W Burleigh Blvd	Tavares, FL 32778-5803	
+57	Martin Luther King Memorial	803 Florida Ave	Mount Dora, FL 32757-3905	
+58	First Baptist Church-Family Ministry Center	1000 E 1st Ave	Mount Dora, FL 32757-5710	
+59	Silver Lake Community Church	34030 Radio Rd	Leesburg, FL 34788-3528	
+60	Lakes at Leesburg-Clubhouse	10701 US Highway 441	Leesburg, FL 34788-7228	
+61	Plantation Clubhouse	25201 US HWY 27	Leesburg, FL 34748-9088	
+62	Southside Umatilla Community Center	17107 Ball Park Rd	Umatilla, FL 32784	
+63	Mid Florida Lakes-Clubhouse	200 Forest Dr	Leesburg, FL 34788-2648	
+65	Paradise Recreation Hall(Judy Garland Room)	1403 Paradise Dr	Lady Lake, FL 32159-2152	
+67	Calvary Baptist Church	3740 Eagles Nest Rd	Fruitland Park, FL 34731-5405	
+68	Masonic Lodge Bldg. #58	200 Richey Rd	Leesburg, FL 34748-9728	
+69	Imperial Terrace-Clubhouse East	2612 Vindale Rd	Tavares, FL 32778-4581	
+70	Scottish Highlands	1 Scottish Highlands Blvd	Leesburg, FL 34788-8554	
+71	Bay Lake Baptist Church	9020 Bay Lake Rd	Groveland, FL 34736-9445	
+72	Paradise Recreation Hall(Judy Garland Room)	1403 Paradise Dr	Lady Lake, FL 32159-2152	
+73	La Hacienda Center(Carmen Miranda Room)	1200 Avenida Central	Lady Lake, FL 32159-5702	
+74	Highland Lakes-Clubhouse	5500 Clubhouse Dr	Leesburg, FL 34748-8042	
+75	Pennbrooke Fairways-Grand Hall	33825 Pennbrooke Pkwy	Leesburg, FL 34748-7264	
+76	Lakeview Terrace Wellness Center	201 Clubhouse Vista Rd	Altoona, FL 32702-9609	
+77	Lake Port Square-Town Hall	821 Lake Port Blvd	Leesburg, FL 34748-7675	
+78	Kings Ridge Clubhouse	1900 Kings Ridge Blvd	Clermont, FL 34711-6932	
+79	Clermont Arts & Recreation Center	3700 S US Hwy 27	Clermont, FL 34711-7636	
+80	Hope International Church	13806 State Rd 33	Groveland, FL 34736-9499	
+81	New Life Presbyterian Church	18237 E Apshawa Rd	Minneola, FL 34715-9261	
+82	The Lord's House	2113 Ruby Red Blvd	Clermont, FL 34714-6115	
+83	Royal Highlands-Recreation Center	5350 Monarch Blvd	Leesburg, FL 34748-7953	
+84	Cagan Crossings Comm. Library	16729 Cagan Oaks	Clermont, FL 34714-6503	
+85	Water Oak-Main Clubhouse	415 Water Oak Blvd	Lady Lake, FL 32159-3293	
+86	Country Club of Mt Dora-Clubhouse	1900 Country Club Blvd	Mount Dora, FL 32757-6904	
+87	Legends Community Clubhouse	1690 Legendary Blvd	Clermont, FL 34711-5385	
+88	Clermont City Center	620 W Montrose St	Clermont, FL 34711-2120	
+89	Heritage Hills-Clubhouse	3195 Heritage Hills Blvd	Clermont, FL 34711-5450	
+90	Woodlands Lutheran Church	15333 County Road 455	Montverde, FL 34756-3700	
+91	Central FL Bible Camp	23813 County Road 44A	Eustis, FL 32736-9372	
+92	Grace City Church	32441 CR 437	Sorrento, FL 32776-8133	
+93	First Baptist Church-Family Ministry Ctr.	1000 1st. AVE	Mount Dora, FL 32757	
+94	Harbor Hills Clubhouse	6538 Lake Griffin Rd	Lady Lake, FL 32159-2900	
+95	Clermont Baptist Church	16115 Old Hwy 50	Clermont, FL 34711-9000	
+96	La Hacienda Center(Carmen Miranda Room)	1200 Avenida Central	Lady Lake, FL 32159-5702	
+97	Cooper Memorial Library	2525 Oakley Seaver Dr	Clermont, FL 34711-6004	
+98	The Lodge @ Waterman Village	445 Waterman Ave	Mount Dora, FL 32757-9518	
+99	Royal Harbor-Social Hall	5950 Royal Harbor Bvld	Tavares, FL 32778-9270	
+100	Sorrento Church of God	31605 Orange St	Sorrento, FL 32776-8841	
+101	Plantation-Hermitage Hall	3640 Westover Cir	Leesburg, FL 34748-1864	
+102	Summit Greens-Clubhouse	1190 Summit Greens Blvd	Clermont, FL 34711-6793	
+103	Legacy of Leesburg-Clock Tower Hall	5365 Legacy Blvd	Leesburg, FL 34748-9130	
+104	Lakes of Mt Dora	8506 Lakes of Mount Dora Blvd	Mount Dora, FL 32757-8861	
+105	Grand Island Baptist Church	13229 County Road 44	Grand Island, FL 32735-9654	
+106	Trilogy-Magnolia House	100 Falling Acorn Ave	Groveland, FL 34736-3634	
+107	The Woodlands at Church Lake-Clubhouse	6100 Heritage Dr	Groveland, FL 34736-9621	

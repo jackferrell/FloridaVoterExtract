@@ -1,0 +1,67 @@
+1	Cleveland United Methodist Church	28038 Cleveland Ave	Punta Gorda, FL 33982	
+2	East Elementary School	27050 Fairway Dr	Punta Gorda, FL 33982	
+3	Charlotte Harbor Event Center.	75 Taylor St.	Punta Gorda, FL 33950	
+4	Charlotte Harbor Event Center.	75 Taylor St.	Punta Gorda, FL 33950	
+5	Peace River Elementary School	4070 Beaver Lane NW	Port Charlotte, FL 33952	
+6	Charlotte County Fairground Assoc.	2333 El Jobean Rd	Port Charlotte, FL 33948	
+7	American Legion Post #113	3436 Indiana Rd	Rotonda West, FL 33947	
+8	Mac V. Horton West County Annex	6868 San Casa Dr	Englewood, FL 34224	
+9	Port Charlotte Beach Park	4500 Harbor Blvd	Port Charlotte, FL 33952	
+10	Cultural Center of Charlotte County	2280 Aaron St	Port Charlotte, FL 33952	
+11	Myakka River Elementary School	12650 Wilmington Blvd	Port Charlotte, FL 33981	
+12	Deep Creek Elementary School	26900 Harborview Rd	Port Charlotte, FL 33983	
+13	East Elementary School	27050 Fairway Dr	Punta Gorda, FL 33982	
+14	Home owners of Alligator Park	6400 Taylor Rd	Punta Gorda, FL 33950	
+15	Meadow Park Elementary School	750 Essex Ave	Port Charlotte, FL 33948	
+16	Cultural Center of Charlotte County	2280 Aaron St	Port Charlotte, FL 33952	
+17	Cultural Center of Charlotte County	2280 Aaron St	Port Charlotte, FL 33952	
+18	Mac V. Horton West County Annex	6868 San Casa Dr	Englewood, FL 34224	
+19	Charlotte Harbor Event Center.	75 Taylor St.	Punta Gorda, FL 33950	
+20	Port Charlotte Beach Park	4500 Harbor Blvd	Port Charlotte, FL 33952	
+21	Meadow Park Elementary School	750 Essex Ave	Port Charlotte, FL 33948	
+22	Port Charlotte Middle School	23000 Midway Blvd	Port Charlotte, FL 33952	
+23	Englewood Beach Condo Assoc.	2000 Bayview Blvd	Englewood, FL 34223	
+24	Peace River Elementary School	4070 Beaver Lane NW	Port Charlotte, FL 33952	
+25	Mid-County Regional Library	2050 Forrest Nelson Blvd	Port Charlotte, FL 33952	
+26	Murdock Middle School	17325 Mariner Way	Port Charlotte, FL 33948	
+27	Mac V. Horton West County Annex	6868 San Casa Dr	Englewood, FL 34224	
+28	Charlotte Harbor Event Center.	75 Taylor St.	Punta Gorda, FL 33950	
+29	Punta Gorda Isles Civic Center	2001 Shreve St	Punta Gorda, FL 33950	
+30	Cleveland United Methodist Church	28038 Cleveland Ave	Punta Gorda, FL 33982	
+31	Cleveland Baptist Church	6600 Cleveland Dr	Punta Gorda, FL 33982	
+32	The Hive @ Babcock Ranch	42891 Lake Babcock Ranch Dr	Babcock Ranch, FL 33982	
+33	Myakka River Elementary School	12650 Wilmington Blvd	Port Charlotte, FL 33981	
+34	Isles Yacht Club	1780 W Marion Ave	Punta Gorda, FL 33950	
+35	Punta Gorda Isles Civic Center	2001 Shreve St	Punta Gorda, FL 33950	
+36	Peace River Elementary School	4070 Beaver Lane NW	Port Charlotte, FL 33952	
+38	Port Charlotte Middle School	23000 Midway Blvd	Port Charlotte, FL 33952	
+39	Mid-County Regional Library	2050 Forrest Nelson Blvd	Port Charlotte, FL 33952	
+41	Isles Yacht Club	1780 W Marion Ave	Punta Gorda, FL 33950	
+42	S. Punta Gorda Heights Civic Assoc.	11200 First Ave	Punta Gorda, FL 33955	
+43	Meadow Park Elementary School	750 Essex Ave	Port Charlotte, FL 33948	
+44	Meadow Park Elementary School	750 Essex Ave	Port Charlotte, FL 33948	
+45	Tringali Park	3460 N Access Rd	Englewood, FL 34224	
+46	Holy Trinity Greek Orthodox Church	24411 Rampart Blvd	Port Charlotte, FL 33980	
+47	L.A. Ainger Middle School	245 Cougar Way	Rotonda West, FL 33947	
+48	Deep Creek Elementary School	26900 Harborview Rd	Port Charlotte, FL 33983	
+49	Deep Creek Elementary School	26900 Harborview Rd	Port Charlotte, FL 33983	
+52	Murdock Middle School	17325 Mariner Way	Port Charlotte, FL 33948	
+53	Tringali Park	3460 N Access Rd	Englewood, FL 34224	
+54	Mid-County Regional Library	2050 Forrest Nelson Blvd	Port Charlotte, FL 33952	
+55	American Legion Post #113	3436 Indiana Rd	Rotonda West, FL 33947	
+56	Harold Ave Regional Park Rec Ctr	23400 Harold Ave	Port Charlotte, FL 33980	
+57	Port Charlotte Beach Park	4500 Harbor Blvd	Port Charlotte, FL 33952	
+58	Charlotte County Fairground Assoc.	2333 El Jobean Rd	Port Charlotte, FL 33948	
+60	South County Regional Park	670 Cooper St	Punta Gorda, FL 33950	
+61	Myakka River Elementary School	12650 Wilmington Blvd	Port Charlotte, FL 33981	
+63	Holy Trinity Greek Orthodox Church	24411 Rampart Blvd	Port Charlotte, FL 33980	
+64	Congregational United Church.	1201 Aqui Esta Dr	Punta Gorda, FL 33950	
+66	South County Regional Park	670 Cooper St	Punta Gorda, FL 33950	
+67	S. Punta Gorda Heights Civic Assoc.	11200 First Ave	Punta Gorda, FL 33955	
+68	Burnt Store Presbyterian Church	11330 Burnt Store Rd	Punta Gorda, FL 33955	
+69	Burnt Store Presbyterian Church	11330 Burnt Store Rd	Punta Gorda, FL 33955	
+75	Port Charlotte Middle School	23000 Midway Blvd	Port Charlotte, FL 33952	
+76	Cultural Center of Charlotte County	2280 Aaron St	Port Charlotte, FL 33952	
+77	L.A. Ainger Middle School	245 Cougar Way	Rotonda West, FL 33947	
+78	American Legion Post #113	3436 Indiana Rd	Rotonda West, FL 33947	
+80	Tringali Park	3460 N Access Rd	Englewood, FL 34224	

@@ -1,0 +1,125 @@
+101	Taylor Middle High School (Gym)	100 E Washington Ave	Pierson, FL 32180	
+105	Taylor Middle High School (Gym)	100 E Washington Ave	Pierson, FL 32180	
+107	Taylor Middle High School (Gym)	100 E Washington Ave	Pierson, FL 32180	
+201	McInnis Elementary (Cafeteria)	5175 US 17	Deleon Springs, FL 32130	
+202	McInnis Elementary (Cafeteria)	5175 US 17	Deleon Springs, FL 32130	
+203	McInnis Elementary (Cafeteria)	5175 US 17	Deleon Springs, FL 32130	
+204	DeLand High School (Gym)	800 N Hill Ave	DeLand, FL 32724	
+205	DeLand High School (Gym)	800 N Hill Ave	DeLand, FL 32724	
+206	DeLand High School (Gym)	800 N Hill Ave	DeLand, FL 32724	
+207	Citrus Grove Elementary (Cafeteria)	729 Hazen Rd	DeLand, FL 32720	
+208	Citrus Grove Elementary (Cafeteria)	729 Hazen Rd	DeLand, FL 32720	
+212	DeLand High School (Gym)	800 N Hill Ave	DeLand, FL 32724	
+215	First Assembly DeLand	551 S Kepler Rd	DeLand, FL 32724	
+216	DeLand Middle School (Gym)	1400 Aquarius Ave	Deland, FL 32724	
+217	Chisholm Community Center	520 S Clara Ave	DeLand, FL 32720	
+218	Deltona Alliance Church (DeLand Campus)	402 W New York Ave	DeLand, FL 32720	
+220	Chisholm Community Center	520 S Clara Ave	DeLand, FL 32720	
+222	Hopkins Hall	192 W Connecticut Ave	Lake Helen, FL 32744	
+223	Hopkins Hall	192 W Connecticut Ave	Lake Helen, FL 32744	
+224	DeLand Middle School (Gym)	1400 Aquarius Ave	Deland, FL 32724	
+301	Orange City United Methodist Church	396 E University Ave	Orange City, FL 32763	
+303	Orange City United Methodist Church	396 E University Ave	Orange City, FL 32763	
+304	DeBary Elementary (Cafeteria)	88 W Highbanks Rd	DeBary, FL 32713	
+305	Florence K Little Town Hall	12 Colomba Rd	DeBary, FL 32713	
+306	DeBary Elementary (Cafeteria)	88 W Highbanks Rd	DeBary, FL 32713	
+307	Florence K Little Town Hall	12 Colomba Rd	DeBary, FL 32713	
+308	River Springs Middle School (Gym)	900 W Ohio Ave	Orange City, FL 32763	
+309	River Springs Middle School (Gym)	900 W Ohio Ave	Orange City, FL 32763	
+401	Trinity Assembly of God - Gym	875 Elkcam Blvd	Deltona, FL 32725	
+403	Friendship Elementary (Cafeteria)	2746 Fulford st	Deltona, FL 32738	
+404	Osteen Elementary (Cafeteria)	500 Doyle Rd	Osteen, FL 32764	
+405	Friendship Elementary (Cafeteria)	2746 Fulford st	Deltona, FL 32738	
+406	Deltona Regional Library	2150 Eustace Ave	Deltona, FL 32725	
+407	Discovery Elementary (Cafeteria)	975 Abigal Dr	Deltona, FL 32725	
+410	Pride Elementary (Cafeteria)	1100 Learning ln	Deltona, FL 32738	
+411	Pride Elementary (Cafeteria)	1100 Learning ln	Deltona, FL 32738	
+412	Osteen Elementary (Cafeteria)	500 Doyle Rd	Osteen, FL 32764	
+413	Wes Crile Park	1537 Norbert Ter	Deltona, FL 32738	
+414	Wes Crile Park	1537 Norbert Ter	Deltona, FL 32738	
+415	Spirit Elementary (Cafeteria)	1500 Meadowlark Dr	Deltona, FL 32725	
+416	Spirit Elementary (Cafeteria)	1500 Meadowlark Dr	Deltona, FL 32725	
+417	Discovery Elementary (Cafeteria)	975 Abigal Dr	Deltona, FL 32725	
+419	Forest Lake Elementary (Cafeteria)	1600 Doyle Rd	Deltona, FL 32725	
+420	Osteen Elementary (Cafeteria)	500 Doyle Rd	Osteen, FL 32764	
+421	Forest Lake Elementary (Cafeteria)	1600 Doyle Rd	Deltona, FL 32725	
+422	Friendship Elementary (Cafeteria)	2746 Fulford st	Deltona, FL 32738	
+423	Deltona Middle School (Gym)	250 Enterprise Rd	Deltona, FL 32725	
+427	Pride Elementary (Cafeteria)	1100 Learning ln	Deltona, FL 32738	
+429	Forest Lake Elementary (Cafeteria)	1600 Doyle Rd	Deltona, FL 32725	
+501	Ormond Lakes Clubhouse	70 Ormond Lakes Blvd	Ormond Beach, FL 32174	
+502	Riverview United Methodist Church	2253 John Anderson Dr	Ormond Beach, FL 32176	
+503	Ormond Lakes Clubhouse	70 Ormond Lakes Blvd	Ormond Beach, FL 32174	
+504	Ormond Beach Presbyterian Church	105 Amsden Rd	Ormond Beach, FL 32176	
+506	Ormond Beach Senior Center	351 Andrews St	Ormond Beach, FL 32174	
+508	Calvary Christian Center	1687 W Granada Blvd	Ormond Beach, FL 32174	
+509	Calvary Christian Center	1687 W Granada Blvd	Ormond Beach, FL 32174	
+510	Calvary Christian Center	1687 W Granada Blvd	Ormond Beach, FL 32174	
+511	Calvary Christian Center	1687 W Granada Blvd	Ormond Beach, FL 32174	
+512	Providence Church	1151 W Granada Blvd	Ormond Beach, FL 32174	
+515	Ormond Beach Regional Library (Auditorium)	30 S Beach St	Ormond Beach, FL 32174	
+516	Ormond Beach Presbyterian Church	105 Amsden Rd	Ormond Beach, FL 32176	
+517	The Casements	25 Riverside Dr	Ormond Beach, FL 32176	
+519	Ormond Beach Regional Library (Auditorium)	30 S Beach St	Ormond Beach, FL 32174	
+521	Providence Church	1151 W Granada Blvd	Ormond Beach, FL 32174	
+522	Tomoka Christian Church	1450 Hand Ave	Ormond Beach, FL 32174	
+523	Tomoka Christian Church	1450 Hand Ave	Ormond Beach, FL 32174	
+526	Sica Hall	1065 Daytona Ave	Holly Hill, FL 32117	
+527	Sica Hall	1065 Daytona Ave	Holly Hill, FL 32117	
+528	Sica Hall	1065 Daytona Ave	Holly Hill, FL 32117	
+529	Sica Hall	1065 Daytona Ave	Holly Hill, FL 32117	
+530	Westside Elementary (Cafeteria)	1210 Jimmy Ann Dr	Daytona Beach, FL 32117	
+532	Halifax Plantation Golf Club	3400 Clubhouse Blvd	Ormond Beach, FL 32174	
+602	Champion Elementary (Cafeteria)	921 Tournament Dr	Daytona Beach, FL 32124	
+603	Westside Elementary (Cafeteria)	1210 Jimmy Ann Dr	Daytona Beach, FL 32117	
+607	Schnebly Recreation Center	1101 N Atlantic Ave	Daytona Beach, FL 32118	
+614	Midtown Cultural Center	925 George W. Engram Blvd	Daytona Beach, FL 32114	
+619	Allen Chapel AME Church	580 George W Engram Blvd	Daytona Beach, FL 32114	
+620	BCU Center for Civic Engagement	740 W Intn'l Speedway Blvd	Daytona Beach, FL 32114	
+621	BCU Center for Civic Engagement	740 W Intn'l Speedway Blvd	Daytona Beach, FL 32114	
+622	Daytona Beach Regional Library	105 E Magnolia Ave	Daytona Beach, FL 32114	
+623	Community United Methodist Church	616 Harvey Ave	Daytona Beach, FL 32118	
+625	Longstreet Elementary (Cafeteria)	2745 S Peninsula Dr	Daytona Beach, FL 32118	
+626	Daytona Beach Regional Library	105 E Magnolia Ave	Daytona Beach, FL 32114	
+628	John H Dickerson Community Center	308 S Martin Luther King Blvd	Daytona Beach, FL 32114	
+633	Beville Road Church of Christ	850 Beville Rd	Daytona Beach, FL 32114	
+638	South Daytona Elementary (Cafeteria)	600 Elizabeth Pl	Daytona Beach, FL 32119	
+641	Beville Road Church of Christ	850 Beville Rd	Daytona Beach, FL 32114	
+701	South Daytona Elementary (Cafeteria)	600 Elizabeth Pl	Daytona Beach, FL 32119	
+703	Piggotte Community Center	504 Big Tree Rd	South Daytona, FL 32119	
+705	Longstreet Elementary (Cafeteria)	2745 S Peninsula Dr	Daytona Beach, FL 32118	
+706	Shores Community Center	3000 Bellemead Dr	Daytona Beach Shores, FL 32118	
+709	Port Orange Adult Center	4790 Ridgewood Ave	Port Orange, FL 32127	
+711	Port Orange Regional Library	1005 City Center Cir	Port Orange, FL 32129	
+712	Port Orange Regional Library	1005 City Center Cir	Port Orange, FL 32129	
+714	Port Orange Presbyterian Church	4662 Clyde Morris Blvd	Port Orange, FL 32129	
+716	Crane Lakes Clubhouse	1850 Crane Lakes Blvd	Port Orange, FL 32128	
+717	Port Orange Presbyterian Church	4662 Clyde Morris Blvd	Port Orange, FL 32129	
+718	Sweetwater Elementary (Cafeteria)	5800 Victoria Gardens Blvd	Port Orange, FL 32127	
+719	Sweetwater Elementary (Cafeteria)	5800 Victoria Gardens Blvd	Port Orange, FL 32127	
+720	Port Orange Adult Center	4790 Ridgewood Ave	Port Orange, FL 32127	
+722	Port Orange Adult Center	4790 Ridgewood Ave	Port Orange, FL 32127	
+725	Cypress Creek Elementary (Cafeteria)	6100 S Williamson Blvd	Port Orange, FL 32128	
+726	Ponce Inlet Community Center	4670 S Peninsula Dr	Ponce Inlet, FL 32127	
+728	Spruce Creek Elementary (Cafeteria)	642 Taylor Rd	Port Orange, FL 32127	
+729	Cypress Creek Elementary (Cafeteria)	6100 S Williamson Blvd	Port Orange, FL 32128	
+732	Crane Lakes Clubhouse	1850 Crane Lakes Blvd	Port Orange, FL 32128	
+733	Spruce Creek Elementary (Cafeteria)	642 Taylor Rd	Port Orange, FL 32127	
+803	Sugar Mill Country Club	100 Club House Cir	New Smyrna Beach, FL 32168	
+804	New Smyrna Beach Garden Club	2000 Turnbull Bay Rd	New Smyrna Beach, FL 32168	
+805	Coronado Civic Center	223 Flagler Ave	New Smyrna Beach, FL 32169	
+807	Alonzo Babe James Community Center	201 N Myrtle Ave	New Smyrna Beach, FL 32168	
+808	Alonzo Babe James Community Center	201 N Myrtle Ave	New Smyrna Beach, FL 32168	
+809	New Smyrna Beach Regional Library	1001 S Dixie Frwy	New Smyrna Beach, FL 32168	
+810	New Smyrna Beach Regional Library	1001 S Dixie Frwy	New Smyrna Beach, FL 32168	
+812	Coronado Elementary (Cafeteria)	3550 Michigan Ave	New Smyrna Beach, FL 32169	
+813	Coronado Elementary (Cafeteria)	3550 Michigan Ave	New Smyrna Beach, FL 32169	
+814	New Smyrna Beach Regional Library	1001 S Dixie Frwy	New Smyrna Beach, FL 32168	
+816	Crossroads Christian Church	3838 St RD 44	New Smyrna Beach, FL 32168	
+901	Edgewater Council Chambers	102 N Riverside Dr	Edgewater, FL 32132	
+902	Friendship Community Church	2108 Hibiscus Dr	Edgewater, FL 32141	
+903	Indian River Elementary (Cafeteria)	650 Roberts Rd	Edgewater, FL 32141	
+904	Indian River Elementary (Cafeteria)	650 Roberts Rd	Edgewater, FL 32141	
+907	First Baptist Church	192 E Halifax Ave	Oak Hill, FL 32759	
+909	Oak Hill City Hall	234 S US Hwy 1	Oak Hill, FL 32759	
+910	Edgewater Council Chambers	102 N Riverside Dr	Edgewater, FL 32132	

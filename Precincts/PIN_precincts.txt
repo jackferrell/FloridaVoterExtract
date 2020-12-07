@@ -1,0 +1,301 @@
+101	Pinellas Community Church	5501 31 St S	St Petersburg, FL 33712	
+102	Bay Vista Center	7000 4 St S	St Petersburg, FL 33705	
+103	Lakewood United Methodist Church	5995 M L King St S	St Petersburg, FL 33705	
+104	Lakewood United Methodist Church	5995 M L King St S	St Petersburg, FL 33705	
+105	Lake Vista Recreation Center	1401 62nd Ave S	St. Petersburg, FL 33705	
+106	Bay Vista Center	7000 4 St S	St Petersburg, FL 33705	
+107	Pinellas Community Church	5501 31 St S	St Petersburg, FL 33712	
+108	Coquina Key Neighborhood Assoc.	3850 Pompano Dr SE	St Petersburg, FL 33705	
+109	Lake Vista Recreation Center	1401 62nd Ave S	St. Petersburg, FL 33705	
+110	Bethel Metropolitan Baptist Church	3455 26 Ave S	St Petersburg, FL 33711	
+111	Bethel Metropolitan Baptist Church	3455 26 Ave S	St Petersburg, FL 33711	
+112	Lake Vista Recreation Center	1401 62nd Ave S	St. Petersburg, FL 33705	
+113	Christ Gospel Church	2512 22 Ave S	St Petersburg, FL 33712	
+114	New Hope Baptist Church	2120 19 St S	St Petersburg, FL 33712	
+115	Lakeview Presbyterian Church	1310 22 Ave S	St Petersburg, FL 33705	
+116	Frank Pierce Recreation Center	2000 7 St S	St Petersburg, FL 33705	
+117	Mt. Zion AME Church	1045 16 St S	St Petersburg, FL 33705	
+118	St. Pete Religious Society/Friends	130 19 Ave SE	St Petersburg, FL 33705	
+119	Mt. Zion AME Church	1045 16 St S	St Petersburg, FL 33705	
+120	Thomas "Jet" Jackson Recreation Center	1000 28 St S	St Petersburg, FL 33712	
+121	Dwight H. Jones Neighborhood Center	1035 Burlington Ave N	St Petersburg, FL 33705	
+122	Coliseum	535 4 Ave N	St Petersburg, FL 33701	
+123	Coliseum	535 4 Ave N	St Petersburg, FL 33701	
+125	Coliseum	535 4 Ave N	St Petersburg, FL 33701	
+126	Dwight H. Jones Neighborhood Center	1035 Burlington Ave N	St Petersburg, FL 33705	
+127	St. Petersburg Main Library	3745 9 Ave N	St. Petersburg, FL 33713	
+128	St. Petersburg Main Library	3745 9 Ave N	St. Petersburg, FL 33713	
+129	Coliseum	535 4 Ave N	St Petersburg, FL 33701	
+130	Coliseum	535 4 Ave N	St Petersburg, FL 33701	
+131	30th Avenue Baptist Church	3241 30 Ave N	St Petersburg, FL 33713	
+132	Faith Assembly	3900 28 St N	St Petersburg, FL 33714	
+133	Woodlawn Presbyterian Church	2612 12 St N	St Petersburg, FL 33704	
+134	Sunken Gardens	1825 4 St N	St Petersburg, FL 33704	
+135	Coliseum	535 4 Ave N	St Petersburg, FL 33701	
+136	Northside Lodge #283 F & AM	3325 1 St NE	St Petersburg, FL 33704	
+137	Northside Lodge #283 F & AM	3325 1 St NE	St Petersburg, FL 33704	
+138	St. Petersburg Women's Club	40 Snell Isle Blvd.	St. Petersburg, FL 33704	
+139	Roberts Recreation Center	1246 50 Ave N	St Petersburg, FL 33703	
+140	Roberts Recreation Center	1246 50 Ave N	St Petersburg, FL 33703	
+141	Woodlawn Presbyterian Church	2612 12 St N	St Petersburg, FL 33704	
+142	Sunken Gardens	1825 4 St N	St Petersburg, FL 33704	
+143	Lutheran Church of the Cross	4545 Chancellor St NE	St Petersburg, FL 33703	
+144	Northeast Presbyterian Church	4400 Shore Acres Blvd NE	St Petersburg, FL 33703	
+145	Riviera United Methodist Church	175 62 Ave N	St Petersburg, FL 33702	
+146	Riviera United Methodist Church	175 62 Ave N	St Petersburg, FL 33702	
+147	Riviera United Methodist Church	175 62 Ave N	St Petersburg, FL 33702	
+148	Crystal Lakes Manor	4100 62 Ave	Pinellas Park, FL 33781	
+149	Park Place Wesleyan Church	4400 70 Ave	Pinellas Park, FL 33781	
+150	Willis S. Johns Recreation Center	6635 M L King St N	St Petersburg, FL 33702	
+151	North Branch Library	861 70 Ave N	St Petersburg, FL 33702	
+152	Willis S. Johns Recreation Center	6635 M L King St N	St Petersburg, FL 33702	
+153	Americana Cove	7201 1 St NE	St Petersburg, FL 33702	
+154	First Church of Christ Scientist	6333 1 St NE	St Petersburg, FL 33702	
+155	Epiphany Ukrainian Catholic Church	434 90 Ave N	St Petersburg, FL 33702	
+156	First Baptist Church/St. Petersburg	1900 Gandy Blvd	St Petersburg, FL 33702	
+157	First Baptist Church/St. Petersburg	1900 Gandy Blvd	St Petersburg, FL 33702	
+158	Park Place Wesleyan Church	4400 70 Ave	Pinellas Park, FL 33781	
+159	Park Place Wesleyan Church	4400 70 Ave	Pinellas Park, FL 33781	
+160	Mainlands of Tamarac - Unit #4	9950 Mainlands Blvd E	Pinellas Park, FL 33782	
+161	First Baptist Church/St. Petersburg	1900 Gandy Blvd	St Petersburg, FL 33702	
+162	Pinewood Co-op Inc.	10441 Gandy Blvd	St Petersburg, FL 33702	
+163	Mainlands of Tamarac - Unit #4	9950 Mainlands Blvd E	Pinellas Park, FL 33782	
+164	EpiCenter at St. Petersburg College	13805 58 St. N	Clearwater, FL 33760	
+165	Feather Sound Country Club	2201 Feather Sound Dr	Clearwater, FL 33762	
+200	Island Chapel	1271 Pinellas Bayway S	Tierra Verde, FL 33715	
+201	Pinellas Community Church	5501 31 St S	St Petersburg, FL 33712	
+202	Pinellas Community Church	5501 31 St S	St Petersburg, FL 33712	
+203	Bethel Metropolitan Baptist Church	3455 26 Ave S	St Petersburg, FL 33711	
+204	Bethel Metropolitan Baptist Church	3455 26 Ave S	St Petersburg, FL 33711	
+205	Prayer Tower Church of God in Christ	1137 37 St S	St Petersburg, FL 33711	
+206	Gulfport City Hall	2401 53 St S	Gulfport, FL 33707	
+207	Gulfport City Hall	2401 53 St S	Gulfport, FL 33707	
+208	Gulfport Recreation Center	5730 Shore Blvd S	Gulfport, FL 33707	
+209	Gulfport Neighborhood Center	1617 49 St. S	Gulfport, FL 33707	
+210	Gulfport Neighborhood Center	1617 49 St. S	Gulfport, FL 33707	
+211	Pasadena Community Church	227 70 St S	St Petersburg, FL 33707	
+212	South Pasadena City Hall	7047 Sunset Dr S	South Pasadena, FL 33707	
+213	Unity of St. Petersburg	6168 1 Ave N	St Petersburg, FL 33710	
+214	South Pasadena City Hall	7047 Sunset Dr S	South Pasadena, FL 33707	
+215	Pasadena Community Church	227 70 St S	St Petersburg, FL 33707	
+216	Pasadena Community Church	227 70 St S	St Petersburg, FL 33707	
+217	Unity of St. Petersburg	6168 1 Ave N	St Petersburg, FL 33710	
+218	Lions Club of Gulfport Florida	4630 Tifton Dr S	Gulfport, FL 33711	
+219	LAO Conference of Churches	1150 49 St N	St Petersburg, FL 33710	
+220	St. Luke's United Methodist Church	4444 5 Ave N	St Petersburg, FL 33713	
+221	LAO Conference of Churches	1150 49 St N	St Petersburg, FL 33710	
+222	Pasadena Community Church	227 70 St S	St Petersburg, FL 33707	
+223	St. Luke's United Methodist Church	4444 5 Ave N	St Petersburg, FL 33713	
+224	Childs Park Recreation & Fitness Center	4301 13 Ave S	St Petersburg, FL 33711	
+225	St. Luke's United Methodist Church	4444 5 Ave N	St Petersburg, FL 33713	
+226	Galilee Missionary Baptist Church	505 35 St S	St Petersburg, FL 33711	
+227	Fifth Avenue Church of Christ	4200 5 Ave S	St Petersburg, FL 33711	
+228	St. Petersburg Main Library	3745 9 Ave N	St. Petersburg, FL 33713	
+229	St. Vincent's Episcopal Church	5441 9 Ave N	St Petersburg, FL 33710	
+230	St. Stefanos Greek Orthodox Church	3600 76 St N	St Petersburg, FL 33710	
+231	South Cross Bayou Water Reclamation	7401 54 Ave N	St. Petersburg, FL 33709	
+232	Palm Lake Christian Church	5401 22 Ave N	St Petersburg, FL 33710	
+233	St. Petersburg Main Library	3745 9 Ave N	St. Petersburg, FL 33713	
+234	St. Petersburg Community Church	4501 30 Ave N	St Petersburg, FL 33713	
+235	Azalea Baptist Church	7900 22 Ave N	St Petersburg, FL 33710	
+236	Portuguese American Suncoast Assoc.	7808 46 Ave N	St. Petersburg, FL 33709	
+237	Kenneth City Community Hall	4600 58 St N	Kenneth City, FL 33709	
+238	Kenneth City Community Hall	4600 58 St N	Kenneth City, FL 33709	
+239	St. Petersburg Community Church	4501 30 Ave N	St Petersburg, FL 33713	
+240	St. Stefanos Greek Orthodox Church	3600 76 St N	St Petersburg, FL 33710	
+241	Walter P. Fuller Recreation Center	7891 26 Ave N	St Petersburg, FL 33710	
+242	Terrace Park of Five Towns - Oleander	6022 80 St	St Petersburg, FL 33709	
+243	Lealman and Asian Neighborhood Family Center	4255 56 Ave N	St Petersburg, FL 33714	
+244	Kenneth City Community Hall	4600 58 St N	Kenneth City, FL 33709	
+245	South Cross Bayou Water Reclamation	7401 54 Ave N	St. Petersburg, FL 33709	
+246	German American Club	8098 66 St	Pinellas Park, FL 33781	
+247	Pinellas Park City Auditorium	7690 59 St	Pinellas Park, FL 33781	
+248	Pinellas Park City Auditorium	7690 59 St	Pinellas Park, FL 33781	
+249	Lealman and Asian Neighborhood Family Center	4255 56 Ave N	St Petersburg, FL 33714	
+250	German American Club	8098 66 St	Pinellas Park, FL 33781	
+251	Starkey Road Baptist Church	8800 Starkey Rd	Seminole, FL 33777	
+252	Terrace Park of Five Towns - Magnolia	7950 58 Ave N	St Petersburg, FL 33709	
+253	Portuguese American Suncoast Assoc.	7808 46 Ave N	St. Petersburg, FL 33709	
+254	Starkey Road Baptist Church	8800 Starkey Rd	Seminole, FL 33777	
+255	Starkey Road Baptist Church	8800 Starkey Rd	Seminole, FL 33777	
+256	Starkey Road Baptist Church	8800 Starkey Rd	Seminole, FL 33777	
+257	Bardmoor Community Center	8345 Bardmoor Blvd	Largo, FL 33777	
+258	Forbes Recreation Center	6401 94 Ave	Pinellas Park, FL 33782	
+259	Pinellas Park City Auditorium	7690 59 St	Pinellas Park, FL 33781	
+260	Forbes Recreation Center	6401 94 Ave	Pinellas Park, FL 33782	
+261	Forbes Recreation Center	6401 94 Ave	Pinellas Park, FL 33782	
+262	Forbes Recreation Center	6401 94 Ave	Pinellas Park, FL 33782	
+263	Bardmoor Community Center	8345 Bardmoor Blvd	Largo, FL 33777	
+264	Starkey Road Baptist Church	8800 Starkey Rd	Seminole, FL 33777	
+265	Forbes Recreation Center	6401 94 Ave	Pinellas Park, FL 33782	
+266	Starkey Road Baptist Church	8800 Starkey Rd	Seminole, FL 33777	
+267	Bardmoor Community Center	8345 Bardmoor Blvd	Largo, FL 33777	
+268	Ranchero Village Co-op Inc.	7100 Ulmerton Rd	Largo, FL 33771	
+269	EpiCenter at St. Petersburg College	13805 58 St. N	Clearwater, FL 33760	
+270	EpiCenter at St. Petersburg College	13805 58 St. N	Clearwater, FL 33760	
+271	EpiCenter at St. Petersburg College	13805 58 St. N	Clearwater, FL 33760	
+272	EpiCenter at St. Petersburg College	13805 58 St. N	Clearwater, FL 33760	
+273	Starkey Road Baptist Church	8800 Starkey Rd	Seminole, FL 33777	
+274	New Testament Baptist Church	2050 S Belcher Rd	Largo, FL 33771	
+275	Palm Lake Christian Church	5401 22 Ave N	St Petersburg, FL 33710	
+301	Calvary Church Seminole	6155 113 St	Seminole, FL 33772	
+302	Lake Seminole Presbyterian Church	8505 113 St	Seminole, FL 33772	
+303	Bay Pines Condo Recreation Center	9801 Bay Pines Blvd	St. Petersburg, FL 33708	
+304	Chapel on the Hill	12601 Park Blvd	Seminole, FL 33776	
+305	Seminole United Methodist Church	5400 Seminole Blvd	Seminole, FL 33772	
+306	Calvary Church Seminole	6155 113 St	Seminole, FL 33772	
+307	Calvary Church Seminole	6155 113 St	Seminole, FL 33772	
+308	Oakhurst United Methodist Church	13400 Park Blvd	Seminole, FL 33776	
+309	Seminole Community Library at SPC	9200 113 St	Seminole, FL 33772	
+310	Christ the King Lutheran Church	11220 Oakhurst Rd	Largo, FL 33774	
+311	Christ the King Lutheran Church	11220 Oakhurst Rd	Largo, FL 33774	
+312	Christ the King Lutheran Church	11220 Oakhurst Rd	Largo, FL 33774	
+313	Heritage Village	11909 125 St	Largo, FL 33774	
+314	St. Justin Martyr Roman Catholic Church	10851 Ridge Rd	Seminole, FL 33778	
+315	Seminole Recreation Center	9100 113 St	Seminole, FL 33772	
+316	Seminole Recreation Center	9100 113 St	Seminole, FL 33772	
+317	Seminole Community Library at SPC	9200 113 St	Seminole, FL 33772	
+318	St. Justin Martyr Roman Catholic Church	10851 Ridge Rd	Seminole, FL 33778	
+319	St. Justin Martyr Roman Catholic Church	10851 Ridge Rd	Seminole, FL 33778	
+320	Gulf Coast Church	13301 Walsingham Rd	Largo, FL 33774	
+321	Christ the King Lutheran Church	11220 Oakhurst Rd	Largo, FL 33774	
+322	Pinellas County Parks and Conservation	12520 Ulmerton Rd	Largo, FL 33774	
+323	Anona United Methodist Church	13233 Indian Rocks Rd	Largo, FL 33774	
+324	Greater Ridgecrest Branch YMCA	1801 119 St	Largo, FL 33778	
+325	Palm Hill Country Club	1800 Seminole Blvd	Largo, FL 33778	
+326	The Historic Largo Feed Store	295 Central Park Dr	Largo, FL 33771	
+327	The Historic Largo Feed Store	295 Central Park Dr	Largo, FL 33771	
+328	New Testament Baptist Church	2050 S Belcher Rd	Largo, FL 33771	
+329	Largo Community Center	400 Alt. Keene Rd	Largo, FL 33771	
+330	New Testament Baptist Church	2050 S Belcher Rd	Largo, FL 33771	
+331	High Point Neighborhood Family Center	5812 150 Ave N	Clearwater, FL 33760	
+332	Feather Sound Country Club	2201 Feather Sound Dr	Clearwater, FL 33762	
+333	EpiCenter at St. Petersburg College	13805 58 St. N	Clearwater, FL 33760	
+334	Largo Community Center	400 Alt. Keene Rd	Largo, FL 33771	
+335	St. John's Episcopal Church	1676 S Belcher Rd	Clearwater, FL 33764	
+336	Largo Community Center	400 Alt. Keene Rd	Largo, FL 33771	
+337	Hope Presbyterian Church	1698 S Belcher Rd	Clearwater, FL 33764	
+338	St. Paul United Methodist Church	1199 Highland Ave	Largo, FL 33770	
+339	The Historic Largo Feed Store	295 Central Park Dr	Largo, FL 33771	
+340	Christ Presbyterian Church	3115 Dryer Ave	Largo, FL 33770	
+341	Belleair Bluffs City Hall	2747 Sunset Blvd	Belleair Bluffs, FL 33770	
+342	Christ Presbyterian Church	3115 Dryer Ave	Largo, FL 33770	
+343	Anona United Methodist Church	13233 Indian Rocks Rd	Largo, FL 33774	
+344	Belleair Town Hall	901 Ponce de Leon Blvd	Belleair, FL 33756	
+345	St. Paul United Methodist Church	1199 Highland Ave	Largo, FL 33770	
+346	The Historic Largo Feed Store	295 Central Park Dr	Largo, FL 33771	
+347	Seminole Community Library at SPC	9200 113 St	Seminole, FL 33772	
+348	Seminole Recreation Center	9100 113 St	Seminole, FL 33772	
+349	Oakhurst United Methodist Church	13400 Park Blvd	Seminole, FL 33776	
+350	Seventh Day Adventist Church	1445 Lakeview Rd	Clearwater, FL 33756	
+401	Island Chapel	1271 Pinellas Bayway S	Tierra Verde, FL 33715	
+402	Warren Webster Community Center	1500 Pass-A-Grille Way	St. Pete Beach, FL 33706	
+403	Warren Webster Community Center	1500 Pass-A-Grille Way	St. Pete Beach, FL 33706	
+404	St. Pete Beach Community Center	7701 Boca Ciega Dr	St. Pete Beach, FL 33706	
+405	St. Pete Beach Community Center	7701 Boca Ciega Dr	St. Pete Beach, FL 33706	
+406	Treasure Island Community Center	1 Park Pl	Treasure Island, FL 33706	
+407	Treasure Island Community Center	1 Park Pl	Treasure Island, FL 33706	
+408	Treasure Island Community Center	1 Park Pl	Treasure Island, FL 33706	
+409	Treasure Island Community Center	1 Park Pl	Treasure Island, FL 33706	
+415	Madeira Beach Municipal Building	300 Municipal Dr	Madeira Beach, FL 33708	
+416	Redington Beach Town Hall	105 164 Ave	Redington Beach, FL 33708	
+417	N Redington Beach Town Hall	190 173 Ave	North Redington Beach, FL 33708	
+418	Redington Shores Town Hall	17425 Gulf Blvd	Redington Shores, FL 33708	
+419	Indian Shores Town Hall	19305 Gulf Blvd	Indian Shores, FL 33785	
+420	Indian Rocks Beach City Hall	1507 Bay Palm Blvd	Indian Rocks Beach, FL 33785	
+421	Belleair Beach City Hall	444 Causeway Blvd	Belleair Beach, FL 33786	
+422	Belleair Beach City Hall	444 Causeway Blvd	Belleair Beach, FL 33786	
+500	Ross Norton Recreation Center	1426 S M L King Jr. Ave	Clearwater, FL 33756	
+501	Seventh Day Adventist Church	1445 Lakeview Rd	Clearwater, FL 33756	
+502	St. John's Episcopal Church	1676 S Belcher Rd	Clearwater, FL 33764	
+503	First Church of the Nazarene	1875 Nursery Rd	Clearwater, FL 33764	
+504	First Church of the Nazarene	1875 Nursery Rd	Clearwater, FL 33764	
+505	First Christian Church of Clwr.	2299 Drew St.	Clearwater, FL 33765	
+506	First Christian Church of Clwr.	2299 Drew St.	Clearwater, FL 33765	
+507	Central Christian Church of Clwr.	1200 S Keene Rd	Clearwater, FL 33756	
+508	Central Christian Church of Clwr.	1200 S Keene Rd	Clearwater, FL 33756	
+509	Trinity Presbyterian Church	2001 Rainbow Dr	Clearwater, FL 33765	
+510	St. Paul's Lutheran Church	407 S Saturn Ave	Clearwater, FL 33755	
+511	Clearwater Main Library	100 N Osceola Ave	Clearwater, FL 33755	
+512	Clearwater Main Library	100 N Osceola Ave	Clearwater, FL 33755	
+513	Clearwater Community Sailing Center	1001 Gulf Blvd	Clearwater, FL 33767	
+514	Clearwater Beach Rec. Center	69 Bay Esplanade	Clearwater, FL 33767	
+515	St. Brendan Catholic Church	245 Dory Passage	Clearwater, FL 33767	
+516	North Greenwood Recreation & Aquatic Complex	900 N Martin Luther King Jr Ave	Clearwater, FL 33755	
+517	Kings Highway Recreation Center	1751 Kings Hwy	Clearwater, FL 33755	
+518	Polish Center	1521 N Saturn Ave	Clearwater, FL 33755	
+519	St. Paul's Lutheran Church	407 S Saturn Ave	Clearwater, FL 33755	
+520	Polish Center	1521 N Saturn Ave	Clearwater, FL 33755	
+521	Salvation Army	1625 N Belcher Rd	Clearwater, FL 33765	
+522	On Top of the World East	2069 World Parkway Blvd	Clearwater, FL 33763	
+523	On Top of the World West	2291 World Parkway Blvd W	Clearwater, FL 33763	
+524	St. Michael Archangel Catholic Ch	2281 State Road 580	Clearwater, FL 33763	
+525	St. Michael Archangel Catholic Ch	2281 State Road 580	Clearwater, FL 33763	
+526	Dunedin Assembly of God Church	885 Lake Haven Rd.	Dunedin, FL 34698	
+527	Polish Center	1521 N Saturn Ave	Clearwater, FL 33755	
+528	Kings Highway Recreation Center	1751 Kings Hwy	Clearwater, FL 33755	
+529	Dunedin Assembly of God Church	885 Lake Haven Rd.	Dunedin, FL 34698	
+530	Clearwater Community Church	2897 Belcher Rd	Dunedin, FL 34698	
+531	Doral Village	29250 US Hwy. 19 N	Clearwater, FL 33761	
+532	Emmanuel Community Church	1150 County Rd. 1	Palm Harbor, FL 34683	
+533	Dunedin Community Center	1920 Pinehurst Rd.	Dunedin, FL 34698	
+534	Emmanuel Community Church	1150 County Rd. 1	Palm Harbor, FL 34683	
+535	Dunedin Community Center	1920 Pinehurst Rd.	Dunedin, FL 34698	
+536	Curlew United Methodist Church	2210 Cathedral Dr	Palm Harbor, FL 34683	
+537	First Presbyterian Church	455 Scotland St.	Dunedin, FL 34698	
+538	Emmanuel Community Church	1150 County Rd. 1	Palm Harbor, FL 34683	
+539	Palm Harbor Library	2330 Nebraska Ave	Palm Harbor, FL 34683	
+540	Harbor Hall	1190 Georgia Ave	Palm Harbor, FL 34683	
+541	Centre of Palm Harbor	1500 16 St	Palm Harbor, FL 34683	
+542	Centre of Palm Harbor	1500 16 St	Palm Harbor, FL 34683	
+543	Crystal Beach Civic Center	517 Crystal Beach Ave	Crystal Beach, FL 34681	
+544	Pleasant Valley Baptist Church	1700 Klosterman Rd	Palm Harbor, FL 34683	
+545	Baywood Village	309 Westwinds Dr	Palm Harbor, FL 34683	
+600	Calvary Church Student Ministry Center	150 S McMullen Booth Rd	Clearwater, FL 33759	
+601	EpiCenter at St. Petersburg College	13805 58 St. N	Clearwater, FL 33760	
+602	Feather Sound Country Club	2201 Feather Sound Dr	Clearwater, FL 33762	
+603	Wood Valley Boys and Girls Club	2816 Park Trail Ln	Clearwater, FL 33759	
+604	Cove Cay - Village Four	3500 Cove Cay Dr	Clearwater, FL 33760	
+605	Calvary Church Student Ministry Center	150 S McMullen Booth Rd	Clearwater, FL 33759	
+606	Safety Harbor Public Library	101 2 St N	Safety Harbor, FL 34695	
+607	First Christian Church of Clwr.	2299 Drew St.	Clearwater, FL 33765	
+608	Calvary Church Student Ministry Center	150 S McMullen Booth Rd	Clearwater, FL 33759	
+609	Wood Valley Boys and Girls Club	2816 Park Trail Ln	Clearwater, FL 33759	
+610	Sylvan Abbey United Methodist Ch	2817 Sunset Point Rd	Clearwater, FL 33759	
+611	Heritage United Methodist Church	2680 Landmark Dr	Clearwater, FL 33761	
+612	Cypress Meadows Community Church	2180 N McMullen Booth Rd	Clearwater, FL 33759	
+613	Safety Harbor Public Library	101 2 St N	Safety Harbor, FL 34695	
+614	Countryside Baptist Church	2525 N McMullen Booth Rd	Clearwater, FL 33761	
+615	Countryside Baptist Church	2525 N McMullen Booth Rd	Clearwater, FL 33761	
+616	Clearwater Countryside Library	2642 Sabal Springs Dr	Clearwater, FL 33761	
+617	Clearwater Countryside Library	2642 Sabal Springs Dr	Clearwater, FL 33761	
+618	Northwood Presbyterian Church	2875 State Road 580	Clearwater, FL 33761	
+619	Briar Creek MHP - Clubhouse 1	100 Briar Creek Blvd	Safety Harbor, FL 34695	
+620	Oldsmar Library	400 St. Petersburg Dr E	Oldsmar, FL 34677	
+621	Oldsmar Fire Station	225 Pine Ave N	Oldsmar, FL 34677	
+622	Gull Aire Village Clubhouse	151 B Gull Aire Blvd	Oldsmar, FL 34677	
+623	Bethel Lutheran Church	3166 N McMullen Booth Rd	Clearwater, FL 33761	
+624	Doral Village	29250 US Hwy. 19 N	Clearwater, FL 33761	
+625	Gull Aire Village Clubhouse	151 B Gull Aire Blvd	Oldsmar, FL 34677	
+626	Bethel Lutheran Church	3166 N McMullen Booth Rd	Clearwater, FL 33761	
+627	East Lake Woodlands Country Club	1055 East Lake Woodlands Pkwy	Oldsmar, FL 34677	
+628	Bethel Lutheran Church	3166 N McMullen Booth Rd	Clearwater, FL 33761	
+629	Bethel Lutheran Church	3166 N McMullen Booth Rd	Clearwater, FL 33761	
+630	Curlew United Methodist Church	2210 Cathedral Dr	Palm Harbor, FL 34683	
+631	Highland Lakes Club	3300 MacGregor Dr	Palm Harbor, FL 34684	
+632	Highland Lakes Club	3300 MacGregor Dr	Palm Harbor, FL 34684	
+633	St. Luke Catholic Church	2757 Alderman Rd	Palm Harbor, FL 34684	
+634	Quality Inn & Suites	38724 US Hwy 19 N	Tarpon Springs, FL 34689	
+635	Lutheran Church of the Resurrection	1555 Windmill Pointe Rd	Palm Harbor, FL 34685	
+636	East Lake United Methodist Church	2801 East Lake Rd	Palm Harbor, FL 34685	
+637	East Lake United Methodist Church	2801 East Lake Rd	Palm Harbor, FL 34685	
+638	Lutheran Church of the Resurrection	1555 Windmill Pointe Rd	Palm Harbor, FL 34685	
+701	Church on the Bayou Presbyterian	409 Whitcomb Blvd	Tarpon Springs, FL 34689	
+702	Tarpon Springs Manor Apartments	61000 Polly Dr	Tarpon Springs, FL 34689	
+703	Tarpon Springs Community Center	400 S Walton Ave	Tarpon Springs, FL 34689	
+704	St. Nicholas Cathedral	36 N Pinellas Ave	Tarpon Springs, FL 34689	
+705	First Baptist Church	1021 Gulf Rd	Tarpon Springs, FL 34689	
+706	Tarpon Springs Heritage Museum	100 Beekman Ln	Tarpon Springs, FL 34689	
+710	Tarpon Springs Community Center	400 S Walton Ave	Tarpon Springs, FL 34689	
+711	Lakeview Community Church	475 East Lake Rd N	Tarpon Springs, FL 34688	
+712	St. Timothy Lutheran Church	812 E Tarpon Ave	Tarpon Springs, FL 34689	

@@ -1,0 +1,15 @@
+101	MLK/Elm Rec Center	1200 Elm St	Fernandina Beach, FL 32034	
+102	Atlantic Rec Center	2500 Atlantic Ave	Fernandina Beach, FL 32034	
+201	Atlantic Rec Center	2500 Atlantic Ave	Fernandina Beach, FL 32034	
+202	American Beach Community Center	1600 Julia St	Fernandina Beach, FL 32034	
+203	Springhill Baptist Church	941017 Old Nassauville Rd	Fernandina Beach, FL 32034	
+204	Springhill Baptist Church	941017 Old Nassauville Rd	Fernandina Beach, FL 32034	
+301	James S. Page Govt Complex	96135 Nassau Place	Yulee, FL 32097	
+302	Yulee Sports Complex	86142 Goodbread Rd	Yulee, FL 32097	
+303	Yulee Middle School	85439 Miner Rd	Yulee, FL 32097	
+401	Hilliard Middle-Senior High School	1 Flashes Ave	Hilliard, FL 32046	
+402	West Nassau High School	1 Warrior Dr	Callahan, FL 32011	
+403	Bryceville Community Center	7280 Motes Rd	Bryceville, FL 32009	
+501	Yulee Sports Complex	86142 Goodbread Rd	Yulee, FL 32097	
+503	West Nassau High School	1 Warrior Dr	Callahan, FL 32011	
+504	West Nassau High School	1 Warrior Dr	Callahan, FL 32011	

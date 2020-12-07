@@ -1,0 +1,9 @@
+00	Elections Office	47 Ave F	Apalachicola, FL 32320	
+01	Volunteer Fire Department	24 6th St	Eastpoint, FL 32328	
+02	Mission by the Sea	772 Alligator Dr	Alligator Point, FL 32346	
+03	National Guard Armory	66 4th Street	Apalachicola, FL 32320	
+04	Apalachicola Armory	66 4th Street	Apalachicola, FL 32320	
+05	Senior Citizens Center	201 Avenue F	Carrabelle, FL 32322	
+06	Chillas Hall	156 A Heffernan Dr	Lanark Village, FL 32323	
+07	St. George Island Methodist Church	201 E Gulf Beach Dr	St George Island, FL 32328	
+08	American Legion Hall	801 W US HWY 98	Apalachicola, FL 32320	

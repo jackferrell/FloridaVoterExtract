@@ -1,0 +1,12 @@
+1	Caryville Town Hall	4336 Old Spanish Trl	Caryville, FL 32427	
+2	Community Center- Five points	3892 Desalvo Rd	Caryville, FL 32427	
+3	Fire Station - Hinson Crossroads	5487 Douglas Ferry Rd	Caryville, FL 32428	
+4	First Baptist Church (Agriculture Center)	1300 South blvd	Chipley, FL 32428	
+5	Vernon City Hall- Council Meeting Room	2808 Yellow Jacket Dr	Vernon, FL 32462	
+6	Campbell Park Community Center	4112 Jackson Community RD	Vernon, FL 32462	
+7	Orange Hill Fire Station	1927 Orange Hill Rd	Chipley, FL 32428	
+8	Armory	749 7th st	Chipley, FL 32428	
+9	City Hall - Wausau	1607 Second Ave	Chipley, FL 32428	
+11	City Hall - Ebro	6629 Dog Track Rd	Ebro, FL 32437	
+12	Greenhead -Trinity Pentecostal Church	5279 HWY 77	Chipley, FL 32428	
+15	Sunny Hills Community Ctr/Library	4083 Challenger Blvd	Chipley, FL 32428	

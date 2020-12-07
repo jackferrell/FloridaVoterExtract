@@ -1,0 +1,13 @@
+01	Levy County Ag Extension Office	625 N Hathaway Ave	Bronson, FL 32621	
+02	Williston Highlands	3231 NE 167th Ct	Williston, FL 32696	
+03	Bronson Dogan Cobb Bldg	660 E Hathaway Ave	Bronson, FL 32621	
+04	Cedar Key Community Center	809 6th St	Cedar Key, FL 32625	
+05	Tommy Usher Center	506 SW 4th Ave	Chiefland, FL 32626	
+06	Gulf Hammock Church of God	3510 SE CR 326	Gulf Hammock, FL 32639	
+07	Williston City Hall	50 NW Main St	Williston, FL 32696	
+08	Morriston Baptist Church	3141 SE Hwy 41	Morriston, FL 32668	
+09	Inglis Community Center	137 HWY 40 W	Inglis, FL 34449	
+10	Pine Grove Baptist Church	16655 NW CR 339	Trenton, FL 32693	
+11	Miracle Vision Tabernacle Outreach	18680 NE 75th St	Williston, FL 32696	
+12	Fanning Springs City Hall	17651 NW 90th Ct	Fanning Springs, FL 32693	
+13	Tommy Usher Center	506 SW 4th Ave	Chiefland, FL 32626	

@@ -1,0 +1,9 @@
+1A	Sanderson	8274 Thomas Sweat Rd	Sanderson, FL 32087	
+2A	South Macclenny	153 W Minnesota Ave	Macclenny, FL 32063	
+3A	North Macclenny	1025 W MacClenny Ave	Macclenny, FL 32063	
+4A	Baxter	27310 CR 127	Sanderson, FL 32087	
+4B	Taylor	26465 CR 250	Sanderson, FL 32087	
+4C	Macedonia	1025 W MacClenny Ave	Macclenny, FL 32063	
+4D	Cuyler	11226 Osceola rd	Glen St. Mary, FL 32040	
+5A	Glen St. Mary	6512 US 90	Glen St. Mary, FL 32040	
+6A	Olustee	23311 Lakeside Lane	Olustee, FL 32072	

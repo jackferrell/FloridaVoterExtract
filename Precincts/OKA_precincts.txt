@@ -1,0 +1,52 @@
+01	Baker Area Recreation Bldg	5503 HWY 4	Baker, FL 32531	
+02	Blackman Community Center	7590 HWY 189 N	Baker, FL 32531	
+03	Milligan Assembly of God Church	5408 Highway 4	Baker, FL 32531-8434	
+04	First Baptist Church of Holt	532 HWY 90 W	Holt, FL 32564	
+05	First Baptist Church of Laurel Hill	3972 2nd Ave	Laurel Hill, FL 32567	
+06	Auburn Pentecostal Church	6144 HWY 85 N	Crestview, FL 32536	
+07	Dorcas Baptist Church	5880 McCallum Rd	Crestview, FL 32536	
+08	Emmanuel Baptist Church	3252 James Lee Blvd E	Crestview, FL 32539	
+09	New Beginnings Church	412 James Lee Blvd W	Crestview, FL 32536	
+10	Covenant Community Church	1007 Gospel Rd	Fort Walton Beach, FL 32547	
+11	Lifepoint Church	400 Ferdon Blvd S	Crestview, FL 32536	
+12	Carver Hill School	461 School Ave W	Crestview, FL 32536	
+13	Woodlawn Baptist Church	824 Ferdon Blvd N	Crestview, FL 32536	
+14	St Jude's Episcopal Church	200 Partin Dr N	Niceville, FL 32578	
+15	New Hope Baptist Church	108 Aurora St	Valparaiso, FL 32580	
+16	Okaloosa County Administration Bldg	1250 Eglin Pkwy	Shalimar, FL 32579	
+17	Wright Baptist Church	795 Beal Pkwy NW	Fort Walton Beach, FL 32547-3080	
+18	Beachside Community Church	200 Racetrack Rd NW	Ft Walton Bch, FL 32547	
+19	Beulah First Baptist Church	109 McGriff St NE	Ft Walton Bch, FL 32548	
+20	Destin Community Center	101 Stahlman Ave	Destin, FL 32541	
+21	Emerald Coast Worship Center	300 Mary Esther Blvd	Mary Esther, FL 32569-1675	
+22	Ft Walton Bch Recreation Center	132 Jet Dr NW	Fort Walton Beach, FL 32548	
+23	Eglin West Gate Chapel	0 Eglin Blvd	Eglin Afb, FL 32542	
+24	Rivers of Living Waters Church	205 Carol Ave NW	Fort Walton Beach, FL 32547	
+25	Holy Name of Jesus Catholic Church	1200 Valparaiso Blvd	Niceville, FL 32578	
+26	Christ Our Redeemer Catholic Church	1028 White Point Rd	Niceville, FL 32578	
+27	Cinco Bayou Town Hall	10 Yacht Club Dr	Fort Walton Beach, FL 32548	
+28	Cinco Bayou Town Hall	10 Yacht Club Dr	Fort Walton Beach, FL 32548	
+29	Trinity United Methodist Church	403 Racetrack Rd NW	Fort Walton Beach, FL 32547	
+30	Elks Lodge	1335 Miracle Strip Pky	Fort Walton Beach, FL 32548	
+31	Bob Hope Village Welcome Ctr	92 Sunset Ln	Shalimar, FL 32579	
+32	The Church of Christ	232 Hollywood Blvd SE	Ft Walton Bch, FL 32548	
+33	First Presbyterian Church	1800 John Sims Pky	Niceville, FL 32578	
+34	St. Peter Catholic Church	100 Francis St	Mary Esther, FL 32569	
+35	Corpus Christi Catholic Church	307 Beach Dr	Destin, FL 32541	
+36	Holy Name of Jesus Catholic Church	1200 Valparaiso Blvd	Niceville, FL 32578	
+37	Okaloosa County Administration Bldg	1250 Eglin Pkwy	Shalimar, FL 32579	
+38	The Salvation Army Chapel	425 Mary Esther CTO	Ft Walton Bch, FL 32548-4019	
+39	Wright Baptist Church	795 Beal Pkwy NW	Fort Walton Beach, FL 32547-3080	
+40	Christ Our Redeemer Catholic Church	1028 White Point Rd	Niceville, FL 32578	
+41	Ft Walton Bch Recreation Center	132 Jet Dr NW	Fort Walton Beach, FL 32548	
+42	Destiny Worship Center	233 Hill Ave NW	Ft Walton Bch, FL 32548	
+43	Holy Name of Jesus Catholic Church	1200 Valparaiso Blvd	Niceville, FL 32578	
+44	Corpus Christi Catholic Church	307 Beach Dr	Destin, FL 32541	
+45	INDYNE	4050 South Ferdon Blvd	Crestview, FL 32536	
+46	Crosspoint Church Bluewater	4400 Highway 20 E	Niceville, FL 32578	
+47	St. Peter Catholic Church	100 Francis St	Mary Esther, FL 32569	
+48	The Meridian at Westwood	1001 Mar Walt Dr NW	Ft Walton Bch, FL 32547	
+49	Destin City Hall Annex	4100 Indian Bayou Trl	Destin, FL 32541	
+50	Destin City Hall Annex	4100 Indian Bayou Trl	Destin, FL 32541	
+51	Airport Road Church of Christ	2845 Airport Rd	Crestview, FL 32536	
+52	Live Oak Baptist Church	4565 Live Oak Church Rd	Crestview, FL 32536	

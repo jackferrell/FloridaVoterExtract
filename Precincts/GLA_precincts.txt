@@ -1,0 +1,13 @@
+1	Doyle Conner Bldg	900 US Hwy 27	MOORE HAVEN, FL 33471	
+2	Ortona Community Center	2086 Ortona Locks Rd	MOORE HAVEN, FL 33471	
+3	Doyle Conner Bldg	900 US Hwy 27	MOORE HAVEN, FL 33471	
+4	Palmdale Community Center	483 Main Ave	PALMDALE, FL 33944	
+5	Muse Community Center	3897 Loblolly	LABELLE, FL 33935	
+6	Doyle Conner Bldg	900 US Hwy 27	MOORE HAVEN, FL 33471	
+7	Lakeport Community Center	1239 Red Barn Rd	Moore Haven, FL 33471	
+8	BHR Community Center	30076 E State Rd 78	Okeechobee, FL 34974	
+9	Lakeport Community Center	1239 Red Barn Rd	Moore Haven, FL 33471	
+10	Lakeport Community Center	1239 Red Barn Rd	Moore Haven, FL 33471	
+11	Doyle Conner Bldg	900 US Hwy 27	MOORE HAVEN, FL 33471	
+12	Washington Park Comm. ctr.	1182 Gamble St	Moore Haven, FL 33471	
+13	Indian Hills Fire Dept.	2172 Indian Hills	Moore Haven, FL 33471	

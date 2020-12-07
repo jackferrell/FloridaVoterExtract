@@ -1,0 +1,64 @@
+1	001 - Lakewood Park Village Hall	7508 Jennings Way	Fort Pierce, FL 34951	
+6	006 - Orange Blossom Bus Ctr Entr 2 & 3	4132 Okeechobee Rd	Fort Pierce, FL 34947	
+7	007 - Havert L Fenn Center	2000 Virginia Ave	Fort Pierce, FL 34982	
+8	008 - Midway Road Church of Christ	3040 W Midway Rd	Fort Pierce, FL 34981	
+9	009 - National Navy SEAL Museum	3300 N A1A	Fort Pierce, FL 34949	
+10	010 - Havert L. Fenn Center	2000 Virginia Ave	Fort Pierce, FL 34982	
+11	011 - Port St. Lucie Civic Center	9221 SE Civic Center PL	Pt St Lucie, FL 34952	
+12	012 - Fort Pierce Masonic Lodge	4590 Oleander Ave	Fort Pierce, FL 34982	
+13	013 - Havert L Fenn Center	2000 Virginia Ave	Fort Pierce, FL 34982	
+14	014 - Miracle Prayer Temple	3215 Avenue Q	Fort Pierce, FL 34947	
+15	015 - Holiday Out Recreation Hall	10820 S Ocean Dr	Jensen Beach, FL 34957	
+16	016 - Chapel By the Sea	1717 Gulfstream Ave	Fort Pierce, FL 34949	
+17	017 - St. Paul A.M.E. Church	1405 N 27th St	Fort Pierce, FL 34947	
+18	018 - Lincoln Park Recreation Ctr	1306 Avenue M	Fort Pierce, FL 34950	
+19	019 - Havert L Fenn Center	2000 Virgina Ave	Fort Pierce, FL 34982	
+20	020 - Spanish Lakes Riverfront	157 Camino Del Rio	Pt St Lucie, FL 34952	
+21	021 - Spanish Lakes Original	1 Silver Oak Dr	Pt St Lucie, FL 34952	
+22	022 - PSL Council on Aging	2501 SW Bayshore Blvd	Pt St Lucie, FL 34984	
+23	023 - St. Andrew Lutheran Church	295 NW Prima Vista Blvd	Pt St Lucie, FL 34983	
+24	024 - Miracle Prayer Temple	3215 Avenue Q	Fort Pierce, FL 34947	
+25	025 - Days Inn Midtown	3224 S U S HWY 1	Fort Pierce, FL 34982	
+26	026 - Port St Lucie Community Ctr	2195 SE Airoso Blvd	Pt St Lucie, FL 34984	
+28	028 - Orange Blossom Bus Ctr Entr 2 & 3	4132 Okeechobee Rd	Fort Pierce, FL 34947	
+29	029 - Orange Blossom Bus Ctr Entr 2 & 3	4132 Okeechobee rd	Fort Pierce, FL 34947	
+31	031 - Spanish Lakes Fairways	6200 Nuevo Lagos	Fort Pierce, FL 34951	
+33	033 -Orange Blossom Bus Ctr Entr 2 & 3	4132 Okeechobee Rd	Fort Pierce, FL 34947	
+35	035 - F.U.M.C. Outreach Center	260 SW Prima Vista Blvd	Pt St Lucie, FL 34983	
+36	036 - Port St. Lucie Civic Center	9221 SE Civic Center PL	Pt St Lucie, FL 34952	
+37	037 - Family Life Worship Center	4311 SW Darwin Blvd	Pt St Lucie, FL 34953	
+38	038 - Spanish Lakes Golf Village	100 W Caribbean	Pt St Lucie, FL 34952	
+39	039 - Spanish Lakes Country Club	1 Las Casitas	Fort Pierce, FL 34951	
+40	040 - Church of God	3212 Oleander Ave	Fort Pierce, FL 34982	
+41	041 - The BPO Elks Lodge #2823	343 NW Prima Vista Blvd	Pt St Lucie, FL 34983	
+42	042 - First Congregational Church	2401 SE Sidonia St	Pt St Lucie, FL 34952	
+43	043 -The Island Club at P.G.A. Vlge	9200 One Putt Pl	Pt St Lucie, FL 34986	
+45	045 - Port St Lucie Community Ctr	2195 SE Airoso Blvd	Pt St Lucie, FL 34984	
+46	046 - Real Life Church	1445 SW Hibiscus St	Pt St Lucie, FL 34983	
+47	047 - Windmill Point I Clubhouse	490 SW Kentwood Rd	Pt St Lucie, FL 34953	
+49	049 -Oak Hammock K - 8 School	1251 SW California Blvd	Pt St Lucie, FL 34953	
+50	050 - Treasure Coast High School	1000 SW Darwin Blvd	Pt St Lucie, FL 34953	
+51	051 - Disabled American Vets Hall	1150 SW California Blvd	Pt St Lucie, FL 34953	
+52	052 - Spanish Lakes Country Club	1 Las Casitas	Fort Pierce, FL 34951	
+53	053 - PSL Police Athletic League	2101 SE Tiffany Ave	Pt St Lucie, FL 34952	
+56	056 - F.U.M.C. Outreach Center	260 SW Prima Vista Blv	Pt St Lucie, FL 34983	
+60	060 - St Lucie School	2501 N Old Dixie Hwy	Fort Pierce, FL 34946	
+63	063 - St. Lucie School	2501 N Old Dixie Hwy	Fort Pierce, FL 34946	
+65	065 - Harbour Ridge Clubhouse	12600 Harbour Ridge Blvd	Palm City, FL 34990	
+66	066 - Church of the Nazarene	151 SW Kestor Dr	Pt St Lucie, FL 34953	
+67	067 - Grace Lutheran Church	555 SW Cashmere Blvd	Pt St Lucie, FL 34986	
+68	068 - The Lighthouse Chapel	6681 NW Selvitz Rd	Pt St Lucie, FL 34983	
+71	071 - Crosstown Fellowship	1885 SW Del Rio Blvd	Pt St Lucie, FL 34953	
+73	073 - Harbor Place	3700 SE Jennings Rd	Pt St Lucie, FL 34952	
+74	074 - Savanna Club	3492 Crabapple Dr	Pt St Lucie, FL 34952	
+75	075 - St. Andrews Lutheran Church	295 NW Prima Vista Blvd	Pt St Lucie, FL 34983	
+82	082 - River Place on the St. Lucie	450 NE Lazy River Pkwy	Pt St Lucie, FL 34983	
+83	083 - Paula A. Lewis Library	2950 SW Rosser Blvd	Pt St Lucie, FL 34953	
+84	084 - Parks Edge POA Inc.	3201 SW Landale Blvd	Port St Lucie, FL 34953	
+85	085 - IRSC Schreiber Center	500 NW California Blvd	Pt St Lucie, FL 34986	
+86	086 - Sunlight Community Church	477 SW Cashmere Blvd	Port St Lucie, FL 34986	
+89	089 - Tradition Town Hall	10799 SW Civic Ln	Pt St Lucie, FL 34987	
+91	091-Orange Blossom Bus Ctr Entr 2 & 3	4132 Okeechobee Rd	Fort Pierce, FL 34947	
+92	092-Orange Blossom Bus Ctr Entr 2 & 3	4132 Okeechobee Rd	Fort Pierce, FL 34947	
+93	093-Orange Blossom Bus Ctr Entr 2 & 3	4132 Okeechobee Rd	Fort Pierce, FL 34947	
+94	094-Spanish Lakes Fairways	6200 Nuevo Lagos	Fort Pierce, FL 34951	

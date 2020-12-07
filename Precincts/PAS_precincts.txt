@@ -1,0 +1,111 @@
+001	First Baptist Church Dade City	37511 Church Ave	Dade City, FL 33525	
+002	Trilby Lodge No.141 F & AM	21049 Old Trilby Rd	Dade City, FL 33523	
+003	Pasco-Hernando State College	36727 Blanton Rd	Dade City, FL 33523	
+004	Shepherd of the Hills Lutheran Church	37015 Orange Valley Ln	Dade City, FL 33525	
+005	Country Aire Manor	10249 US-98	Dade City, FL 33525	
+006	Alice Hall Community Center	38116 5th Ave	Zephyrhills, FL 33542	
+007	Bridgeway Church	30660 Wells Rd	Wesley Chapel, FL 33545	
+008	Heritage Park Building A	5401 Land O' Lakes Blvd	Land O' Lakes, FL 34639	
+009	Darby Community Church	14745 Bellamy Brothers Blvd	Dade City, FL 33525	
+010	St. Anthony of Padua Catholic Church	12110 Main St	San Antonio, FL 33576	
+011	Holy Trinity Lutheran Church	20735 Leonard Rd	Lutz, FL 33558	
+012	Wilderness Lake Church	15511 US HWY 41	Spring Hill, FL 34610	
+013	Sea Ranch Civic Association	13711 Veronica Dr	Hudson, FL 34667	
+014	Church at Odessa	1234 Gunn Hwy	Odessa, FL 33556	
+015	Cornerstone Community Church	5708 Trouble Creek Rd	New Port Richey, FL 34652	
+016	Crystal Springs Community Hall	1655 Partridge Blvd	Zephyrhills, FL 33540	
+017	Church of God Land O' Lakes	8337 Land O' Lakes Blvd	Land O Lakes, FL 34638	
+018	Buena Vista Manor Civic Association	5112 Rosada Ave	Holiday, FL 34690	
+019	Pasco County Fair Assoc Inc. - Clayton Hall	36722 State Road 52	Dade City, FL 33525	
+020	Heritage Park Building B	5401 Land O' Lakes Blvd	Land O'Lakes, FL 34639	
+021	First Baptist Church Lacoochee	21012 Bower Rd	Dade City, FL 33523	
+022	Spanish Trails East Clubhouse	7111 Gall Blvd	Zephyrhills, FL 33541	
+023	Port Richey City Hall	6333 Ridge Rd	Port Richey, FL 34668	
+024	Williamsburg Tanglewood Club	28429 Williamsburg Dr	Wesley Chapel, FL 33543	
+025	New Port Richey Recreation Center	6630 Van Buren St	New Port Richey, FL 34653	
+026	Sea Pines Civic Association	7817 Gulf Way	Hudson, FL 34667	
+027	Elsie Logan Memorial Pk Civic Center	15840 Greenglen Ln	Spring Hill, FL 34610	
+028	Holiday Lake Ests Civic Center	3624 Atlantis Dr	Holiday, FL 34691	
+029	Bonita Hall-Buena Vista Trailer Pk	2039 Orange Dr	Holiday, FL 34691	
+030	St Vincent DePaul Parish Center	4843 Mile Stretch Dr	Holiday, FL 34690	
+031	Ballantrae Clubhouse	17611 Mentmore Blvd	Land O' Lakes, FL 34638	
+032	Beacon Square Civic Club	3741 Bradford Dr	Holiday, FL 34691	
+033	Gulf Harbors Civic Assn	4610 Floramar Terr	New Port Richey, FL 34652	
+034	Living Word Church (Activity Center)	5151 Rowan Rd	New Port Richey, FL 34653	
+035	Land O' Lakes Recreation Complex	3032 Collier Pkwy	Land O' Lakes, FL 34639	
+036	Willow Bend Community Church	2541 Henley Rd	Lutz, FL 33558	
+037	New Walk Church	35008 State Road 54	Zephyrhills, FL 33541	
+038	Country Walk Community Clubhouse	30400 Country Point Blvd	Wesley Chapel, FL 33543	
+039	Knights of Columbus Hall	11549 Curley St	San Antonio, FL 33576	
+040	Country Club Civic Center	12707 College Hill Dr	Hudson, FL 34667	
+041	VFW Post 4412	9734 Dick St	Hudson, FL 34669	
+042	J. Ben Harrill Recreation Center	2830 Gulf Trace Blvd	Holiday, FL 34691	
+043	Crest Ridge Gdns Community Club	4806 Phoenix Ave	Holiday, FL 34690	
+044	Senate Manor Mobile Park	6905 Clemens Blvd	Port Richey, FL 34668	
+045	Faith Baptist Church	9230 Ridge Rd	New Port Richey, FL 34654	
+046	Emmanuel Baptist Church	7831 Gulf Highlands Dr	Port Richey, FL 34668	
+047	Gardens of Beacon Square III Clubhouse	4205 Rustic Dr	New Port Richey, FL 34652	
+048	Meadow Point IV Clubhouse	3902 Meadow Pointe Blvd	Wesley Chapel, FL 33543	
+049	River Ridge Golf Club	11022 Tee Time Cir	New Port Richey, FL 34654	
+050	Masonic Lodge F.& A.M. #146	6319 Louisiana Ave	New Port Richey, FL 34653	
+051	BPOE Elks #2284	7201 Congress St	New Port Richey, FL 34653	
+052	Beacon Woods Civic Center	12440 Clock Tower Pkwy	Hudson, FL 34667	
+053	Regency Park Civic Club	10240 Regency Park Blvd	Port Richey, FL 34668	
+054	Salvation Army Fellowship Hall	7745 Ridge Rd	Port Richey, FL 34668	
+055	Zephyr Shores Estates POA Clubhouse	35143 State Road 54 W	Zephyrhills, FL 33541	
+056	Tropical Acres Clubhouse	3221 Paradise Way	Zephyrhills, FL 33541	
+057	Cross Point Church	5730 Elena Dr	Holiday, FL 34690	
+058	Colony Cove Recreation Hall	5203 Travelers Tree Dr	New Port Richey, FL 34653	
+059	Timber Oaks - The Oaks Club	8425 Ponderosa Ave	Port Richey, FL 34668	
+060	St. Reweis Coptic Orthodox Church	27137 Foamflower Blvd	Wesley Chapel, FL 33544	
+061	Millpond Clubhouse	7729 Morningdale Dr	New Port Richey, FL 34653	
+062	Life Church	6224 Old Pasco Rd	Wesley Chapel, FL 33544	
+063	Country Aire Ests Clubhouse	38130 McDonald St	Dade City, FL 33525	
+064	Betmar Acres Clubhouse #3	5512 Apache St	Zephyrhills, FL 33541	
+065	Chester McKay VFW Hall #7987	7445 Chester McKay Dr	New Port Richey, FL 34655	
+066	St. George Greek Orthodox Church	9426 Little Rd	New Port Richey, FL 34654	
+067	Holiday Free Methodist Church	5330 Whippoorwill Dr	Holiday, FL 34690	
+068	Hudson Library Community Room	8012 Library Rd	Hudson, FL 34667	
+069	Faith Baptist Church	38634 County Rd 54	Zephyrhills, FL 33542	
+070	The Groves CDD Clubhouse	7924 Melogold Cir	Land O' Lakes, FL 34637	
+071	New Hope Missionary Baptist Church	14236 County Line Rd	Hudson, FL 34667	
+072	Eagle's Landing Church	6538 Ridge Rd	Port Richey, FL 34668	
+073	Lexington Oaks Community Center	26304 Lexington Oaks Blvd	Wesley Chapel, FL 33544	
+074	St. Leo Town Hall	34544 State Road 52	St Leo, FL 33574	
+075	Pasco County Facilities	7220 Osteen Rd	New Port Richey, FL 34653	
+076	Tampa Bay Golf & Country Club	11245 Old Tampa Bay Dr	San Antonio, FL 33576	
+077	Veterans Memorial Park Gym	14333 Hicks Rd	Hudson, FL 34669	
+078	Heritage Lake Clubhouse	9151 Heritage Lake Blvd	New Port Richey, FL 34655	
+079	Sacred Heart Catholic Church	32145 Saint Joe Rd	Dade City, FL 33525	
+080	Suncoast Lakes HOA Clubhouse	10742 Burning Bush Terrace	Land O' Lakes, FL 34638	
+081	Regency Park Library	9701 Little Road	New Port Richey, FL 34654	
+082	Heritage Pines Country Club	11524 Scenic Hills Blvd	Hudson, FL 34667	
+083	Heritage Springs Clubhouse	11345 Robert Trent Jones Pky	Trinity, FL 34655	
+084	Timber Lake Estates Clubhouse	34301 Countryside Dr	Zephyrhills, FL 33543	
+085	Meadow Pointe Clubhouse	28245 County Line Rd	Wesley Chapel, FL 33543	
+086	Shady Oaks MHP Civic Club	3651 Castle Dr	Zephyrhills, FL 33540	
+087	Seven Oaks Clubhouse	2910 Sportscore Cir	Wesley Chapel, FL 33544	
+088	Travelers Rest Citrus Hall	29129 Johnston Rd	Dade City, FL 33523	
+089	Lakewood Church of God	12637 Pony Ln	Hudson, FL 34669	
+090	Meadow Pointe III Clubhouse	1500 Meadow Pointe Blvd	Wesley Chapel, FL 33543	
+091	Generations Christian Church	1540 Little Rd	Trinity, FL 34655	
+092	Beacon Woods East HOA (Clubhouse)	8421 Clayton Blvd	Hudson, FL 34667	
+093	Trinity Presbyterian Church	4651 Little Rd	New Port Richey, FL 34655	
+094	Fairway Springs Clubhouse	3331 Player Dr	New Port Richey, FL 34655	
+095	Lake Heron Clubhouse	21361 Lake Floyd Dr	Lutz, FL 33549	
+096	Carpenter's Run Clubhouse	1735 Carpenter's Run Blvd	Lutz, FL 33559	
+097	Faith United Methodist Church	12128 State Road 52	Hudson, FL 34669	
+098	Stagecoach Clubhouse	3632 Mossy Oak Cir	Land O' Lakes, FL 34639	
+099	Northwood Community Center	27248 Big Sur Dr	Wesley Chapel, FL 33544	
+100	Trinity College of Florida	2430 Welbilt Blvd	Trinity, FL 34655	
+101	Meadow Pointe II Clubhouse	30051 County Line Rd	Wesley Chapel, FL 33543	
+102	Seven Springs Country Club	3535 Trophy Blvd	New Port Richey, FL 34655	
+103	Oakstead Clubhouse	3038 Oakstead Blvd	Land O'Lakes, FL 34638	
+104	Tropical Mobile Home Park Clubhouse	37407 Ray Dr	Zephyrhills, FL 33541	
+105	Timber Greens Clubhouse	6333 Timber Greens Blvd	New Port Richey, FL 34655	
+106	The Starkey Ranch (Cunningham Hall)	12131 Rangeland Blvd	Odessa, FL 33556	
+107	New River Branch Library	34043 State Road 54	Wesley Chapel, FL 33543	
+108	The Concourse Event Center	11919 Alric Pottberg Rd	Shady Hills, FL 34610	
+109	the church @ Myrtle Lake	2017 Riegler Rd	Land O' Lakes, FL 34639	
+110	New Beginnings Family Ministries	18935 Michigan Lane	Spring Hill, FL 34610	
+111	Phi Delta Kappa	11301 Phi Delt Way	Odessa, FL 33556-3474	

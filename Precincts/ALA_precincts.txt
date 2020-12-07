@@ -1,0 +1,64 @@
+01	First Baptist Church of Waldo	14370 Kennard St	Waldo, FL 32694-0216	
+02	LaCrosse Town Hall	20613 N. SR 121	Lacrosse, FL 32658-0000	
+03	Legacy Park Multipurpose Center	15400 Peggy Rd	Alachua, FL 32615	
+04	Newberry United Methodist Church	24845 Newberry Rd	Newberry, FL 32669-0000	
+05	First Lutheran Church	1801 NW 5th Ave	Gainesville, FL 32603-1624	
+06	Newberry Municipal Building	25420 W Newberry Rd	Newberry, FL 32669	
+07	Ignite Life Center	404 NW 14th Ave	Gainesville, FL 32601-4215	
+08	Hawthorne Community Center	6700 SE 221 St	Hawthorne, FL 32640-3816	
+09	Island Grove Baptist Church	20905 SE 219th Ave	Island Grove, FL 32654-0000	
+10	Micanopy Town Hall	706 NE Cholokka Blvd	Micanopy, FL 32667-4113	
+11	Archer Community Center	16671 SW 137th Ave	Archer, FL 32618	
+12	Parkview Baptist Church	3403 NW 13th St	Gainesville, FL 32609-2172	
+13	Mt. Carmel Baptist Church	2505 NE 8th Ave	Gainesville, FL 32641-4808	
+14	Melrose United Methodist Church	5807 NE Hampton St	Melrose, FL 32666	
+15	Windsor Baptist Church	918 SE County Road 234	Gainesville, FL 32641-1306	
+16	Best Western Gateway Grand Hotel	4200 NW 97th Blvd	Gainesville, FL 32606-3742	
+17	Elks Lodge #990	2424 NW 23rd Blvd	Gainesville, FL 32605-2961	
+18	Kanapaha Presbyterian Church	6221 SW 75th Ter	Gainesville, FL 32608-5611	
+19	Springhill Baptist Church	120 SE Williston Rd	Gainesville, FL 32641-9718	
+20	High Springs Civic Center	330 NW Santa Fe Blvd	High Springs, FL 32643	
+21	North Central Florida YMCA	5201 NW 34th Blvd	Gainesville, FL 32605	
+22	Northwest Baptist Church	5514 NW 23rd Ave	Gainesville, FL 32606-6428	
+23	City College	2400 SW 13th St	Gainesville, FL 32608	
+24	Gainesville Baptist Church	3570 NW 16th Blvd	Gainesville, FL 32605-3603	
+25	SFC Blount Center	401 NW 6th St	Gainesville, FL 32601	
+26	Westside Recreation Center	1001 NW 34th St	Gainesville, FL 32605-5000	
+27	Thelma Boltin Activity Center	516 NE 2nd Ave	Gainesville, FL 32601-5435	
+28	McPherson Recreation Center	1717 SE 15th St	Gainesville, FL 32602-0000	
+29	Haile Meeting Hall	5100 SW 91st Ter	Gainesville, FL 32608-8143	
+30	Greater Bethel A.M.E. Church	701 SE 43rd St	Gainesville, FL 32641-7665	
+31	J. Wayne Reitz Union	655 Reitz Union Dr	Gainesville, FL 32611-0000	
+32	LifeSouth Community Blood Centers	4039 Newberry Rd	Gainesville, FL 32607-2342	
+33	Ironwood Golf Course	2100 NE 39th Ave	Gainesville, FL 32609	
+34	Fairbanks Baptist Church	5709 NE 78th Pl	Fairbanks, FL 32609-1301	
+35	Southwest United Methodist Church	2400 SW Williston Rd	Gainesville, FL 32643-0000	
+36	Doyle Conner Building	1911 SW 34th St	Gainesville, FL 32614-7100	
+37	Unitarian Universalist Fellowship	4225 NW 34th St	Gainesville, FL 32605-1422	
+38	Senior Recreation Center	5701 NW 34th St	Gainesville, FL 32653-1776	
+39	Hilton UF Conference Center	1714 SW 34th St	Gainesville, FL 32607	
+40	University City Church Of Christ	4626 NW 8th Ave	Gainesville, FL 32605-4525	
+41	Oak Dale Baptist Church	17015 Newberry Rd	Newberry, FL 32669-2106	
+42	Tower Road Branch Library	3020 SW 75th St	Gainesville, FL 32608-0000	
+43	Grace United Methodist Church	9325 Newberry Rd	Gainesville, FL 32607-0000	
+44	Phillips Center for the Performing Arts	3201 Hull Rd	Gainesville, FL 32611-2750	
+45	Trinity United Methodist Church	4000 NW 53rd Ave	Gainesville, FL 32653-4405	
+46	Westside Baptist Church	10000 Newberry Rd	Gainesville, FL 32606-5544	
+47	The Family Church	2022 SW 122nd St	Gainesville, FL 32607-1024	
+48	Freedom Community Center at Kanapaha Park	7340 SW 41st Pl	Gainesville, FL 32606-3903	
+49	First Baptist Church	14105 NW 39th Ave	Gainesville, FL 32606	
+50	Westminster Presbyterian Church	1521 NW 34th St	Gainesville, FL 32605-5033	
+51	North Gainesville Baptist Church	6203 NW 39th Ave	Gainesville, FL 32606	
+52	Freedom Community Center at Kanapaha Park	7340 SW 41st Pl	Gainesville, FL 32606-3903	
+53	Hathcock Community Center	15818 NW 140th St	Alachua, FL 32615	
+54	Florida Museum of Natural History	3215 Hull Rd	Gainesville, FL 32611-2700	
+55	Gateway Christian Center	5135 NW 21st St	Gainesville, FL 32653	
+56	Covenant Presbyterian Church	1001 NW 98th St	Gainesville, FL 32606-5503	
+57	Creekside Community Church	2640 NW 39th Ave	Gainesville, FL 32605	
+58	Gainesville Shrine Club	8100 SW Archer Rd	Gainesville, FL 32608-5517	
+59	Wyndham Garden (Paramount) Hotel	2900 SW 13th St	Gainesville, FL 32608	
+60	Fellowship Church of High Springs	16916 NW US Highway 441	High Springs, FL 32643-8103	
+61	Millhopper Branch Library	3145 NW 43rd st	Gainesville, FL 32606	
+62	North Central Baptist Church	8001 NW 23rd Ave	Gainesville, FL 32606-6236	
+63	CSI Academy of Florida	12787 NW US HWY 441	Alachua, FL 32615	
+99	Pollworker Standby	515 N Main St	Gainesville, FL 32601	

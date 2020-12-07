@@ -1,0 +1,41 @@
+1	Milton Community Center	5629 Byrom St St	Milton, FL 32570	
+2	Pace Community Center (Ball Park)	5976 Chumuckla Hwy	Pace, FL 32571	
+3	Coon Hill-Linda Carden Community Center	5259 Booker Ln	Jay, FL 32565	
+4	Jay-Linda Carden Community Center	5259 Booker Ln	Jay, FL 32565	
+5	McLellan- Blackwater Baptist Church	11689 Munson HWY	Milton, FL 32570	
+6	Red Rock-Blackwater Baptist Church	11689 Munson HWY	Milton, FL 32570	
+7	Munson-Blackwater Baptist Church	11689 Munson HWY	Milton, FL 32570	
+8	Milton Community Center	5629 Byrom St	Milton, FL 32570	
+9	East Milton Community Gym	8600 Bobby Brown Rd	Milton, FL 32583	
+10	Harbor at Holley Assembly of God (Harbor Cafe)	4020 HWY 87	Navarre, FL 32566	
+11	Solid Rock Baptist Church	6760 East Gate Rd	Milton, FL 32570	
+12	First Assembly of God Church	6163 Dogwood St	Milton, FL 32570	
+13	Allentown VFD	9482 HWY 89	Jay, FL 32565	
+14	East Milton Community Gym	8600 Bobby Brown Rd	Milton, FL 32583	
+15	Milton Community Center	5629 Byrom St	Milton, FL 32570	
+16	Bagdad-Bagdad Community Center	6860 Pooley St	Milton, FL 32583	
+17	Fidelis-Linda Carden Community Center	5259 Booker ln	Jay, FL 32565	
+18	Friendship Baptist Church	5300 Berryhill Rd	Milton, FL 32570	
+19	Chumuckla Community Center	2355 HWY 182	Jay, FL 23565	
+20	Immanuel Baptist Church	4187 Highway 90	Pace, FL 32571	
+21	Christian Life Church	4401 Avalon Blvd	Milton, FL 32583	
+22	Gulf Breeze Community Center	800 Shoreline Dr	Gulf Breeze, FL 32561	
+23	Midway Baptist Church	5471 Gulf Breeze Pkwy	Gulf Breeze, FL 32563	
+24	Santa Rosa County Auditorium	4530 Spike's Way	Milton, FL 32583	
+25	Coastline Calvary Chapel-Oriole Beach	1122 Oriole Beach Rd	Gulf Breeze, FL 23563	
+26	Navarre Community Gym	8840 High School Blvd	Navarre, FL 32566	
+27	Woodbine Church	5200 Woodbine Rd	Pace, FL 32571	
+28	Tiger Point Community Center	1370 Tiger Park	Gulf Breeze, FL 32563	
+29	Pullum Senior Center	8476 Gordon Goodin Ln	Navarre, FL 32566	
+30	Pine Terrace Baptist Church	6212 Pine Blossom Rd.	Milton, FL 32570	
+31	Immanuel Baptist Church	4187 Highway 90	Pace, FL 32571	
+32	Coastline Calvary Chapel-Grand Pointe	1122 ORIOLE BEACH RD	Gulf Breeze, FL 32563	
+33	East Milton Community Gym	8600 Bobby Brown Rd	Milton, FL 32583	
+34	St. Sylvester's Catholic Church	6464 Gulf Breeze Pkwy Rd	Gulf Breeze, FL 32563	
+35	Navarre United Methodist Church	9474 Navarre Pkwy	Navarre, FL 32566	
+36	Woodbine Church	5200 Woodbine Rd	Pace, FL 32571	
+37	Tiger Point Community Center	1370 Tiger Park	Gulf Breeze, FL 32563	
+38	Navarre Beach-Navarre Community Gym	8840 High School Blvd	Navarre, FL 32566	
+39	Heritage Chapel	3375 Garcon Point Rd	Milton, FL 32583	
+40	Navarre Presbyterian Church	1870 Lowe RD	Navarre, FL 32566	
+41	Midway Baptist Church	5471 Gulf Breeze Pkwy	Gulf Breeze, FL 32563	

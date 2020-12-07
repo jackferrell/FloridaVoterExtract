@@ -1,0 +1,35 @@
+01	South Putnam Government Center	115 N Summit St	Crescent City, FL 32112	
+02	South Putnam Government Center	115 N Summit St	Crescent City, FL 32112	
+03	Beulah Baptist Church	106 Beulah Church Rd	Crescent City, FL 32112	
+04	First Baptist Church of Welaka	638 3rd Ave	Welaka, FL 32193	
+05	First Baptist Church of Welaka	638 3rd Ave	Welaka, FL 32193	
+06	Pomona Park Community Center	200 E Main St	Pomona Park, FL 32181	
+07	Pomona Park Community Center	200 E Main St	Pomona Park, FL 32181	
+08	Satsuma Fire Dept	103 S 1st St	Satsuma, FL 32189	
+09	Satsuma Fire Dept	103 S 1st St	Satsuma, FL 32189	
+10	Dunns Creek Baptist Church	686 S Highway 17	San Mateo, FL 32187	
+11	Putnam County Ag Center	111 Yelvington Rd	East Palatka, FL 32131	
+12	Bostwick Community Center	125 2 Tillman St	Palatka, FL 32177	
+14	Bardin Fire Dept	107 Johns Rd	Palatka, FL 32177	
+15	Bardin Fire Dept	107 Johns Rd	Palatka, FL 32177	
+16	Living Hope Family Worship Center	1109 State Rd 100	Florahome, FL 32140	
+18	Trinity Episcopal Church	204 State Rd 26	Melrose, FL 32666	
+19	Woodlawn Baptist Church	818 County Rd 20A	Hawthorne, FL 32640	
+20	Woodlawn Baptist Church	818 County Rd 20A	Hawthorne, FL 32640	
+21	Interlachen Community Center	135 S County Road 315	Interlachen, FL 32148	
+22	Interlachen Community Center	135 S County Road 315	Interlachen, FL 32148	
+23	Interlachen Community Center	135 S County Road 315	Interlachen, FL 32148	
+24	Grandin Lake Shores Community Center	418 Holiday Dr	Interlachen, FL 32148	
+25	Hollister Fire Dept	617 State Rd 20	Palatka, FL 32177	
+26	Grace Community Baptist Church	161 Peniel Church Rd	Palatka, FL 32177	
+27	Southwest Fire Dept	3409 Park St	Palatka, FL 32177	
+28	Edgar Johnson Senior Center	1215 Westover Dr	Palatka, FL 32177	
+30	Southwest Fire Dept	3409 Park St	Palatka, FL 32177	
+32	Price Martin Community Center	220 N 11th st	Palatka, FL 32177	
+33	St Johns River State College	5001 St Johns Ave	Palatka, FL 32177	
+34	St Johns River State College	5001 St Johns Ave	Palatka, FL 32177	
+35	St Johns River State College	5001 St Johns Ave	Palatka, FL 32177	
+36	Edgar Johnson Senior Center	1215 Westover Dr	Palatka, FL 32177	
+37	Palatka Woman's Club	600 S 13th St	Palatka, FL 32177	
+38	Palatka Woman's Club	600 S 13th St	Palatka, FL 32177	
+39	Price Martin Community Center	220 N 11th st	Palatka, FL 32177	

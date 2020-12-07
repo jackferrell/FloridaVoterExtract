@@ -1,0 +1,35 @@
+1	Central Assembly of God	6767 20TH ST	Vero Beach, FL 32966	
+2	Fellsmere Community Bible Church	12 N Hickory St	Fellsmere, FL 32948	
+3	Fellsmere Community Bible Church	12 N Hickory St	Fellsmere, FL 32948	
+4	Central Assembly of God	6767 20TH ST	Vero Beach, FL 32966	
+5	School District of Indian River County	6500 57TH St	Vero Beach, FL 32967	
+6	St. Sebastian Catholic Church	13075 US Highway 1	Sebastian, FL 32958	
+7	St. Sebastian Catholic Church	13075 US Highway 1	Sebastian, FL 32958	
+8	American Legion Hall Post 189	807 Louisiana Ave	Sebastian, FL 32958	
+9	Sebastian Elks Lodge No. 2714	731 S Fleming St	Sebastian, FL 32958	
+10	Sebastian Christian Church	190 Day Dr	Sebastian, FL 32958	
+11	Sebastian Christian Church	190 Day Dr	Sebastian, FL 32958	
+12	School District of Indian River County	6500 57TH St	Vero Beach, FL 32967	
+13	Realtors Association of IRC	3250 67th St	Vero Beach, FL 32967	
+14	Indian River Shores - Comm Center	6001 Highway A1A	Indian River Shores, FL 32963	
+15	Indian River Shores - Comm Center	6001 Highway A1A	Indian River Shores, FL 32963	
+16	Indian River Shores - Comm Center	6001 Highway A1A	Indian River Shores, FL 32963	
+17	Christ By The Sea UMC	3755 Highway A1A	Vero Beach, FL 32963	
+18	Holy Cross Catholic Church "Parish Hall"	500 Iris Ln	Vero Beach, FL 32963	
+19	Christ Church Vero Beach	667 20th St	Vero Beach, FL 32960	
+20	Christ Church Vero Beach	667 20th St	Vero Beach, FL 32960	
+21	Gifford Community Center	4855 43rd Ave	Vero Beach, FL 32967	
+22	Central Assembly of God	6767 20TH ST	Vero Beach, FL 32966	
+23	Unity Church of Vero Beach	950 43rd Ave	Vero Beach, FL 32960	
+24	Unitarian Universalist Fellowship Hall	1590 27th Ave	Vero Beach, FL 32960	
+26	Christ Church Vero Beach	667 20th St	Vero Beach, FL 32960	
+27	Royal Palm Clubhouse Vista Royale	400 Woodland Dr	Vero Beach, FL 32962	
+28	Intergenerational Recreation Center	1590 9th St SW	Vero Beach, FL 32962	
+29	Realtors Association of IRC	3250 67th St	Vero Beach, FL 32967	
+30	Unitarian Universalist Fellowship Hall	1590 27th Ave	Vero Beach, FL 32960	
+31	Unity Church of Vero Beach	950 43rd Ave	Vero Beach, FL 32960	
+32	Freedom Church	455 58th Ave SW	Vero Beach, FL 32968	
+33	Central Assembly of God	6767 20TH ST	Vero Beach, FL 32966	
+34	Lakewood Village Club House	1455 90th Ave	Vero Beach, FL 32966	
+35	Central Assembly of God	6767 20TH ST	Vero Beach, FL 32966	
+36	Gifford Community Center	4855 43rd Ave	Vero Beach, FL 32967	

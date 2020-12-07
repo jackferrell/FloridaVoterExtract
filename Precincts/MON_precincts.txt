@@ -1,0 +1,33 @@
+1	Elks Lodge	3201 Flagle, Suite 513 Ave	Key West, FL 33040	
+2	Key West High School Auditorium	2100 Flagler Ave	Key West, FL 33040	
+3	Key West High School Auditorium	2100 Flagler Ave	Key West, FL 33040	
+4	Martin Luther King Pool	300 Catherine St	Key West, FL 33040	
+5	Keys Energy "Utility Board Room"	1001 James St	Key West, FL 33040	
+6	Gato Building Conference Room 1st Floor	1100 Simonton Conference Rm 1st Flo St	Key West, FL 33040	
+7	Moose Club	700 Eisenhower Dr	Key West, FL 33040	
+8	Glad Tiding Tabernacle	1209 United St	Key West, FL 33040	
+9	Key West Public Works Depart. (former KW Citizen)	3420 Northside Dr	Key West, FL 33040	
+10	Key West Public Works Depart. (former KW Citizen)	3420 Northside Dr	Key West, FL 33040	
+11	Bernstein Park Stock Is.	6751 5th St	Stock Is, FL 33040	
+12	Big Coppitt Fire Station	28 Emerald Dr	Big Coppitt, FL 33040	
+13	Sugarloaf Baptist Church (turn at traffic light)	260 Crane Blvd	Sugarloaf, FL 33044	
+14	Sugarloaf Baptist Church (turn at traffic light)	260 Crane Blvd	Sugarloaf, FL 33044	
+15	First Baptist Ch (Summerland Votes)	300 Key Deer Blvd	Big Pine Key, FL 33043	
+16	First Baptist Church Big Pine Key	300 Key Dear Blvd	Big Pine Key, FL 33043	
+17	Big Pine Community Park Center NEW 2016	31009 Atlantis end of Sands Rd Dr	Big Pine Key, FL 33043	
+18	American Legion Marathon	4115 Overseas HWY	Marathon, FL 33050	
+19	1st Baptist Church Marathon	200 62nd Street Ocean	Marathon, FL 33050	
+20	Presbyterian Kirk of the Keys Marathon	8877 Overseas HWY	Marathon, FL 33050	
+21	Marathon City Hall	9805 Overseas Hwy	Marathon, FL 33050	
+22	Key Colony Beach City Hall	600 W Ocean Dr	Key Colony Bch, FL 33051	
+23	Marathon City Hall	9805 Overseas Hwy	Marathon, FL 33050	
+24	Islamorada Branch Library	81500 Overseas HWY	Islamorada, FL 33036	
+25	Plantation Key Courtroom B	88820 OVERSEAS Hwy	Plantation Key, FL 33070	
+26	Immanuel Lutheran Church Tavernie	108 Ocean Dr	Tavernier, FL 33070	
+27	Elks Club, Tavernier	92600 Overseas HWY	Tavernier, FL 33070	
+28	Key Largo Civic Club	209 Ocean Bay Dr	Key Largo, FL 33037	
+29	Key Largo Civic Club	209 Ocean Bay Dr	Key Largo, FL 33037	
+30	Monroe County Library, K.L.	101485 Overseas HWY	Key Largo, FL 33037	
+31	Monroe County Library, K.L.	101485 Overseas HWY	Key Largo, FL 33037	
+32	Key Largo Baptist Church	835 Largo Rd	Key Largo, FL 33037	
+33	The Academy at Ocean Reef	395 South Harbor Dr	Key Largo, FL 33037	

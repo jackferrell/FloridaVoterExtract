@@ -1,0 +1,5 @@
+1	Day Community Center	4673 N CR 53	Mayo, FL 32066	
+2	Mayo Community Center - District 2	150 SW Community Cir	Mayo, FL 32066	
+3	Airline Community Center	3373 E US 27	Mayo, FL 32066	
+4	4th District Community Center	14204 E US 27	Branford, FL 32008	
+5	Mayo Community Center - District 5	150 SW Community Cir	Mayo, FL 32066	

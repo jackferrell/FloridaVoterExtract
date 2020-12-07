@@ -1,0 +1,15 @@
+101	Neal Civic Center	17773 NE Pear St	Blountstown, FL 32424	
+101C	Neal Civic Center	17773 NE Pear St	Blountstown, FL 32424	
+102	Westside VFD	18212 SR 20 WEST	Blountstown, FL 32424	
+201	Altha Old Gym	25793 N Main St	Altha, FL 32421	
+201C	Altha Old Gym	25793 N Main St	Altha, FL 32421	
+202	Neal Civic Center	17773 NE Pear St	Blountstown, FL 32424	
+301	Shelton Park Library	25008 NW SR 73	Altha, FL 32421	
+302	Carr-Clarksville VFD	19024 NW SR 73	Clarksville, FL 32430	
+401	Neal Civic Center	17773 NE Pear St	Blountstown, FL 32424	
+401C	Neal Civic Center	17773 NE Pear St	Blountstown, FL 32424	
+402	Kinard Public Library	5416 SW SR 73	Kinard, FL 32449	
+501	Neal Civic Center	17773 NE Pear St	Blountstown, FL 32424	
+501C	Neal Civic Center	17773 NE Pear St	Blountstown, FL 32424	
+502	Carr-Clarksville VFD	19024 NW SR 73	Clarksville, FL 32430	
+503	Kinard Public Library	5416 SW SR 73	Kinard, FL 32449	

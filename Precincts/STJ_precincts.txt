@@ -1,0 +1,48 @@
+101	Julington Creek Annex	725 Flora Branch Blvd	St. Johns, FL 32259	
+102	Unity Church	2777 Race Track Road	St. Johns, FL 32259	
+103	Switzerland Community Church	2179 State Road 13 N	St. Johns, FL 32259	
+104	Bartram Trail Library	60 Davis Pond Blvd	St. Johns, FL 32259	
+105	Creekside Christian Church	92 Lifespring Way	St. Johns, FL 32259	
+106	Switzerland Community Church	2179 State Road 13 N	St. Johns, FL 32259	
+107	Celebration Lutheran Church	810 Roberts Rd	St Johns, FL 32259	
+108	Faith Community Church	3450 County Road 210 W	St. Johns, FL 32259	
+109	Shearwater Amenities Center	100 Kayak Way	St. Augustine, FL 32092	
+110	Trout Creek Community Center	6795 Collier Rd	St Augustine, FL 32092	
+111	Creekside Christian Church	92 Lifespring Way	St. Johns, FL 32259	
+201	Faith Community Church	3450 County Road 210 W	St. Johns, FL 32259	
+202	St Johns Golf and Country Club	205 St Johns Golf Dr	St Augustine, FL 32092	
+203	Heritage Landing Amenity Center	370 Heritage Landing PKWY	St Augustine, FL 32092	
+204	Trout Creek Community Center	6795 Collier Rd	St Augustine, FL 32092	
+205	Agricultural Center	3125 Agricultural Center Dr	St Augustine, FL 32092	
+206	San Sebastian Catholic Church	1112 State Road 16	St Augustine, FL 32084	
+207	Solomon Calhoun Community Ctr	1300 Duval St	St Augustine, FL 32084	
+208	St. Johns County Fairgrounds	5840 State Road 207 Rd	Elkton, FL 32033	
+209	Hastings Branch Library	6195 S Main St	Hastings, FL 32145	
+301	Solomon Calhoun Community Ctr	1300 Duval St	St Augustine, FL 32084	
+302	Good News Church	1357 Wildwood Dr	St Augustine, FL 32086	
+303	St. Augustine South Imp. Assn.	709 Royal Rd	St. Augustine, FL 32086	
+304	Community Bible Church	3150 US 1 S	St Augustine, FL 32086	
+305	Riverview Club	790 Christina Dr	St Augustine, FL 32086	
+306	Good News Church	1357 Wildwood Dr	St Augustine, FL 32086	
+307	Southeast Branch Library	6670 US 1 S	St Augustine, FL 32086	
+308	Anastasia Baptist Church	1650 A1A S	St Augustine, FL 32080	
+309	St. Anastasia Catholic Church	5205 A1A S	St Augustine, FL 32080	
+401	Ponte Vedra Branch Library	101 Library Blvd	Ponte Vedra Beach, FL 32082	
+402	Our Lady Star of the Sea Church	545 A1A N	Ponte Vedra Beach, FL 32082	
+403	Ponte Vedra Presbyterian Church	4510 Palm Valley Rd	Ponte Vedra Beach, FL 32082	
+404	Christ Episcopal Church	400 San Juan Dr	Ponte Vedra Beach, FL 32082	
+405	Ponte Vedra Concert Hall	1050 A1A N	Ponte Vedra Beach, FL 32082	
+406	St. Francis in the Field	895 Palm Valley Rd	Ponte Vedra, FL 32081	
+407	Ponte Vedra Concert Hall	1050 A1A N	Ponte Vedra Beach, FL 32082	
+408	The Palencia Club	600 Palencia Club Dr	St Augustine, FL 32095	
+409	Fullerwood Center	10 Hildreth Dr	St Augustine, FL 32084	
+410	Crosswater Hall at Nocatee	245 Nocatee Center Way	Ponte Vedra, FL 32081	
+501	St. Johns Convention Center	500 S Legacy TRL	St Augustine, FL 32092	
+502	San Sebastian Catholic Church	1112 State Road 16	St Augustine, FL 32084	
+503	Fullerwood Center	10 Hildreth Dr	St Augustine, FL 32084	
+504	Serenata Beach Club	3175 S Ponte Vedra Blvd	Ponte Vedra Beach, FL 32082	
+505	Anastasia Baptist S.R. 16 Campus	110 Circle Dr E	St Augustine, FL 32084	
+506	Days Inn Historic Downtown	1300 N Ponce De Leon Blvd	St Augustine, FL 32084	
+507	Willie Galimore Center	399 Riberia St	St Augustine, FL 32084	
+508	Elks Lodge	1420 A1A S	St Augustine, FL 32080	
+509	St. Augustine Beach City Hall	2200 A1A S	St Augustine, FL 32080	

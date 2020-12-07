@@ -1,0 +1,81 @@
+001	Seminole Community Church	5070 Orange Blvd	Sanford, FL 32771	
+002	The Church at Heathrow	6815 Markham Rd	Sanford, FL 32771	
+003	Crossings Community Church	514 Walden View Dr	Sanford, FL 32771	
+004	Safeharbor Christian Church	730 Upsala Rd	Sanford, FL 32771	
+005	Westview Baptist Church	4100 C.R. 46A	Sanford, FL 32771	
+006	Westside Community Center	919 Persimmon Ave	Sanford, FL 32771	
+007	Markham Woods Presbyterian Ch.	5210 Markham Woods Rd	Lake Mary, FL 32746	
+008	Courtyard by Marriott	135 International Pkwy	Heathrow, FL 32746	
+009	Holy Cross Lutheran Church	780 N Sun Dr	Lake Mary, FL 32746	
+010	Lake Mary Events Center	260 N Country Club Rd	Lake Mary, FL 32746	
+011	Seminole County Health Dept.	400 W Airport Blvd	Sanford, FL 32773	
+012	Markham Woods SDA Church	505 Markham Woods Rd	Longwood, FL 32779	
+013	Church of Jesus Christ of L.D.S.	2255 Lake Emma Rd	Lake Mary, FL 32746	
+014	Northwest Branch Library	580 Greenway Blvd	Lake Mary, FL 32746	
+015	Nativity Catholic Church	3255 N Ronald Reagan Blvd	Longwood, FL 32750	
+016	Lake Mary City Hall	100 N Country Club Rd	Lake Mary, FL 32746	
+017	Seminole County Co-op Extension	250 W County Home Rd	Sanford, FL 32773	
+018	First Baptist Church Sweetwater	3800 Wekiva Springs Rd	Longwood, FL 32779	
+019	Longwood Community Building	200 W Warren Ave	Longwood, FL 32750	
+020	First Baptist Church of Longwood	891 E State Rd 434	Longwood, FL 32750	
+021	West Branch Library	245 N Hunt Club Blvd	Longwood, FL 32779	
+022	Wekiva Presbyterian Church	211 Wekiva Springs Ln	Longwood, FL 32779	
+023	Neighborhood Alliance Church	301 Markham Woods Rd	Longwood, FL 32779	
+024	WaterStone Church	900 North St	Longwood, FL 32750	
+025	Wekiva Cove Clubhouse	250 Wekiva Cove Rd	Longwood, FL 32779	
+026	First Baptist Ch. Sanlando Sprgs	742 Sanlando Rd	Altamonte Springs, FL 32714	
+027	Forest Lake SDA Church	515 Harley Lester Ln	Apopka, FL 32703	
+028	Central Church of Christ	875 Oak Dr	Altamonte Springs, FL 32714	
+029	Westmonte Recreation Center	624 Bills LN	Altamonte Springs, FL 32714	
+030	St. Stephen Lutheran Church	2140 W State Road 434	Longwood, FL 32779	
+031	Maranatha SDA Church	1400 Bear Lake Rd	Apopka, FL 32703	
+032	Country Creek Swim & Racquet Club	620 Country Creek Pkwy	Altamonte Springs, FL 32714	
+033	Orlando Filipino SDA Church	1244 Bunnell Rd	Altamonte Springs, FL 32714	
+034	Florida Conference of Seventh-day Adventists	351 S State Road 434	Altamonte Springs, FL 32714	
+035	Hampton Inn & Suites	161 Douglas Ave	Altamonte Springs, FL 32714	
+036	St. Mark's Presbyterian Church	1021 Palm Springs Dr	Altamonte Springs, FL 32701	
+037	Hilton Altamonte Springs	350 Northlake Blvd S	Altamonte Springs, FL 32701	
+038	Altamonte Springs SDA Church	455 Maitland Ave	Altamonte Springs, FL 32701	
+039	Eastmonte Civic Center	830 Magnolia Dr	Altamonte Springs, FL 32701	
+040	Casselberry Recreation Center	200 N Triplet Lake Dr	Casselberry, FL 32707	
+041	Jean Rhein Central Branch Lib.	215 N Oxford Rd	Casselberry, FL 32707	
+042	Faith Assembly of God Red Bug Lake Campus	2641 Red Bug Lake Rd	Casselberry, FL 32707	
+043	St. Richard's Episcopal Church	5151 Lake Howell Rd	Winter Park, FL 32792	
+044	Aloma Church	1815 State Road 436	Winter Park, FL 32792	
+045	Tuskawilla United Methodist Ch.	3925 Red Bug Lake Rd	Casselberry, FL 32707	
+046	Winter Park Elks Lodge No. 1830	4755 Howell Branch Rd	Winter Park, FL 32792	
+047	Tuskawilla Presbyterian Church	3600 Aloma Ave	Oviedo, FL 32765	
+048	Faith Outreach Church	4600 Gabriella Ln	Oviedo, FL 32765	
+049	Sanford Civic Center	401 E Seminole Blvd	Sanford, FL 32771	
+050	Sanford Memorial Stadium	1201 S Mellonville Ave	Sanford, FL 32771	
+051	Sanford Church of Christ	1500 S Park Ave	Sanford, FL 32771	
+052	Midway Community Center	2251 Jitway Ave	Sanford, FL 32771	
+053	Spring Meadows SDA Church	5783 N Ronald Reagan Blvd	Sanford, FL 32773	
+054	Boombah Sports Complex	3450 E Lake Mary Blvd	Sanford, FL 32773	
+055	Lutheran Church of the Redeemer	2525 S Oak Ave	Sanford, FL 32773	
+056	Winter Springs Senior Center	400 N Edgemon Ave	Winter Springs, FL 32708	
+057	The Church at 434	817 E State Road 434	Winter Springs, FL 32708	
+058	Temple Israel	50 S Moss Rd	Winter Springs, FL 32708	
+059	New Covenant Church	800 Tuskawilla Rd	Winter Springs, FL 32708	
+060	Winter Springs City Hall	1126 E State Road 434	Winter Springs, FL 32708	
+061	Tuscawilla Country Club	1500 Winter Springs Blvd	Winter Springs, FL 32708	
+062	Willow Creek Church	4725 E Lake Dr	Winter Springs, FL 32708	
+063	Willow Creek Church	4725 E Lake Dr	Winter Springs, FL 32708	
+064	St. Stephen Catholic Community	575 Tuskawilla Rd	Winter Springs, FL 32708	
+065	Metro Life Church	910 S Winter Park Dr	Casselberry, FL 32707	
+066	Wirz Park	806 Mark David Blvd	Casselberry, FL 32707	
+067	Message of Hope SDA Mission	970 Tuskawilla Rd	Winter Springs, FL 32708	
+068	Oviedo Mall - C.O.P.S. Room	1700 Oviedo Mall Blvd	Oviedo, FL 32765	
+069	Oviedo East Branch Library	310 N Division St	Oviedo, FL 32765	
+070	First Baptist Church of Geneva	335 First St	Geneva, FL 32732	
+071	Oviedo Gym & Aquatic Facility	148 Oviedo Blvd	Oviedo, FL 32765	
+072	The Sanctuary Comm. Assoc.	800 Sanctuary Dr	Oviedo, FL 32766	
+073	River Run Church	141 River Run Pnt	Chuluota, FL 32766	
+074	Center Lake Park	357 Center Lake Ln	Oviedo, FL 32765	
+075	Covenant Presbyterian Church	1925 County Rd 419	Oviedo, FL 32766	
+076	Live Oak Community Center	1901 Live Oak Reserve Blvd	Oviedo, FL 32765	
+077	St. Alban's Anglican Cathedral	3348 W State Road 426	Oviedo, FL 32765	
+078	Lutheran Haven Fellowship Hall	1522 Haven Dr	Oviedo, FL 32765	
+079	Palm Valley Club House	500 E Palm Valley Dr	Oviedo, FL 32765	
+080	Oviedo Presbyterian Church	2405 Lockwood Blvd	Oviedo, FL 32765	
+888	Supervisor of Elections Office	1500 AIRPORT BLVD E	Sanford, FL 32773	

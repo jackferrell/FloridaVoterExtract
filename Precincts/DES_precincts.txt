@@ -1,0 +1,15 @@
+01	South County Annex	8789 SW CR 761	Arcadia, FL 34266	
+02	Owens Community Center/School	5586 Owens School St SW	Arcadia, FL 34266	
+03	Pine Level United Methodist Church	9596 NW Pine Level St	Arcadia, FL 34266	
+05	The House of God Church	200 S Alabama Ave	Arcadia, FL 34266	
+06	The House of God Church	200 S Alabama Ave	Arcadia, FL 34266	
+07	Family Service Center Annex	310 W Whidden St	Arcadia, FL 34266	
+08	Oak Hill Baptist Church	5104 NW Oak Hill Ave	Arcadia, FL 34266	
+09	Bethel Assembly of God	7538 NE Cubitis Ave	Arcadia, FL 34266	
+10	Iglesia Cristana Patco De Fe Church	1218 SE Hillsborough Ave	Arcadia, FL 34266	
+11	Trinity United Methodist Church	304 W Oak St	Arcadia, FL 34266	
+13	First Baptist Church of Nocatee	4610 SW Hwy 17	Nocatee, FL 34268	
+14	Ft. Ogden Community Church	6923 SW River St	Ft. Ogden, FL 34266	
+15	First Baptist Chur Christ. Life Ctr	1006 N HWY 17	Arcadia, FL 34266	
+16	McSwain Building	16 S Volusia Ave	Arcadia, FL 34266	
+17	First Baptist Chur Christ. Life Ctr	1006 N Brevard Ave	Arcadia, FL 34266	

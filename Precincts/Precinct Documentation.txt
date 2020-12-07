@@ -1,0 +1,3 @@
+Tab Delimited
+Format:
+1. Precinct #, 2. Precinct  Name, 3. Precinct Add Line 1, 4. Precinct Add Line 2

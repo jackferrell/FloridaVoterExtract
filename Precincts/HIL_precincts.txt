@@ -1,0 +1,390 @@
+101	Port Tampa Community Center	4702 W McCoy St	Tampa, FL 33616	
+103	Port Tampa Community Center	4702 W McCoy St	Tampa, FL 33616	
+105	Gandy Civic Association	4207 W Oklahoma Ave	Tampa, FL 33616	
+107	The Point Christian Church	3600 W Ballast Point Blvd	Tampa, FL 33611	
+108	Victory Baptist Church	6202 S MacDill Ave	Tampa, FL 33611	
+109	Joe Abrahams Fitness and Wellness Center	5212 Interbay Blvd	Tampa, FL 33611	
+111	Elks Lodge 708	3616 W Gandy Blvd	Tampa, FL 33611	
+112	Bayshore Presbyterian Church	2515 Bayshore Blvd	Tampa, FL 33629	
+113	Manhattan Avenue Church of Christ	4020 S Manhattan Ave	Tampa, FL 33611	
+115	Jan K Platt Regional Library	3910 S Manhattan Ave	Tampa, FL 33611	
+116	Manhattan Avenue Church of Christ	4020 S Manhattan Ave	Tampa, FL 33611	
+117	Manhattan Avenue Church of Christ	4020 S Manhattan Ave	Tampa, FL 33611	
+119	Palma Ceia United Methodist Church	3723 W Bay To Bay Blvd	Tampa, FL 33629	
+121	Covenant Life Church Tampa	3511 W Bay To Bay Blvd	Tampa, FL 33629	
+123	Tampa Garden Club	2629 Bayshore Blvd	Tampa, FL 33629	
+125	Islands Campus of South Tampa Fellowship Church	97 Biscayne Ave	Tampa, FL 33606	
+127	Marjorie Park Marina	97 Columbia Dr	Tampa, FL 33606	
+129	Kate Jackson Community Center	821 S Rome Ave	Tampa, FL 33606	
+131	Tampa Garden Club	2629 Bayshore Blvd	Tampa, FL 33629	
+133	Covenant Life Church Tampa	3511 W Bay To Bay Blvd	Tampa, FL 33629	
+135	Good Shepherd Lutheran Church	501 S Dale Mabry Hwy	Tampa, FL 33609	
+137	Palma Ceia United Methodist Church	3723 W Bay To Bay Blvd	Tampa, FL 33629	
+139	Christ the King Catholic Church	821 S Dale Mabry Hwy	Tampa, FL 33609	
+141	The Sons of Italy Hall Lodge 1251	3315 W Lemon St	Tampa, FL 33609	
+145	The Sons of Italy Hall Lodge 1251	3315 W Lemon St	Tampa, FL 33609	
+151	Beulah Baptist Institutional Church	1006 W Cypress St	Tampa, FL 33606	
+153	Kate Jackson Community Center	821 S Rome Ave	Tampa, FL 33606	
+157	Kate Jackson Community Center	821 S Rome Ave	Tampa, FL 33606	
+159	The Florida Aquarium	701 Channelside Dr	Tampa, FL 33602	
+160	First Baptist Church of Tampa	302 W Kennedy Blvd	Tampa, FL 33606	
+161	The Florida Aquarium	701 Channelside Dr	Tampa, FL 33602	
+163	Greater Bethel Baptist Church	1207 N Jefferson St	Tampa, FL 33602	
+165	First Baptist Church of Tampa	302 W Kennedy Blvd	Tampa, FL 33606	
+169	Beulah Baptist Institutional Church	1006 W Cypress St	Tampa, FL 33606	
+175	The Sons of Italy Hall Lodge 1251	3315 W Lemon St	Tampa, FL 33609	
+179	Westshore Baptist Church	305 N Manhattan Ave	Tampa, FL 33609	
+203	Loretta Ingraham Community Center	1615 N Hubert Ave	Tampa, FL 33607	
+205	David Barksdale Senior Center	1801 N Lincoln Ave	Tampa, FL 33607	
+207	West Tampa Branch Library	2312 W Union St	Tampa, FL 33607	
+209	Greater Bethel Baptist Church	1207 N Jefferson St	Tampa, FL 33602	
+213	St James House of Prayer Episcopal	2708 N Central Ave	Tampa, FL 33602	
+217	Seminole Heights Library	4711 N Central Ave	Tampa, FL 33603	
+218	David Barksdale Senior Center	1801 N Lincoln Ave	Tampa, FL 33607	
+219	St John Presbyterian Church	4120 N MacDill Ave	Tampa, FL 33607	
+221	Cordelia B Hunt Community Center	4810 N Himes Ave	Tampa, FL 33614	
+223	Revealing Truth Ministries	5201 N Armenia Ave	Tampa, FL 33603	
+225	Westshore Baptist Church	305 N Manhattan Ave	Tampa, FL 33609	
+227	Wellswood Baptist Church	5101 N Rome Ave	Tampa, FL 33603	
+231	St Paul Lutheran Church	5103 N Central Ave	Tampa, FL 33603	
+233	American Legion Post 111	6918 N Florida Ave	Tampa, FL 33604	
+237	Seminole Heights Garden Center	5800 N Central Ave	Tampa, FL 33604	
+239	St Chad's Episcopal Church	5609 N Albany Ave	Tampa, FL 33603	
+240	American Legion Post 111	6918 N Florida Ave	Tampa, FL 33604	
+241	J L Young Apartments	8220 N Florida Ave	Tampa, FL 33604	
+243	Forest Hills Community Center	724 W 109th Ave	Tampa, FL 33612	
+244	American Legion Post 111	6918 N Florida Ave	Tampa, FL 33604	
+245	Forest Hills Presbyterian Church	709 W Linebaugh Ave	Tampa, FL 33612	
+247	Bethanie French Seventh Day Adventist Church	10401 N Florida Ave	Tampa, FL 33612	
+249	Iglesia De Cristo Misionera	10902 N Armenia Ave	Tampa, FL 33612	
+250	Iglesia De Cristo Misionera	10902 N Armenia Ave	Tampa, FL 33612	
+301	Concord Baptist Church	2224 Corrine St	Tampa, FL 33605	
+303	Children's Board	1002 E Palm Ave	Tampa, FL 33605	
+304	Greater Bethel Baptist Church	1207 N Jefferson St	Tampa, FL 33602	
+305	New Mt Zion Baptist Church	2511 E Columbus Dr	Tampa, FL 33605	
+307	Grant Park	3724 N 54th St	Tampa, FL 33619	
+309	Jackson Heights NFL YET Center	3310 E Lake Ave	Tampa, FL 33610	
+317	Ragan Park	1200 E Lake Ave	Tampa, FL 33605	
+318	St Paul Lutheran Church	5103 N Central Ave	Tampa, FL 33603	
+319	Seminole Heights Library	4711 N Central Ave	Tampa, FL 33603	
+321	C. Blythe Andrews Jr. Public Library	2607 E MLK Jr. Blvd	Tampa, FL 33610	
+325	Fair Oaks Recreation Center	5019 N 34th St	Tampa, FL 33610	
+327	Northside Missionary Baptist Church	5706 N 40th St	Tampa, FL 33610	
+329	Cathedral of Faith Church	6304 N 30th St	Tampa, FL 33610	
+333	Seminole Heights Garden Center	5800 N Central Ave	Tampa, FL 33604	
+335	Oaks At Riverview Community Center	110 E Kirby St	Tampa, FL 33604	
+338	First Church of God of Tampa	2202 E Busch Blvd	Tampa, FL 33612	
+339	Temple Crest Community Center	8116 N 37th St	Tampa, FL 33604	
+341	Bible Based Fellowship Church of Temple Terrace	8718 N 46th St	Tampa, FL 33617	
+342	Temple Terrace United Methodist Church	5030 E Busch Blvd	Tampa, FL 33617	
+343	Temple Terrace United Methodist Church	5030 E Busch Blvd	Tampa, FL 33617	
+344	Springhill Park Community Center	1000 E Eskimo Ave	Tampa, FL 33604	
+345	First Church of God of Tampa	2202 E Busch Blvd	Tampa, FL 33612	
+346	Temple Terrace United Methodist Church	5030 E Busch Blvd	Tampa, FL 33617	
+347	Copeland Park	11001 N 15th St	Tampa, FL 33612	
+353	USF Marshall Center	4103 USF Cedar Dr	Tampa, FL 33620	
+355	Grace Episcopal Church	15102 Amberly Dr	Tampa, FL 33647	
+356	Grace Episcopal Church	15102 Amberly Dr	Tampa, FL 33647	
+357	Grace Episcopal Church	15102 Amberly Dr	Tampa, FL 33647	
+358	Compton Park Recreation Center	16101 Compton Dr	Tampa, FL 33647	
+359	New Tampa Community Park Gym and Dance	17302 Commerce Park Blvd	Tampa, FL 33647	
+360	Cory Lake Isles Clubhouse	10441 Cory Lake Dr	Tampa, FL 33647	
+361	New Tampa Regional Library	10001 Cross Creek Blvd	Tampa, FL 33647	
+362	New Tampa Regional Library	10001 Cross Creek Blvd	Tampa, FL 33647	
+363	Heritage Isles Golf & Country Club	10630 Plantation Bay Dr	Tampa, FL 33647	
+364	Heritage Isles Golf & Country Club	10630 Plantation Bay Dr	Tampa, FL 33647	
+365	Heritage Isles Golf & Country Club	10630 Plantation Bay Dr	Tampa, FL 33647	
+366	West Meadows Community Club	8401 New Tampa Blvd	Tampa, FL 33647	
+368	Heritage Isles Golf & Country Club	10630 Plantation Bay Dr	Tampa, FL 33647	
+369	New Tampa Regional Library	10001 Cross Creek Blvd	Tampa, FL 33647	
+370	West Meadows Community Club	8401 New Tampa Blvd	Tampa, FL 33647	
+371	New Tampa Community Park Gym and Dance	17302 Commerce Park Blvd	Tampa, FL 33647	
+372	New Tampa Regional Library	10001 Cross Creek Blvd	Tampa, FL 33647	
+373	New Tampa Regional Library	10001 Cross Creek Blvd	Tampa, FL 33647	
+401	Wesley Memorial United Methodist Church	6100 Memorial Hwy	Tampa, FL 33615	
+403	Calvary Community Church	4811 George Rd	Tampa, FL 33634	
+404	Wesley Memorial United Methodist Church	6100 Memorial Hwy	Tampa, FL 33615	
+405	Calvary Community Church	4811 George Rd	Tampa, FL 33634	
+407	Town N Country Park	7002 W Hanna Ave	Tampa, FL 33634	
+410	Bay West Club	9315 Memorial Hwy	Tampa, FL 33615	
+411	Town N Country Regional Library	7606 Paula Dr	Tampa, FL 33615	
+412	Tampa Korean Seventh Day Adventist	7215 Sheldon Rd	Tampa, FL 33615	
+413	Bay West Club	9315 Memorial Hwy	Tampa, FL 33615	
+414	Cuban Civic Club	10905 Memorial Hwy	Tampa, FL 33615	
+415	Peace Baptist Church of Town and Country	7601 Jackson Springs Rd	Tampa, FL 33615	
+421	Town N Country Regional Library	7606 Paula Dr	Tampa, FL 33615	
+422	Town N Country Regional Library	7606 Paula Dr	Tampa, FL 33615	
+423	Tampa Korean Seventh Day Adventist	7215 Sheldon Rd	Tampa, FL 33615	
+429	Northwest Tampa Church Of Christ	7259 Sheldon Rd	Tampa, FL 33615	
+430	Northwest Tampa Church Of Christ	7259 Sheldon Rd	Tampa, FL 33615	
+431	Cuban Civic Club	10905 Memorial Hwy	Tampa, FL 33615	
+433	Westchase Swim and Tennis Center	10405 Countryway Blvd	Tampa, FL 33626	
+434	Tampa Shores Baptist Church	8307 Double Branch Rd	Tampa, FL 33635	
+451	Tampa First Church of the Nazarene	5902 N Himes Ave	Tampa, FL 33614	
+454	Oak Grove Church Of God	6830 N Habana Ave	Tampa, FL 33614	
+455	First Hispanic Presbyterian Church	2828 W Kirby St	Tampa, FL 33614	
+457	Grace Family Church - Waters	5100 W Waters Ave	Tampa, FL 33634	
+459	Oak Grove United Methodist Church	2707 W Waters Ave	Tampa, FL 33614	
+461	Oak Grove United Methodist Church	2707 W Waters Ave	Tampa, FL 33614	
+462	Oak Grove United Methodist Church	2707 W Waters Ave	Tampa, FL 33614	
+463	Grace Family Church - Waters	5100 W Waters Ave	Tampa, FL 33634	
+500	Westchase Swim and Tennis Center	10405 Countryway Blvd	Tampa, FL 33626	
+501	Maureen B. Gauzza Public Library	11211 Countryway Blvd	Tampa, FL 33626	
+502	American Legion Post 152	11211 Sheldon Rd	Tampa, FL 33626	
+503	Carrollwood Seventh Day Adventist	10619 Henderson Rd	Tampa, FL 33625	
+504	Plantation Homeowners Clubhouse	11380 Brookgreen Dr	Tampa, FL 33624	
+505	Hope Christian School	11450 Faith Cir	Tampa, FL 33625	
+506	Maureen B. Gauzza Public Library	11211 Countryway Blvd	Tampa, FL 33626	
+507	Maureen B. Gauzza Public Library	11211 Countryway Blvd	Tampa, FL 33626	
+508	Maureen B. Gauzza Public Library	11211 Countryway Blvd	Tampa, FL 33626	
+509	Carrollwood Cultural Center	4537 Lowell Rd	Tampa, FL 33618	
+510	St Paul Catholic Church	12708 N Dale Mabry Hwy	Tampa, FL 33618	
+511	Carrollwood Cultural Center	4537 Lowell Rd	Tampa, FL 33618	
+512	Maureen B. Gauzza Public Library	11211 Countryway Blvd	Tampa, FL 33626	
+513	Village Presbyterian Church	13115 S Village Dr	Tampa, FL 33618	
+514	Bible Based Fellowship Church	4811 Ehrlich Rd	Tampa, FL 33624	
+516	Carrollwood Baptist Church	5395 Ehrlich Rd	Tampa, FL 33625	
+517	Northdale Regional Park & Recreation Center	15550 Spring Pine Dr	Tampa, FL 33624	
+518	Keystone Bible Church	10925 Tarpon Springs Rd	Odessa, FL 33556	
+519	Bible Based Fellowship Church	4811 Ehrlich Rd	Tampa, FL 33624	
+520	Country Place Park	15728 Country Lake Dr	Tampa, FL 33624	
+521	Country Place Park	15728 Country Lake Dr	Tampa, FL 33624	
+522	St Marks Episcopal Church	13312 Cain Rd	Tampa, FL 33625	
+523	St Marks Episcopal Church	13312 Cain Rd	Tampa, FL 33625	
+524	Carrollwood Baptist Church	5395 Ehrlich Rd	Tampa, FL 33625	
+525	Faith Family Worship Center	14514 Del Valle Rd	Tampa, FL 33625	
+526	Ed Radice Sports Complex Baseball Bldg	14720 Ed Radice Dr	Tampa, FL 33626	
+527	Philippine Art and Cultural Foundation	14301 Nine Eagles Dr	Tampa, FL 33626	
+528	Austin Davis Public Library	17808 Wayne Rd	Odessa, FL 33556	
+529	Journey A Christian Church	7708 Van Dyke Rd	Odessa, FL 33556	
+530	Philippine Art and Cultural Foundation	14301 Nine Eagles Dr	Tampa, FL 33626	
+531	Keystone Bible Church	10925 Tarpon Springs Rd	Odessa, FL 33556	
+532	Journey A Christian Church	7708 Van Dyke Rd	Odessa, FL 33556	
+533	All Saints Lutheran Church	5315 Van Dyke Rd	Lutz, FL 33558	
+534	Northdale Regional Park & Recreation Center	15550 Spring Pine Dr	Tampa, FL 33624	
+535	Lake Carlton Arms Apartments	17875 Sailfish Dr	Lutz, FL 33558	
+536	Grace Family Church	5101 Van Dyke Rd	Lutz, FL 33558	
+537	J F Swartsel Masonic Lodge 251	3109 W Lutz Lake Fern Rd	Lutz, FL 33558	
+538	Grace Family Church	5101 Van Dyke Rd	Lutz, FL 33558	
+539	J F Swartsel Masonic Lodge 251	3109 W Lutz Lake Fern Rd	Lutz, FL 33558	
+540	J F Swartsel Masonic Lodge 251	3109 W Lutz Lake Fern Rd	Lutz, FL 33558	
+541	Grace Family Church	5101 Van Dyke Rd	Lutz, FL 33558	
+542	Grace Family Church	5101 Van Dyke Rd	Lutz, FL 33558	
+550	Grace Lutheran Church	3714 W Linebaugh Ave	Tampa, FL 33618	
+551	Carrollwood Recreation Center	3515 McFarland Rd	Tampa, FL 33618	
+552	Carrollwood Recreation Center	3515 McFarland Rd	Tampa, FL 33618	
+554	Grace Lutheran Church	3714 W Linebaugh Ave	Tampa, FL 33618	
+555	Mission Hill Church at Lake Carroll	12012 N Rome Ave	Tampa, FL 33612	
+557	Roy Haynes Park	1902 S Village Ave	Tampa, FL 33612	
+559	University Baptist Church	2121 E 131st Ave	Tampa, FL 33612	
+560	University Village	12401 N 22nd St	Tampa, FL 33612	
+561	Concordia Village	4100 E Fletcher Ave	Tampa, FL 33613	
+562	University Area Community Center	14013 N 22nd St	Tampa, FL 33613	
+563	University Area Community Center	14013 N 22nd St	Tampa, FL 33613	
+565	Boy Scouts of America	13228 N Central Ave	Tampa, FL 33612	
+566	University Area Community Center	14013 N 22nd St	Tampa, FL 33613	
+567	University Area Community Center	14013 N 22nd St	Tampa, FL 33613	
+569	Buchanan Baptist Church	808 W Bearss Ave	Tampa, FL 33613	
+571	Celebration Church	16235 Lake Magdalene Blvd	Tampa, FL 33613	
+573	Boy Scouts of America	13228 N Central Ave	Tampa, FL 33612	
+574	Lake Magdalene United Methodist Church	2902 W Fletcher Ave	Tampa, FL 33618	
+575	County Children Services Athletic Center	3120 Clay Mangum Ln	Tampa, FL 33618	
+577	Jimmie B. Keel Regional Library	2902 W Bearss Ave	Tampa, FL 33618	
+578	Jimmie B. Keel Regional Library	2902 W Bearss Ave	Tampa, FL 33618	
+579	Celebration Church	16235 Lake Magdalene Blvd	Tampa, FL 33613	
+581	New Tampa Baptist Church	14801 Livingston Ave	Lutz, FL 33559	
+583	Lake Forest HOA Inc Clubhouse	14735 Lake Forest Dr	Lutz, FL 33559	
+584	Lake Forest HOA Inc Clubhouse	14735 Lake Forest Dr	Lutz, FL 33559	
+585	Community of Christ Church	17112 Livingston Ave	Lutz, FL 33559	
+587	River Of Life Church	410 E Chapman Rd	Lutz, FL 33549	
+589	First United Methodist Church of Lutz	960 W Lutz Lake Fern Rd	Lutz, FL 33548	
+591	First United Methodist Church of Lutz	960 W Lutz Lake Fern Rd	Lutz, FL 33548	
+595	Lutz Civic Center	98 1st Ave NW	Lutz, FL 33548	
+601	East Chelsea Baptist Church	7225 E Chelsea St	Tampa, FL 33610	
+605	Eastlake Park Civic Club	7217 Kingsbury CIr	Tampa, FL 33610	
+613	Living Faith Assembly of God	5500 E Sligh Ave	Tampa, FL 33617	
+617	Bible Based Fellowship Church of Temple Terrace	8718 N 46th St	Tampa, FL 33617	
+622	Grace Family Church Temple Terrace	8610 Temple Terrace HWY	Tampa, FL 33637	
+623	East Chelsea Baptist Church	7225 E Chelsea St	Tampa, FL 33610	
+625	Unitarian Universalist Church	11400 Morris Bridge Rd	Tampa, FL 33637	
+626	Grace Family Church Temple Terrace	8610 Temple Terrace HWY	Tampa, FL 33637	
+629	First Missionary Baptist Church of Seffner	6720 C R 579 N	Seffner, FL 33584	
+631	Thonotosassa Branch Library	10715 Main St	Thonotosassa, FL 33592	
+633	Fellowship Baptist Church	13515 N US Highway 301	Thonotosassa, FL 33592	
+635	Sterling Heights Recreation Center	11706 Williams Rd	Thonotosassa, FL 33592	
+636	Sterling Heights Recreation Center	11706 Williams Rd	Thonotosassa, FL 33592	
+637	Sterling Heights Recreation Center	11706 Williams Rd	Thonotosassa, FL 33592	
+639	East Thonotosassa Baptist Church	12735 Knights Griffin Rd	Thonotosassa, FL 33592	
+641	Hillel Jewish Student Center	13101 USF Sycamore Dr	Tampa, FL 33617	
+643	Hillel Jewish Student Center	13101 USF Sycamore Dr	Tampa, FL 33617	
+650	Mission Hill Church	10002 N 56th St	Temple Terrace, FL 33617	
+651	Woodmont Clubhouse	415 Woodmont Ave	Temple Terrace, FL 33617	
+652	Orange River Estates HOA Clubhouse	7620 Wakulla Dr	Tampa, FL 33637	
+653	Woodmont Clubhouse	415 Woodmont Ave	Temple Terrace, FL 33617	
+654	Mission Hill Church	10002 N 56th St	Temple Terrace, FL 33617	
+655	St Catherine's Episcopal Church	502 Druid Hills Rd	Temple Terrace, FL 33617	
+657	Fowler Avenue Baptist Church	6161 E Fowler Ave	Temple Terrace, FL 33617	
+658	Unitarian Universalist Church	11400 Morris Bridge Rd	Tampa, FL 33637	
+659	Family Recreation Complex	6610 E Whiteway Dr	Temple Terrace, FL 33617	
+661	Woodmont Clubhouse	415 Woodmont Ave	Temple Terrace, FL 33617	
+662	Fowler Avenue Baptist Church	6161 E Fowler Ave	Temple Terrace, FL 33617	
+671	Pebble Creek Golf Club	10550 Regents Park Dr	Tampa, FL 33647	
+673	St Mark the Evangelist Catholic Church	9724 Cross Creek Blvd	Tampa, FL 33647	
+700	The Palmetto Club at FishHawk Ranch	17004 Dorman Rd	Lithia, FL 33547	
+701	The Palmetto Club at FishHawk Ranch	17004 Dorman Rd	Lithia, FL 33547	
+702	The Palmetto Club at FishHawk Ranch	17004 Dorman Rd	Lithia, FL 33547	
+703	Grace Community United Methodist Church	5708 Lithia Pinecrest Rd	Lithia, FL 33547	
+704	The Palmetto Club at FishHawk Ranch	17004 Dorman Rd	Lithia, FL 33547	
+705	Keysville Assembly Of God	10308 Lithia Pinecrest Rd	Lithia, FL 33547	
+706	Keysville Recreation Center	9390 Edison Rd	Lithia, FL 33547	
+707	Ahava Baptist Church	6015 W Farkas Rd	Plant City, FL 33567	
+708	The Palmetto Club at FishHawk Ranch	17004 Dorman Rd	Lithia, FL 33547	
+709	Lone Oak Baptist Church	3505 W Lone Oak Rd	Plant City, FL 33567	
+710	The Palmetto Club at FishHawk Ranch	17004 Dorman Rd	Lithia, FL 33547	
+711	Parkway Baptist Church	4305 James L Redman Pkwy	Plant City, FL 33567	
+712	The Palmetto Club at FishHawk Ranch	17004 Dorman Rd	Lithia, FL 33547	
+713	Bealsville Community Center	5009 Nesmith Rd	Plant City, FL 33567	
+721	First Baptist Church of Dover	3223 Gallagher Rd	Dover, FL 33527	
+750	Plant City Community Church of the Nazarene	2402 Mud Lake Rd	Plant City, FL 33566	
+751	GracePoint Church	1107 Charlie Griffin Rd	Plant City, FL 33566	
+753	Sadye Gibbs Martin Community Center	302 S Maryland Ave	Plant City, FL 33563	
+754	First Assembly of God	602 Charlie Griffin Rd	Plant City, FL 33566	
+755	First Church of God of Plant City	601 N Gordon St	Plant City, FL 33563	
+757	American Legion Post 26	2207 W Baker St	Plant City, FL 33563	
+759	Bruton Memorial Library	302 W McLendon St	Plant City, FL 33563	
+761	Bethany Baptist Church	3409 Cork Rd	Plant City, FL 33565	
+763	Hope Lutheran Church	2001 N Park Rd	Plant City, FL 33563	
+764	Knights Baptist Church	4809 Alexander St N	Plant City, FL 33565	
+765	Knights Baptist Church	4809 Alexander St N	Plant City, FL 33565	
+767	Springhead Civic Center	3410 Nesmith Rd	Plant City, FL 33566	
+769	Faith Temple Assembly of God	4240 N Frontage Rd	Plant City, FL 33565	
+801	The Barn Theatre at Winthrop	11349 Bloomingdale Ave	Riverview, FL 33578	
+802	Overflow Church	4929 Bell Shoals Rd	Valrico, FL 33596	
+803	Overflow Church	4929 Bell Shoals Rd	Valrico, FL 33596	
+804	Presbyterian Church of Bloomingdale	710 E Bloomingdale Ave	Brandon, FL 33511	
+805	Overflow Church	4929 Bell Shoals Rd	Valrico, FL 33596	
+806	Bloomingdale Golf Club	4113 Great Golfers Pl	Valrico, FL 33596	
+807	Bloomingdale Youth Sports Association	2215 Bloomingdale Ave	Valrico, FL 33596	
+808	Bloomingdale Youth Sports Association	2215 Bloomingdale Ave	Valrico, FL 33596	
+809	Bloomingdale Regional Library	1906 Bloomingdale Ave	Valrico, FL 33596	
+810	Bell Shoals Baptist Church	2102 Bell Shoals Rd	Brandon, FL 33511	
+811	Bell Shoals Baptist Church	2102 Bell Shoals Rd	Brandon, FL 33511	
+813	Centerpoint Church	1720 S St Cloud Ave	Valrico, FL 33594	
+814	River Hills Country Club	3943 New River Hills Pkwy	Valrico, FL 33596	
+815	Centerpoint Church	1720 S St Cloud Ave	Valrico, FL 33594	
+816	Pleasant Grove Assembly of God	7051 Turkey Creek Rd	Plant City, FL 33567	
+817	Centerpoint Church	1720 S St Cloud Ave	Valrico, FL 33594	
+818	Victory Baptist Church of Brandon	4243 E Lumsden Rd	Valrico, FL 33594	
+819	Strawberry Ridge	3402 Activities Lane	Valrico, FL 33594	
+820	Victory Baptist Church of Brandon	4243 E Lumsden Rd	Valrico, FL 33594	
+821	Apostles Lutheran Church	200 Kingsway Rd	Brandon, FL 33510	
+825	Brandon Christian Church	910 Bryan Rd	Brandon, FL 33511	
+827	Christ Community Church of Brandon	1310 John Moore Rd	Brandon, FL 33511	
+828	Resurrection Catholic Church	6819 Krycul Ave	Riverview, FL 33578	
+829	Centro Cristiano Hispano	2014 Providence Rd	Brandon, FL 33511	
+830	Kings Avenue Baptist Church	2602 S Kings Ave	Brandon, FL 33511	
+832	Kings Avenue Baptist Church	2602 S Kings Ave	Brandon, FL 33511	
+833	Arise Assembly of God at Brandon	401 Pauls Dr	Brandon, FL 33511	
+834	Christ Community Church of Brandon	1310 John Moore Rd	Brandon, FL 33511	
+851	Limona Village Chapel United Methodist Church	408 Limona Rd	Brandon, FL 33510	
+852	Progress Village Civic Center	8701 Progress Blvd	Tampa, FL 33619	
+853	Brandon Seventh Day Adventist Church	1221 Victoria St	Brandon, FL 33510	
+854	Progress Village Civic Center	8701 Progress Blvd	Tampa, FL 33619	
+855	Brandon Masonic Lodge No 114	203 N Moon Ave	Brandon, FL 33510	
+856	Cornerstone Baptist Church	818 N Parsons Ave	Brandon, FL 33510	
+857	Brandon Seventh Day Adventist Church	1221 Victoria St	Brandon, FL 33510	
+858	Brandon Community Center	502 E Sadie St	Brandon, FL 33510	
+860	First United Methodist of Seffner	1310 S Kingsway Rd	Seffner, FL 33584	
+862	Hillsborough County Fair Association	215 Sydney Washer Rd	Dover, FL 33527	
+863	Fellowship Baptist Church Valrico	106 Rolling Hills Blvd	Valrico, FL 33594	
+867	Hillsborough County Fair Association	215 Sydney Washer Rd	Dover, FL 33527	
+868	Holy Innocents Episcopal Church	604 N Valrico Rd	Valrico, FL 33594	
+869	Bay Life Church	1017 Kingsway Rd	Brandon, FL 33510	
+871	First United Methodist of Seffner	1310 S Kingsway Rd	Seffner, FL 33584	
+875	Bay Life Church	1017 Kingsway Rd	Brandon, FL 33510	
+876	Bay Life Church	1017 Kingsway Rd	Brandon, FL 33510	
+877	Bay Life Church	1017 Kingsway Rd	Brandon, FL 33510	
+879	Bay Area Church Of Christ	3905 Orange St	Mango, FL 33550	
+883	Ironworkers Local No 397	10201 E US Highway 92	Tampa, FL 33610	
+885	St Francis of Assisi Catholic Church	4450 County Road 579	Seffner, FL 33584	
+887	Mango Recreation Center	11717 Clay Pit Rd	Seffner, FL 33584	
+889	Evans Park	1104 N Kingsway Rd	Seffner, FL 33584	
+891	New Hope United Methodist Church Dover	3310 Moores Lake Rd	Dover, FL 33527	
+892	First Thonotosassa Missionary Baptist Church	10650 McIntosh Rd	Thonotosassa, FL 33592	
+901	Ruskin Recreation Center	901 6th St SE	Ruskin, FL 33570	
+902	Ruskin Recreation Center	901 6th St SE	Ruskin, FL 33570	
+904	Kings Point Clubhouse	1900 Clubhouse Dr	Sun City Center, FL 33573	
+905	Ruskin Recreation Center	901 6th St SE	Ruskin, FL 33570	
+906	Trinity Baptist Church	702 Del Webb Blvd W	Sun City Center, FL 33573	
+907	God's Missionary Church	703 Sundance Trail	Wimauma, FL 33598	
+908	Kings Point Clubhouse	1900 Clubhouse Dr	Sun City Center, FL 33573	
+909	Redeemer Lutheran Church	701 Valley Forge Blvd	Sun City Center, FL 33573	
+911	South Hillsborough Elks Lodge #2672	1630 US Highway 41 S	Ruskin, FL 33570	
+912	South Hillsborough Elks Lodge #2672	1630 US Highway 41 S	Ruskin, FL 33570	
+913	Wimauma Community Church of God	5504 State Road 674	Wimauma, FL 33598	
+914	South Bay Church	13498 S US 301	Riverview, FL 33578	
+915	South Bay Church	13498 S US 301	Riverview, FL 33578	
+916	South Bay Church	13498 S US 301	Riverview, FL 33578	
+917	Thatcher Civic Center	111 Alafia Church Rd	Lithia, FL 33547	
+918	The Palmetto Club at FishHawk Ranch	17004 Dorman Rd	Lithia, FL 33547	
+919	Balm Civic Center	14747 Balm Wimauma Rd	Wimauma, FL 33598	
+920	South Bay Church	13498 S US 301	Riverview, FL 33578	
+921	Trinity Baptist Church	702 Del Webb Blvd W	Sun City Center, FL 33573	
+922	St Anne Catholic Church	106 11th Ave NE	Ruskin, FL 33570	
+923	St Anne Catholic Church	106 11th Ave NE	Ruskin, FL 33570	
+924	St Anne Catholic Church	106 11th Ave NE	Ruskin, FL 33570	
+925	Redeemer Lutheran Church	701 Valley Forge Blvd	Sun City Center, FL 33573	
+927	Freedom Plaza	1010 American Eagle Blvd	Sun City Center, FL 33573	
+928	Chulavista Landings	1807 Gangway Loop	Ruskin, FL 33570	
+929	Trinity Baptist Church	702 Del Webb Blvd W	Sun City Center, FL 33573	
+930	Waterset Clubhouse	7281 Paradiso Dr	Apollo Beach, FL 33572	
+931	Calvary Lutheran Church	1250 E College Ave	Ruskin, FL 33570	
+932	Calvary Lutheran Church	1250 E College Ave	Ruskin, FL 33570	
+933	Calvary Lutheran Church	1250 E College Ave	Ruskin, FL 33570	
+934	Waterset Clubhouse	7281 Paradiso Dr	Apollo Beach, FL 33572	
+935	St Anne Catholic Church	106 11th Ave NE	Ruskin, FL 33570	
+936	St Anne Catholic Church	106 11th Ave NE	Ruskin, FL 33570	
+937	Apollo Beach Recreation Center	664 Golf And Sea Blvd	Apollo Beach, FL 33572	
+938	First Baptist Church Of Gibsonton	9912 Indiana St	Gibsonton, FL 33534	
+939	Apollo Beach Campus of Bell Shoals Baptist Church	6414 Golf And Sea Blvd	Apollo Beach, FL 33572	
+940	Gardenville Recreation Center	6219 Symmes Rd	Gibsonton, FL 33534	
+941	Apollo Beach Recreation Center	664 Golf And Sea Blvd	Apollo Beach, FL 33572	
+942	Gardenville Recreation Center	6219 Symmes Rd	Gibsonton, FL 33534	
+943	First Baptist Church Of Gibsonton	9912 Indiana St	Gibsonton, FL 33534	
+944	South Shore United Methodist Church	11525 Big Bend Rd	Riverview, FL 33579	
+945	First Baptist Church Of Gibsonton	9912 Indiana St	Gibsonton, FL 33534	
+946	The Alley at SouthShore	10221 Big Bend Rd	Riverview, FL 33578	
+947	Summerfield Crossing Community Center	13011 Summerfield Blvd	Riverview, FL 33579	
+948	Chulavista Landings	1807 Gangway Loop	Ruskin, FL 33570	
+949	Rivercrest Clubhouse	11560 Ramble Creek Dr	Riverview, FL 33569	
+950	Balm Civic Center	14747 Balm Wimauma Rd	Wimauma, FL 33598	
+951	Redeemer Presbyterian Church	12404 Boyette Rd	Riverview, FL 33569	
+952	Riverview Civic Center	11020 Park Dr	Riverview, FL 33569	
+953	Riverview Civic Center	11020 Park Dr	Riverview, FL 33569	
+954	Reach City Church	6605 Krycul Ave	Riverview, FL 33578	
+955	Desoto Masonic Lodge #105	10801 Desoto Rd	Riverview, FL 33578	
+956	Redeemer Presbyterian Church	12404 Boyette Rd	Riverview, FL 33569	
+957	Reach City Church	6605 Krycul Ave	Riverview, FL 33578	
+958	South Shore United Methodist Church	11525 Big Bend Rd	Riverview, FL 33579	
+959	Riverview Memorial VFW Post 8108	7504 Riverview Dr	Riverview, FL 33578	
+960	Riverview Memorial VFW Post 8108	7504 Riverview Dr	Riverview, FL 33578	
+961	Emanuel P Johnson Recreation Center	5855 S 78th St	Tampa, FL 33619	
+962	First Baptist Church of Riverview	8626 US Highway 301 S	Riverview, FL 33578	
+963	Emanuel P Johnson Recreation Center	5855 S 78th St	Tampa, FL 33619	
+964	Reach City Church	6605 Krycul Ave	Riverview, FL 33578	
+965	Progress Village Civic Center	8701 Progress Blvd	Tampa, FL 33619	
+966	Emanuel P Johnson Recreation Center	5855 S 78th St	Tampa, FL 33619	
+967	Blessed Sacrament Catholic Church	7001 12th Ave S	Tampa, FL 33619	
+968	78th Street Community Library	7625 Palm River Rd	Tampa, FL 33619	
+969	Blessed Sacrament Catholic Church	7001 12th Ave S	Tampa, FL 33619	
+970	Blessed Sacrament Catholic Church	7001 12th Ave S	Tampa, FL 33619	
+971	Blessed Sacrament Catholic Church	7001 12th Ave S	Tampa, FL 33619	
+972	Progress Village Civic Center	8701 Progress Blvd	Tampa, FL 33619	
+973	Bell Shoals Baptist Church Palm River Campus	5415 Palm River Rd	Tampa, FL 33619	
+974	Bell Shoals Baptist Church Palm River Campus	5415 Palm River Rd	Tampa, FL 33619	
+979	Rivercrest Clubhouse	11560 Ramble Creek Dr	Riverview, FL 33569	
+980	Summerfield Crossing Community Center	13011 Summerfield Blvd	Riverview, FL 33579	
+981	Summerfield Crossing Community Center	13011 Summerfield Blvd	Riverview, FL 33579	
+982	Summerfield Crossing Community Center	13011 Summerfield Blvd	Riverview, FL 33579	
+983	Reach City Church	6605 Krycul Ave	Riverview, FL 33578	
+999	Fred B Karl County Center	601 E Kennedy Blvd	Tampa, FL 33602	

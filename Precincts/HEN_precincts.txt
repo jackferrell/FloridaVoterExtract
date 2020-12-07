@@ -1,0 +1,10 @@
+001	Janet B. Taylor Auditorium	1100 S Olympia St	Clewiston, FL 33440-4908	
+002	Carlson Mem. United Church	310 Campbell St	LaBelle, FL 33935-5269	
+003	LaBelle Civic Center	481 W Hickpochee Ave	LaBelle, FL 33935-4763	
+004	Big Cypress Senior Center	31000 Josie Billie Hwy	Clewiston, FL 33440	
+005	Felda Community Center	1100 CR 830	Felda, FL 339300000	
+006	John Boy Auditorium	1200 WC OWENS AVE	Clewiston, FL 33440-8477	
+007	Youth Center	110 W Osceola Ave	Clewiston, FL 33440-2910	
+008	Pioneer Fire Station	2001 10th Terr	Clewiston, FL 334400000	
+009	Church of the Good Shepherd	1098 Collingswood Pkwy	LaBelle, FL 33935	
+010	Montura Clubhouse	225 N Hacienda St	Clewiston, FL 33440	

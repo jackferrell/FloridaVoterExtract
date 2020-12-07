@@ -1,0 +1,21 @@
+110	Paxton Agriculture Complex	21972 US Hwy 331 N	Paxton, FL 32538	
+120	New Harmony Community Center	43 New Harmony Loop	Defuniak Springs, FL 32433	
+130	First Baptist Church of Mossy Head	92 Hinote Rd	DeFuniak Springs, FL 32433	
+210	Gaskin First Baptist Church	107 Co Hwy 181 E	Westville, FL 32464	
+220	Liberty - Cluster Spgs Bapt Church	1333 Co Hwy 1084	Defuniak Springs, FL 32433	
+230	Glendale - Friendship Baptist Church	2415 Co Hwy 1883	DeFuniak Springs, FL 32433	
+240	Darlington Baptist Church	4751 St Hwy 2 E	Westville, FL 32464	
+310	DeFuniak Springs Community Center	361 N 10th St	Defuniak Springs, FL 32433	
+320	DeFuniak Springs Community Center	361 N 10th St	Defuniak Springs, FL 32433	
+330	DeFuniak Springs Community Center	361 N 10th St	Defuniak Springs, FL 32433	
+340	Argyle - New Life Holiness Church	5106 US Hwy 90 E	DeFuniak Springs, FL 32433	
+350	Eucheeanna Old School Community Ctr	301 McKinnon Bridge Rd	Ponce De Leon, FL 32455	
+360	Valley View Community Center	9032 Co Hwy 183 S	Ponce de Leon, FL 32455	
+410	Choctaw Beach Community Center	126 Water Oak St	Freeport, FL 32439	
+420	Portland Community Center	88 Site C-6 Rd	Freeport, FL 32439	
+430	Freeport City Hall	112 St Hwy 20 W	Freeport, FL 32439	
+440	Bruce - Muscogee Nation Museum	278 Church Rd	Ponce De Leon, FL 32455	
+510	Miramar Beach - Faith Assembly Ch	306 S Geronimo St	Miramar Beach, FL 32550	
+520	Santa Rosa Bch - Good News U.M.C.	4747 US Hwy 98 W	Santa Rosa Beach, FL 32459	
+530	Pt Washington - Vision Church	5200 US Hwy 98 E	Santa Rosa Beach, FL 32459	
+540	Rosemary Beach Town Hall	48 S Barrett Sq	Inlet Beach, FL 32461	

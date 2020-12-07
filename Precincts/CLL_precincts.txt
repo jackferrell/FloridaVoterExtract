@@ -1,0 +1,60 @@
+101	West Wind Estates Comm Bldg	301 Joseph Ln	Naples, FL 34114	
+102	Everglades City Hall	102 Copeland Ave N	Everglades City, FL 34139	
+103	First Haitian Baptist Church	14600 Tamiami Trl E	Naples, FL 34114	
+135	Glades Community Center	186 Teryl Rd	Naples, FL 34112	
+139	Riviera Golf Estates Clubhouse	425 Charlemagne Blvd	Naples, FL 34112	
+141	Hitching Post Recreation Hall	100 Barefoot Williams Rd	Naples, FL 34113	
+142	Isles of Capri Community Center	338 Capri Blvd	Naples, FL 34113	
+144	Shepherd of the Glades Church	6020 Rattlesnake Hammock Rd	Naples, FL 34113	
+155	South Regional Library	8065 Lely Cultural Pkwy	Naples, FL 34113	
+156	Eagle Lakes Community Park	11565 Tamiami Trl E	Naples, FL 34113	
+159	The Club & Spa at Fiddler's Creek	3470 Club Center Blvd	Naples, FL 34114	
+189	Goodland Community Center	417 Mango Ave	Goodland, FL 34140	
+190	Marco Presbyterian Church	875 W Elkcam Cir	Marco Island, FL 34145	
+193	United Church of Marco Island	320 N Barfield Dr	Marco Island, FL 34145	
+194	Marco Lutheran Church	525 N Collier Blvd	Marco Island, FL 34145	
+202	Vanderbilt Presbyterian Church	1225 Piper Blvd	Naples, FL 34110	
+203	North Collier Regional Park	15000 Livingston Rd	Naples, FL 34109	
+204	First Congregational Church of Naples	6630 Immokalee Rd	Naples, FL 34119	
+222	Grow Church	15300 Tamiami Trail N	Naples, FL 34110	
+223	St. John the Evangelist	625 111th Ave N	Naples, FL 34108	
+242	Village Walk Community Center	3200 Village Walk Cir	Naples, FL 34109	
+251	Library Headquarters	2385 Orange Blossom Dr	Naples, FL 34109	
+252	Pelican Marsh Community Center	1504 Pelican Marsh Blvd	Naples, FL 34109	
+255	Pelican Bay Community Center	8960 Hammock Oak Dr	Naples, FL 34108	
+257	Covenant Church of Naples PCA	6926 Trail Blvd	Naples, FL 34108	
+258	Veterans Community Park	1895 Veterans Park Dr	Naples, FL 34109	
+303	St. Monica's Episcopal Church	7070 Immokalee Rd	Naples, FL 34119	
+304	Peace Lutheran Church	9850 Immokalee Rd	Naples, FL 34120	
+310	North Naples Baptist Church	1811 Oakes Blvd	Naples, FL 34119	
+313	Greater Naples Fire Admin HQ	14575 Collier Blvd	Naples, FL 34119	
+315	Island Walk Town Center	6155 Towncenter Cir	Naples, FL 34119	
+317	Vineyards Community Park	6231 Arbor Blvd W	Naples, FL 34119	
+322	VFW Post # 7721	800 Neffs Way	Naples, FL 34119	
+323	Golden Gate Community Center	4701 Golden Gate Pkwy	Naples, FL 34116	
+324	Parkway Life Church	5975 Golden Gate Pkwy	Naples, FL 34116	
+332	New Hope Ministries	7665 Davis Blvd	Naples, FL 34104	
+414	Faith Lutheran Church	4150 Goodlette Rd N	Naples, FL 34103	
+418	Quail Run Golf Club	1 Forest Lake Blvd	Naples, FL 34105	
+428	Humane Society of Naples	370 Airport Pulling Rd N	Naples, FL 34104	
+430	The Salvation Army	3170 Estey Ave	Naples, FL 34104	
+431	Berkshire Lakes Clubhouse	495 Belville Blvd	Naples, FL 34104	
+434	East Naples Community Park	3500 Thomasson Dr	Naples, FL 34112	
+438	Mayflower Congregation UCC	2900 County Barn Rd	Naples, FL 34112	
+440	Naples Church of Christ	12760 Livingston Rd	Naples, FL 34105	
+450	Supervisor of Elections Office	3750 Enterprise Ave	Naples, FL 34104	
+462	St. John's Episcopal Church	500 Park Shore Dr	Naples, FL 34103	
+464	Moorings Presbyterian Church	791 Harbour Dr	Naples, FL 34103	
+472	River Park Community Center	301 11th St N	Naples, FL 34102	
+475	City of Naples Utilities Admin Bldg	380 Riverside Cir	Naples, FL 34102	
+477	St. Ann Catholic Church Rooney Hall	985 3rd St S	Naples, FL 34102	
+479	Oasis Naples Church	1074 10th St N	Naples, FL 34102	
+502	Everglades City Hall	102 Copeland Ave N	Everglades City, FL 34139	
+550	Quality Inn Golf & Country Club	4100 Golden Gate Pkwy	Naples, FL 34116	
+551	St. Agnes Parish Center	7775 Vanderbilt Beach Rd	Naples, FL 34120	
+552	Max A Hasse Jr Community Park	3390 Golden Gate Blvd W	Naples, FL 34117	
+554	Greater Naples Fire Station # 71	100 13th St SW	Naples, FL 34117	
+590	Collier County University Extension	14700 Immokalee Rd	Naples, FL 34120	
+591	Cypress Ward LDS Church	2575 Everglades Blvd	Naples, FL 34120	
+593	Ave Maria Community Room	5076 Annunciation Cir	Ave Maria, FL 34142	
+594	Immokalee Community Park	321 N 1st St	Immokalee, FL 34142	

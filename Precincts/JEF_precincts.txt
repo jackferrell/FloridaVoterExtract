@@ -1,0 +1,16 @@
+01	New Bethel Ame Church	6496 Ashville Hwy	Monticello, FL 32344	
+02	St Margaret's Catholic Church	1565 E Washington St	Monticello, FL 32344	
+03	Aucilla Central Baptist	655 Tindell Rd	Monticello, FL 32344	
+04	Church of The Nazarene	1590 N Jefferson St	Monticello, FL 32344	
+05	Monticello Opera House	185 W Washington St	Monticello, FL 32344	
+06	The Masonic Lodge	235 N Olive St	Monticello, FL 32344	
+07	Macedonia Baptist Church	3093 S Jefferson St	Monticello, FL 32344	
+08	Old J.C.H.S. Auditorium	575 S Water St	Monticello, FL 32344	
+09	Supt. of Schools Board Room	1490 W Washington St	Monticello, FL 32344	
+10	Lloyd Baptist Church	124 St. Louis St	Lloyd, FL 32337	
+11	Waukeenah Church(Methodist)	81 Methodist Church Rd	Monticello, FL 32344	
+12	Wacissa Volunteer Fire Dept	14496 Waukeenah HWY	Monticello, FL 32344	
+13	Ebenezer Baptist Church	446 Hatchett Rd	Lamont, FL 32336	
+14	Mt. Morilla Baptist Church	9091 S Salt RD	Lamont, FL 32336	
+15	Lloyd Woman's Club	9109 Old Lloyd Rd	Monticello, FL 32344	
+16	Lamont Baptist Church	121 River Rd	Lamont, FL 32336	

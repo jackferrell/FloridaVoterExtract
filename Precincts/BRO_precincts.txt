@@ -1,0 +1,577 @@
+A001	Somerset Key Academy	959 SE 6th Ave	Deerfield Beach, FL 33441	
+A002	Jim & Jan Moran Boys & Girls Club	27 S Dixie HWY	Deerfield Beach, FL 33441	
+A003	Le Club Century Village	3501 West Dr	Deerfield Beach, FL 33442	
+A004	Saint Peters Anglican Church	1416 SE 2nd Ter	Deerfield Beach, FL 33441	
+A005	Community Presbyterian Church	1919 SE 5th St	Deerfield Beach, FL 33441	
+A006	Hillsboro Community Center	50 Hillsboro Technology Dr	Deerfield Beach, FL 33441	
+A007	Constitution Park	2841 W Hillsboro Blvd	Deerfield Beach, FL 33442	
+A008	Jim & Jan Moran Boys & Girls Club	27 S Dixie HWY	Deerfield Beach, FL 33441	
+A009	Le Club Century Village	3501 West Dr.	Deerfield Beach, FL 33442	
+A010	Deerfield Beach Percy White Library	837 E Hillsboro Blvd	Deerfield Beach, FL 33441	
+A011	Deerfield Beach Housing Authority	425 NW 1st Ter.	Deerfield Beach, FL 33441	
+A012	Meadows of Crystal Lake Clubhouse	2300 SW 17th Cir	Deerfield Beach, FL 33442	
+A013	Quiet Waters Elementary School	4150 W Hillsboro Blvd	Deerfield Beach, FL 33442	
+A014	Crystal Lake Golf Villas Clubhouse	4791 NW 18th ave	Deerfield Beach, FL 33064	
+A015	Deerfield Park Elementary School	650 SW 3rd Ave	Deerfield Beach, FL 33441	
+A016	Constitution Park	2841 W Hillsboro Blvd	Deerfield Beach, FL 33442	
+A017	Meadows of Crystal Lake Clubhouse	2300 SW 17th Cir	Deerfield Beach, FL 33442	
+A018	Park Ridge Elementary School	5200 NE 9th Ave	Deerfield Beach, FL 33064	
+A019	Crystal Lake Golf Villas Clubhouse	4791 NW 18th Ave	Deerfield Beach, FL 33064	
+A020	Crystal Lake Golf Villas Clubhouse	4791 NW 18th Ave	Deerfield Beach, FL 33064	
+A021	Pompano Lakes Woodsetter Clubhouse	311 NW 46th St	Pompano Beach, FL 33064	
+A022	Park Ridge Elementary School	5200 NE 9th Ave	Deerfield Beach, FL 33064	
+A023	North Broward Medical Center	201 E Sample Rd	Pompano Beach, FL 33064	
+A024	Pompano Lakes Woodsetter Clubhouse	311 NW 46th St	Pompano Beach, FL 33064	
+B001	Dixon Ahl Recreation Center	2220 NE 38th St	Lighthouse Point, FL 33064	
+B002	St Paul The Apostle Church	2700 NE 36th St	Lighthouse Point, FL 33064	
+B003	Dixon Ahl Recreation Center	2220 NE 38th St	Lighthouse Point, FL 33064	
+B004	St Paul The Apostle Church	2700 NE 36th St.	Lighthouse Point, FL 33064	
+B005	St Paul The Apostle Church	2700 NE 42nd St	Lighthouse Point, FL 33064	
+B006	Lighthouse Point City Hall	2200 NE 38th St	Lighthouse Point, FL 33064	
+C001	St. Stephen Lutheran Church	2500 NE 14th St	Pompano Beach, FL 33062	
+C002	Pompano Bch Municipal Golf Course	1101 N Federal HWY	Pompano Beach, FL 33062	
+C003	Christ Church United Methodist	210 NE 3rd St	Pompano Beach, FL 33060	
+C004	Emma Lou Olson Community Center	1801 NE 6th St	Pompano Beach, FL 33060	
+C005	Sanders Park Elementary School	800 NW 16th St	Pompano Beach, FL 33060	
+C006	Boys & Girls Club of Broward County	212 NW 16th	St	Pompano Beach, FL 33060	
+C007	Christ Church United Methodist	210 NE 3rd St.	Pompano Beach, FL 33060	
+C008	Emma Lou Olson Community Center	1801 NE 6th St	Pompano Beach, FL 33060	
+C009	Jan Moran Collier City Library	2800 NW 9th Ct	Pompano Beach, FL 33069	
+C010	American Legion Local Post #142	171 SW 2nd St.	Pompano Beach, FL 33060	
+C011	St. Gabriel Catholic Church	731 N Ocean Blvd	Pompano Beach, FL 33062	
+C012	Emma Lou Olson Community Center	1801 NE 6th St.	Pompano Beach, FL 33060	
+C013	St. Gabriel Catholic Church	731 N Ocean Blvd	Pompano Beach, FL 33062	
+C014	Emma Lou Olson Community Center	1801 NE 6th St	Pompano Beach, FL 33060	
+C015	Jan Moran Collier City Library	2800 NW 9th Ct.	Pompano Beach, FL 33069	
+C016	Emma Lou Olson Community Center	1801 NE 6th St.	Pompano Beach, FL 33060	
+C017	St. Coleman Church "Holy Family Center"	1200 S Federal Hwy.	Pompano Beach, FL 33062	
+C018	Christ Community Church	901 E McNab Rd	Pompano Beach, FL 33060	
+C019	Christ Community Church	901 E McNab Rd	Pompano Beach, FL 33060	
+C020	Pompano Beach Fire Training	180 SW 3rd St.	Pompano Beach, FL 33060	
+C021	Herb Skolnick Community Center	800 SW 36th Ave.	Pompano Beach, FL 33069	
+C022	Emma Lou Olson Community Center	1801 NE 6th St.	Pompano Beach, FL 33060	
+C023	Herb Skolnick Community Center	800 SW 36th Ave.	Pompano Beach, FL 33069	
+C024	Herb Skolnick Community Center	800 SW 36th Ave	Pompano Beach, FL 33069	
+C025	American Legion Local Post #142	171 SW 2nd St.	Pompano Beach, FL 33060	
+C026	Water & Wastewater Services	2555 W Copans Rd.	Pompano Beach, FL 33069	
+C027	Pompano Beach Middle School	310 NE 6th St.	Pompano Beach, FL 33060	
+C028	Mc Nair Community Center	951 NW 27th Ave.	Pompano Beach, FL 33069	
+C029	John Knox Village	200 Lakeside Cir	Pompano Beach, FL 33060	
+C030	Charlotte J. Burrie Community (Civic) Center	2669 N Federal HWY	Pompano Beach, FL 33064	
+C031	Charlotte J. Burrie Community (Civic) Center	2669 N Federal HWY	Pompano Beach, FL 33064	
+C032	Boys & Girls Club of Broward County	212 NW 16th St.	Pompano Beach, FL 33060	
+C033	Norcrest Elementary School	3951 NE 16th Ave.	Pompano Beach, FL 33064	
+C034	Norcrest Elementary School	3951 NE 16th Ave	Pompano Beach, FL 33064	
+C035	Boys & Girls Club of Broward County	212 NW 16th St	Pompano Beach, FL 33060	
+C036	Bright Horizons School	3901 NE 1st Ter.	Pompano Beach, FL 33064	
+C037	Leisureville Clubhouse # 1	101 Leisure Blvd	Pompano Beach, FL 33064	
+C038	Emma Lou Olson Community Center	1801 NE 6th St.	Pompano Beach, FL 33060	
+D001	Collins Community Center	3900 NE 3rd Ave	Oakland Park, FL 33334	
+D002	Oakland Park Elementary School	936 NE 33rd St	Oakland Park, FL 33334	
+D003	Oakland Park Library	1298 NE 37th St	Oakland Park, FL 33334	
+D004	Royal Park Condo Clubhouse	122 Royal Park Dr	Oakland Park, FL 33309	
+D005	Collins Community Center	3900 NE 3rd Ave	Oakland Park, FL 33334	
+D006	Blessed Sacrament Catholic Church	1701 E Oakland Park Blvd	Oakland Park, FL 33334	
+D007	Osswald Park	2220 NW 21st Ave	Fort Lauderdale, FL 33311	
+D008	Unitarian Universalist Congregation of Fort Lauder	3970 NW 21st Ave	Oakland Park, FL 33309	
+D009	Unitarian Universalist Congregation of Fort Lauder	3970 NW 21st Ave	Oakland Park, FL 33309	
+D010	Lloyd Estates Elementary School	750 NW 41st St	Oakland Park, FL 33309	
+D011	Blessed Sacrament Catholic Church	1701 E Oakland Park Blvd	Oakland Park, FL 33334	
+D012	Boyd H. Anderson High School	3050 NW 41st St	Lauderdale Lakes, FL 33309	
+D013	Boyd H. Anderson High School	3050 NW 41st St	Lauderdale Lakes, FL 33309	
+D014	Rickards Middle School	6000 NE 9th Ave	Oakland Park, FL 33334	
+D015	North Andrews Gardens Elementary School	345 NE 56th St	Oakland Park, FL 33334	
+D016	Gracepoint Church	5590 NE 6th Ave	Oakland Park, FL 33334	
+E001	James S. Hunt Elementary School	7800 NW 35th Ct	Coral Springs, FL 33065	
+E002	Coral Springs City Hall	9500 W Sample Rd	Coral Springs, FL 33065	
+E003	Coral Springs Center for the Arts	2855 Coral Springs Dr.	Coral Springs, FL 33065	
+E004	Coral Springs Elementary School	3601 NW 110th Ave	Coral Springs, FL 33065	
+E005	Northwest Regional Library	3151 N University Dr	Coral Springs, FL 33065	
+E006	Mullins Park-Sartory Senior Center	10150 NW 29th St	Coral Springs, FL 33065	
+E007	Ramblewood Elementary School	8950 Shadow Wood Blvd	Coral Springs, FL 33071	
+E008	Tennis Center of Coral Springs	2575 Sportplex Dr.	Coral Springs, FL 33065	
+E009	Maplewood Elementary School	9850 Ramblewood Dr	Coral Springs, FL 33071	
+E010	Ramblewood Middle School	8505 W Atlantic Blvd	Coral Springs, FL 33071	
+E011	Forest Glen Middle School	6501 Turtle Run Blvd	Coral Springs, FL 33067	
+E012	Coral Springs City Hall	9500 W Sample Rd	Coral Springs, FL 33065	
+E013	J P Taravella High School	10600 Riverside Dr	Coral Springs, FL 33071	
+E014	Park Springs Elementary School	5800 NW 66th Ter	Coral Springs, FL 33067	
+E015	Riverside Elementary School	11450 Riverside Dr	Coral Springs, FL 33071	
+E016	Coral Park Elementary School	8401 Westview Dr	Coral Springs, FL 33067	
+E017	Parkridge Church	5600 Coral Ridge Dr.	Coral Springs, FL 33076	
+E018	Coral Springs Gymnasium	2501 Coral Springs Dr.	Coral Springs, FL 33065	
+E019	Coral Springs High School	7201 W Sample Rd	Coral Springs, FL 33065	
+E020	Coral Springs Center for the Arts	2855 Coral Springs Dr.	Coral Springs, FL 33065	
+E021	Coral Springs City Hall	9500 W Sample Rd	Coral Springs, FL 33065	
+E022	Coral Springs Middle School	10300 W Wiles Rd	Coral Springs, FL 33065	
+E023	Country Hill Elementary School	10550 Westview Dr	Coral Springs, FL 33076	
+E024	J P Taravella High School	10600 Riverside Dr	Coral Springs, FL 33071	
+E025	Coral Springs Gymnasium	2501 Coral Springs Dr	Coral Springs, FL 33065	
+E026	Coral Glades High School	2700 Sportsplex Dr	Coral Springs, FL 33065	
+E027	Cypress Hall at Cypress Park	1300 Coral Springs Dr	Coral Springs, FL 33071	
+E028	Northwest Regional Library	3151 N University Dr.	Coral Springs, FL 33065	
+E029	Sawgrass Springs Middle School	12500 W Sample Rd	Coral Springs, FL 33065	
+E030	Coral Springs City Hall	9500 W Sample Rd	Coral Springs, FL 33065	
+E031	Parkridge Church	5600 Coral Springs Dr.	Coral Springs, FL 33076	
+E032	Eagle Ridge Elementary School	11500 Westview Dr	Coral Springs, FL 33076	
+E033	Parkridge Church	5600 Coral Ridge Dr	Coral Springs, FL 33076	
+E034	Coral Springs Charter School	3205 N University Dr	Coral Springs, FL 33065	
+F001	Coconut Creek Community Center	1100 Lyons Rd	Coconut Creek, FL 33066	
+F002	Coconut Creek Community Center	1100 Lyons Rd	Coconut Creek, FL 33066	
+F003	Coconut Creek Community Center	1100 Lyons Rd	Coconut Creek, FL 33066	
+F004	Wynmoor Comm. Council West Wing	1300 Avenue Of The Stars	Coconut Creek, FL 33066	
+F005	Winston Park Elementary School	4000 Winston Park Blvd	Coconut Creek, FL 33073	
+F006	Coconut Creek Community Center	1100 Lyons Rd	Coconut Creek, FL 33066	
+F007	Coconut Creek Recreation Complex	4455 Sol Press Blvd	Coconut Creek, FL 33073	
+F008	Centura Park HOA	2395 NW 36th Ave	Coconut Creek, FL 33066	
+F009	Coconut Creek Governmental Center	4800 W Copans Rd	Coconut Creek, FL 33063	
+F010	Monarch High School	5050 Wiles Rd	Coconut Creek, FL 33073	
+F011	Coconut Creek Recreation Complex	4455 Sol Press Blvd	Coconut Creek, FL 33073	
+F012	Coconut Creek Recreation Complex	4455 Sol Press Blvd	Coconut Creek, FL 33073	
+F013	Coconut Creek Recreation Complex	4455 Sol Press Blvd	Coconut Creek, FL 33073	
+F014	Winston Park Elementary School	4000 Winston Park Blvd	Coconut Creek, FL 33073	
+G001	Coral Bay Clubhouse	3101 S Bay Dr	Margate, FL 33063	
+G002	Abundant Life Church	7955 Royal Palm Blvd	Margate, FL 33063	
+G003	Liberty Elementary School	2450 Banks Rd	Margate, FL 33063	
+G004	Paradise Gardens Section 4 CH	7700 Margate Blvd	Margate, FL 33063	
+G005	Oriole Golf & Tennis Phase1 Clubhouse	7777 Golf Circle Dr	Margate, FL 33063	
+G006	Charley Katz Community Center	6111 NW 10th St	Margate, FL 33063	
+G007	Atlantic West Elementary School	301 NW 69th Ter	Margate, FL 33063	
+G008	Oakland Hills Social Center	800 SW 51st Ave	Margate, FL 33068	
+G009	Atlantic West Elementary School	301 NW 69th Ter	Margate, FL 33063	
+G010	Cokesbury United Methodist Ch.	1801 NW 65th Ave	Margate, FL 33063	
+G011	Liberty Elementary School	2450 Banks Rd	Margate, FL 33063	
+G012	Oriole Gardens Phase 1 Clubhouse	7400 NW 5th Ct	Margate, FL 33063	
+G013	Oriole Gardens Phase 1 Clubhouse	7400 NW 5th Ct	Margate, FL 33063	
+G014	Margate Middle School	500 NW 65th Ave	Margate, FL 33063	
+G015	Oriole Golf & Tennis Phase1 Clubhouse	7777 Golf Circle Dr	Margate, FL 33063	
+G016	Abundant Life Church	7955 Royal Palm Blvd	Margate, FL 33063	
+H001	Municipal Complex N Laud City Hall	701 SW 71st Ave	North Lauderdale, FL 33068	
+H002	N. Laud. Saraniero Library	6901 Kimberly Blvd	North Lauderdale, FL 33068	
+H003	Silver Lakes Middle School	7600 Tam O' Shanter Blvd	North Lauderdale, FL 33068	
+H004	Morrow Elementary School	408 SW 76th Ter	North Lauderdale, FL 33068	
+H005	N. Laud. Saraniero Library	6901 Kimberly Blvd	North Lauderdale, FL 33068	
+H006	Pinewood Elementary School	1600 SW 83rd Ave	North Lauderdale, FL 33068	
+H007	North Lauderdale Elementary	7500 Kimberly Blvd	North Lauderdale, FL 33068	
+H008	Pinewood Elementary School	1600 SW 83rd Ave	North Lauderdale, FL 33068	
+H009	Silver Lakes Middle School	7600 Tam O'Shanter Blvd	North Lauderdale, FL 33068	
+H010	Municipal Complex N Laud City Hall	701 SW 71st Ave	North Lauderdale, FL 33068	
+H011	Broadview Elementary School	1800 SW 62nd Ave	North Lauderdale, FL 33068	
+J001	Forsythe Colony Sect.16 Clubhouse	7100 NW 76th St	Tamarac, FL 33321	
+J002	Lighthouse Christian Fellowship	9904 NW 77th St.	Tamarac, FL 33321	
+J003	Westwood 22 Clubhouse	9200 NW 70th St	Tamarac, FL 33321	
+J004	Vanguard Village #15 Clubhouse	6320 Brookwood Blvd	Tamarac, FL 33321	
+J005	Fairways of Tamarac Assn. Clubhouse	8300 NW 61st St	Tamarac, FL 33321	
+J006	Millennium Collegiate Academy 6-12	5803 NW 94th Ave	Tamarac, FL 33321	
+J007	Faith United Church of Christ	6201 NW 57th St	Tamarac, FL 33319	
+J008	Vanguard Village #15 Clubhouse	6320 Brookwood Blvd	Tamarac, FL 33321	
+J009	Fair Haven Clubhouse II	5700 NW 84th Ter	Tamarac, FL 33321	
+J010	Tamarac Lakes Assoc. South Clubhouse	2800 W Commercial Blvd	Tamarac, FL 33309	
+J011	Forsythe Colony Sect.16 Clubhouse	7100 NW 76th St	Tamarac, FL 33321	
+J012	Kings Point Clubhouse	7620 Nob Hill Rd	Tamarac, FL 33321	
+J013	Lakes of Carriage Hills Clubhouse	4985 E Sabal Palm Blvd	Tamarac, FL 33319	
+J014	Mainlands 1 & 2 Clubhouse	4301 Mainlands Dr	Tamarac, FL 33319	
+J015	Faith United Church of Christ	6201 NW 57th St	Tamarac, FL 33319	
+J016	City of Tamarac Multi-Purpose Ctr.	7531 N University Dr	Tamarac, FL 33321	
+J017	Faith United Church of Christ	6201 NW 57th St	Tamarac, FL 33319	
+J018	City of Tamarac Multi-Purpose Ctr.	7531 N University Dr	Tamarac, FL 33321	
+J019	Millennium Collegiate Academy 6-12	5803 NW 94th Ave	Tamarac, FL 33321	
+J020	Mainlands 6 Clubhouse	4920 NW 51st Ct	Tamarac, FL 33319	
+J021	City of Tamarac Multi-Purpose Ctr.	7531 N University Dr	Tamarac, FL 33321	
+J022	Kings Point Clubhouse	7620 Nob Hill Rd	Tamarac, FL 33321	
+J023	Lighthouse Christian Fellowship	9904 NW 77th St.	Tamarac, FL 33321	
+J024	Kings Point Clubhouse	7620 Nob Hill Rd	Tamarac, FL 33321	
+K001	Lauderdale Lakes Middle School	3911 NW 30th Ave	Lauderdale Lakes, FL 33309	
+K002	Merrell United Methodist Church	3900 N State Road 7	Lauderdale Lakes, FL 33319	
+K003	Oakland Estates Social Center	4200 NW 41st St	Lauderdale Lakes, FL 33319	
+K004	Merrell United Methodist Church	3900 N State Road 7	Lauderdale Lakes, FL 33319	
+K005	Lauderdale Lakes Multi-Purp. Center	4340 NW 36th St	Lauderdale Lakes, FL 33319	
+K006	Willie L. Webb Sr. Park	3601 NW 21st St	Lauderdale Lakes, FL 33311	
+K007	Willie L. Webb Sr. Park	3601 NW 21st St	Lauderdale Lakes, FL 33311	
+K008	Lauderdale Lakes Multi-Purp. Center	4340 NW 36th St.	Lauderdale Lakes, FL 33319	
+K009	Lauderdale Lakes Educational and Cultural Center	3580 W Oakland Park Blvd	Lauderdale Lakes, FL 33311	
+K010	Lauderdale Lakes Educational and Cultural Center	3580 W Oakland Park Blvd	Lauderdale Lakes, FL 33311	
+K011	Somerset Condo Phase 1 Clubhouse	2845 Somerset Dr	Lauderdale Lakes, FL 33311	
+L001	West Wind Park	4550 NW 82nd Ave	Lauderhill, FL 33351	
+L002	Castle Hill Elementary School	2640 NW 46th Ave	Lauderhill, FL 33313	
+L003	Castle Gardens Recreation Center	4850 NW 22nd Ct	Lauderhill, FL 33313	
+L004	Boys & Girls Club	5455 NW 19th St	Lauderhill, FL 33313	
+L005	Lauderhill 6-12	1901 NW 49th Ave	Lauderhill, FL 33313	
+L006	Herbert Sadkin Community Center	1176 NW 42nd Way	Lauderhill, FL 33313	
+L007	Lauderhill Towne Centre Library	6399 W Oakland Park Blvd	Lauderhill, FL 33313	
+L008	Lauderhill Paul Turner Elem. School	1500 NW 49th Ave	Lauderhill, FL 33313	
+L009	Environ Cultural Center	3800 Environ Blvd	Lauderhill, FL 33319	
+L010	International Village Clubhouse	3700 Inverrary Dr	Lauderhill, FL 33319	
+L011	Lauderhill City Hall	5581 W Oakland Park Blvd	Lauderhill, FL 33313	
+L012	Royal Palm Elementary School	1951 NW 56th Ave	Lauderhill, FL 33313	
+L013	Environ Cultural Center	3800 Environ Blvd	Lauderhill, FL 33319	
+L014	West Ken Lark Park	1321 NW 33RD AVE	Lauderhill, FL 33311	
+L015	Larkdale Elementary School	3250 NW 12th Pl	Lauderhill, FL 33311	
+L016	St. George Community Center	3501 NW 8th St	Lauderhill, FL 33311	
+L017	Parkway Middle School	3600 NW 5th Ct	Lauderhill, FL 33311	
+L018	Broward Estates Elementary School	441 NW 35th Ave	Lauderhill, FL 33311	
+L019	Boys & Girls Club	5455 NW 19th St	Lauderhill, FL 33313	
+M001	Sunrise Athletic Complex	11501 NW 44th St	Sunrise, FL 33323	
+M002	Village Civic Center	6800 Sunset Strip	Sunrise, FL 33313	
+M003	Waterbridge Project Rec.Center	1050 Del Lago Cir	Sunrise, FL 33313	
+M004	Village Elementary School	2100 NW 70th Ave	Sunrise, FL 33313	
+M005	Village Civic Center	6800 Sunset Strip	Sunrise, FL 33313	
+M006	Sunrise Civic Center Grand Ballroom	10610 W Oakland Park Blvd	Sunrise, FL 33351	
+M007	Sunrise Lakes Phase 1 Rec. Center	8100 Sunrise Lakes Dr N	Sunrise, FL 33322	
+M008	Sunrise Lakes Phase 2 Auditorium	8120 Sunrise Lakes Blvd	Sunrise, FL 33322	
+M009	Saint Bernard Catholic Church	8279 Sunset Strip	Sunrise, FL 33322	
+M010	Sunrise Lakes Phase 3 Satellite 1	2725 N Pine Island Rd	Sunrise, FL 33322	
+M011	Bair Middle School	9100 NW 21st Mnr	Sunrise, FL 33322	
+M012	Nob Hill Soccer Club	10200 Sunset Strip	Sunrise, FL 33322	
+M013	Piper High School	8000 NW 44th St	Sunrise, FL 33351	
+M014	Sunrise Athletic Complex	11501 NW 44th St	Sunrise, FL 33323	
+M015	Sunrise Civic Center Grand Ballroom	10610 W Oakland Park Blvd	Sunrise, FL 33351	
+M016	Sunrise Lakes Phase 3 Sat. CH 3	9161 Sunrise Lakes Blvd	Sunrise, FL 33322	
+M017	Sunrise Lakes Phase 3 Sat. 4	9500 Sunrise Lakes Blvd	Sunrise, FL 33322	
+M018	Sunrise Lakes Phase 3 Sat. CH 5	9701 Sunrise Lakes Blvd	Sunrise, FL 33322	
+M019	Nob Hill Soccer Club	10200 Sunset Strip	Sunrise, FL 33322	
+M020	Sandpiper Elementary School	3700 Hiatus Rd	Sunrise, FL 33351	
+M021	Sunrise Lks Phase 4 Sat. Clbhs #2	10140 NW 30th Ct	Sunrise, FL 33322	
+M022	Flamingo Park	12855 NW 8th St.	Sunrise, FL 33323	
+M023	Sunrise Lks Phase 4 Sat. Clbhs #3	2700 NW 104th Ave	Sunrise, FL 33322	
+M024	Welleby Elementary School	3230 Nob Hill Rd	Sunrise, FL 33351	
+M025	Markham Park & Target Range	16001 W State Rd. 84	Sunrise, FL 33326	
+M026	Westpine Middle School	9393 NW 50th St	Sunrise, FL 33351	
+M027	Welleby Elementary School	3230 Nob Hill Rd	Sunrise, FL 33351	
+M028	Westpine Middle School	9393 NW 50th St	Sunrise, FL 33351	
+M029	Sunrise Civic Center Grand Ballroom	10610 W Oakland Park Blvd	Sunrise, FL 33351	
+M030	Flamingo Park	12855 NW 8th St	Sunrise, FL 33323	
+M031	Saint Bernard Catholic Church	8279 Sunset Strip	Sunrise, FL 33322	
+M032	Piper High School	8000 NW 44th St	Sunrise, FL 33351	
+N001	Deicke Auditorium	5701 Cypress Rd	Plantation, FL 33317	
+N002	Jim Ward Community Center	301 NW 46th Ave	Plantation, FL 33317	
+N003	Jim Ward Community Center	301 NW 46th Ave	Plantation, FL 33317	
+N004	Volunteer Park Community Center	12050 W Sunrise Blvd	Plantation, FL 33323	
+N005	South Plantation High School	1300 Paladin Way	Plantation, FL 33317	
+N006	South Plantation High School	1300 Paladin Way	Plantation, FL 33317	
+N007	Plantation Presbyterian Church	901 NW 70th Ave	Plantation, FL 33317	
+N008	Deicke Auditorium	5701 Cypress Rd	Plantation, FL 33317	
+N009	Volunteer Park Community Center	12050 W Sunrise Blvd	Plantation, FL 33323	
+N010	Tropical Elementary School	1500 SW 66th Ave	Plantation, FL 33317	
+N011	El Dorado Estates Community Center	1 El Dorado Pkwy	Plantation, FL 33317	
+N012	Lakes of Newport Clubhouse	41 NW 75th Ave	Plantation, FL 33317	
+N013	Plantation High School	6901 NW 16th St	Plantation, FL 33313	
+N014	Plantation High School	6901 NW 16th St	Plantation, FL 33313	
+N015	Lauderdale West Recreation Facility	1141 NW 85th Ave	Plantation, FL 33322	
+N016	Volunteer Park Community Center	12050 W Sunrise Blvd	Plantation, FL 33323	
+N017	Lakes of Newport Clubhouse	41 NW 75th Ave	Plantation, FL 33317	
+N018	Plantation Central Park Rec. Bldg.	9151 NW 2nd St	Plantation, FL 33324	
+N019	Jim Ward Community Center	301 NW 46th Ave	Plantation, FL 33317	
+N020	Plantation Park Elementary School	875 SW 54th Ave	Plantation, FL 33317	
+N021	Plantation Central Park Rec. Bldg.	9151 NW 2nd St	Plantation, FL 33324	
+N022	Plantation Central Park Rec. Bldg.	9151 NW 2nd St	Plantation, FL 33324	
+N023	Central Park Elementary School	777 N Nob Hill Rd	Plantation, FL 33324	
+N024	Central Park Elementary School	777 N Nob Hill Rd	Plantation, FL 33324	
+N025	Bridgewater Homeowners Assoc. Clubh	10700 NW 11th Ct	Plantation, FL 33324	
+N026	Plantation Central Park Rec. Bldg.	9151 NW 2nd St	Plantation, FL 33324	
+N027	St. Gregory's Catholic Church	200 N University Dr	Plantation, FL 33324	
+N028	Plantation Baptist Church	11700 NW 28th Ct	Plantation, FL 33323	
+N029	Plantation Central Park Rec. Bldg.	9151 NW 2nd St	Plantation, FL 33324	
+P001	Hagen Park Community Center	2020 Wilton Dr	Wilton Manors, FL 33305	
+P002	Hagen Park Community Center	2020 Wilton Dr	Wilton Manors, FL 33305	
+P003	Somerset Academy Wilton Manors	225 NW 29th St	Wilton Manors, FL 33311	
+P004	Wilton Manors Elementary School	2401 NE 3rd Ave	Wilton Manors, FL 33305	
+P005	First Christian Church	2725 NE 14th Ave	Wilton Manors, FL 33334	
+P006	Hagen Park Community Center	2020 Wilton Dr	Wilton Manors, FL 33305	
+Q010	Hillsboro Beach Town Hall	1210 Hillsboro Mile	Hillsboro Beach, FL 33062	
+Q020	Sea Ranch Lakes Beach Club	5300 N Ocean Blvd	Sea Ranch Lakes, FL 33308	
+Q030	Jarvis Hall Commission Room	4501 N Ocean Dr	Lauderdale-By-The-Sea, FL 33308	
+Q031	Assumption Catholic Church	2001 S Ocean Blvd	Lauderdale-By-The-Sea, FL 33062	
+Q040	West Glades Middle School	11000 Holmberg Rd.	Parkland, FL 33076	
+Q041	Riverglades Elementary School	7400 Parkside Dr	Parkland, FL 33067	
+Q042	Cypress Head Club Inc	7501 S Cypress Head Dr	Parkland, FL 33067	
+Q043	Parkland Library	6620 University Dr	Parkland, FL 33067	
+Q044	Pine Trails Park Amphitheater	10559 Trails End	Parkland, FL 33076	
+Q045	West Glades Middle School	11000 Homberg Rd	Parkland, FL 33076	
+Q050	Pembroke Park Center Commission Room	3150 SW 52nd Ave	Pembroke Park, FL 33023	
+Q051	Raymond Ogelsby Preserve Rental	3115 SW 52nd Ave	Pembroke Park, FL 33023	
+Q060	Eagle Point Elementary School	100 Indian Trace	Weston, FL 33326	
+Q061	Saint Paul Lutheran Church	580 Indian Trace	Weston, FL 33326	
+Q062	Vacation Village Social Center	202 Bonaventure Blvd	Weston, FL 33326	
+Q063	Town Center Club	16690 Saddle Club Rd	Weston, FL 33326	
+Q064	Town Center Club	16690 Saddle Club Rd	Weston, FL 33326	
+Q065	Weston Community Center	20200 Saddle Club Rd	Weston, FL 33327	
+Q066	Weston Community Center	20200 Saddle Club Rd	Weston, FL 33327	
+Q067	Weston Community Center	20200 Saddle Club Rd	Weston, FL 33327	
+Q068	Everglades Elementary School	2900 Bonaventure Blvd	Weston, FL 33331	
+Q069	Weston Branch Library	4205 Bonaventure Blvd	Weston, FL 33332	
+Q070	Weston Branch Library	4205 Bonaventure Blvd	Weston, FL 33332	
+Q071	Weston City Hall Commission Chambers	17200 Royal Palm Blvd	Weston, FL 33326	
+Q072	Tequesta Trace Middle School	1800 Indian Trace	Weston, FL 33326	
+Q080	Boys & Girls Club	2205 SW 44th Ave	West Park, FL 33023	
+Q081	McTyre Park Community Center	3501 SW 56th Ave	West Park, FL 33023	
+Q082	Boys & Girls Club	2205 SW 44th Ave	West Park, FL 33023	
+Q083	Mary Saunders Park	4750 SW 21st St	West Park, FL 33023	
+Q090	Southwest Ranches Town Hall	13400 Griffin Rd	Southwest Ranches, FL 33330	
+Q091	Grace Baptist Church	19200 Griffin Rd	Southwest Ranches, FL 33332	
+R001	Coral Ridge Mall - NE Entrance	3200 N Federal Hwy	Fort Lauderdale, FL 33306	
+R002	Coral Ridge Mall - NE Entrance	3200 N Federal Hwy	Fort Lauderdale, FL 33306	
+R003	Christ Church United Methodist	4845 NE 25th Ave	Fort Lauderdale, FL 33308	
+R004	City of Ft. Lauderdale Comm Center	3351 NE 33rd Ave	Fort Lauderdale, FL 33308	
+R005	City of Ft. Lauderdale Comm Center	3351 NE 33rd Ave	Fort Lauderdale, FL 33308	
+R006	Floranada Elementary School	5251 NE 14th Way	Fort Lauderdale, FL 33334	
+R007	Floranada Elementary School	5251 NE 14th Way	Fort Lauderdale, FL 33334	
+R008	Floranada Elementary School	5251 NE 14th Way	Fort Lauderdale, FL 33334	
+R009	Fire Station #35	1969 E Commercial Blvd	Fort Lauderdale, FL 33308	
+R010	Christ Church United Methodist	4845 NE 25th Ave	Fort Lauderdale, FL 33308	
+R011	Imperial Point Branch Library	5985 N Federal HWY	Fort Lauderdale, FL 33308	
+R012	City of Ft. Lauderdale Comm Center	3351 NE 33rd Ave	Fort Lauderdale, FL 33308	
+R013	Coral Ridge Mall - NE Entrance	3200 N Federal HWY	Fort Lauderdale, FL 33306	
+R014	Fort Lauderdale Branch Library	1300 E Sunrise Blvd	Fort Lauderdale, FL 33304	
+R015	George English Park Community Ctr.	1101 Bayview Dr	Fort Lauderdale, FL 33304	
+R016	Second Presbyterian Church	1400 N Federal HWY	Fort Lauderdale, FL 33304	
+R017	Sunrise Middle School	1750 NE 14th St.	Fort Lauderdale, FL 33304	
+R018	Holiday Park Social Center	1150 G Harold Martin Dr	Fort Lauderdale, FL 33304	
+R019	Gateway Terrace	1943 NE 6th Court N106	Fort Lauderdale, FL 33304	
+R020	Fort Lauderdale Branch Library	1300 E Sunrise Blvd	Fort Lauderdale, FL 33304	
+R021	Second Presbyterian Church	1400 N Federal HWY	Fort Lauderdale, FL 33304	
+R022	Thurgood Marshall Elementary School	800 NW 13th St.	Fort Lauderdale, FL 33311	
+R023	Old Dillard Museum	1009 NW 4th St	Fort Lauderdale, FL 33311	
+R024	Lauderdale Manors Early Learning & Family Resource	1400 NW 14th Ct	Fort Lauderdale, FL 33311	
+R025	Fort Lauderdale Manors Church	1518 NW 15th Ave.	Fort Lauderdale, FL 33311	
+R026	Lauderdale Manors Community Center	1340 Chateau Park Dr	Fort Lauderdale, FL 33311	
+R027	Warfield Park Recreation Center	1000 N Andrews Ave	Fort Lauderdale, FL 33311	
+R028	Dillard Elementary School	2330 NW 12th Ct	Fort Lauderdale, FL 33311	
+R029	Old Dillard Museum	1009 NW 4th St	Fort Lauderdale, FL 33311	
+R030	Franklin Park Community Center	2501 Franklin Dr	Fort Lauderdale, FL 33311	
+R031	Stranahan High School	1800 SW 5th Pl	Fort Lauderdale, FL 33312	
+R032	Trinity Lutheran Church	11 SW 11th St	Fort Lauderdale, FL 33315	
+R033	Int'l Longshoremen's Local #1526	440 NW 6th St	Fort Lauderdale, FL 33311	
+R034	Virginia S. Young Elementary School	101 NE 11th Ave	Fort Lauderdale, FL 33301	
+R035	First Presbyterian Church	451 Tarpon Dr	Fort Lauderdale, FL 33301	
+R036	First Presbyterian Church	451 Tarpon Dr	Fort Lauderdale, FL 33301	
+R037	First Presbyterian Church	451 Tarpon Dr	Fort Lauderdale, FL 33301	
+R038	St. Sebastian Catholic Church	2000 SE 25th Ave	Fort Lauderdale, FL 33316	
+R039	St. Sebastian Catholic Church	2000 SE 25th Ave	Fort Lauderdale, FL 33316	
+R040	Plumbers Local Union #719	2502 S Andrews Ave	Fort Lauderdale, FL 33316	
+R041	Salvation Army Center	100 SW 9th Ave	Fort Lauderdale, FL 33312	
+R042	Hortt Park	1700 SW 14th Ct	Fort Lauderdale, FL 33312	
+R043	Croissant Park Elementary School	1800 SW 4th Ave	Fort Lauderdale, FL 33315	
+R044	First Christian Church	201 SE 13th St	Fort Lauderdale, FL 33316	
+R045	Plumbers Local Union #719	2502 S Andrews Ave	Fort Lauderdale, FL 33316	
+R046	Coral Ridge Mall - NE Entrance	3200 N Federal HWY	Fort Lauderdale, FL 33306	
+R047	Whiddon Rogers Education Center	700 SW 26th St	Fort Lauderdale, FL 33315	
+R048	Le Tabernacle De La Grace	3040 SW 11th Ct.	Fort Lauderdale, FL 33312	
+R049	Riverland Elementary School	2600 SW 11th Ct	Fort Lauderdale, FL 33312	
+R050	Le Tabernacle De La Grace	3040 SW 11th Ct.	Fort Lauderdale, FL 33312	
+R051	Westwood Heights Elementary School	2861 SW 9th St	Fort Lauderdale, FL 33312	
+R052	Mills Pond Park	2201 NW 9th Ave	Fort Lauderdale, FL 33311	
+R053	Mills Pond Park	2201 NW 9th Ave	Fort Lauderdale, FL 33311	
+R054	First Christian Church	201 SE 13th St	Fort Lauderdale, FL 33316	
+R055	St. Sebastian Catholic Church	2000 SE 25th Ave	Fort Lauderdale, FL 33316	
+R056	Lauderdale Manors Community Center	1340 Chateau Park Dr	Fort Lauderdale, FL 33311	
+R057	Warfield Park Recreation Center	1000 N Andrews Ave	Fort Lauderdale, FL 33311	
+R058	Riverside Park	555 SW 11th Ave.	Fort Lauderdale, FL 33312	
+R059	Ft. Lauderdale 7th Day Adventist Church	850 Davie Blvd	Fort Lauderdale, FL 33315	
+R060	Fort Lauderdale Fire Rescue	528 NW 2nd St	Fort Lauderdale, FL 33311	
+R061	Dayspring International Church of the Nazarene	2300 SW 15th Ave	Fort Lauderdale, FL 33315	
+R062	Delevoe Park	2520 NW 6th St	Fort Lauderdale, FL 33311	
+R063	Melrose Park Community Center	3810 SW 2nd Ct	Fort Lauderdale, FL 33312	
+R064	Riverland Park	950 SW 27th Ave	Fort Lauderdale, FL 33312	
+R065	New River Middle School	3100 Riverland Rd.	Fort Lauderdale, FL 33312	
+R066	New River Middle School	3100 Riverland Rd.	Fort Lauderdale, FL 33312	
+R067	Stephen Foster Elementary School	3471 SW 22nd st	Fort Lauderdale, FL 33312	
+R068	Stephen Foster Elementary School	3471 SW 22nd ST	Fort Lauderdale, FL 33312	
+R069	Andrew De Graffenreidt Comm Center	2750 NW 19th St	Fort Lauderdale, FL 33311	
+S001	Dania Lions Club	501 SW 4th Ave	Dania Beach, FL 33004	
+S002	C.W. Thomas Community Center Park	100 NW 8th Ave	Dania Beach, FL 33004	
+S003	Olsen Middle School	330 SE 11th Ter	Dania Beach, FL 33004	
+S004	Frost Park City of Dania Beach	300 NE 2nd St	Dania Beach, FL 33004	
+S005	Patrick J Meli Aquatic Complex	2901 SW 52nd St	Dania Beach, FL 33312	
+S006	Patrick J Meli Aquatic Complex	2901 SW 52nd St	Dania Beach, FL 33312	
+S007	Collins Elementary School	1050 NW 2nd St	Dania Beach, FL 33004	
+S008	Estates of Ft Lauderdale Clubhouse	2850 SW 54th St	Dania Beach, FL 33312	
+S009	Estates of Ft Lauderdale Clubhouse	2850 SW 54th St	Dania Beach, FL 33312	
+T001	Davie Police Athletic League	4300 SW 57th Ter	Davie, FL 33314	
+T002	Old Davie School	6650 Griffin Rd	Davie, FL 33314	
+T003	Boys & Girls Club (Rick & Rita Case Club)	7525 NW 33rd St.	Davie, FL 33024	
+T004	McFatter Technical School	6500 Nova Dr	Davie, FL 33317	
+T005	Davie Elementary School	7025 SW 39th St	Davie, FL 33314	
+T006	Pine Island Ridge Country Club	9400 Pine Ridge Dr	Davie, FL 33324	
+T007	Paradise Village Clubhouse	12850 W State Road 84	Fort Lauderdale, FL 33325	
+T008	Shenandoah Community Center	14601 SW 14th St	Davie, FL 33325	
+T009	Boys & Girls Club (Rick & Rita Case Club)	7525 NW 33rd St.	Davie, FL 33024	
+T010	Pine Island Multi Purpose Center	3801 S Pine Island Rd	Davie, FL 33328	
+T011	Pine Island Multi Purpose Center	3801 S Pine Island Rd	Davie, FL 33328	
+T012	Scarborough Homeowners Association	10950 Scarborough Dr	Davie, FL 33324	
+T013	Davie Police Athletic League	4300 SW 57th Ter	Davie, FL 33314	
+T014	Pine Island Multi Purpose Center	3801 S Pine Island Rd	Davie, FL 33328	
+T015	Shenandoah Community Center	14601 SW 14th St	Davie, FL 33325	
+T016	Davie Elementary School	7025 SW 39th ST	Davie, FL 33314	
+T017	Ivanhoe Fire Station Community Room	6101 SW 148th Ave	Davie, FL 33325	
+T018	Rick Case Honda Dealership	15700 Rick Case Honda Way	Davie, FL 33331	
+T019	Western High School	1200 SW 136th Ave	Davie, FL 33325	
+T020	Ivanhoe Fire Station Community Room	6101 SW 148th Ave	Davie, FL 33325	
+T021	Robbins Lodge Community Hall	4005 Hiatus Rd	Davie, FL 33325	
+T022	Old Davie School	6650 Griffin Rd	Davie, FL 33314	
+T023	Davie Elementary School	7025 SW 39th st	Daive, FL 33314	
+T024	Hawkes Bluff Elementary School	5900 SW 160th Ave	Davie, FL 33331	
+T025	Rexmere Village Wharf Clubhouse	11300 Rexmere Blvd	Fort Lauderdale, FL 33325	
+T026	Tree Tops Park (Oak Ridge Auditorium)	3900 SW 100th Ave	Davie, FL 33328	
+T027	Tree Tops Park (Oak Ridge Auditorium)	3900 SW 100th Ave	Davie, FL 33328	
+T028	Pine Island Ridge Country Club	9400 Pine Ridge Dr	Davie, FL 33324	
+T029	Pine Island Ridge Country Club	9400 Pine Ridge Dr	Davie, FL 33324	
+T030	Robbins Lodge Community Hall	4005 Hiatus Rd	Davie, FL 33325	
+U001	Cooper City Church of God	9191 Stirling Rd	Cooper City, FL 33328	
+U002	Cooper City Pool & Tennis Center	11600 Stonebridge Pkwy	Cooper City, FL 33026	
+U003	Cooper City Community Center	9000 SW 50th Pl	Cooper City, FL 33328	
+U004	Cooper City Hall	9090 SW 50th Pl	Cooper City, FL 33328	
+U005	Cooper City Pool & Tennis Center	11600 Stonebridge Pkwy	Cooper City, FL 33026	
+U006	Embassy Lakes Clubhouse	3522 Embassy Dr	Cooper City, FL 33026	
+U007	Griffin Elementary School	5050 SW 116th Ave	Cooper City, FL 33330	
+U008	Temple Beth Emet	4807 S Flamingo Rd	Cooper City, FL 33330	
+U009	Temple Beth Emet	4807 S Flamingo Rd	Cooper City, FL 33330	
+U010	Cooper City Pool & Tennis Center	11600 Stonebridge Pkwy	Cooper City, FL 33026	
+U011	Cooper City Church of God	9191 Sterling RD	Cooper City, FL 33328	
+V001	Hollywood Beach Community Center	1301 S Ocean Dr	Hollywood, FL 33019	
+V002	Hollywood Beach Community Center	1301 S Ocean Dr	Hollywood, FL 33019	
+V003	South Broward High School	1901 N Federal Hwy	Hollywood, FL 33020	
+V004	South Broward High School	1901 N Federal Hwy	Hollywood, FL 33020	
+V005	Hollywood Beach Community Center	1301 S Ocean Dr	Hollywood, FL 33019	
+V006	Hollywood Performing Arts Center	1770 Monroe St	Hollywood, FL 33020	
+V007	First Baptist Church of Hollywood	1701 Monroe St	Hollywood, FL 33020	
+V008	Washington Park Community Center	5199 Pembroke Rd	Hollywood, FL 33023	
+V009	Italian American Civic League	700 S Dixie Hwy	Hollywood, FL 33020	
+V010	Fred Lippman Shuffleboard Complex	309 N 21st Ave	Hollywood, FL 33020	
+V011	Martin Luther King Jr. Community Center	2400 Charleston St	Hollywood, FL 33020	
+V012	The Answer Church	1019 N 24th Ave	Hollywood, FL 33020	
+V013	Fred Lippman Shuffleboard Complex	309 N 21st Ave	Hollywood, FL 33020	
+V014	Sheridan Park Elementary School	2310 N 70th Ter	Hollywood, FL 33024	
+V015	Sheridan Vocational Technical College	5400 Sheridan St	Hollywood, FL 33021	
+V016	Oakridge Elementary School	1507 N 28th Ave	Hollywood, FL 33020	
+V017	Fred Lippman Shuffleboard Complex	309 N 21st Ave	Hollywood, FL 33020	
+V018	McNicol Middle School	1602 S 27th Ave	Hollywood, FL 33020	
+V019	Italian American Civic League	700 S Dixie Hwy	Hollywood, FL 33020	
+V020	David Park Community Center	108 N 33rd Ct.	Hollywood, FL 33021	
+V021	David Park Community Center	108 N 33rd Ct	Hollywood, FL 33021	
+V022	Hollywood Hills Elementary School	3501 Taft St	Hollywood, FL 33021	
+V023	Hollywood Hills Elementary School	3501 Taft St	Hollywood, FL 33021	
+V024	Hollywood Gardens Condominium 1	3301 Farragut St	Hollywood, FL 33021	
+V025	Stirling Road Library	3151 Stirling Rd	Fort Lauderdale, FL 33312	
+V026	Stirling Road Library	3151 Stirling Rd	Fort Lauderdale, FL 33312	
+V027	Hollywood Gardens Condominium 1	3301 Farragut St	Hollywood, FL 33021	
+V028	Sheridan Hills Elementary School	5001 Thomas St	Hollywood, FL 33021	
+V029	Luther Memorial Church	1925 N State Road 7	Hollywood, FL 33021	
+V030	David Park Community Center	108 N 33rd Ct	Hollywood, FL 33021	
+V031	First United Church of Christ	200 N 46th Ave	Hollywood, FL 33021	
+V032	First United Church of Christ	200 N 46th Ave	Hollywood, FL 33021	
+V033	David Park Community Center	108 N 33rd Ct	Hollywood, FL 33021	
+V034	Orange Brook Elementary School	715 S 46th Ave	Hollywood, FL 33021	
+V035	Hillcrest Recreation Building # 2	1151 S Hillcrest Ct	Hollywood, FL 33021	
+V036	Beverly Hills Condominium	5300 Washington St	Hollywood, FL 33021	
+V037	Hillcrest Recreation Building # 2	1151 S Hillcrest Ct	Hollywood, FL 33021	
+V038	McArthur High School	6501 Hollywood Blvd	Hollywood, FL 33024	
+V039	Luther Memorial Church	1925 N State Road 7	Hollywood, FL 33021	
+V040	Driftwood Recreation Center	3000 N 69th Ave	Hollywood, FL 33024	
+V041	Hollywood Church of the Nazarene	5901 Taylor St	Hollywood, FL 33021	
+V042	Kay Gaither Community Center	6291 Funston St	Hollywood, FL 33023	
+V043	McArthur High School	6501 Hollywood Blvd	Hollywood, FL 33024	
+V044	Boulevard Heights Community Center	6770 Garfield St	Hollywood, FL 33024	
+V045	Hollywood Park Elementary School	901 N 69th Way	Hollywood, FL 33024	
+V046	Sheridan Park Elementary School	2310 N 70th Ter	Hollywood, FL 33024	
+V047	T. Y. Park	3300 N Park Rd	Hollywood, FL 33021	
+V048	Hollywood Park Elementary School	901 N 69th Way	Hollywood, FL 33024	
+V049	Sheridan Park Elementary School	2310 N 70th Ter	Hollywood, FL 33024	
+V050	The Quest Center School	6401 Charleston St	Hollywood, FL 33024	
+V051	Metropolitan Baptist Church	7200 Davie Road Extension	Hollywood, FL 33024	
+V052	Metropolitan Baptist Church	7200 Davie Road Extension	Hollywood, FL 33024	
+V053	Stirling Elementary School	5500 Stirling Rd	Hollywood, FL 33021	
+V054	Driftwood Recreation Center	3000 N 69th Ave	Hollywood, FL 33024	
+V055	Hollywood Hills High School	5400 Stirling Rd	Hollywood, FL 33021	
+V056	Fred Lippman Shuffleboard Complex	309 N 21st Ave	Hollywood, FL 33020	
+V057	Anne Kolb Nature Center	751 Sheridan St	Hollywood, FL 33019	
+V058	Anne Kolb Nature Center	751 Sheridan St	Hollywood, FL 33019	
+W001	Vernon E. Hargray Youth Enrichment Center	7000 Miramar PKWY	Miramar, FL 33023	
+W002	Pembroke Road Baptist Church	7130 Pembroke Rd	Miramar, FL 33023	
+W003	Miramar United Methodist Church	2507 Utopia Dr	Miramar, FL 33023	
+W004	Vernon E. Hargray Youth Enrichment Center	7000 Miramar PKWY	Miramar, FL 33023	
+W005	Fairway Elementary School	7850 Fairway Blvd	Miramar, FL 33023	
+W006	Sunshine Elementary School	7737 La Salle Blvd	Miramar, FL 33023	
+W007	Miramar United Methodist Church	2507 Utopia Dr	Miramar, FL 33023	
+W008	Ansin Sports Complex	10801 Miramar Blvd	Miramar, FL 33025	
+W009	Coconut Palm Elementary School	13601 Monarch Lakes Blvd	Miramar, FL 33027	
+W010	A.C. Perry Elementary School	6850 SW 34th St	Miramar, FL 33023	
+W011	A.C. Perry Elementary School	6850 SW 34th St	Miramar, FL 33023	
+W012	Miramar High School	3601 SW 89th Ave	Miramar, FL 33025	
+W013	Sea Castle Elementary School	9600 Miramar Blvd	Miramar, FL 33025	
+W014	Coral Cove Elementary School	5100 SW 148th Ave	Miramar, FL 33027	
+W015	Sunset Lakes Elementary School	18400 SW 25th St	Miramar, FL 33029	
+W016	Sunset Lakes Community Center	2801 SW 186th Ave	Miramar, FL 33029	
+W017	Dolphin Bay Elementary School	16450 Miramar Pkwy	Miramar, FL 33027	
+W018	Silver Lakes Elementary School	2300 SW 173rd Ave	Miramar, FL 33029	
+W019	Sunset Lakes Community Center	2801 SW 186th Ave	Miramar, FL 33029	
+W020	Coral Cove Elementary School	5100 SW 148th Ave	Miramar, FL 33027	
+W021	New Renaissance Middle School	10701 Miramar Blvd	Miramar, FL 33025	
+W022	Miramar City Hall	2300 Civic Center Pl	Miramar, FL 33025	
+W023	New Renaissance Middle School	10701 Miramar Blvd	Miramar, FL 33025	
+W024	Miramar Elementary School	6831 SW 26th St	Miramar, FL 33023	
+W025	Fairway Elementary School	7850 Fairway Blvd	Miramar, FL 33023	
+X001	Broward College South Campus Gym	7200 Pines Blvd	Pembroke Pines, FL 33024	
+X002	Broward College South Campus Gym	7200 Pines Blvd	Pembroke Pines, FL 33024	
+X003	Broward College South Campus Gym	7200 Pines Blvd	Pembroke Pines, FL 33024	
+X004	Fletcher Arts & Cultural Center	7960 Johnson St	Pembroke Pines, FL 33024	
+X005	Walnut Creek Park	7701 Taft St	Pembroke Pines, FL 33024	
+X006	Pasadena Lakes Elementary School	8801 Pasadena Blvd	Pembroke Pines, FL 33024	
+X007	Fletcher Arts & Cultural Center	7960 Johnson St	Pembroke Pines, FL 33024	
+X008	South Regional Library	7300 Pines Blvd	Pembroke Pines, FL 33024	
+X009	Hollybrook Golf & Tennis Club	900 Hollybrook Dr	Pembroke Pines, FL 33025	
+X010	Pembroke Lakes Country Club #19	10500 Taft St	Pembroke Pines, FL 33026	
+X011	City Rev Church	21113 Johnson St	Pembroke Pines, FL 33029	
+X012	Park Place Clubhouse	1350 St Charles Pl	Pembroke Pines, FL 33026	
+X013	Pembroke Lakes Elementary School	11251 Taft St	Pembroke Pines, FL 33026	
+X014	Pines Lakes Elementary School	10300 Johnson St	Pembroke Pines, FL 33026	
+X015	Pembroke Lakes Elementary School	11251 Taft St	Pembroke Pines, FL 33026	
+X016	Southwest Focal Point Senior Center	301 NW 103rd Ave	Pembroke Pines, FL 33026	
+X017	Westview Lakes Clubhouse	9200 Taft St	Pembroke Pines, FL 33024	
+X018	Walter C. Young Middle School	901 NW 129th Ave	Pembroke Pines, FL 33028	
+X019	Century Village Clubhouse	13300 SW 10th St	Pembroke Pines, FL 33027	
+X020	Century Village Clubhouse	13300 SW 10th St	Pembroke Pines, FL 33027	
+X021	Pembroke Pines City Hall	601 City Center Way	Pembroke Pines, FL 33025	
+X022	Pines Place	8210 Florida Dr	Pembroke Pines, FL 33025	
+X023	Palm Cove Elementary School	11601 Washington St	Pembroke Pines, FL 33025	
+X024	Pembroke Pines YMCA Family Center	501 SW 172nd Ave	Pembroke Pines, FL 33029	
+X025	Colony Point Clubhouse	11500 Colony Point Cir	Pembroke Pines, FL 33026	
+X026	Southwest Focal Point Senior Center	301 NW 103rd Ave	Pembroke Pines, FL 33026	
+X027	Panther Run Elementary School	801 NW 172nd Ave	Pembroke Pines, FL 33029	
+X028	Rose G. Price Park	901 NW 208th Ave	Pembroke Pines, FL 33029	
+X029	Rose G. Price Park	901 NW 208th Ave	Pembroke Pines, FL 33029	
+X030	Southwest Regional Library	16835 Sheridan St	Pembroke Pines, FL 33331	
+X031	Century Village Clubhouse	13300 SW 10th St	Pembroke Pines, FL 33027	
+X032	Chapel Trail Elementary School	19595 Taft St	Pembroke Pines, FL 33029	
+X033	City Rev Church	21113 Johnson St	Pembroke Pines, FL 33029	
+X034	Silver Trail Middle School	18300 Sheridan St	Pembroke Pines, FL 33331	
+X035	Silver Palms Elementary School	1209 NW 155th Ave	Pembroke Pines, FL 33028	
+X036	Towngate Park	901 NW 155th Ave	Pembroke Pines, FL 33028	
+X037	Southwest Regional Library	16835 Sheridan St	Pembroke Pines, FL 33331	
+X038	Towngate Park	901 NW 155th Ave	Pembroke Pines, FL 33028	
+X039	Walter C. Young Middle School	901 NW 129th Ave	Pembroke Pines, FL 33028	
+X040	Flanagan High School	12800 Taft st	Pembroke Pines, FL 33028	
+X041	Chapel Trail Elementary School	19595 Taft St	Pembroke Pines, FL 33029	
+X042	Pembroke Pines YMCA Family Center	501 SW 172nd Ave	Pembroke Pines, FL 33029	
+X043	Pembroke Pines YMCA Family Center	501 SW 172nd Ave	Pembroke Pines, FL 33029	
+X044	Pembroke Pines YMCA Family Center	501 SW 172nd Ave	Pembroke Pines, FL 33029	
+X045	Flanagan High School	12800 Taft St	Pembroke Pines, FL 33028	
+X046	Palm Cove Elementary School	11601 Washington St	Pembroke Pines, FL 33025	
+X047	South Regional Library	7300 Pines Blvd	Pembroke Pines, FL 33024	
+X048	Pembroke Pines Elementary School	6700 SW 9th St	Pembroke Pines, FL 33023	
+X049	Walnut Creek Clubhouse	7500 NW 20th St	Pembroke Pines, FL 33024	
+X050	Pembroke Pines City Hall	601 City Center Way	Pembroke Pines, FL 33025	
+Y001	Cultural Community Center	410 SE 3rd St	Hallandale Beach, FL 33009	
+Y002	Cultural Community Center	410 SE 3rd St	Hallandale Beach, FL 33009	
+Y003	Towers of Ocean View - Recreation Bldg	500 Leslie Dr	Hallandale Beach, FL 33009	
+Y004	Towers of Ocean View - Recreation Bldg	500 Leslie Dr	Hallandale Beach, FL 33009	
+Y005	Gulfstream Early Childhood Center	120 SW 4th Ave	Hallandale Beach, FL 33009	
+Y006	Cultural Community Center	410 SE 3rd St	Hallandale Beach, FL 33009	
+Y007	Gulfstream Early Childhood Center	120 SW 4th Ave	Hallandale Beach, FL 33009	
+Y008	Foster Park	609 NW 6th Ave	Hallandale Beach, FL 33009	
+Z001	Dillard High School	2501 NW 11th St	Ft. Lauderdale, FL 33311	
+Z002	Martin L. King Elementary School	591 NW 31st Ave.	Lauderhill, FL 33311	
+Z003	Meadowbrook Elementary School	2300 SW 46th Ave.	Fort Lauderdale, FL 33317	
+Z004	Driftwood Recreation Center	3000 N 69th Ave	Hollywood, FL 33024	
+Z005	Sunview Park	1500 SW 42nd Ave.	Fort Lauderdale, FL 33317	
+Z073	Supervisor Of Elections Office 102	115 S Andrews Ave	Fort Lauderdale, FL 33301	

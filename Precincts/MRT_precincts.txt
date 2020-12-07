@@ -1,0 +1,28 @@
+01	Hoke Library	1150 NE Jack Williams Way	Jensen Beach, FL 34957	
+02	TC3 Church	20 NE Dixie Hwy	Stuart, FL 34994	
+03	Boys & Girls Club of Indiantown	17375 SW Palm Beach Rd	Indiantown, FL 34956	
+04	Langford Park	2369 NE Dixie Hwy	Jensen Beach, FL 34957	
+05	Blake Library	2351 SE Monterey Rd	Stuart, FL 34996	
+06	Covenant Fellowship Church	2880 SE Aster Ln	Stuart, FL 34994	
+07	Women's Club of Stuart	729 SE Ocean Blvd	Stuart, FL 34994	
+08	10th Street Recreation Center	724 SE 10th St	Stuart, FL 34994	
+09	Elliott Museum	825 NE Ocean Blvd	Stuart, FL 34996	
+10	Sewall's Point Town Hall	1 S Sewall's Point Rd	Stuart, FL 34996	
+11	Robert Morgade Library	5851 SE Community Dr	Stuart, FL 34997	
+12	Hobe Sound Library	10595 SE Federal Hwy	Hobe Sound, FL 33455	
+13	Peace Presbyterian Church	4881 SE Cove Rd	Stuart, FL 34997	
+14	Port Salerno Church of God	4605 SE Cove Rd	Stuart, FL 34997	
+15	Bethel Lutheran Church	7905 SE Federal Hwy	Hobe Sound, FL 33455	
+16	Elisabeth Lahti Library	15200 SW Adams Ave	Indiantown, FL 34956	
+17	New Hope Fellowship Church	3900 SW Citrus Blvd	Palm City, FL 34990	
+18	The Kane Center	900 SE Salerno Rd	Stuart, FL 34997	
+19	1st United Methodist Church	10100 SE Federal Hwy	Hobe Sound, FL 33455	
+20	HS Bible Church Fine Arts Bldg	11295 SE Gomez Ave	Hobe Sound, FL 33455	
+21	County Line Civic Center	18530 SE County Line Rd	Tequesta, FL 33469	
+22	The Grace Place	1550 SE Salerno Rd	Stuart, FL 34997	
+23	Christ Fellowship Church	10205 SW Pratt Whitney Rd	Stuart, FL 34997	
+24	Palm City Community Center	2701 SW Cornell Ave	Palm City, FL 34990	
+25	Immanuel Lutheran Church	2655 SW Immanuel Dr	Palm City, FL 34990	
+26	Cummings Library	2551 SW Matheson Ave	Palm City, FL 34990	
+27	Palm City Presbyterian Church	2700 SW Martin Hwy	Palm City, FL 34990	
+28	Jupiter Island Town Hall	2 Bridge Rd	Hobe Sound, FL 33455	

@@ -1,0 +1,10 @@
+1	Honeyville Community Center	240 Honeyville Park Rd	Wewahitchka, FL 32465	
+2	First Pentecostal Church	619 S Highway 71	Wewahitchka, FL 32465	
+3	St Joe Beach Fire Station	7912 Alabama Ave	Port St Joe, FL 32456	
+4	Port St Joe Fire Station	404 Williams Ave	Port St Joe, FL 32456	
+5	Centennial Building	2201 Centennial Dr	Port St Joe, FL 32456	
+6	White City Fire Station	6909 Hwy 71	White City, FL 32465	
+7	Cape San Blas Fire Station	240 Cape San Blas Rd	Cape San Blas, FL 32456	
+8	Howard Creek Fire Station	6532 Doc Whtifield Rd	Wewahitchka, FL 32465	
+9	Overstreet Fire Station	101 Floating Bridge Rd	Port St Joe, FL 32456	
+10	Highland View Fire Station	133 Park St	Port St. Joe, FL 32456	

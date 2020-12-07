@@ -1,0 +1,167 @@
+101	Outreach Baptist	11425 Rockridge Rd	Lakeland, FL 33809	
+102	Green Pond Baptist Church	5995 Greenpond Church Rd	Polk City, FL 33868	
+103	Polo Park	426 Polo Park Blvd	Davenport, FL 33897	
+104	Polo Park East	525 Polo Park East Blvd	Davenport, FL 33897	
+105	Ridge Mobile Home Park Clubhouse	49473 Highway 27	Davenport, FL 33897	
+106	Lion's Den Building	6007 Central Ave NW	Kathleen, FL 33849	
+107	Donald Bronson Community Center	124 Bronson Trl	Polk City, FL 33868	
+108	Donald Bronson Community Center	124 Bronson Trl	Polk City, FL 33868	
+109	Bethel Baptist Church	3125 W Socrum Loop Rd	Lakeland, FL 33810	
+110	Our Savior Lutheran Church	6920 N Socrum Loop Rd	Lakeland, FL 33809	
+111	Together Church	6725 N Socrum Loop Rd	Lakeland, FL 33809	
+112	Gibsonia Baptist Church	5440 US Highway 98 N	Lakeland, FL 33809-7700	
+113	Kathleen Baptist Church	3939 2nd St NW	Lakeland, FL 33810	
+114	Kathleen Baptist Church	3939 2nd St NW	Lakeland, FL 33810	
+115	Cornerstone Baptist Church	6725 Green Rd	Lakeland, FL 33810	
+116	Gibsonia Baptist Church	5440 US Highway 98 N	Lakeland, FL 33809	
+117	Believers' Fellowship Church	5240 N Socrum Loop Rd	Lakeland, FL 33809	
+118	Mount Tabor Baptist Church	3504 Mount Tabor Rd	Lakeland, FL 33810	
+119	Church of Jesus Christ LDS	1839 Gibsonia Galloway Rd	Lakeland, FL 33810	
+120	Gibsonia Baptist	5440 US Highway 98 N	Lakeland, FL 33809	
+121	Victory Assembly of God	1401 Griffin Rd	Lakeland, FL 33810	
+123	Polk County Sheriffs Northeast District Office	1100 Dunson Rd	Davenport, FL 33896	
+124	Florida Camp Inn	48504 Highway 27	Davenport, FL 33897	
+125	Believers' Fellowship Church	5240 Socrum Loop Rd N	Lakeland, FL 33809	
+201	Holiday Inn Express and Suites	4500 Lakeland Park Dr	Lakeland, FL 33805	
+203	Gapway Baptist Church	1705 N Combee Rd	Lakeland, FL 33801	
+204	Coleman-Bush Building	1104 Martin L King Jr Ave	Lakeland, FL 33805	
+205	Ewing Memorial 7th Day Adventist Church	1201 N Webster Ave	Lakeland, FL 33805	
+206	Lakeland 7th Day Adventist Church	1435 Gilmore Ave	Lakeland, FL 33805	
+207	Eastside Baptist Church	630 N Eastside Dr	Lakeland, FL 33801	
+208	The Hamptons	1094 US Highway 92 W	Auburndale, FL 33823	
+209	Christ Community Church	704 N Brunnell Pkwy	Lakeland, FL 33815	
+210	First Baptist Institutional Church	932 Martin L King Jr Ave	Lakeland, FL 33815	
+211	Family Worship Center	1350 E Main St	Lakeland, FL 33801	
+212	Woodall's M. H. P.	2121 New Tampa Hwy	Lakeland, FL 33815	
+213	Winston Baptist Church	3233 Old Tampa Hwy	Lakeland, FL 33803	
+214	Trinity United Methodist Church	715 Cornelia Ave	Lakeland, FL 33815	
+215	First Baptist Church	5410 Yarborough Ln	Lakeland, FL 33812	
+216	Lake Mirror Center	121 S Lake Ave	Lakeland, FL 33801	
+217	Lake Mirror Center	121 S Lake Ave	Lakeland, FL 33801	
+218	CityPlace Church	300 Longfellow Blvd	Lakeland, FL 33801	
+219	Rhema Word of Faith International	3330 Skyview Dr	Lakeland, FL 33801	
+220	Hilton Garden Inn	3839 Don Emerson Dr	Lakeland, FL 33811	
+221	Heatherwood Village	1925 Harden Blvd	Lakeland, FL 33803	
+222	Mas Verde	2600 Harden Blvd	Lakeland, FL 33803	
+223	College Heights Methodist Church	942 South Blvd	Lakeland, FL 33803	
+224	Cleveland Heights Golf Club	2900 Buckingham Ave	Lakeland, FL 33803	
+225	CityPlace Church	300 Longfellow Blvd	Lakeland, FL 33801	
+226	Citrus Woods - Clubhouse Annex	1610 Reynolds Rd	Lakeland, FL 33801	
+227	K-Ville Community Center	1339 Payne St	Auburndale, FL 33823	
+228	United Methodist Temple	2700 S Florida Ave	Lakeland, FL 33803	
+229	Kelly Recreation Complex	404 Imperial Blvd	Lakeland, FL 33803	
+230	Cleveland Heights Baptist Church	3120 Cleveland Heights Blvd	Lakeland, FL 33803	
+231	First Alliance Church	1919 E Edgewood Dr	Lakeland, FL 33803	
+232	First Baptist Church	5410 Yarborough Ln	Lakeland, FL 33812	
+233	Church of the Resurrection	3720 Old Road 37	Lakeland, FL 33813	
+234	Heritage Baptist Church	4202 Pipkin Creek Rd	Lakeland, FL 33811	
+235	Fellowship Baptist Church	4625 Cleveland Heights Blvd	Lakeland, FL 33813	
+236	Highland Park Church	4777 Lakeland Highlands Rd	Lakeland, FL 33813	
+237	The Vineyard	2023 W Pipkin Rd	Lakeland, FL 33811	
+238	Medulla Community Center	1049 Parker Rd	Lakeland, FL 33811	
+239	Scott Lake Baptist Church	5811 Scott Lake Rd	Lakeland, FL 33813	
+240	Highlands Church of Christ	5730 Lakeland Highlands Rd	Lakeland, FL 33813	
+241	Southside Baptist Church	5330 Lakeland Highlands Rd	Lakeland, FL 33813-5212	
+242	First Baptist Church	5410 Yarborough Ln	Lakeland, FL 33812	
+243	Shepherds Community United Methodist	6885 Chelsea Oaks Dr	Lakeland, FL 33811	
+244	Willow Oak Baptist Church	3390 Willow Oak Rd	Mulberry, FL 33860	
+245	Trinity Baptist Church	6633 Old Highway 37	Lakeland, FL 33811	
+246	Willow Oak Baptist Church	3390 Willow Oak Rd	Mulberry, FL 33860	
+247	Mulberry Civic Center	901 NE 5th St	Mulberry, FL 33860	
+248	St John Neumann Catholic Church	501 E Carter Rd	Lakeland, FL 33813	
+249	Unity in the Grove Church	6230 Lakeland Highlands Rd	Lakeland, FL 33813	
+250	Trinity Christian Center	4416 E County Road 540A	Lakeland, FL 33813	
+251	Trinity Christian Center	4416 E County Road 540A	Lakeland, FL 33813	
+301	Donald Bronson Community Center	124 Bronson Trl	Polk City, FL 33868	
+302	Emerald Lakes MHP Clubhouse	200 Jeremy Dr	Davenport, FL 33837	
+303	Lake Ariana Clubhouse	321 Ramsgate Rd	Auburndale, FL 33823	
+304	Legacy Community Church	201 Dickey Rd	Auburndale, FL 33823	
+306	Haines City Community Center	555 Ledwith Ave	Haines City, FL 33844	
+307	Lena Vista United Methodist Church	690 Berkley Rd	Auburndale, FL 33823	
+309	Auburndale Community Center	405 Bennett St	Auburndale, FL 33823	
+310	First Church of God	3025 US Highway 92	Winter Haven, FL 33881	
+312	Lake Alfred City Hall	120 E Pomelo St	Lake Alfred, FL 33850	
+313	The Rock of Winter Haven	2901 Lucerne Park Rd	Winter Haven, FL 33881	
+314	1st Baptist Church of Lucerne Park	5650 State Road 544	Winter Haven, FL 33881	
+315	K-Ville Community Center	1339 Payne St	Auburndale, FL 33823	
+316	Havendale Christian Church	3900 Lake Blue Dr	Winter Haven, FL 33881	
+319	Abiding Savior Lutheran Church	1910 Havendale Blvd NW	Winter Haven, FL 33881	
+321	Polk County Utilities Division	1011 Jim Keene Blvd	Winter Haven, FL 33880	
+322	The Way at Inwood	1302 33rd St NW	Winter Haven, FL 33881	
+323	Westwood Missionary Baptist Church	3210 Avenue G NW	Winter Haven, FL 33880	
+324	Winter Haven Senior Center	250 S Lake Silver Dr NW	Winter Haven, FL 33880	
+325	Samson Masonic Lodge #142	120 Avenue R NW	Winter Haven, FL 33881	
+326	Winter Haven Christian Church	301 6th St NE	Winter Haven, FL 33881	
+327	Faith Baptist Church	2140 Crystal Beach Rd	Winter Haven, FL 33880	
+329	Southside Baptist Church	1301 7th St SW	Winter Haven, FL 33880	
+330	First Church of the Nazarene	560 3rd St SW	Winter Haven, FL 33880	
+331	Thrive Church	651 Carl Floyd Rd	Winter Haven, FL 33884	
+332	Resurrection Lutheran Church	4620 Cypress Gardens Rd	Winter Haven, FL 33884	
+333	Spirit Lake Community Church	2600 Spirit Lake Rd	Winter Haven, FL 33880	
+334	Eagle Lake Church of Christ	261 3rd St N	Eagle Lake, FL 33839	
+336	Hope Presbyterian Church	2110 Cypress Gardens Blvd	Winter Haven, FL 33884	
+337	Holy Cross Episcopal Church	201 Kipling Ln	Winter Haven, FL 33884	
+338	Eagle Lake Community Complex	75 N 7th St	Eagle Lake, FL 33839	
+339	Cypress Ridge Presbyterian	6230 Cypress Gardens Blvd	Winter Haven, FL 33884	
+340	First Church of God	3025 US Highway 92	Winter Haven, FL 33881	
+401	Sunlake Terrace Estates	6555 -16 Old Lake Wilson Rd	Davenport, FL 33896	
+402	Four Corners Baptist Church	125 Cottonwood Dr	Davenport, FL 33837	
+403	Kissimmee South Resort	3700 US Highway 17 92 N	Davenport, FL 33837	
+404	Davenport Community Center	5 S Allapaha Ave	Davenport, FL 33837	
+405	Parkview Christian Center - Hall	3520 Baker Dairy Rd	Haines City, FL 33844	
+406	Little Zion Primitive Baptist Church	3333 County Road 547 N	Davenport, FL 33837	
+407	Oakland Neighborhood Center	915 Avenue E	Haines City, FL 33844	
+408	Trinity Worship Center Intl Ministry	2795 N 10th St	Haines City, FL 33844	
+409	Haines City Community Center	555 Ledwith Ave	Haines City, FL 33844	
+410	Calvary First Assembly of God	4550 E Johnson Ave	Haines City, FL 33844	
+411	Solivita	395 Village Dr	Poinciana, FL 34759	
+412	Poinciana Community Center	395 Marigold Ave	Poinciana, FL 34759	
+413	Lake Hamilton Woman's Club	85 N Omaha St	Lake Hamilton, FL 33851	
+414	Westgate Grenelefe Resort	3200 State Road 546 E	Haines City, FL 33844	
+415	Calvary Baptist Church	2101 Overlook Dr	Winter Haven, FL 33884	
+416	Dundee Community Center	603 Lake Marie Dr	Dundee, FL 33838	
+418	Lake Pierce Baptist Church	3643 Canal Rd	Lake Wales, FL 33898	
+419	Tuscany Preserve at Lake Marion	1850 Pacific Rd	Poinciana, FL 34759	
+420	Solivita	395 Village Dr	Poinciana, FL 34759	
+421	Polk County Sheriffs Northeast District Office	1100 Dunson Rd	Davenport, FL 33896	
+501	Good Hope Missionary Baptist Church	3397 Old Bartow Eagle Lake Rd	Bartow, FL 33830	
+502	Good Hope Missionary Baptist Church	3397 Old Bartow Eagle Rd	Bartow, FL 33830	
+503	Good Hope Missionary Baptist Church	3397 Old Bartow Eagle Rd	Bartow, FL 33830	
+504	Polk Street Community Center	1255 Polk St	Bartow, FL 33830	
+505	First Baptist Church-Ministry Center	410 E Church St	Bartow, FL 33830	
+506	Bartow Assembly of God	915 S Broadway Ave	Bartow, FL 33830	
+507	Bartow Civic Center	2250 S Floral Ave	Bartow, FL 33830	
+508	Bartow Civic Center	2250 S Floral Ave	Bartow, FL 33830	
+509	Carver Center	520 S Idlewood Ave	Bartow, FL 33830	
+510	Centro Guadalupe Catholic Mission	2150 Bomber Rd	Winter Haven, FL 33880-5600	
+511	First Baptist Church of Lake Garfield	1170 80 Foot Rd	Bartow, FL 33830	
+512	1st Baptist Church of Bradley	610 Pine St	Bradley, FL 33835	
+513	Redemption Baptist Church	2576 Rifle Range Rd	Winter Haven, FL 33880	
+514	Alturas Women's Club	124 Magnolia Ave	Alturas, FL 33830	
+516	American Legion	825 N Charleston Ave	Fort Meade, FL 33841	
+517	Fort Meade Community Center	10 SW 3rd St	Fort Meade, FL 33841	
+518	Ft Meade First Church of God	215 S Perry Ave	Fort Meade, FL 33841	
+519	Hampton Inn Lake Wales	22900 Hwy 27	Lake Wales, FL 33859	
+520	Redemption Baptist Church	2576 Rifle Range Rd	Winter Haven, FL 33880	
+521	Redemption Baptist Church	2576 Rifle Range Rd	Winter Haven, FL 33880	
+522	Resurrection Lutheran Church	4620 Cypress Gardens Rd	Winter Haven, FL 33884	
+523	B Street Community Center	230 B St	Lake Wales, FL 33853	
+524	Hampton Inn Lake Wales	22900 Hwy 27	Lake Wales, FL 33859	
+525	Hampton Inn Lake Wales	22900 Hwy 27	Lake Wales, FL 33859	
+526	Lake Ashton Clubhouse	4141 Ashton Club Dr	Lake Wales, FL 33859	
+527	First United Methodist Church	230 N 5th St	Lake Wales, FL 33853	
+528	James P. Austin Jr Center	315 Dr Martin Luther King Jr Blvd N	Lake Wales, FL 33853	
+529	Lake Ashton Clubhouse	4141 Ashton Club Dr	Lake Wales, FL 33859	
+530	Holy Spirit Catholic Church	644 S 9th St	Lake Wales, FL 33853	
+531	Crooked Lake Community Center	233 Sunshine Dr	Lake Wales, FL 33859	
+532	Parakeet MHP	2400 Parakeet Park Blvd	Lake Wales, FL 33859	
+533	Lakeshore Club Villas	500 Club Cir	Lakeshore, FL 33854	
+534	Wayside Baptist Church	7831 Camp Mack Rd	Lake Wales, FL 33898	
+535	Crooked Lake Community Center	233 Sunshine Dr	Lake Wales, FL 33859	
+536	Babson Park Community Church	725 Rainbow Blvd	Babson Park, FL 33827	
+537	First Baptist Church	96 W B St	Frostproof, FL 33843	
+538	Sun Ray United Methodist Church	316 Raymond Ave	Frostproof, FL 33843	
+539	Sun Ray United Methodist Church	316 Raymond Ave	Frostproof, FL 33843	
+540	Indian Lake Estates Clubhouse	7510 Red Grange Blvd	Indian Lake Est, FL 33855	
+541	Sun Ray United Methodist Church	316 Raymond Ave	Frostproof, FL 33843	
+542	Golfview Baptist Church	107 Hibiscus Dr	Lake Wales, FL 33898	

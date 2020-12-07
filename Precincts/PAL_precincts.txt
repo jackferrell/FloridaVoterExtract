@@ -1,0 +1,872 @@
+1002	Canal Point Community Center	12860 U S Hwy 441	Canal Point, FL 33438	
+1004	Pierce Hammock Elementary	14255 Hamlin Blvd	Loxahatchee, FL 33470	
+1006	Journey Church of Jupiter	12600 W Indiantown Rd	Jupiter, FL 33478	
+1008	Journey Church of Jupiter	12600 W Indiantown Rd	Jupiter, FL 33478	
+1010	Journey Church of Jupiter	12600 W Indiantown Rd	Jupiter, FL 33478	
+1012	Caloosa POA Meeting Room	14000 Caloosa Blvd	Palm Beach Gardens, FL 33418	
+1014	Caloosa POA Meeting Room	14000 Caloosa Blvd	Palm Beach Gardens, FL 33418	
+1016	Journey Church of Jupiter	12600 W Indiantown Rd	Jupiter, FL 33478	
+1018	Calvary Church of Jupiter	10100 W Indiantown Rd	Jupiter, FL 33478	
+1019	Calvary Church of Jupiter	10100 W Indiantown Rd	Jupiter, FL 33478	
+1020	Caloosa POA Meeting Room	14000 Caloosa Blvd	Palm Beach Gardens, FL 33418	
+1022	Journey Church of Jupiter	12600 W Indiantown Rd	Jupiter, FL 33478	
+1024	Calvary Church of Jupiter	10100 W Indiantown Rd	Jupiter, FL 33478	
+1026	Calvary Church of Jupiter	10100 W Indiantown Rd	Jupiter, FL 33478	
+1028	Jupiter Farms Elementary	17400 Haynie Ln	Jupiter, FL 33478	
+1030	Calvary Church of Jupiter	10100 W Indiantown Rd	Jupiter, FL 33478	
+1032	Jupiter Farms Park Community Pavilion	16655 Jupiter Farms Rd	Jupiter, FL 33478	
+1034	West Jupiter Recreation Center	6401 Indiantown Rd	Jupiter, FL 33458	
+1036	Calvary Church of Jupiter	10100 W Indiantown Rd	Jupiter, FL 33478	
+1038	William T Dwyer High	13601 N Military Trl	Palm Beach Gardens, FL 33418	
+1040	West Jupiter Recreation Center	6401 Indiantown Rd	Jupiter, FL 33458	
+1042	West Jupiter Recreation Center	6401 Indiantown Rd	Jupiter, FL 33458	
+1044	Limestone Creek Elementary	6701 Church St	Jupiter, FL 33458	
+1046	West Jupiter Recreation Center	6401 Indiantown Rd	Jupiter, FL 33458	
+1048	St Peter Catholic Church	1701 Indian Creek Pkwy	Jupiter, FL 33458	
+1050	Lighthouse Elementary	4750 Dakota Dr	Jupiter, FL 33458	
+1052	Beacon Cove Intermediate School	150 School House Rd	Jupiter, FL 33458	
+1054	Limestone Creek Elementary	6701 Church St	Jupiter, FL 33458	
+1056	West Jupiter Recreation Center	6401 Indiantown Rd	Jupiter, FL 33458	
+1058	St Peter Catholic Church	1701 Indian Creek Pkwy	Jupiter, FL 33458	
+1060	West Jupiter Recreation Center	6401 Indiantown Rd	Jupiter, FL 33458	
+1062	Harvest Community Church	100 S Pennock Ln	Jupiter, FL 33458	
+1064	Jupiter Community Center	200 Military Trl	Jupiter, FL 33458	
+1066	Jupiter Community Center	200 Military Trl	Jupiter, FL 33458	
+1068	Jupiter Community Center	200 Military Trl	Jupiter, FL 33458	
+1070	Jupiter Community Center	200 Military Trl	Jupiter, FL 33458	
+1072	Jerry Thomas Elementary	800 Maplewood Dr	Jupiter, FL 33458	
+1074	Independence Middle	4001 Greenway Dr	Jupiter, FL 33458	
+1075	Martinique Clubhouse	1812 Dakota Dr	Jupiter, FL 33458	
+1076	The Island Clubhouse	179 Freeport Dr	Jupiter, FL 33458	
+1078	First Baptist Church Teq	423 Tequesta Dr	Tequesta, FL 33469	
+1080	First Baptist Church Teq	423 Tequesta Dr	Tequesta, FL 33469	
+1082	First Baptist Church Teq	423 Tequesta Dr	Tequesta, FL 33469	
+1084	First Baptist Church Teq	423 Tequesta Dr	Tequesta, FL 33469	
+1088	First Baptist Church Teq	423 Tequesta Dr	Tequesta, FL 33469	
+1094	First Baptist Church Teq	423 Tequesta Dr	Tequesta, FL 33469	
+1096	First Baptist Church Teq	423 Tequesta Dr	Tequesta, FL 33469	
+1098	Riverside Improvement	25 Van Rd	Jupiter, FL 33469	
+1100	Jupiter Elementary	200 S Loxahatchee Dr	Jupiter, FL 33458	
+1102	Jupiter High	500 N Military Trl	Jupiter, FL 33458	
+1104	Jupiter Branch Library	705 Military Trl	Jupiter, FL 33458	
+1106	Jupiter Middle	15245 N Military Trl	Jupiter, FL 33458	
+1108	Newhaven Clubhouse	112 Newhaven Blvd	Jupiter, FL 33458	
+1110	Tequesta Council Chambers	345 Tequesta Dr	Tequesta, FL 33469	
+1112	Tequesta Council Chambers	345 Tequesta Dr	Tequesta, FL 33469	
+1114	Tequesta Council Chambers	345 Tequesta Dr	Tequesta, FL 33469	
+1116	Tequesta Council Chambers	345 Tequesta Dr	Tequesta, FL 33469	
+1118	Tequesta Council Chambers	345 Tequesta Dr	Tequesta, FL 33469	
+1120	Tequesta Council Chambers	345 Tequesta Dr	Tequesta, FL 33469	
+1122	Tequesta Council Chambers	345 Tequesta Dr	Tequesta, FL 33469	
+1124	Riverside Improvement	25 Van Rd	Jupiter, FL 33469	
+1126	PBC Fire Rescue #18	777 N U S Hwy 1	Jupiter, FL 33477	
+1128	Jupiter Inlet Colony Admin Bldg	50 Colony Rd	Jupiter Inlet Colony, FL 33469	
+1130	PBC Fire Rescue #18	777 N U S Hwy 1	Jupiter, FL 33477	
+1132	PBC Fire Rescue #18	777 N U S Hwy 1	Jupiter, FL 33477	
+1134	PBC Fire Rescue #18	777 N U S Hwy 1	Jupiter, FL 33477	
+1136	1st UM Church of Jup-Teq	815 E Indiantown Rd	Jupiter, FL 33477	
+1138	Grace Immanuel Bible Church	17475 Jonathan Dr	Jupiter, FL 33477	
+1140	Club at Admirals Cove	200 Admirals Cove Blvd	Jupiter, FL 33477	
+1142	1st UM Church of Jup-Teq	815 E Indiantown Rd	Jupiter, FL 33477	
+1144	1st UM Church of Jup-Teq	815 E Indiantown Rd	Jupiter, FL 33477	
+1146	Newhaven Clubhouse	112 Newhaven Blvd	Jupiter, FL 33458	
+1148	Oceanview Methodist	701 Ocean Dr	Juno Beach, FL 33408	
+1150	Oceanview Methodist	701 Ocean Dr	Juno Beach, FL 33408	
+1152	Oceanview Methodist	701 Ocean Dr	Juno Beach, FL 33408	
+1154	Holy Spirit Lutheran	13301 Ellison Wilson Rd	Juno Beach, FL 33408	
+1156	Holy Spirit Lutheran	13301 Ellison Wilson Rd	Juno Beach, FL 33408	
+1158	Holy Spirit Lutheran	13301 Ellison Wilson Rd	Juno Beach, FL 33408	
+1160	Holy Spirit Lutheran	13301 Ellison Wilson Rd	Juno Beach, FL 33408	
+1162	Holy Spirit Lutheran	13301 Ellison Wilson Rd	Juno Beach, FL 33408	
+1164	Club at Admirals Cove	200 Admirals Cove Blvd	Jupiter, FL 33477	
+1166	Holy Spirit Lutheran	13301 Ellison Wilson Rd	Juno Beach, FL 33408	
+1168	Holy Spirit Lutheran	13301 Ellison Wilson Rd	Juno Beach, FL 33408	
+1170	Caloosa POA Meeting Room	14000 Caloosa Blvd	Palm Beach Gardens, FL 33418	
+1172	Caloosa POA Meeting Room	14000 Caloosa Blvd	Palm Beach Gardens, FL 33418	
+1173	Caloosa POA Meeting Room	14000 Caloosa Blvd	Palm Beach Gardens, FL 33418	
+1174	Mirasol Sales and Info Center	11300 Mirasol Way	Palm Beach Gardens, FL 33418	
+1176	Mirasol Sales and Info Center	11300 Mirasol Way	Palm Beach Gardens, FL 33418	
+1178	Mirasol Sales and Info Center	11300 Mirasol Way	Palm Beach Gardens, FL 33418	
+1180	Mirasol Sales and Info Center	11300 Mirasol Way	Palm Beach Gardens, FL 33418	
+1182	William T Dwyer High	13601 N Military Trl	Palm Beach Gardens, FL 33418	
+1184	Eastpointe Country Club	13560 Eastpointe Blvd	Palm Beach Gardens, FL 33418	
+1186	Mirasol Sales and Info Center	11300 Mirasol Way	Palm Beach Gardens, FL 33418	
+1188	Westwood Gardens HOA	5601 Golden Eagle Cir	Palm Beach Gardens, FL 33418	
+1189	Westwood Gardens HOA	5601 Golden Eagle Cir	Palm Beach Gardens, FL 33418	
+1190	Gardens Presbyterian	4677 Hood Rd	Palm Beach Gardens, FL 33418	
+1192	Evergrene Clubhouse	650 Evergrene Pkwy	Palm Beach Gardens, FL 33410	
+1194	Frenchmans Creek Real Estate Office	13699 Tournament Dr	Palm Beach Gardens, FL 33410	
+1196	Gardens Presbyterian	4677 Hood Rd	Palm Beach Gardens, FL 33418	
+1198	1st Baptist Church PBG	11980 Alt A1A	Palm Beach Gardens, FL 33410	
+1200	Dwight D Eisenhower Elementary	2926 Lone Pine Rd	Palm Beach Gardens, FL 33410	
+1202	Cross Community Church	2575 Lone Pine Rd	Palm Beach Gardens, FL 33410	
+1204	Holy Spirit Lutheran	13301 Ellison Wilson Rd	Juno Beach, FL 33408	
+1206	Holy Spirit Lutheran	13301 Ellison Wilson Rd	Juno Beach, FL 33408	
+1208	Juno Beach Town Center	340 Ocean Dr	Juno Beach, FL 33408	
+1210	Holy Spirit Lutheran	13301 Ellison Wilson Rd	Juno Beach, FL 33408	
+1212	Juno Beach Town Center	340 Ocean Dr	Juno Beach, FL 33408	
+1214	Juno Beach Town Center	340 Ocean Dr	Juno Beach, FL 33408	
+1216	Oceanview Methodist	701 Ocean Dr	Juno Beach, FL 33408	
+1218	Osceola Creek Middle	6775 180th Ave N	Loxahatchee, FL 33470	
+1220	Pierce Hammock Elementary	14255 Hamlin Blvd	Loxahatchee, FL 33470	
+1222	Sandhill Crane Golf Club	11401 Northlake Blvd	Palm Beach Gardens, FL 33412	
+1224	Pierce Hammock Elementary	14255 Hamlin Blvd	Loxahatchee, FL 33470	
+1228	Carleton Oaks Clubhouse	8800 Oldham Way	Palm Beach Gardens, FL 33412	
+1230	Christ Fellowship Church PBG	5343 Northlake Blvd	Palm Beach Gardens, FL 33418	
+1232	Mirasol Sales and Info Center	11300 Mirasol Way	Palm Beach Gardens, FL 33418	
+1234	Christ Fellowship Church PBG	5343 Northlake Blvd	Palm Beach Gardens, FL 33418	
+1236	Mirasol Sales and Info Center	11300 Mirasol Way	Palm Beach Gardens, FL 33418	
+1238	Mirasol Sales and Info Center	11300 Mirasol Way	Palm Beach Gardens, FL 33418	
+1240	Timber Trace Elementary	5200 117th Ct N	Palm Beach Gardens, FL 33418	
+1242	Christ Fellowship Church PBG	5343 Northlake Blvd	Palm Beach Gardens, FL 33418	
+1244	Christ Fellowship Church PBG	5343 Northlake Blvd	Palm Beach Gardens, FL 33418	
+1246	Watson B Duncan Middle	5150 117th Ct N	Palm Beach Gardens, FL 33418	
+1247	Watson B Duncan Middle	5150 117th Ct N	Palm Beach Gardens, FL 33418	
+1248	PBG Community Center	4404 Burns Rd	Palm Beach Gardens, FL 33410	
+1250	Palm Beach Gardens High	4245 Holly Dr	Palm Beach Gardens, FL 33410	
+1252	Ballen Isles Country Club	100 Ballen Isles Cir	Palm Beach Gardens, FL 33418	
+1254	Northlake Nazarene Church	5430 Northlake Blvd	Palm Beach Gardens, FL 33418	
+1256	North County Senior Center	5217 Northlake Blvd	Palm Beach Gardens, FL 33418	
+1258	North County Senior Center	5217 Northlake Blvd	Palm Beach Gardens, FL 33418	
+1260	PBG City Hall Council Room	10500 N Military Trl	Palm Beach Gardens, FL 33410	
+1262	PBG Moose Lodge 2010	3600 RCA Blvd	Palm Beach Gardens, FL 33410	
+1264	PBG City Hall Council Room	10500 N Military Trl	Palm Beach Gardens, FL 33410	
+1266	PBG City Hall Council Room	10500 N Military Trl	Palm Beach Gardens, FL 33410	
+1268	PBG Community Center	4404 Burns Rd	Palm Beach Gardens, FL 33410	
+1270	PBG Community Center	4404 Burns Rd	Palm Beach Gardens, FL 33410	
+1272	Palm Beach Gardens Elementary	10060 Riverside Dr	Palm Beach Gardens, FL 33410	
+1274	Palm Beach Gardens High	4245 Holly Dr	Palm Beach Gardens, FL 33410	
+1276	Palm Beach Gardens High	4245 Holly Dr	Palm Beach Gardens, FL 33410	
+1278	Garden Lodge 366 F&AM	9463 Roan Ln	Palm Beach Gardens, FL 33403	
+1280	Pew Leadership Center	9482 MacArthur Blvd	Palm Beach Gardens, FL 33403	
+1282	Pew Leadership Center	9482 MacArthur Blvd	Palm Beach Gardens, FL 33403	
+1284	Eissey Campus Theater	11051 Campus Dr	Palm Beach Gardens, FL 33410	
+1286	PBG Moose Lodge 2010	3600 RCA Blvd	Palm Beach Gardens, FL 33410	
+1288	PBG Moose Lodge 2010	3600 RCA Blvd	Palm Beach Gardens, FL 33410	
+1290	PBG Moose Lodge 2010	3600 RCA Blvd	Palm Beach Gardens, FL 33410	
+1292	PBG Moose Lodge 2010	3600 RCA Blvd	Palm Beach Gardens, FL 33410	
+1294	Dwight D Eisenhower Elementary	2926 Lone Pine Rd	Palm Beach Gardens, FL 33410	
+1296	Dwight D Eisenhower Elementary	2926 Lone Pine Rd	Palm Beach Gardens, FL 33410	
+1298	PBG Moose Lodge 2010	3600 RCA Blvd	Palm Beach Gardens, FL 33410	
+1300	Cross Community Church	2575 Lone Pine Rd	Palm Beach Gardens, FL 33410	
+1302	Dwight D Eisenhower Elementary	2926 Lone Pine Rd	Palm Beach Gardens, FL 33410	
+1304	NPB Community Center	1200 Prosperity Farms Rd	North Palm Beach, FL 33408	
+1305	NPB Community Center	1200 Prosperity Farms Rd	North Palm Beach, FL 33408	
+1306	Eissey Campus Theater	11051 Campus Dr	Palm Beach Gardens, FL 33410	
+1308	Gardens Mall Community Room	3101 PGA Blvd	Palm Beach Gardens, FL 33410	
+1310	Eissey Campus Theater	11051 Campus Dr	Palm Beach Gardens, FL 33410	
+1312	Gardens Mall Community Room	3101 PGA Blvd	Palm Beach Gardens, FL 33410	
+1314	NPB Community Center	1200 Prosperity Farms Rd	North Palm Beach, FL 33408	
+1316	NPB Community Center	1200 Prosperity Farms Rd	North Palm Beach, FL 33408	
+1318	PBG Moose Lodge 2010	3600 RCA Blvd	Palm Beach Gardens, FL 33410	
+1320	NPB Community Center	1200 Prosperity Farms Rd	North Palm Beach, FL 33408	
+1322	NPB Community Center	1200 Prosperity Farms Rd	North Palm Beach, FL 33408	
+1324	Allamanda Elementary	10300 Allamanda Dr	Palm Beach Gardens, FL 33410	
+1326	Allamanda Elementary	10300 Allamanda Dr	Palm Beach Gardens, FL 33410	
+1328	Osborne Park Activities Bldg	715 Prosperity Farms Rd	North Palm Beach, FL 33408	
+1330	1st Unitarian Church NPB	635 Prosperity Farms Rd	North Palm Beach, FL 33408	
+1332	1st Unitarian Church NPB	635 Prosperity Farms Rd	North Palm Beach, FL 33408	
+1334	1st Unitarian Church NPB	635 Prosperity Farms Rd	North Palm Beach, FL 33408	
+1336	Gardens Mall Community Room	3101 PGA Blvd	Palm Beach Gardens, FL 33410	
+1338	Eissey Campus Theater	11051 Campus Dr	Palm Beach Gardens, FL 33410	
+1340	Eissey Campus Theater	11051 Campus Dr	Palm Beach Gardens, FL 33410	
+1342	NPB Country Club	951 U S Hwy 1	North Palm Beach, FL 33408	
+1344	Old Port Cove	132 Lakeshore Dr	North Palm Beach, FL 33408	
+1346	Anchorage Activities Bldg	603 Anchorage Dr	North Palm Beach, FL 33408	
+1348	NPB Council Chambers	501 U S Hwy 1	North Palm Beach, FL 33408	
+1350	Faith Lutheran Church	555 U S Hwy 1	North Palm Beach, FL 33408	
+1352	Northlake Nazarene Church	5430 Northlake Blvd	Palm Beach Gardens, FL 33418	
+1354	Grove Park Elementary	8330 N Military Trl	Palm Beach Gardens, FL 33410	
+1356	Casa Rio Clubhouse	3000 Casa Rio Ct	Riviera Beach, FL 33418	
+1358	RB Prep Achievement Academy	7071 Garden Rd	Riviera Beach, FL 33404	
+1360	Garden Lodge 366 F&AM	9463 Roan Ln	Palm Beach Gardens, FL 33403	
+1362	Grove Park Elementary	8330 N Military Trl	Palm Beach Gardens, FL 33410	
+1364	RB Prep Achievement Academy	7071 Garden Rd	Riviera Beach, FL 33404	
+1366	Palm Lake Estates - The Palms	7470 42nd Ave N	Riviera Beach, FL 33404	
+1368	RB Prep Achievement Academy	7071 Garden Rd	Riviera Beach, FL 33404	
+1370	Palm Lake Estates - The Palms	7470 42nd Ave N	Riviera Beach, FL 33404	
+1372	Garden Lodge 366 F&AM	9463 Roan Ln	Palm Beach Gardens, FL 33403	
+1374	Pew Leadership Center	9482 MacArthur Blvd	Palm Beach Gardens, FL 33403	
+1376	Lake Park Town Hall	535 Park Ave	Lake Park, FL 33403	
+1378	PBC Fire Rescue #68	1000 Park Ave	Lake Park, FL 33403	
+1380	NPB Council Chambers	501 U S Hwy 1	North Palm Beach, FL 33408	
+1382	Lake Park Town Hall	535 Park Ave	Lake Park, FL 33403	
+1384	Phil Foster Park Marine Center	900 E Blue Heron Blvd	Riviera Beach, FL 33404	
+1386	Phil Foster Park Marine Center	900 E Blue Heron Blvd	Riviera Beach, FL 33404	
+1388	Palm Beach Shores Town Hall	247 Edwards Ln	Palm Beach Shores, FL 33404	
+1389	Palm Beach Shores Town Hall	247 Edwards Ln	Palm Beach Shores, FL 33404	
+1390	St Edwards Church	165 N County Road	Palm Beach, FL 33480	
+1392	St Edwards Church	165 N County Road	Palm Beach, FL 33480	
+1394	Morton & Barbara Mandel Center	340 Seaview Ave	Palm Beach, FL 33480	
+2002	Jeaga Middle	3777 N Jog Rd	West Palm Beach, FL 33411	
+2004	Grassy Waters Elementary	3550 N Jog Rd	West Palm Beach, FL 33411	
+2006	Jeaga Middle	3777 N Jog Rd	West Palm Beach, FL 33411	
+2008	Jeaga Middle	3777 N Jog Rd	West Palm Beach, FL 33411	
+2010	Cypress Lakes HOA	3445 Cypress Trl	West Palm Beach, FL 33417	
+2012	Century Village Clubhouse	200 Century Blvd	West Palm Beach, FL 33417	
+2014	Club Baywinds	5200 Baywinds Dr	West Palm Beach, FL 33411	
+2016	Andros Isle POA Clubhouse	2400 Victoria Point	West Palm Beach, FL 33411	
+2018	Riverwalk Clubhouse	7459 Riverwalk Cir	West Palm Beach, FL 33411	
+2020	Jeaga Middle	3777 N Jog Rd	West Palm Beach, FL 33411	
+2021	Jeaga Middle	3777 N Jog Rd	West Palm Beach, FL 33411	
+2022	Century Village Clubhouse	200 Century Blvd	West Palm Beach, FL 33417	
+2024	Century Village Clubhouse	200 Century Blvd	West Palm Beach, FL 33417	
+2026	Century Village Clubhouse	200 Century Blvd	West Palm Beach, FL 33417	
+2028	Century Village Clubhouse	200 Century Blvd	West Palm Beach, FL 33417	
+2030	Benoist Farms Elementary	1765 Benoist Farms Rd	West Palm Beach, FL 33411	
+2032	Riverwalk Clubhouse	7459 Riverwalk Cir	West Palm Beach, FL 33411	
+2034	Riverwalk Clubhouse	7459 Riverwalk Cir	West Palm Beach, FL 33411	
+2036	Turning Points Academy	1950 Benoist Farms Rd	West Palm Beach, FL 33411	
+2038	Turning Points Academy	1950 Benoist Farms Rd	West Palm Beach, FL 33411	
+2040	Wynnebrook Elementary	1167 Drexel Rd	West Palm Beach, FL 33417	
+2041	Wynnebrook Elementary	1167 Drexel Rd	West Palm Beach, FL 33417	
+2042	Riverwalk Clubhouse	7459 Riverwalk Cir	West Palm Beach, FL 33411	
+2044	St Christophers Episcopal Chr	1063 Haverhill Rd N	West Palm Beach, FL 33417	
+2046	Haverhill Town Hall	4585 Charlotte St	Haverhill, FL 33417	
+2048	Elks Lodge #1352	6188 Belvedere Rd	West Palm Beach, FL 33413	
+2050	Elks Lodge #1352	6188 Belvedere Rd	West Palm Beach, FL 33413	
+2052	Elks Lodge #1352	6188 Belvedere Rd	West Palm Beach, FL 33413	
+2054	Elks Lodge #1352	6188 Belvedere Rd	West Palm Beach, FL 33413	
+2056	Clayton Hutcheson Hall B	559 N Military Trl	West Palm Beach, FL 33415	
+2058	Clayton Hutcheson Hall B	559 N Military Trl	West Palm Beach, FL 33415	
+2060	West Gate Elementary	1545 Loxahatchee Dr	West Palm Beach, FL 33409	
+2062	Belvedere Elementary	3000 Parker Ave	West Palm Beach, FL 33405	
+2064	Belvedere Elementary	3000 Parker Ave	West Palm Beach, FL 33405	
+2066	Howard Park Community Center	1302 Parker Ave	West Palm Beach, FL 33401	
+2068	Holy Spirit Episcopal	1003 Allendale Rd	West Palm Beach, FL 33405	
+2070	Belvedere Elementary	3000 Parker Ave	West Palm Beach, FL 33405	
+2072	Belvedere Elementary	3000 Parker Ave	West Palm Beach, FL 33405	
+2074	Belvedere Elementary	3000 Parker Ave	West Palm Beach, FL 33405	
+2076	St Catherine Church	110 Southern Blvd	West Palm Beach, FL 33405	
+2078	St Catherine Church	110 Southern Blvd	West Palm Beach, FL 33405	
+2080	Everglades Elementary	407 Marginal Rd	West Palm Beach, FL 33411	
+2081	Everglades Elementary	407 Marginal Rd	West Palm Beach, FL 33411	
+2082	Pine Jog Environmental Center	6301 Summit Blvd	West Palm Beach, FL 33415	
+2083	Pine Jog Environmental Center	6301 Summit Blvd	West Palm Beach, FL 33415	
+2084	Community Christian Church	521 Jog Rd	West Palm Beach, FL 33415	
+2085	Community Christian Church	521 Jog Rd	West Palm Beach, FL 33415	
+2086	Community Christian Church	521 Jog Rd	West Palm Beach, FL 33415	
+2087	Community Christian Church	521 Jog Rd	West Palm Beach, FL 33415	
+2088	Melaleuca Elementary	5759 W Gun Club Rd	West Palm Beach, FL 33415	
+2090	Pine Jog Environmental Center	6301 Summit Blvd	West Palm Beach, FL 33415	
+2092	Pine Jog Environmental Center	6301 Summit Blvd	West Palm Beach, FL 33415	
+2094	Pine Jog Environmental Center	6301 Summit Blvd	West Palm Beach, FL 33415	
+2096	1st Church of the Nazarene	5601 Forest Hill Blvd	West Palm Beach, FL 33415	
+2097	1st Church of the Nazarene	5601 Forest Hill Blvd	West Palm Beach, FL 33415	
+2098	Iglesia Cristo Mi Redentor	588 S Haverhill Rd	West Palm Beach, FL 33415	
+2100	Iglesia Cristo Mi Redentor	588 S Haverhill Rd	West Palm Beach, FL 33415	
+2102	Union Congregational Church	5088 Summit Blvd	West Palm Beach, FL 33415	
+2104	Lake Lytal Park	3645 Gun Club Rd	West Palm Beach, FL 33406	
+2106	Main Library	3650 Summit Blvd	West Palm Beach, FL 33406	
+2108	Berkshire Elementary	1060 S Kirk Rd	West Palm Beach, FL 33406	
+2110	Berkshire Elementary	1060 S Kirk Rd	West Palm Beach, FL 33406	
+2112	Palm Springs Middle	1560 Kirk Rd	West Palm Beach, FL 33406	
+2114	Main Library	3650 Summit Blvd	West Palm Beach, FL 33406	
+2115	The Ark Church	3218 Melaleuca Dr	West Palm Beach, FL 33406	
+2116	The Ark Church	3218 Melaleuca Dr	West Palm Beach, FL 33406	
+2117	The Ark Church	3218 Melaleuca Dr	West Palm Beach, FL 33406	
+2118	Palm Springs Middle	1560 Kirk Rd	West Palm Beach, FL 33406	
+2120	Palm Springs Middle	1560 Kirk Rd	West Palm Beach, FL 33406	
+2122	Palm Springs Middle	1560 Kirk Rd	West Palm Beach, FL 33406	
+2124	Palm Springs Middle	1560 Kirk Rd	West Palm Beach, FL 33406	
+2125	St Marys Orthodox Church	1317 Florida Mango Rd	West Palm Beach, FL 33406	
+2126	St Marys Orthodox Church	1317 Florida Mango Rd	West Palm Beach, FL 33406	
+2127	Lake Clarke Shores Town Hall	1701 Barbados Rd	Lake Clarke Shores, FL 33406	
+2128	Palm Springs Middle	1560 Kirk Rd	West Palm Beach, FL 33406	
+2130	Cloud Lake Town Hall	100 Lang Rd	Cloud Lake, FL 33406	
+2132	Cloud Lake Town Hall	100 Lang Rd	Cloud Lake, FL 33406	
+2134	STEM Bldg at S FL Science Ctr	4801 Dreher Trl N	West Palm Beach, FL 33405	
+2136	Palmwood Lodge #303	845 Bradley St	West Palm Beach, FL 33405	
+2138	Palmwood Lodge #303	845 Bradley St	West Palm Beach, FL 33405	
+2140	South Olive Community Center	345 Summa St	West Palm Beach, FL 33405	
+2142	Lakeside Presbyterian Church	4601 S Flagler Dr	West Palm Beach, FL 33405	
+2144	Lakeside Presbyterian Church	4601 S Flagler Dr	West Palm Beach, FL 33405	
+2146	Village Walk HOA Clubhouse	2500 Village Walk Cir	Wellington, FL 33414	
+2148	Liberty Park Elementary	6601 Constitution Way	Greenacres, FL 33413	
+2150	River Bridge Activities Center	100 River Bridge Blvd	Greenacres, FL 33413	
+2152	Pine Ridge North II	600 Sea Pine Way	Greenacres, FL 33415	
+2154	Forest Hill Elementary	5555 Purdy Ln	West Palm Beach, FL 33415	
+2156	Cresthaven Emory Aud	2530 Emory Dr E	West Palm Beach, FL 33415	
+2158	Community Of Hope	2341 S Military Trl	West Palm Beach, FL 33415	
+2160	Cresthaven Barkley Aud	2605 Barkley Dr E	West Palm Beach, FL 33415	
+2162	Cresthaven Ashley Aud	2885 Ashley Dr E	West Palm Beach, FL 33415	
+2164	Covered Bridge Clubhouse	7290 Covered Bridge Blvd	Lake Worth, FL 33467	
+2166	Poinciana Clubhouse	3536 Via Poinciana	Lake Worth, FL 33467	
+2168	First Baptist Church GA	201 Swain Blvd	Greenacres, FL 33463	
+2170	Liberty Park Elementary	6601 Constitution Way	Greenacres, FL 33413	
+2172	First Baptist Church GA	201 Swain Blvd	Greenacres, FL 33463	
+2174	First Baptist Church GA	201 Swain Blvd	Greenacres, FL 33463	
+2182	Greenacres Community Center	501 Swain Blvd	Greenacres, FL 33463	
+2184	American Polish Club	4725 Lake Worth Rd	Greenacres, FL 33463	
+2186	American Polish Club	4725 Lake Worth Rd	Greenacres, FL 33463	
+2188	St Lukes United Methodist Chr	165 Ohio Rd	Lake Worth, FL 33467	
+2190	Lucerne Pointe Clubhouse	4580 Lucerne Lakes Blvd	Lake Worth, FL 33467	
+2192	Fountains Of Palm Beach	4615 Fountains Dr	Lake Worth, FL 33467	
+2194	LC Swain Middle	5332 Lake Worth Rd	Greenacres, FL 33463	
+2196	Pine Ridge South IV Clubhouse	400 Pine Glen Ln	Greenacres, FL 33463	
+2198	American Finnish Club	908 Lehto Ln	Lake Worth, FL 33461	
+2202	LC Swain Middle	5332 Lake Worth Rd	Greenacres, FL 33463	
+2204	Heritage Elementary	5100 Melaleuca Ln	Greenacres, FL 33463	
+2206	Heritage Elementary	5100 Melaleuca Ln	Greenacres, FL 33463	
+2208	American Finnish Club	908 Lehto Ln	Lake Worth, FL 33461	
+2210	American Polish Club	4725 Lake Worth Rd	Greenacres, FL 33463	
+2212	American Polish Club	4725 Lake Worth Rd	Greenacres, FL 33463	
+2214	Indian Pines Elementary	6000 Oak Royal Dr	Lake Worth, FL 33463	
+2216	Indian Pines Elementary	6000 Oak Royal Dr	Lake Worth, FL 33463	
+2218	Tradewinds Middle	5090 Haverhill Rd S	Greenacres, FL 33463	
+3002	Palm Springs Middle	1560 Kirk Rd	West Palm Beach, FL 33406	
+3004	Community Of Hope	2341 S Military Trl	West Palm Beach, FL 33415	
+3006	Faith Presbyterian	275 Alemeda Dr	Palm Springs, FL 33461	
+3008	Palm Springs Middle	1560 Kirk Rd	West Palm Beach, FL 33406	
+3010	Faith Presbyterian	275 Alemeda Dr	Palm Springs, FL 33461	
+3012	Emmanuel Baptist Church	1901 Barbados Rd	West Palm Beach, FL 33406	
+3014	Lake Clarke Shores Town Hall	1701 Barbados Rd	Lake Clarke Shores, FL 33406	
+3016	Community Of Hope	2341 S Military Trl	West Palm Beach, FL 33415	
+3018	Palm Springs Middle	1560 Kirk Rd	West Palm Beach, FL 33406	
+3020	Palm Springs Village Hall	226 Cypress Ln	Palm Springs, FL 33461	
+3022	Oasis De Amor Baptist Church	2835 Gulfstream Rd	Lake Worth, FL 33461	
+3024	Palm Springs Library	217 Cypress Ln	Palm Springs, FL 33461	
+3026	Palm Springs Village Hall	226 Cypress Ln	Palm Springs, FL 33461	
+3028	Palm Springs Village Hall	226 Cypress Ln	Palm Springs, FL 33461	
+3030	Palm Springs Village Hall	226 Cypress Ln	Palm Springs, FL 33461	
+3032	Special Olympics of PBC	2728 Lake Worth Rd	Lake Worth, FL 33461	
+3034	Sunlight Community Church	1325 N A St	Lake Worth Beach, FL 33460	
+3036	Sunlight Community Church	1325 N A St	Lake Worth Beach, FL 33460	
+3038	Sunlight Community Church	1325 N A St	Lake Worth Beach, FL 33460	
+3040	1st Congregational Church	1415 N K St	Lake Worth Beach, FL 33460	
+3042	1st Congregational Church	1415 N K St	Lake Worth Beach, FL 33460	
+3044	Holy Redeemer Church	3730 Kirk Rd	Palm Springs, FL 33461	
+3048	Holy Redeemer Church	3730 Kirk Rd	Palm Springs, FL 33461	
+3050	Holy Redeemer Church	3730 Kirk Rd	Palm Springs, FL 33461	
+3052	Our Savior Lutheran Church	1615 Lake Ave	Lake Worth Beach, FL 33460	
+3058	Our Savior Lutheran Church	1615 Lake Ave	Lake Worth Beach, FL 33460	
+3060	Our Savior Lutheran Church	1615 Lake Ave	Lake Worth Beach, FL 33460	
+3062	Our Savior Lutheran Church	1615 Lake Ave	Lake Worth Beach, FL 33460	
+3064	1st Congregational Church	1415 N K St	Lake Worth Beach, FL 33460	
+3066	Our Savior Lutheran Church	1615 Lake Ave	Lake Worth Beach, FL 33460	
+3068	St Andrews Episcopal	100 N Palmway	Lake Worth Beach, FL 33460	
+3070	Mid County Senior Center	3680 Lake Worth Rd	Lake Worth, FL 33461	
+3071	Holy Redeemer Church	3730 Kirk Rd	Palm Springs, FL 33461	
+3072	Holy Redeemer Church	3730 Kirk Rd	Palm Springs, FL 33461	
+3074	Coastal Chapel	1510 High Ridge Rd	Lake Worth, FL 33461	
+3075	Lantana Recreation Center	418 S Dixie Hwy	Lantana, FL 33462	
+3076	Our Savior Lutheran Church	1615 Lake Ave	Lake Worth Beach, FL 33460	
+3078	Lakeside UM Church	1901 12Th Ave S	Lake Worth Beach, FL 33461	
+3080	American Finnish Club	908 Lehto Ln	Lake Worth, FL 33461	
+3082	Atlantis City Hall	260 Orange Tree Dr	Atlantis, FL 33462	
+3084	Lakes of Sherbrooke	8130 Havasu Ct	Lake Worth, FL 33467	
+3086	Woodlands Middle	5200 Lyons Rd	Lake Worth, FL 33467	
+3088	Tradewinds Middle	5090 Haverhill Rd S	Greenacres, FL 33463	
+3090	Woodlands Middle	5200 Lyons Rd	Lake Worth, FL 33467	
+3092	Lacuna HOA Clubhouse	6410 Grand Lacuna Blvd	Lake Worth, FL 33467	
+3094	Coral Reef Elementary	6151 Hagen Ranch Rd	Lake Worth, FL 33467	
+3096	Coral Reef Elementary	6151 Hagen Ranch Rd	Lake Worth, FL 33467	
+3098	Manatee Elementary	7001 Charleston Shore Blvd	Lake Worth, FL 33467	
+3100	Journeys End	6400 Journeys End Blvd	Lake Worth, FL 33467	
+3102	Diamond View Elementary	5300 Haverhill Rd	Greenacres, FL 33463	
+3104	American German Club	5111 Lantana Rd	Lake Worth, FL 33463	
+3106	American German Club	5111 Lantana Rd	Lake Worth, FL 33463	
+3108	Santaluces High	6880 Lawrence Rd	Lantana, FL 33462	
+3110	Lantana Road Branch Library	4020 Lantana Rd	Lake Worth, FL 33462	
+3112	Starlight Cove Elementary	6300 Seminole Dr	Lantana, FL 33462	
+3114	Santaluces High	6880 Lawrence Rd	Lantana, FL 33462	
+3116	Advent Lantana	2116 W Lantana Rd	Lantana, FL 33462	
+3118	Advent Lantana	2116 W Lantana Rd	Lantana, FL 33462	
+3120	Valencia Shores Social Club	7751 Valencia Shores Dr	Lake Worth, FL 33467	
+3122	Boynton Beach Community Church	9515 Boynton Beach Blvd	Boynton Beach, FL 33472	
+3124	West Boynton Park and Rec	6000 Northtree Blvd	Lake Worth, FL 33463	
+3126	Temple Shaarei Shalom	9085 Hagen Ranch Rd	Boynton Beach, FL 33472	
+3128	West Boynton Park and Rec	6000 Northtree Blvd	Lake Worth, FL 33463	
+3130	Winston Trails Swim Center	5980 Winston Trails Blvd	Lake Worth, FL 33463	
+3132	Park Vista High	7900 Jog Rd	Lake Worth, FL 33467	
+3133	Christa McAuliffe Middle	6500 Le Chalet Blvd	Boynton Beach, FL 33472	
+3134	Hidden Oaks Elementary	7685 S Military Trl	Lake Worth, FL 33463	
+3136	Freedom Shores Elementary	3400 Hypoluxo Rd	Boynton Beach, FL 33436	
+3138	Citrus Cove Elementary	8400 Lawrence Rd	Boynton Beach, FL 33436	
+3140	Boynton Lakes North Clubhouse	100 Redford Dr	Boynton Beach, FL 33426	
+3142	Boynton Lakes North Clubhouse	100 Redford Dr	Boynton Beach, FL 33426	
+3144	Freedom Shores Elementary	3400 Hypoluxo Rd	Boynton Beach, FL 33436	
+3146	Freedom Shores Elementary	3400 Hypoluxo Rd	Boynton Beach, FL 33436	
+3148	Imagine Schools - Chancellor	3333 High Ridge Rd	Boynton Beach, FL 33426	
+3150	Christa McAuliffe Middle	6500 Le Chalet Blvd	Boynton Beach, FL 33472	
+3152	Park Vista High	7900 Jog Rd	Lake Worth, FL 33467	
+3154	Ponte Vecchio Clubhouse	7050 Catania Dr	Boynton Beach, FL 33472	
+3156	Aberdeen East Clubhouse	5700 Le Chalet Blvd	Boynton Beach, FL 33472	
+3158	Crystal Lakes Elementary	6050 Gateway Blvd	Boynton Beach, FL 33437	
+3160	Christa McAuliffe Middle	6500 Le Chalet Blvd	Boynton Beach, FL 33472	
+3162	Hidden Oaks Elementary	7685 S Military Trl	Lake Worth, FL 33463	
+3164	Citrus Cove Elementary	8400 Lawrence Rd	Boynton Beach, FL 33436	
+3166	Jamaica Bay Clubhouse	31005 Jamaica Bay Dr	Boynton Beach, FL 33436	
+3168	Boynton Beach Fire Station #3	3501 N Congress Ave	Boynton Beach, FL 33426	
+3170	Boynton Beach High	4975 Park Ridge Blvd	Boynton Beach, FL 33426	
+3172	Boynton Beach High	4975 Park Ridge Blvd	Boynton Beach, FL 33426	
+3174	Boynton Beach Fire Station #3	3501 N Congress Ave	Boynton Beach, FL 33426	
+3176	Boynton Beach High	4975 Park Ridge Blvd	Boynton Beach, FL 33426	
+3180	Imagine Schools - Chancellor	3333 High Ridge Rd	Boynton Beach, FL 33426	
+3182	Imagine Schools - Chancellor	3333 High Ridge Rd	Boynton Beach, FL 33426	
+3186	Christ Fellowship Church BB	801 N Congress Ave	Boynton Beach, FL 33426	
+3187	Christ Fellowship Church BB	801 N Congress Ave	Boynton Beach, FL 33426	
+3188	Christ Fellowship Church BB	801 N Congress Ave	Boynton Beach, FL 33426	
+3190	Imagine Schools - Chancellor	3333 High Ridge Rd	Boynton Beach, FL 33426	
+3192	Leisureville #1 Clubhouse	1007 Ocean Dr	Boynton Beach, FL 33426	
+3194	Boynton Beach Fire Station #2	2615 W Woolbright Rd	Boynton Beach, FL 33436	
+3196	Leisureville #3 Clubhouse	2001 SW 13th Ave	Boynton Beach, FL 33426	
+3198	BB Leisureville Clubhouse	1807 SW 18Th St	Boynton Beach, FL 33426	
+3200	Golfview Harbour Clubhouse	2775 SW 14Th St	Boynton Beach, FL 33426	
+3202	Golfview Harbour Clubhouse	2775 SW 14Th St	Boynton Beach, FL 33426	
+4002	Lantana Recreation Center	418 S Dixie Hwy	Lantana, FL 33462	
+4004	South Palm Beach Town Hall	3577 S Ocean Blvd	South Palm Beach, FL 33480	
+4006	Manalapan Town Hall	600 S Ocean Blvd	Manalapan, FL 33462	
+4008	Hypoluxo Town Hall	7580 S Federal Hwy	Hypoluxo, FL 33462	
+4010	Bent Tree Villas East	4450 Pear Tree Cir	Boynton Beach, FL 33436	
+4012	Greentree Villas	4685 Greentree Ln	Boynton Beach, FL 33436	
+4014	New Church	10621 El Clair Ranch Rd	Boynton Beach, FL 33437	
+4016	Christ Fellowship Church BB	801 N Congress Ave	Boynton Beach, FL 33426	
+4018	Quail Ridge Business Center	3715 Golf Rd	Boynton Beach, FL 33436	
+4020	Christ Fellowship Church BB	801 N Congress Ave	Boynton Beach, FL 33426	
+4022	Congress Middle	101 S Congress Ave	Boynton Beach, FL 33426	
+4024	Harvey E Oyer Jr Park	2010 N Federal Hwy	Boynton Beach, FL 33435	
+4026	Sterling Village Aud	500 S Federal Hwy	Boynton Beach, FL 33435	
+4028	Ocean Ridge Town Hall	6450 N Ocean Blvd	Ocean Ridge, FL 33435	
+4030	Village of Golf Admin Bldg	21 Country Rd	Village Of Golf, FL 33436	
+4034	Crosspointe Elementary	3015 S Congress Ave	Boynton Beach, FL 33426	
+4036	Forest Park Elementary	1201 SW 3rd St	Boynton Beach, FL 33435	
+4038	Briny Breezes Community Center	5000 N Ocean Blvd	Briny Breezes, FL 33435	
+4040	Briny Breezes Community Center	5000 N Ocean Blvd	Briny Breezes, FL 33435	
+4042	Briny Breezes Community Center	5000 N Ocean Blvd	Briny Breezes, FL 33435	
+4044	Briny Breezes Community Center	5000 N Ocean Blvd	Briny Breezes, FL 33435	
+4046	Delray Dunes	12005 Dunes Rd	Boynton Beach, FL 33436	
+4048	Banyan Creek Elementary	4243 Sabal Lakes Rd	Delray Beach, FL 33445	
+4050	Hunter's Run Courtside Cafe	3500 Clubhouse Ln	Boynton Beach, FL 33436	
+4052	Crosspointe Elementary	3015 S Congress Ave	Boynton Beach, FL 33426	
+4053	Crosspointe Elementary	3015 S Congress Ave	Boynton Beach, FL 33426	
+4054	Lakeview Baptist Church	2599 N Swinton Ave	Delray Beach, FL 33444	
+4056	Lakeview Baptist Church	2599 N Swinton Ave	Delray Beach, FL 33444	
+4058	Plumosa SOA Elementary	2501 Seacrest Blvd	Delray Beach, FL 33444	
+4060	Lakeview Baptist Church	2599 N Swinton Ave	Delray Beach, FL 33444	
+4062	Lakeview Baptist Church	2599 N Swinton Ave	Delray Beach, FL 33444	
+4064	Seacrest Presbyterian	2703 N Seacrest Blvd	Delray Beach, FL 33444	
+4066	Seacrest Presbyterian	2703 N Seacrest Blvd	Delray Beach, FL 33444	
+4068	Seacrest Presbyterian	2703 N Seacrest Blvd	Delray Beach, FL 33444	
+4070	Seacrest Presbyterian	2703 N Seacrest Blvd	Delray Beach, FL 33444	
+4072	Gulf Stream Town Hall	100 Sea Rd	Gulf Stream, FL 33483	
+4074	Plumosa SOA Elementary	2501 Seacrest Blvd	Delray Beach, FL 33444	
+4076	Country Manors Clubhouse	4900 Country Manors Blvd	Delray Beach, FL 33445	
+4078	Banyan Creek Elementary	4243 Sabal Lakes Rd	Delray Beach, FL 33445	
+4080	Banyan Creek Elementary	4243 Sabal Lakes Rd	Delray Beach, FL 33445	
+4082	Banyan Creek Elementary	4243 Sabal Lakes Rd	Delray Beach, FL 33445	
+4084	Banyan Creek Elementary	4243 Sabal Lakes Rd	Delray Beach, FL 33445	
+4086	Banyan Creek Elementary	4243 Sabal Lakes Rd	Delray Beach, FL 33445	
+4088	West Park Baptist Church	4004 Lake Ida Rd	Delray Beach, FL 33445	
+4090	Pines of Delray North	1641 NW 18Th Ave	Delray Beach, FL 33445	
+4092	West Park Baptist Church	4004 Lake Ida Rd	Delray Beach, FL 33445	
+4094	S D Spady Elementary	901 NW 3Rd St	Delray Beach, FL 33444	
+4096	Carver Middle	101 Barwick Rd	Delray Beach, FL 33445	
+4098	Bethel Evangelical Baptist	5780 W Atlantic Ave	Delray Beach, FL 33484	
+4100	Carver Middle	101 Barwick Rd	Delray Beach, FL 33445	
+4102	Veterans Park Recreation Ctr	802 NE 1St St	Delray Beach, FL 33483	
+4104	Emmanuel Catholic Church	15700 S Military Trl	Delray Beach, FL 33484	
+4106	Delray Beach Golf Club	2200 Highland Ave	Delray Beach, FL 33445	
+4108	Pines of Delray East	2451 Black Olive Blvd	Delray Beach, FL 33445	
+4110	505 Club	505 SE 5th Ave	Delray Beach, FL 33483	
+4112	Veterans Park Recreation Ctr	802 NE 1St St	Delray Beach, FL 33483	
+4114	Delray Beach First Baptist	16333 S Military Trl	Delray Beach, FL 33484	
+4116	Orchard View Elementary	4050 Germantown Rd	Delray Beach, FL 33445	
+4118	Orchard View Elementary	4050 Germantown Rd	Delray Beach, FL 33445	
+4120	Orchard View Elementary	4050 Germantown Rd	Delray Beach, FL 33445	
+4122	Delray Beach Swim and Tennis	2350 Jaeger Dr	Delray Beach, FL 33444	
+4124	Delray Beach Swim and Tennis	2350 Jaeger Dr	Delray Beach, FL 33444	
+4126	Pine Grove Elementary	400 SW 10th St	Delray Beach, FL 33444	
+4128	St Lucy Catholic Church	3510 S Ocean Blvd	Highland Beach, FL 33487	
+4129	St Lucy Catholic Church	3510 S Ocean Blvd	Highland Beach, FL 33487	
+4130	Omni Middle	5775 Jog Rd	Boca Raton, FL 33496	
+4132	Calusa Elementary	2051 Clint Moore Rd	Boca Raton, FL 33496	
+4134	Above and Beyond Community Church	7500 E Country Club Blvd	Boca Raton, FL 33487	
+4136	Above and Beyond Community Church	7500 E Country Club Blvd	Boca Raton, FL 33487	
+4138	Ascension Catholic Church	7250 N Federal Hwy	Boca Raton, FL 33487	
+4140	Broken Sound Club	2401 Willow Springs Dr	Boca Raton, FL 33496	
+4142	Woodfield Country Club HOA	3630 Club Pl	Boca Raton, FL 33496	
+4144	Seasons HOA Clubhouse	6450 NW 30th Ave	Boca Raton, FL 33496	
+4146	Broken Sound Club	2401 Willow Springs Dr	Boca Raton, FL 33496	
+4148	Broken Sound Club	2401 Willow Springs Dr	Boca Raton, FL 33496	
+4150	Patch Reef Park Community Center	2000 Yamato Rd	Boca Raton, FL 33431	
+4152	Boca Delray Lodge #171	4093 NW 4th Ave	Boca Raton, FL 33431	
+4154	Ascension Catholic Church	7250 N Federal Hwy	Boca Raton, FL 33487	
+4156	St Lucy Catholic Church	3510 S Ocean Blvd	Highland Beach, FL 33487	
+4158	Spanish River High	5100 Jog Rd	Boca Raton, FL 33496	
+4160	First Baptist Church BR	2350 Yamato Rd	Boca Raton, FL 33431	
+4162	Patch Reef Park Community Center	2000 Yamato Rd	Boca Raton, FL 33431	
+4164	Safe Schools Institute	1790 NW Spanish River Blvd	Boca Raton, FL 33431	
+4166	FAU Arena Lobby	777 Glades Rd	Boca Raton, FL 33431	
+4168	JC Mitchell Elementary	2470 NW 5th Ave	Boca Raton, FL 33431	
+4170	Spanish River Library	1501 Spanish River Blvd	Boca Raton, FL 33431	
+4172	Marine Safety Headquarters	3939 N Ocean Blvd	Boca Raton, FL 33431	
+4174	Sugar Sand Park Comm Center	300 S Military Trl	Boca Raton, FL 33486	
+4176	Sugar Sand Park Comm Center	300 S Military Trl	Boca Raton, FL 33486	
+4178	Sugar Sand Park Comm Center	300 S Military Trl	Boca Raton, FL 33486	
+4180	Del Prado Elementary	7900 Del Prado Cir	Boca Raton, FL 33433	
+4182	Greater BR Swim & Racquet Ctr	21618 St Andrews Blvd	Boca Raton, FL 33433	
+4184	Boca Raton Middle	1251 NW 8th St	Boca Raton, FL 33486	
+4186	The Volen Center	1515 W Palmetto Park Rd	Boca Raton, FL 33486	
+4188	Elks Lodge of Boca Raton	1395 N Federal Hwy	Boca Raton, FL 33432	
+4190	St Gregory Episcopal Church	100 NE Mizner Blvd	Boca Raton, FL 33432	
+4192	Verde K-8 School	6590 Verde Trl	Boca Raton, FL 33433	
+4194	Del Prado Elementary	7900 Del Prado Cir	Boca Raton, FL 33433	
+4196	Good Shepherd Lutheran	6301 SW 18Th St	Boca Raton, FL 33433	
+4198	Verde K-8 School	6590 Verde Trl	Boca Raton, FL 33433	
+4200	Verde K-8 School	6590 Verde Trl	Boca Raton, FL 33433	
+4202	Greater BR Swim & Racquet Ctr	21618 St Andrews Blvd	Boca Raton, FL 33433	
+4204	Sugar Sand Park Comm Center	300 S Military Trl	Boca Raton, FL 33486	
+4206	Good Shepherd Lutheran	6301 SW 18Th St	Boca Raton, FL 33433	
+4208	Hammock Pointe Elementary	8400 SW 8th St	Boca Raton, FL 33433	
+4210	Sugar Sand Park Comm Center	300 S Military Trl	Boca Raton, FL 33486	
+4212	Center for Spiritual Living	2 SW 12Th Ave	Boca Raton, FL 33486	
+4214	Calvary Chapel Boca Raton - 4th-5th Grade Room	1551 W Camino Real	Boca Raton, FL 33486	
+4216	Calvary Chapel Boca Raton - King's Kids Room	1551 W Camino Real	Boca Raton, FL 33486	
+4218	Grace Community Church	600 W Camino Real	Boca Raton, FL 33486	
+4220	Boca Raton Community Center	150 Crawford Blvd	Boca Raton, FL 33432	
+4222	Boca Raton Downtown Library	400 NW 2nd Ave	Boca Raton, FL 33432	
+4224	Grace Community Church	600 W Camino Real	Boca Raton, FL 33486	
+4226	St Gregory Episcopal Church	100 NE Mizner Blvd	Boca Raton, FL 33432	
+4228	Boca Raton Community Center	150 Crawford Blvd	Boca Raton, FL 33432	
+4230	Boca Raton Downtown Library	400 NW 2nd Ave	Boca Raton, FL 33432	
+5002	Faith Farm Tabernacle	9538 U S Hwy 441	Boynton Beach, FL 33472	
+5003	Faith Farm Tabernacle	9538 U S Hwy 441	Boynton Beach, FL 33472	
+5004	Faith Farm Tabernacle	9538 U S Hwy 441	Boynton Beach, FL 33472	
+5005	Sunset Palms Elementary	8650 Boynton Beach Blvd	Boynton Beach, FL 33472	
+5006	Faith Farm Tabernacle	9538 U S Hwy 441	Boynton Beach, FL 33472	
+5007	Faith Farm Tabernacle	9538 U S Hwy 441	Boynton Beach, FL 33472	
+5008	Sunset Palms Elementary	8650 Boynton Beach Blvd	Boynton Beach, FL 33472	
+5009	Boynton Beach Community Church	9515 Boynton Beach Blvd	Boynton Beach, FL 33472	
+5010	Temple Shaarei Shalom	9085 Hagen Ranch Rd	Boynton Beach, FL 33472	
+5012	The Grove Clubhouse	9697 Orchid Grove Trl	Boynton Beach, FL 33437	
+5014	West Boynton Branch Library	9451 Jog Rd	Boynton Beach, FL 33437	
+5016	Faith United Methodist Church	6340 W Boynton Beach Blvd	Boynton Beach, FL 33437	
+5018	Platina Clubhouse	9640 Platina Ave	Boynton Beach, FL 33437	
+5020	Hagen Road Elementary	10565 Hagen Ranch Rd	Boynton Beach, FL 33437	
+5022	Hagen Road Elementary	10565 Hagen Ranch Rd	Boynton Beach, FL 33437	
+5024	Valencia Lakes HOA	11600 Valencia Lakes Blvd	Boynton Beach, FL 33437	
+5026	Faith United Methodist Church	6340 W Boynton Beach Blvd	Boynton Beach, FL 33437	
+5028	South Tech Academy	6161 Woolbright Rd	Boynton Beach, FL 33437	
+5030	West Boynton Branch Library	9451 Jog Rd	Boynton Beach, FL 33437	
+5032	New Church	10621 El Clair Ranch Rd	Boynton Beach, FL 33437	
+5034	Valencia Lakes HOA	11600 Valencia Lakes Blvd	Boynton Beach, FL 33437	
+5036	Valencia Isles Social Hall	11200 Valencia Isles Blvd	Boynton Beach, FL 33437	
+5038	The Cascades Clubhouse	6601 Cascades Isle Blvd	Boynton Beach, FL 33437	
+5040	New Church	10621 El Clair Ranch Rd	Boynton Beach, FL 33437	
+5042	South Tech Academy	6161 Woolbright Rd	Boynton Beach, FL 33437	
+5044	Cascade Lakes Clubhouse	5075 Cascade Lakes Blvd	Boynton Beach, FL 33437	
+5046	Green Cay Nature Center	12800 Hagen Ranch Rd	Boynton Beach, FL 33437	
+5048	Coral Lakes Clubhouse	12751 El Clair Ranch Rd	Boynton Beach, FL 33437	
+5050	Coral Lakes Clubhouse	12751 El Clair Ranch Rd	Boynton Beach, FL 33437	
+5052	Lake Worth Drainage District	13081 S Military Trl	Delray Beach, FL 33484	
+5054	Our Lady Queen of Peace	9600 W Atlantic Ave	Delray Beach, FL 33446	
+5055	Our Lady Queen of Peace	9600 W Atlantic Ave	Delray Beach, FL 33446	
+5056	Hagen Ranch Road Library	14350 Hagen Ranch Rd	Delray Beach, FL 33446	
+5058	Valencia Falls Clubhouse	13375 Valencia Grand Blvd	Delray Beach, FL 33446	
+5060	Hagen Ranch Road Library	14350 Hagen Ranch Rd	Delray Beach, FL 33446	
+5062	Villa Borghese Clubhouse	6750 Via Villa Borghe	Delray Beach, FL 33446	
+5064	Huntington Lakes Clubhouse	7355 Huntington Ln	Delray Beach, FL 33446	
+5066	Abbey Village Clubhouse	6294 Abbey Ln	Delray Beach, FL 33446	
+5068	Camelot Village Clubhouse	6610 Moonlit Dr	Delray Beach, FL 33446	
+5070	Delray Villas	13773 Circular Dr	Delray Beach, FL 33484	
+5072	Huntington Pointe Clubhouse	6251 N Oriole Blvd	Delray Beach, FL 33484	
+5074	Coco Wood Clubhouse	6269 W Atlantic Ave	Delray Beach, FL 33484	
+5076	Palm Greens Clubhouse	5801 Via Delray Blvd	Delray Beach, FL 33484	
+5078	Bethel Evangelical Baptist	5780 W Atlantic Ave	Delray Beach, FL 33484	
+5080	Bethel Evangelical Baptist	5780 W Atlantic Ave	Delray Beach, FL 33484	
+5082	Bethel Evangelical Baptist	5780 W Atlantic Ave	Delray Beach, FL 33484	
+5084	High Point Section II	14425 Canalview Dr	Delray Beach, FL 33484	
+5086	Carver Middle	101 Barwick Rd	Delray Beach, FL 33445	
+5088	Carver Middle	101 Barwick Rd	Delray Beach, FL 33445	
+5090	Gleneagles CC-Strathearn Sat	15390 Strathearn Dr	Delray Beach, FL 33446	
+5092	Gleneagles CC-Clunie Satellite	7332 Clunie Pl	Delray Beach, FL 33446	
+5094	Kings Point Clubhouse	7000 W Atlantic Ave	Delray Beach, FL 33446	
+5096	Monaco Clubhouse	6570 Monaco Blvd	Delray Beach, FL 33446	
+5098	Lakes of Delray Clubhouse	15055 Lakes of Delray Blvd	Delray Beach, FL 33484	
+5100	Kings Point Flanders	6561 Flanders Way	Delray Beach, FL 33484	
+5102	Lakes of Delray Clubhouse	15055 Lakes of Delray Blvd	Delray Beach, FL 33484	
+5104	Kings Point Flanders	6561 Flanders Way	Delray Beach, FL 33484	
+5106	Las Verdes Clubhouse	5121 Las Verdes Cir	Delray Beach, FL 33484	
+5108	West Boca Branch Library	18685 State Road 7	Boca Raton, FL 33498	
+5110	South County Civic Center	16700 Jog Rd	Delray Beach, FL 33446	
+5111	Morikami Park Elementary	6201 Morikami Park Rd	Delray Beach, FL 33484	
+5112	Morikami Park Elementary	6201 Morikami Park Rd	Delray Beach, FL 33484	
+5113	Morikami Park Elementary	6201 Morikami Park Rd	Delray Beach, FL 33484	
+5114	South County Civic Center	16700 Jog Rd	Delray Beach, FL 33446	
+5115	Spanish River High	5100 Jog Rd	Boca Raton, FL 33496	
+5116	The Polo Club of Boca Raton	5400 Champion Blvd	Boca Raton, FL 33496	
+5117	The Polo Club of Boca Raton	5400 Champion Blvd	Boca Raton, FL 33496	
+5118	South County Civic Center	16700 Jog Rd	Delray Beach, FL 33446	
+5119	The Polo Club of Boca Raton	5400 Champion Blvd	Boca Raton, FL 33496	
+5120	Delray Beach First Baptist	16333 S Military Trl	Delray Beach, FL 33484	
+5122	Delray Beach First Baptist	16333 S Military Trl	Delray Beach, FL 33484	
+5124	Delray Beach First Baptist	16333 S Military Trl	Delray Beach, FL 33484	
+5126	Boca Delray Clubhouse	5483 Boca Delray Blvd	Delray Beach, FL 33484	
+5128	Sunrise Park Elementary	19400 Coral Ridge Dr	Boca Raton, FL 33498	
+5130	Coconut Cove Waterpark - Meeting Room A	20130 Regional Park Dr	Boca Raton, FL 33498	
+5132	Eagles Landing Middle	19500 Coral Ridge Dr	Boca Raton, FL 33498	
+5134	Coconut Cove Waterpark - Meeting Room B	20130 Regional Park Rd	Boca Raton, FL 33498	
+5136	West Boca Branch Library	18685 State Road 7	Boca Raton, FL 33498	
+5138	Whispering Pines Elementary	9090 Spanish Isles Blvd	Boca Raton, FL 33496	
+5140	Olympic Heights High	20101 Lyons Rd	Boca Raton, FL 33434	
+5142	Whispering Pines Elementary	9090 Spanish Isles Blvd	Boca Raton, FL 33496	
+5144	Whisper Walk Section B	8690 Flamingo Dr	Boca Raton, FL 33496	
+5146	Century Village West	19296 Lyons Rd	Boca Raton, FL 33434	
+5148	Century Village West	19296 Lyons Rd	Boca Raton, FL 33434	
+5150	Century Village West	19296 Lyons Rd	Boca Raton, FL 33434	
+5152	West Boca Raton High	12811 Glades Rd	Boca Raton, FL 33498	
+5154	Daggerwing Nature Center	11435 Park Access Rd	Boca Raton, FL 33498	
+5156	Southwinds Golf Course	19557 Lyons Rd	Boca Raton, FL 33434	
+5158	Boca West Country Club	20583 Boca West Dr	Boca Raton, FL 33434	
+5160	Boca West Country Club	20583 Boca West Dr	Boca Raton, FL 33434	
+5162	Glades Presbyterian Church	21121 Judge Winikoff Rd	Boca Raton, FL 33428	
+5164	Sandpiper Shores Elementary	11201 Glades Rd	Boca Raton, FL 33498	
+5166	Glades Road Branch Library	20701 95th Ave S	Boca Raton, FL 33434	
+5168	Glades Road Branch Library	20701 95th Ave S	Boca Raton, FL 33434	
+5170	Olympic Heights High	20101 Lyons Rd	Boca Raton, FL 33434	
+5172	Del Prado Elementary	7900 Del Prado Cir	Boca Raton, FL 33433	
+5174	Waters Edge Elementary	21601 Shorewind Dr	Boca Raton, FL 33428	
+5176	Loggers Run Middle	11584 W Palmetto Park Rd	Boca Raton, FL 33428	
+5178	Loggers Run Middle	11584 W Palmetto Park Rd	Boca Raton, FL 33428	
+5180	Boca Glades Baptist Church	10101 Judge Winikoff Rd	Boca Raton, FL 33428	
+5182	Boca Glades Baptist Church	10101 Judge Winikoff Rd	Boca Raton, FL 33428	
+5184	Coral Sunset Elementary	22400 Hammock St	Boca Raton, FL 33428	
+5186	Coral Sunset Elementary	22400 Hammock St	Boca Raton, FL 33428	
+5188	Pines Of Boca Barwood	23380 Barwood Ln S	Boca Raton, FL 33428	
+5190	Lakes at Boca Rio Clubhouse	8170 Boca Rio Dr	Boca Raton, FL 33433	
+5192	Hammock Pointe Elementary	8400 SW 8th St	Boca Raton, FL 33433	
+5194	Lakes Of Boca Barwood	23270 Barlake Dr	Boca Raton, FL 33433	
+6002	Canal Point Community Center	12860 U S Hwy 441	Canal Point, FL 33438	
+6004	Pahokee Recreation Center	360 E Main St	Pahokee, FL 33476	
+6006	Pahokee Recreation Center	360 E Main St	Pahokee, FL 33476	
+6008	Pahokee High	900 Larrimore Rd	Pahokee, FL 33476	
+6010	Canal Point Community Center	12860 U S Hwy 441	Canal Point, FL 33438	
+6012	Belle Glade Library/Civic Ctr	725 NW 4th St	Belle Glade, FL 33430	
+6014	Belle Glade Library/Civic Ctr	725 NW 4th St	Belle Glade, FL 33430	
+6016	South Bay Commission Chambers	335 SW 2nd Ave	South Bay, FL 33493	
+6018	South Bay Commission Chambers	335 SW 2nd Ave	South Bay, FL 33493	
+6020	Glades Central High	1001 SW Avenue M	Belle Glade, FL 33430	
+6022	Belle Glade Library/Civic Ctr	725 NW 4th St	Belle Glade, FL 33430	
+6024	Lewis Evans Resource Center	1224 SW Avenue E	Belle Glade, FL 33430	
+6026	Lewis Evans Resource Center	1224 SW Avenue E	Belle Glade, FL 33430	
+6028	Belle Glade Library/Civic Ctr	725 NW 4th St	Belle Glade, FL 33430	
+6029	Belle Glade Library/Civic Ctr	725 NW 4th St	Belle Glade, FL 33430	
+6030	Belle Glade Library/Civic Ctr	725 NW 4th St	Belle Glade, FL 33430	
+6032	Gove Elementary	1000 SE Avenue G	Belle Glade, FL 33430	
+6034	Gove Elementary	1000 SE Avenue G	Belle Glade, FL 33430	
+6036	Gove Elementary	1000 SE Avenue G	Belle Glade, FL 33430	
+6038	South Bay Commission Chambers	335 SW 2nd Ave	South Bay, FL 33493	
+6040	Osceola Creek Middle	6775 180th Ave N	Loxahatchee, FL 33470	
+6042	Osceola Creek Middle	6775 180th Ave N	Loxahatchee, FL 33470	
+6044	Frontier Elementary	6701 180th Ave N	Loxahatchee, FL 33470	
+6045	Acreage Branch Library	15801 Orange Blvd	Loxahatchee, FL 33470	
+6046	Pierce Hammock Elementary	14255 Hamlin Blvd	Loxahatchee, FL 33470	
+6048	Pierce Hammock Elementary	14255 Hamlin Blvd	Loxahatchee, FL 33470	
+6050	Acreage Branch Library	15801 Orange Blvd	Loxahatchee, FL 33470	
+6051	Cornerstone Fellowship	13969 Orange Blvd	West Palm Beach, FL 33412	
+6052	Seminole Ridge High	4601 Seminole Pratt Whitney Rd	Westlake, FL 33470	
+6054	Acreage Pines Elementary	14200 Orange Blvd	Loxahatchee, FL 33470	
+6056	Pierce Hammock Elementary	14255 Hamlin Blvd	Loxahatchee, FL 33470	
+6058	Acreage Pines Elementary	14200 Orange Blvd	Loxahatchee, FL 33470	
+6060	Indian Trail Improvement Dist	13476 61st St N	West Palm Beach, FL 33412	
+6062	Sandhill Crane Golf Club	11401 Northlake Blvd	Palm Beach Gardens, FL 33412	
+6064	Sandhill Crane Golf Club	11401 Northlake Blvd	Palm Beach Gardens, FL 33412	
+6066	Ibis POA Admin Building	9055 Ibis Blvd	West Palm Beach, FL 33412	
+6068	Ibis POA Admin Building	9055 Ibis Blvd	West Palm Beach, FL 33412	
+6070	Ironhorse Country Club	8055 Ironhorse Blvd	West Palm Beach, FL 33412	
+6072	Seminole Ridge High	4601 Seminole Pratt Whitney Rd	Westlake, FL 33470	
+6073	Seminole Ridge High	4601 Seminole Pratt Whitney Rd	Westlake, FL 33470	
+6076	Western Pines Middle	5949 140th Ave N	Westlake, FL 33411	
+6078	Western Pines Middle	5949 140th Ave N	Westlake, FL 33411	
+6080	Golden Grove Elementary	5959 140th Ave N	Westlake, FL 33411	
+6082	Seminole Ridge High	4601 Seminole Pratt Whitney Rd	Westlake, FL 33470	
+6084	Oasis Church	16401 Southern Blvd	Loxahatchee, FL 33470	
+6086	Oasis Church	16401 Southern Blvd	Loxahatchee, FL 33470	
+6088	Seminole Ridge High	4601 Seminole Pratt Whitney Rd	Westlake, FL 33470	
+6090	Loxahatchee Groves Elementary	16020 Okeechobee Blvd	Loxahatchee, FL 33470	
+6092	Oasis Church	16401 Southern Blvd	Loxahatchee, FL 33470	
+6094	Palms West Presbyterian	13689 Okeechobee Blvd	Loxahatchee, FL 33470	
+6096	Palms West Presbyterian	13689 Okeechobee Blvd	Loxahatchee, FL 33470	
+6098	HL Johnson Elementary	1000 Crestwood Blvd N	Royal Palm Beach, FL 33411	
+6100	Madison Green Clubhouse	2003 Crestwood Blvd N	Royal Palm Beach, FL 33411	
+6102	RPB Recreation Center	100 Sweet Bay Ln	Royal Palm Beach, FL 33411	
+6104	Crestwood Middle	64 Sparrow Dr	Royal Palm Beach, FL 33411	
+6106	RPB Recreation Center	100 Sweet Bay Ln	Royal Palm Beach, FL 33411	
+6108	Calypso Bay Waterpark	151 Lamstein Ln	Royal Palm Beach, FL 33411	
+6112	Crestwood Middle	64 Sparrow Dr	Royal Palm Beach, FL 33411	
+6114	RPB Village Hall	1050 Royal Palm Beach Blvd	Royal Palm Beach, FL 33411	
+6116	HL Johnson Elementary	1000 Crestwood Blvd N	Royal Palm Beach, FL 33411	
+6118	RPB Branch Library	500 Civic Center Way	Royal Palm Beach, FL 33411	
+6120	Royal Palm Beach High	10600 Okeechobee Blvd	Royal Palm Beach, FL 33411	
+6122	RPB Cultural Center	151 Cultural Center Way	Royal Palm Beach, FL 33411	
+6124	RPB Cultural Center	151 Cultural Center Way	Royal Palm Beach, FL 33411	
+6126	Calypso Bay Waterpark	151 Lamstein Ln	Royal Palm Beach, FL 33411	
+6128	Royal Palm Beach High	10600 Okeechobee Blvd	Royal Palm Beach, FL 33411	
+6130	Royal Palm Beach High	10600 Okeechobee Blvd	Royal Palm Beach, FL 33411	
+6132	Royal Palm Beach High	10600 Okeechobee Blvd	Royal Palm Beach, FL 33411	
+6134	Christ Fellowship Church RPB	9905 Southern Blvd	Royal Palm Beach, FL 33411	
+6136	Calypso Bay Waterpark	151 Lamstein Ln	Royal Palm Beach, FL 33411	
+6138	Royal Palm Beach High	10600 Okeechobee Blvd	Royal Palm Beach, FL 33411	
+6140	Royal Palm Beach High	10600 Okeechobee Blvd	Royal Palm Beach, FL 33411	
+6142	Christ Fellowship Church RPB	9905 Southern Blvd	Royal Palm Beach, FL 33411	
+6144	Christ Fellowship Church RPB	9905 Southern Blvd	Royal Palm Beach, FL 33411	
+6146	Christ Fellowship Church RPB	9905 Southern Blvd	Royal Palm Beach, FL 33411	
+6148	Christ Fellowship Church RPB	9905 Southern Blvd	Royal Palm Beach, FL 33411	
+6150	Binks Forest Elementary	15101 Bent Creek Rd	Wellington, FL 33414	
+6152	Binks Forest Elementary	15101 Bent Creek Rd	Wellington, FL 33414	
+6154	Wellington Landings Middle	1100 Aero Club Dr	Wellington, FL 33414	
+6156	Binks Forest Elementary	15101 Bent Creek Rd	Wellington, FL 33414	
+6158	Wellington Elementary	13000 Paddock Dr	Wellington, FL 33414	
+6160	Wellington Landings Middle	1100 Aero Club Dr	Wellington, FL 33414	
+6162	First Baptist Church Wel	12700 Forest Hill Blvd	Wellington, FL 33414	
+6164	First Baptist Church Wel	12700 Forest Hill Blvd	Wellington, FL 33414	
+6166	Wellington Community Center	12150 Forest Hill Blvd	Wellington, FL 33414	
+6168	First Baptist Church Wel	12700 Forest Hill Blvd	Wellington, FL 33414	
+6170	Christ Fellowship Church RPB	9905 Southern Blvd	Royal Palm Beach, FL 33411	
+6172	Christ Fellowship Church RPB	9905 Southern Blvd	Royal Palm Beach, FL 33411	
+6174	Christ Fellowship Church RPB	9905 Southern Blvd	Royal Palm Beach, FL 33411	
+6176	Christ Fellowship Church RPB	9905 Southern Blvd	Royal Palm Beach, FL 33411	
+6178	Everglades Elementary	407 Marginal Rd	West Palm Beach, FL 33411	
+6180	Everglades Elementary	407 Marginal Rd	West Palm Beach, FL 33411	
+6182	New Horizons Elementary	13900 Greenbriar Blvd	Wellington, FL 33414	
+6184	Wellington High	2101 Greenview Shores Blvd	Wellington, FL 33414	
+6186	Elbridge Gale Elementary	1915 Royal Fern Dr	Wellington, FL 33414	
+6188	Wellington Village Park	11700 Pierson Rd	Wellington, FL 33414	
+6190	Wellington Village Hall	12300 Forest Hill Blvd	Wellington, FL 33414	
+6192	St Peters Methodist Church	12200 W Forest Hill Blvd	Wellington, FL 33414	
+6194	Equestrian Trails Elementary	9720 Stribling Way	Wellington, FL 33414	
+6196	Palm Beach Central High	8499 W Forest Hill Blvd	Wellington, FL 33411	
+6198	Wellington Branch Library	1951 Royal Fern Dr	Wellington, FL 33414	
+6200	Emerald Cove Middle	9950 Stribling Way	Wellington, FL 33414	
+6202	Emerald Cove Middle	9950 Stribling Way	Wellington, FL 33414	
+6204	Emerald Cove Middle	9950 Stribling Way	Wellington, FL 33414	
+6206	Palm Beach Central High	8499 W Forest Hill Blvd	Wellington, FL 33411	
+6207	Palm Beach Central High	8499 W Forest Hill Blvd	Wellington, FL 33411	
+6208	Buena Vida Clubhouse	1961 Via Buena Vida	Wellington, FL 33411	
+6210	Villa Olympia Clubhouse	9100 Fatio Blvd	Wellington, FL 33414	
+6212	Wellington Village Park	11700 Pierson Rd	Wellington, FL 33414	
+6214	Wellington Village Park	11700 Pierson Rd	Wellington, FL 33414	
+6216	Panther Run Elementary	10775 Lake Worth Rd	Lake Worth, FL 33467	
+6218	Wellington Village Park	11700 Pierson Rd	Wellington, FL 33414	
+6220	Wellington Village Park	11700 Pierson Rd	Wellington, FL 33414	
+6222	Panther Run Elementary	10775 Lake Worth Rd	Lake Worth, FL 33467	
+6224	Discovery Key Elementary	3550 Lyons Rd	Lake Worth, FL 33467	
+6226	The Isles at Wellington	4325 Isles Vista Blvd	Wellington, FL 33449	
+6228	Wycliffe Comm Association Bldg	4150 Wycliffe Country	Lake Worth, FL 33449	
+6230	Epiphany Lutheran Church	4460 Lyons Rd	Lake Worth, FL 33467	
+6232	Panther Run Elementary	10775 Lake Worth Rd	Lake Worth, FL 33467	
+7002	J F Kennedy Middle	1901 Avenue S	Riviera Beach, FL 33404	
+7004	J F Kennedy Middle	1901 Avenue S	Riviera Beach, FL 33404	
+7006	J F Kennedy Middle	1901 Avenue S	Riviera Beach, FL 33404	
+7008	J F Kennedy Middle	1901 Avenue S	Riviera Beach, FL 33404	
+7010	St John Lutheran Church	241 Cypress Dr	Lake Park, FL 33403	
+7012	St John Lutheran Church	241 Cypress Dr	Lake Park, FL 33403	
+7014	RB Prep Achievement Academy	7071 Garden Rd	Riviera Beach, FL 33404	
+7016	RB Prep Achievement Academy	7071 Garden Rd	Riviera Beach, FL 33404	
+7018	RB Prep Achievement Academy	7071 Garden Rd	Riviera Beach, FL 33404	
+7020	RB Prep Achievement Academy	7071 Garden Rd	Riviera Beach, FL 33404	
+7022	J F Kennedy Middle	1901 Avenue S	Riviera Beach, FL 33404	
+7024	Hurst Chapel AME Church	1617 Silver Beach Rd	Riviera Beach, FL 33404	
+7025	Hurst Chapel AME Church	1617 Silver Beach Rd	Riviera Beach, FL 33404	
+7026	Lindsey Davis Senior Comm Ctr	1550 W 28th St	Riviera Beach, FL 33404	
+7028	Wells Recreation Center	2409 Avenue H W	Riviera Beach, FL 33404	
+7030	Riviera Beach Marina Event Ctr	190 E 13th St	Riviera Beach, FL 33404	
+7032	Crossroads Baptist Church	5710 N Haverhill Rd	West Palm Beach, FL 33407	
+7034	Suncoast High	1717 Avenue S	Riviera Beach, FL 33404	
+7036	RB Prep Achievement Academy	7071 Garden Rd	Riviera Beach, FL 33404	
+7038	RB Prep Achievement Academy	7071 Garden Rd	Riviera Beach, FL 33404	
+7040	Mary McLeod Bethune Elementary	1501 Avenue U	Riviera Beach, FL 33404	
+7041	Mary McLeod Bethune Elementary	1501 Avenue U	Riviera Beach, FL 33404	
+7042	Dan Calloway Complex	1420 W 10th St	Riviera Beach, FL 33404	
+7044	Wells Recreation Center	2409 Avenue H W	Riviera Beach, FL 33404	
+7046	Riviera Beach Marina Event Ctr	190 E 13th St	Riviera Beach, FL 33404	
+7048	Crossroads Baptist Church	5710 N Haverhill Rd	West Palm Beach, FL 33407	
+7050	Crossroads Baptist Church	5710 N Haverhill Rd	West Palm Beach, FL 33407	
+7052	Crossroads Baptist Church	5710 N Haverhill Rd	West Palm Beach, FL 33407	
+7054	Crossroads Baptist Church	5710 N Haverhill Rd	West Palm Beach, FL 33407	
+7056	Crossroads Baptist Church	5710 N Haverhill Rd	West Palm Beach, FL 33407	
+7058	Palm Beach Lakes High	3505 Shiloh Dr	West Palm Beach, FL 33407	
+7060	Ephesus Junior Academy	4011 Northshore Dr	West Palm Beach, FL 33407	
+7062	Mangonia Park Town Hall	1755 E Tiffany Dr	Mangonia Park, FL 33407	
+7064	Grace Episcopal Church	3600 N Australian Ave	West Palm Beach, FL 33407	
+7066	Northboro Elementary	400 40th St	West Palm Beach, FL 33407	
+7068	Pleasant City Community Center	500 22nd St	West Palm Beach, FL 33407	
+7070	Northboro Elementary	400 40th St	West Palm Beach, FL 33407	
+7072	Egret Lake Elementary	5115 47th Pl N	West Palm Beach, FL 33417	
+7074	Egret Lake Elementary	5115 47th Pl N	West Palm Beach, FL 33417	
+7076	Egret Lake Elementary	5115 47th Pl N	West Palm Beach, FL 33417	
+7078	Egret Lake Elementary	5115 47th Pl N	West Palm Beach, FL 33417	
+7080	Egret Lake Elementary	5115 47th Pl N	West Palm Beach, FL 33417	
+7082	Seminole Trails Elementary	4075 Willow Pond Rd	West Palm Beach, FL 33417	
+7084	Sharon Christian Church	3443 N Haverhill Rd	West Palm Beach, FL 33417	
+7086	Bear Lakes Middle	3505 Shenandoah Blvd	West Palm Beach, FL 33409	
+7088	Whitehall Clubhouse #3	2641 Village Blvd	West Palm Beach, FL 33409	
+7090	Bear Lakes Middle	3505 Shenandoah Blvd	West Palm Beach, FL 33409	
+7092	Palm Beach Lakes High	3505 Shiloh Dr	West Palm Beach, FL 33407	
+7094	Salvation Army Activity Hall	2122 Palm Beach Lakes Blvd	West Palm Beach, FL 33409	
+7096	Salvation Army Activity Hall	2122 Palm Beach Lakes Blvd	West Palm Beach, FL 33409	
+7098	U M Church of Palm Beaches	900 Brandywine Rd	West Palm Beach, FL 33409	
+7100	U M Church of Palm Beaches	900 Brandywine Rd	West Palm Beach, FL 33409	
+7102	First Christian Church	215 S Congress Ave	West Palm Beach, FL 33409	
+7104	WPB City Fire Station #5	700 N Congress Ave	West Palm Beach, FL 33401	
+7106	Roosevelt Elementary	1220 15th St	West Palm Beach, FL 33401	
+7108	Chamber of Commerce	401 N Flagler Dr	West Palm Beach, FL 33401	
+7110	Adult Education Center	2161 N Military Trl	West Palm Beach, FL 33409	
+7112	Adult Education Center	2161 N Military Trl	West Palm Beach, FL 33409	
+7114	Adult Education Center	2161 N Military Trl	West Palm Beach, FL 33409	
+7116	Adult Education Center	2161 N Military Trl	West Palm Beach, FL 33409	
+7118	Adult Education Center	2161 N Military Trl	West Palm Beach, FL 33409	
+7120	U M Church of Palm Beaches	900 Brandywine Rd	West Palm Beach, FL 33409	
+7122	U M Church of Palm Beaches	900 Brandywine Rd	West Palm Beach, FL 33409	
+7124	First Christian Church	215 S Congress Ave	West Palm Beach, FL 33409	
+7126	First Christian Church	215 S Congress Ave	West Palm Beach, FL 33409	
+7128	Westward Elementary	1101 Golf Ave	West Palm Beach, FL 33401	
+7130	Alexander W Dreyfoos SOA High	501 S Sapodilla Ave	West Palm Beach, FL 33401	
+7132	WPB City Hall Flagler Gallery	401 Clematis St	West Palm Beach, FL 33401	
+7134	Clayton Hutcheson Hall A	559 N Military Trl	West Palm Beach, FL 33415	
+7136	Haverhill Town Hall	4585 Charlotte St	Haverhill, FL 33417	
+7138	Westgate Community Center	3691 Oswego Ave	West Palm Beach, FL 33409	
+7140	Haverhill Town Hall	4585 Charlotte St	Haverhill, FL 33417	
+7142	Clayton Hutcheson Hall B	559 N Military Trl	West Palm Beach, FL 33415	
+7144	Clayton Hutcheson Hall B	559 N Military Trl	West Palm Beach, FL 33415	
+7146	Clayton Hutcheson Hall B	559 N Military Trl	West Palm Beach, FL 33415	
+7148	Howard Park Community Center	1302 Parker Ave	West Palm Beach, FL 33401	
+7149	Howard Park Community Center	1302 Parker Ave	West Palm Beach, FL 33401	
+7150	Howard Park Community Center	1302 Parker Ave	West Palm Beach, FL 33401	
+7152	WPB City Hall Flagler Gallery	401 Clematis St	West Palm Beach, FL 33401	
+7154	Morton & Barbara Mandel Center	340 Seaview Ave	Palm Beach, FL 33480	
+7156	PB Fire Station #3	2185 S Ocean Blvd	Palm Beach, FL 33480	
+7158	PB Fire Station #3	2185 S Ocean Blvd	Palm Beach, FL 33480	
+7160	South Grade Elementary	716 S K St	Lake Worth Beach, FL 33460	
+7162	Osborne Community Center	1699 Wingfield St	Lake Worth Beach, FL 33460	
+7164	Osborne Community Center	1699 Wingfield St	Lake Worth Beach, FL 33460	
+7166	PB Fire Station #3	2185 S Ocean Blvd	Palm Beach, FL 33480	
+7168	Maddock Park	1200 W Drew St	Lantana, FL 33462	
+7170	Lantana Town Hall	500 Greynolds Cir	Lantana, FL 33462	
+7172	Lantana Recreation Center	418 S Dixie Hwy	Lantana, FL 33462	
+7174	Rolling Green Elementary	550 Miner Rd	Boynton Beach, FL 33435	
+7175	Rolling Green Elementary	550 Miner Rd	Boynton Beach, FL 33435	
+7176	Hypoluxo Town Hall	7580 S Federal Hwy	Hypoluxo, FL 33462	
+7178	Temple Beth Kodesh	501 NE 26th Ave	Boynton Beach, FL 33435	
+7179	Village Royale on the Green	2501 NE 1st Ct	Boynton Beach, FL 33435	
+7180	St John Missionary Baptist Chr	900 N Seacrest Blvd	Boynton Beach, FL 33435	
+7182	Carolyn Sims Center	225 NW 12th Ave	Boynton Beach, FL 33435	
+7184	St John Missionary Baptist Chr	900 N Seacrest Blvd	Boynton Beach, FL 33435	
+7186	Boynton Beach Senior Center	1021 S Federal Hwy	Boynton Beach, FL 33435	
+7188	Forest Park Elementary	1201 SW 3rd St	Boynton Beach, FL 33435	
+7190	Seacrest Presbyterian	2703 N Seacrest Blvd	Delray Beach, FL 33444	
+7192	Lakeview Baptist Church	2599 N Swinton Ave	Delray Beach, FL 33444	
+7194	Delray Beach Community Center	50 NW 1st Ave	Delray Beach, FL 33444	
+7196	Atlantic High Auditorium	2455 W Atlantic Ave	Delray Beach, FL 33445	
+7198	Atlantic High Auditorium	2455 W Atlantic Ave	Delray Beach, FL 33445	
+7200	Pompey Park Recreation Center	1101 NW 2nd St	Delray Beach, FL 33444	
+7202	505 Club	505 SE 5th Ave	Delray Beach, FL 33483	
+7204	505 Club	505 SE 5th Ave	Delray Beach, FL 33483	
+7206	505 Club	505 SE 5th Ave	Delray Beach, FL 33483	
+7208	Atlantic High Media Center	2455 W Atlantic Ave	Delray Beach, FL 33445	
+7210	Village Academy	400 SW 12Th Ave	Delray Beach, FL 33444	
+7212	Delray Beach Library	100 W Atlantic Ave	Delray Beach, FL 33444	
+7214	Delray Beach Community Center	50 NW 1st Ave	Delray Beach, FL 33444	
+8001	Federal Only	242 S Military Trail	West Palm Beach, FL 33415	
+8002	State Only	240 S Military Trail	West Palm Beach, FL 33415	

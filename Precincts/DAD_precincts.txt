@@ -1,0 +1,783 @@
+001	Sunny Isles Beach Government Center	18070 Collins Ave	Sunny Isles Beach, FL 33160	
+002	St. Mary Magdalen Catholic Church	17775 N Bay Rd	Sunny Isles Beach, FL 33160	
+003	Winston Towers Assoc - Bldg 100	250 174 St	Sunny Isles Beach, FL 33160	
+004	Intracoastal Yacht Club	16900 N Bay Rd	Sunny Isles Beach, FL 33160	
+005	Arlen House Condo West	500 Bayview Dr	Sunny Isles Beach, FL 33160	
+006	Bal Harbour Village Hall	655 96 St	Bal Harbour, FL 33154	
+007	Bay Harbor Islands Town Hall	9665 Bay Harbor Ter	Bay Harbor Islands, FL 33154	
+008	Bay Harbor Islands Town Hall	9665 Bay Harbor Ter	Bay Harbor Islands, FL 33154	
+009	Town of Surfside	9293 Harding Ave	Surfside, FL 33154	
+010	Town of Surfside	9293 Harding Ave	Surfside, FL 33154	
+011	Biscayne Elementary School	800 77 St	Miami Beach, FL 33141	
+013	North Shore Branch Library	7501 Collins Ave	Miami Beach, FL 33141	
+014	Biscayne Elementary School	800 77 St	Miami Beach, FL 33141	
+015	Normandy Shores Golf Club	2401 Biarritz Dr	Miami Beach, FL 33141	
+016	Pelican Harbor Marina	1275 NE 79 St	Miami, FL 33138	
+017	Treasure Island Elementary School	7540 E Treasure Dr	North Bay Village, FL 33141	
+018	Indian Creek Fire Station #4	6860 Indian Creek Dr	Miami Beach, FL 33141	
+019	Normandy Park & Pool	7030 Trouville Esplanade	Miami Beach, FL 33141	
+020	Ronald W. Shane Center	6500 Indian Creek Dr	Miami Beach, FL 33141	
+023	Miami Beach Fire Station #3	5303 Collins Ave	Miami Beach, FL 33140	
+024	Nautilus Middle School	4301 N Michigan Ave	Miami Beach, FL 33140	
+025	St. Johns on the Lake Methodist Church	4760 Pine Tree Dr	Miami Beach, FL 33140	
+028	Temple Beth Sholom	4144 Chase Ave	Miami Beach, FL 33140	
+029	North Beach Elementary School	4100 Prairie Ave	Miami Beach, FL 33140	
+030	Miami Beach Botanical Garden	2000 Convention Center Dr	Miami Beach, FL 33139	
+031	Miami City Ballet	2200 Liberty Ave	Miami Beach, FL 33139	
+032	Miami Beach Regional Library	227 22 St	Miami Beach, FL 33139	
+033	Miami Beach Senior High School	2231 Prairie Ave	Miami Beach, FL 33139	
+036	Fienberg Fisher K-8 Center	601 14 Pl	Miami Beach, FL 33139	
+037	Miami Beach City Hall	1700 Convention Center Dr	Miami Beach, FL 33139	
+038	South Shore Community Center	833 6 ST #2	Miami Beach, FL 33139	
+040	South Pointe Elementary School	1050 4 St	Miami Beach, FL 33139	
+041	South Shore Community Center	833 6 St #2	Miami Beach, FL 33139	
+042	Fienberg Fisher K-8 Center	601 14 Pl	Miami Beach, FL 33139	
+043	Miami Beach Police Department	1100 Washington Ave	Miami Beach, FL 33139	
+047	South Pointe Elementary School	1050 4 St	Miami Beach, FL 33139	
+048	South Pointe Elementary School	1050 4 St	Miami Beach, FL 33139	
+051	Key Biscayne Community Center	10 Village Green Way	Key Biscayne, FL 33149	
+052	Key Biscayne Community Center	10 Village Green Way	Key Biscayne, FL 33149	
+059	C. Lawton McCall Community Center	9617 Park Dr	Miami Shores, FL 33138	
+062	Mount Zion African Methodist Episcopal Church	15250 NW 22 Ave	Miami Gardens, FL 33054	
+067	Sunny Isles Beach Government Center	18070 Collins Ave	Sunny Isles Beach, FL 33160	
+068	Arlen House Condo West	500 Bayview Dr	Sunny Isles Beach, FL 33160	
+069	Phyllis R. Miller Elementary School	840 NE 87 ST	Miami, FL 33138	
+099	Williams Island Club House	4500 Island Blvd	Aventura, FL 33160	
+100	111 BLDG--UOCAVA--FED ONLY	2700 NW 87th Ave	Miami, FL 33172	
+101	Highland Oaks Elementary School	20500 NE 24 Ave	Miami, FL 33180	
+102	Aventura Community Recreation Center	3375 NE 188 St	Aventura, FL 33180	
+103	Aventura Government Center	19200 W Country Club Dr	Aventura, FL 33180	
+104	Ojus Elementary School	18600 W Dixie HWY	Miami, FL 33180	
+105	Highland Oaks Middle School	2375 NE 203 St	Miami, FL 33180	
+106	Greynolds Park Elementary School	1536 NE 179 St	North Miami Beach, FL 33162	
+107	Greynolds Park Elementary School	1536 NE 179 St	North Miami Beach, FL 33162	
+108	New Horizons Condominium Association	1500 NE 191 St	Miami, FL 33179	
+109	Aventura Government Center	19200 W Country Club Dr	Aventura, FL 33180	
+110	Marjorie/William McDonald Center	17051 NE 19 Ave	North Miami Beach, FL 33162	
+111	Commodore Plaza Tower II	2750 NE 183 St	Aventura, FL 33160	
+112	Plaza Del Prado Condominium	18051 Biscayne Blvd	Aventura, FL 33160	
+113	Point East Condominium	2895 Point East Dr	Aventura, FL 33160	
+114	Northeast Dade Aventura Branch Library	2930 Aventura Blvd	Aventura, FL 33180	
+115	Marjorie/William McDonald Center	17051 NE 19 Ave	North Miami Beach, FL 33162	
+116	Uleta Community Center	386 NE 169 St	North Miami Beach, FL 33162	
+117	Uleta Community Center	386 NE 169 St	North Miami Beach, FL 33162	
+118	John F. Kennedy Middle School	1075 NE 167 St	North Miami Beach, FL 33162	
+119	Gertrude K. Edelman/Sabal Palm Elementary School	17101 NE 7 Ave	Miami, FL 33162	
+120	North Miami Beach Senior High School	1247 NE 167 St	Miami, FL 33162	
+121	Fulford United Methodist Church	1900 NE 164 St	North Miami Beach, FL 33162	
+122	Allen Park Community Center	1770 NE 162 St	North Miami Beach, FL 33162	
+123	Marjorie/William McDonald Center	17051 NE 19 Ave	North Miami Beach, FL 33162	
+124	Eden Isles Condominium	16975 NE 35 Ave	North Miami Beach, FL 33160	
+125	Highland Village Community Center	13621 NE 21 Ave	North Miami Beach, FL 33181	
+126	Allen Park Community Center	1770 NE 162 St	North Miami Beach, FL 33162	
+127	Washington Park Community Center	15290 NE 15 Ct	North Miami Beach, FL 33162	
+128	Oak Grove Park	680 NE 159 St	Miami, FL 33162	
+129	North Miami Beach Church Nazarene	16450 NE 4 Ave	Miami, FL 33162	
+130	First Baptist Church of Greater Miami	15395 N Miami Ave	Miami, FL 33169	
+131	Thomas Jefferson Middle School	525 NW 147 St	Miami, FL 33168	
+133	Miami-Dade County Fire Station #19	650 NW 131 St	North Miami, FL 33168	
+134	North Miami Church of the Nazarene	1195 NW 124 St	North Miami, FL 33168	
+135	Sunkist Grove Community Center	12500 NW 13 Ave	North Miami, FL 33167	
+136	Miami Union Academy	12600 NW 4 Ave	North Miami, FL 33168	
+137	North Miami Jaycees	12100 W Dixie HWY	North Miami, FL 33161	
+138	North Miami Elementary School	655 NE 145 St	North Miami, FL 33161	
+139	North Miami Jaycees	12100 W Dixie HWY	North Miami, FL 33161	
+140	Haitian Evangelical Baptist Church	14455 Memorial HWY	North Miami, FL 33161	
+141	North Miami Public Library	835 NE 132 St	North Miami, FL 33161	
+142	Shalom Community Church	900 NE 132 St	North Miami, FL 33161	
+143	First Church of North Miami	1200 NE 135 St	North Miami, FL 33161	
+144	Stanton Memorial Baptist Church	50 NE 119 St	Miami, FL 33161	
+145	Natural Bridge Elementary School	1650 NE 141 St	North Miami, FL 33181	
+146	Keystone Park Community Center	13050 Ixora Ct	North Miami, FL 33181	
+148	Miami-Dade County Fire Station #20	13000 NE 16 Ave	North Miami, FL 33161	
+149	Senator Gwen Margolis Community Center	1590 NE 123 St	North Miami, FL 33161	
+150	Senator Gwen Margolis Community Center	1590 NE 123 St	North Miami, FL 33161	
+151	Ed Burke Recreation Center	11400 NE 9 Ct	Biscayne Park, FL 33161	
+152	North Miami Seventh Day Adventist Church	12800 North Miami Ave	North Miami, FL 33168	
+153	Stanton Memorial Baptist Church	50 NE 119 St	Miami, FL 33161	
+154	Hubert O. Sibley K-8 Academy	255 NW 115 St	Miami, FL 33168	
+155	Miami Shores Elementary School	10351 NE 5 Ave	Miami Shores, FL 33138	
+156	Miami Shores Christian Church	10150 NE 2 Ave	Miami Shores, FL 33138	
+157	C. Lawton McCall Community Center	9617 Park Dr	Miami Shores, FL 33138	
+158	Phyllis R. Miller Elementary School	840 NE 87 ST	Miami, FL 33138	
+159	El Portal Village Hall	500 NE 87 St	El Portal, FL 33138	
+160	Stanton Memorial Baptist Church	50 NE 119 St	Miami, FL 33161	
+161	Horace Mann Middle School	8950 NW 2 Ave	El Portal, FL 33150	
+162	Edison West Little River Community Resource Center	150 NW 79 St	Miami, FL 33150	
+163	Stanton Memorial Baptist Church	50 NE 119 St	Miami, FL 33161	
+164	W.J. Bryan Elementary School	1201 NE 125 St	North Miami, FL 33161	
+165	Senator Gwen Margolis Community Center	1590 NE 123 St	North Miami, FL 33161	
+166	Uleta Community Center	386 NE 169 St	North Miami Beach, FL 33162	
+167	Goulds Church of Christ	22800 SW 112 Ave	Miami, FL 33170	
+168	Goulds Church of Christ	22800 SW 112 Ave	Miami, FL 33170	
+169	Senator Gwen Margolis Community Center	1590 NE 123 St	North Miami, FL 33161	
+170	Senator Gwen Margolis Community Center	1590 NE 123 St	North Miami, FL 33161	
+171	Senator Gwen Margolis Community Center	1590 NE 123 St	North Miami, FL 33161	
+172	Sunkist Grove Community Center	12500 NW 13 Ave	North Miami, FL 33167	
+173	Greater Miami Church of God	1695 Opa Locka Blvd	Miami, FL 33167	
+174	Miami Union Academy	12600 NW 4 Ave	North Miami, FL 33168	
+175	Senator Gwen Margolis Community Center	1590 NE 123 St	North Miami, FL 33161	
+176	W.J. Bryan Elementary School	1201 NE 125 St	North Miami, FL 33161	
+177	Ed Burke Recreation Center	11400 NE 9 Ct	Biscayne Park, FL 33161	
+178	Henry Reeves Elementary School	2005 NW 111 St	Miami, FL 33167	
+179	C. Lawton McCall Community Center	9617 Park Dr	Miami Shores, FL 33138	
+181	C. Lawton McCall Community Center	9617 Park Dr	Miami Shores, FL 33138	
+182	Griffing Senior Citizens Center	12220 Griffing Blvd	North Miami, FL 33161	
+184	Aventura Community Recreation Center	3375 NE 188 St	Aventura, FL 33180	
+187	Griffing Senior Citizens Center	12220 Griffing Blvd	North Miami, FL 33161	
+191	Jack D. Gordon Elementary School Main Campus	14600 Country Walk Dr	Miami, FL 33186	
+196	Universal Truth Center	21310 NW 37 Ave	Miami Gardens, FL 33056	
+198	Miami First Church of the Nazarene	17569 SW 147 Ave	Miami, FL 33187	
+199	Lake Park Condominium	900 NE 199th St	Miami, FL 33179	
+200	Eureka Villas Park	14301 SW 180 St	Miami, FL 33177	
+201	Royal Country Community - Sun Homes	5546 NW 200 Ter	Miami Gardens, FL 33055	
+202	Royal Country Community - Sun Homes	5546 NW 200 Ter	Miami Gardens, FL 33055	
+203	North County K-8 Center	3250 NW 207 St	Miami Gardens, FL 33056	
+205	Robert Renick Educational Center	2201 NW 207 St	Miami Gardens, FL 33056	
+206	Norland United Methodist Church	885 NW 195 St	Miami Gardens, FL 33169	
+207	Ro-Mont South Rec Hall	20314 NE 2 Ave	Miami, FL 33179	
+208	Lake Park Condominium	900 NE 199th St	Miami, FL 33179	
+209	Madie Ives Elementary School	20770 NE 14 Ave	Miami, FL 33179	
+210	Dr. Michael M. Krop Senior High School	1410 NE 215 St	Miami, FL 33179	
+212	Star Lakes Association	301 NE 191 St	Miami, FL 33179	
+213	Parkway Elementary School	1320 NW 188 St	Miami, FL 33169	
+214	Sierra Norwood Calvary Baptist Church	19101 NW 5 Ave	Miami Gardens, FL 33169	
+215	Sierra Norwood Calvary Baptist Church	19101 NW 5 Ave	Miami Gardens, FL 33169	
+216	Miami Norland Senior High School	1193 NW 193 St	Miami Gardens, FL 33169	
+217	Scott Lake Elementary School	1160 NW 175 St	Miami Gardens, FL 33169	
+218	North Dade Middle School	1840 NW 157 St	Miami Gardens, FL 33054	
+219	Bunche Park Elementary School	16001 Bunche Park School Dr	Miami Gardens, FL 33054	
+221	Parkview Elementary School	17631 NW 20 Ave	Miami Gardens, FL 33056	
+222	Scott Lake Elementary School	1160 NW 175 St	Miami Gardens, FL 33169	
+223	Cosmopolitan Baptist Church	3003 NW 207 St	Miami Gardens, FL 33056	
+224	Miami Carol City Senior High	3301 Miami Gardens Dr	Miami Gardens, FL 33056	
+225	Myrtle Grove Presbyterian Church	2961 NW 175 St	Miami Gardens, FL 33056	
+226	Golden Glades Elementary School	16520 NW 28 Ave	Miami Gardens, FL 33054	
+227	A. J. King Park	4230 NW 178 St	Miami Gardens, FL 33055	
+228	Carol City Middle School	3737 NW 188 St	Miami Gardens, FL 33055	
+229	Iglesia Adventista De Carol City	4450 NW 183 St	Miami Gardens, FL 33055	
+230	Lake Stevens Middle School	18484 NW 48 Pl	Miami, FL 33055	
+231	Global Church	17701 NW 57 Ave	Miami, FL 33055	
+232	North Glade Elementary School	5000 NW 177 St	Miami, FL 33055	
+233	Florida Memorial University	15800 NW 42 Ave	Miami Gardens, FL 33054	
+234	Mount Zion African Methodist Episcopal Church	15250 NW 22 Ave	Miami Gardens, FL 33054	
+235	Opa-Locka UTD Methodist Church	630 Sharar Ave	Opa Locka, FL 33054	
+236	Westview Baptist Church	13301 NW 24 Ave	Miami, FL 33167	
+237	Nathan B. Young Elementary School	14120 NW 24 Ave	Opa Locka, FL 33054	
+238	Faith Community Baptist Church	10401 NW 8th Ave	Miami, FL 33150	
+239	Mount Olives Church of God	13230 NW 7 Ave	North Miami, FL 33168	
+240	Carrie P. Meek Elementary School	2101 NW 127 St	Miami, FL 33167	
+241	Henry E.S. Reeves K-8 Center Primary Academy	2225 NW 103 St	Miami, FL 33147	
+242	Lakeview Elementary School	1290 NW 115 St	Miami, FL 33167	
+243	Faith Community Baptist Church	10401 NW 8th Ave	Miami, FL 33150	
+244	Twin Lakes Apartments	1221 NW 95 St	Miami, FL 33147	
+245	Bible Baptist Church	9801 NW 24 Ave	Miami, FL 33147	
+246	Mount Zion Apostolic Temple	9300 NW 32 Ave	Miami, FL 33147	
+247	Madison Middle School	3400 NW 87 St	Miami, FL 33147	
+248	North Central Branch Library	9590 NW 27 Ave	Miami, FL 33147	
+249	West Little River Park	2326 NW 84 St	Miami, FL 33147	
+250	Mt Carmel Missionary Baptist Church	1745 NW 79 St	Miami, FL 33147	
+251	Arcola Lakes Community Park	1301 NW 83 St	Miami, FL 33147	
+253	Palm Court Apartments	930 NW 95 St	Miami, FL 33150	
+254	The Highway Church of Apostle's Faith	2141 NW 76 St	Miami, FL 33147	
+256	Robert Sharp Towers #1	103 NW 202 Ter	Miami Gardens, FL 33169	
+257	Saint James AME Church	1846 NW 65 St	Miami, FL 33147	
+258	NFL Yet Center/Gwen Cherry Park	7090 NW 22 Ave	Miami, FL 33147	
+259	Dayspring Missionary Baptist Church	2991 NW 62 St	Miami, FL 33147	
+260	Dr. M. L. King Jr Memorial Park	6000 NW 32 Ct	Miami, FL 33142	
+261	Agenoria S. Paschal/Olinda Elementary School	5536 NW 21 Ave	Miami, FL 33142	
+262	Mildred & Claude Pepper Towers	2350 NW 54 St	Miami, FL 33142	
+264	Kelsey L. Pharr Elementary School	2000 NW 46 St	Miami, FL 33142	
+265	Freeman Collins & Raymond Britton Senior Facility	14295 NW 21 Ct	Opa Locka, FL 33054	
+266	Jefferson Reaves Sr. Park	3090 NW 50 St	Miami, FL 33142	
+267	Universal Truth Center	21310 NW 37 Ave	Miami Gardens, FL 33056	
+269	Mount Zion African Methodist Episcopal Church	15250 NW 22 Ave	Miami Gardens, FL 33054	
+270	City of Miami Gardens City Hall	18605 NW 27 Ave	Miami Gardens, FL 33056	
+272	Charles David Wyche Jr Elementary School	5241 NW 195 Dr	Miami, FL 33055	
+274	Carol City Elementary School	4375 NW 173 Dr	Miami Gardens, FL 33055	
+275	Dr. M. L. King Jr Memorial Park	6000 NW 32 Ct	Miami, FL 33142	
+276	Greater Miami Church of God	1695 Opa Locka Blvd	Miami, FL 33167	
+278	Dayspring Missionary Baptist Church	2991 NW 62 St	Miami, FL 33147	
+280	Freeman Collins & Raymond Britton Senior Facility	14295 NW 21 Ct	Opa Locka, FL 33054	
+281	Jefferson Reaves Sr. Park	3090 NW 50 St	Miami, FL 33142	
+282	Lorah Park Elementary School	5160 NW 31 Ave	Miami, FL 33142	
+284	Melrose Elementary School	3050 NW 35 St	Miami, FL 33142	
+285	Melrose Elementary School	3050 NW 35 St	Miami, FL 33142	
+288	Miami Fire Fighter Benevolent Association	2980 NW S River Dr	Miami, FL 33125	
+289	Miami Fire Fighter Benevolent Association	2980 NW S River Dr	Miami, FL 33125	
+291	Miami Gardens Elementary School	4444 NW 195 St	Miami Gardens, FL 33055	
+295	North Dade Regional Library	2455 NW 183 St	Miami Gardens, FL 33056	
+296	Dr. Robert B. Ingram Elementary School	600 Ahmad St	Opa Locka, FL 33054	
+297	Seduction Banquet Hall	4110 W 12 Ave	Hialeah, FL 33012	
+298	Miami Springs Country Club	650 Curtiss Pkwy	Miami Springs, FL 33166	
+299	Hialeah Fire Station #7	7590 W 24 Ave	Hialeah, FL 33016	
+300	Country Club of Miami	6801 NW 186 St	Hialeah, FL 33015	
+301	North Palm Baptist Church	7801 NW 178 St	Hialeah, FL 33015	
+302	Norman & Jean Reach Park	7901 NW 176 St	Hialeah, FL 33015	
+303	Sunrise Presbyterian Church	18400 NW 68 Ave	Hialeah, FL 33015	
+304	Country Village Park	6550 NW 188 Ter	Hialeah, FL 33015	
+305	Miami Lakes Branch Library	6699 Windmill Gate Rd	Miami Lakes, FL 33014	
+306	Miami Lakes Middle School	6425 Miami Lakeway North	Miami Lakes, FL 33014	
+307	Miami Lakes United Methodist Church	14800 Ludlam Rd	Miami Lakes, FL 33014	
+308	Miami Lakes K-8 Center	14250 NW 67 Ave	Miami Lakes, FL 33014	
+309	Carl F. Slade Park	2501 W 74 St	Hialeah, FL 33016	
+310	Hialeah-Miami Lakes Senior High School	7977 W 12 Ave	Hialeah, FL 33014	
+311	The Salvation Army	7450 W 4 Ave	Hialeah, FL 33014	
+312	Ministerio Unidos En Amor	7665 W 12 Ave	Hialeah, FL 33012	
+314	Hialeah Middle School	6027 E 7 Ave	Hialeah, FL 33013	
+315	Palm Springs Elementary School	6304 E 1 Ave	Hialeah, FL 33013	
+316	O'Quinn Park	6051 W 2 Ave	Hialeah, FL 33012	
+317	Hialeah Fire Station #5	1197 W 74 St	Hialeah, FL 33014	
+318	John G. DuPuis Elementary School	1150 W 59 Pl	Hialeah, FL 33012	
+319	Hialeah Middle School	6027 E 7 Ave	Hialeah, FL 33013	
+320	Sparks Park	1301 W 60 St	Hialeah, FL 33012	
+321	Victor Wilde Community Center	1701 W 53 Ter	Hialeah, FL 33012	
+322	Ben Sheppard Elementary School	5700 W 24 Ave	Hialeah, FL 33016	
+323	La Esperanza Senior Housing Project	1770 W 44 Pl	Hialeah, FL 33012	
+324	Vivian Villas	4650 W 12 Ave	Hialeah, FL 33012	
+325	Goodlet Park	4200 W 8 Ave	Hialeah, FL 33012	
+326	Goodlet Park	4200 W 8 Ave	Hialeah, FL 33012	
+327	Jose Marti MAST 6-12 Academy	5701 W 24 Ave	Hialeah, FL 33016	
+328	Immaculate Conception Catholic Church	4497 W 1 Ave	Hialeah, FL 33012	
+329	Johnny L. Cotson Sr Park	520 W 23 St	Hialeah, FL 33010	
+330	North Trail Park	780 NW 127 Ave	Miami, FL 33182	
+331	John F. Kennedy Library	190 W 49 St	Hialeah, FL 33012	
+332	Twin Lakes Elementary School	6735 W 5th Pl	Hialeah, FL 33012	
+333	James H. Bright Elementary School	2530 W 10 Ave	Hialeah, FL 33010	
+334	Twin Lakes Elementary School	6735 W 5th Pl	Hialeah, FL 33012	
+335	Johnny L. Cotson Sr Park	520 W 23 St	Hialeah, FL 33010	
+336	Johnny L. Cotson Sr Park	520 W 23 St	Hialeah, FL 33010	
+337	Bright Park Recreation Center	750 E 35 St	Hialeah, FL 33013	
+338	Hialeah Moose Lodge #1074	305 E 32 St	Hialeah, FL 33013	
+339	Iglesia Adventista del Septimo Dia de Hialeah	1425 E 1 Ave	Hialeah, FL 33010	
+340	Benny Babcock Park	651 E 4 Ave	Hialeah, FL 33010	
+341	West End Park Community House	250 SW 60 Ave	Miami, FL 33144	
+342	South East Park	1015 SE 9 Ave	Hialeah, FL 33010	
+343	Miami Springs Middle School	150 S Royal Poinciana Blvd	Miami Springs, FL 33166	
+344	Miami Springs Community Center	1401 Westward Dr	Miami Springs, FL 33166	
+345	West End Park Community House	250 SW 60 Ave	Miami, FL 33144	
+346	Springview Elementary School	1122 Bluebird Ave	Miami Springs, FL 33166	
+347	Virginia Gardens Town Hall	6498 NW 38 Ter	Virginia Gardens, FL 33166	
+348	Medley Town Hall	7777 NW 72 Ave	Medley, FL 33166	
+349	Hialeah Gardens Community Hall	10003 NW 87 Ave	Hialeah Gardens, FL 33016	
+350	Miami-Dade County Fire Rescue Honey Hill Station	4775 NW 199 St	Opa Locka, FL 33055	
+351	The Moors Club Center	17320 NW 65 Ave	Miami, FL 33015	
+352	Mary Collins Community Center	15151 NW 82 Ave	Miami Lakes, FL 33016	
+353	North Trail Park	780 NW 127 Ave	Miami, FL 33182	
+354	Palm Springs Middle School	1025 W 56 St	Hialeah, FL 33012	
+355	Joella C. Good Elementary School	6350 NW 188 Ter	Hialeah, FL 33015	
+356	American Senior High School	18350 NW 67 Ave	Hialeah, FL 33015	
+357	Palm Lakes Elementary School	7450 W 16 Ave	Hialeah, FL 33014	
+358	Hialeah Gardens Middle School	11690 NW 92 Ave	Hialeah Gardens, FL 33018	
+359	Veterans Park	7900 W 32 Ave	Hialeah, FL 33018	
+360	Ernest R. Graham K-8 Academy	7330 W 32 Ave	Hialeah, FL 33018	
+362	Meadowlane Elementary School	4280 W 8 Ave	Hialeah, FL 33012	
+363	Russell Bucky Dent Park	2250 W 60 St	Hialeah, FL 33016	
+364	Palm Springs North Fire Station #44	7700 NW 186 St	Hialeah, FL 33015	
+365	Lawton Chiles Middle School	8190 NW 197 St	Hialeah, FL 33015	
+366	Eugenia B. Thomas K-8 Center	5950 NW 114 Ave	Doral, FL 33178	
+367	Imperial Lakes Club House	12301 NW 7 Ln	Miami, FL 33182	
+368	Westland Gardens Park	13501 NW 107 Ave	Hialeah Gardens, FL 33018	
+369	North Palm Baptist Church	7801 NW 178 St	Hialeah, FL 33015	
+370	Dios Con Nosotros	4005 NW 79 Ave	Doral, FL 33166	
+371	Fire Fighters Memorial Building	8000 NW 21 St	Doral, FL 33122	
+372	Christ the Saviour Orthodox Cathedral	16601 NW 77 Ct	Miami Lakes, FL 33016	
+373	Fire Fighters Memorial Building	8000 NW 21 St	Doral, FL 33122	
+374	Fire Fighters Memorial Building	8000 NW 21 St	Doral, FL 33122	
+375	Patterson Pavillion	1875 W 44 Pl	Hialeah, FL 33012	
+376	Turningpoint Baptist Church	3350 SW 144 Ave	Miami, FL 33185	
+377	Walker Community Center	800 W 29 St	Hialeah, FL 33012	
+378	Hialeah Moose Lodge #1074	305 E 32 St	Hialeah, FL 33013	
+379	Hialeah Fire Station #2	4200 E 8 Ave	Hialeah, FL 33013	
+381	Hialeah Moose Lodge #1074	305 E 32 St	Hialeah, FL 33013	
+382	South East Park	1015 SE 9 Ave	Hialeah, FL 33010	
+383	Virginia Gardens Town Hall	6498 NW 38 Ter	Virginia Gardens, FL 33166	
+384	St. Barbara Catholic Church	6801 W 30 Ave	Hialeah, FL 33018	
+385	Barbara Goleman Senior High School	14100 NW 89 Ave	Miami Lakes, FL 33018	
+386	Hialeah Fire Station #6	780 W 25 St	Hialeah, FL 33010	
+387	Ruth A. Tinsman Housing Authority	6545 W 24 Ave	Hialeah, FL 33016	
+388	West Hialeah Gardens Elementary School	11990 NW 92 Ave	Hialeah Gardens, FL 33018	
+389	Palm Springs North Elementary School	17615 NW 82 Ave	Hialeah, FL 33015	
+390	Bob Graham Education Center	15901 NW 79 Ave	Miami Lakes, FL 33016	
+391	The Salvation Army	7450 W 4 Ave	Hialeah, FL 33014	
+392	The Salvation Army	7450 W 4 Ave	Hialeah, FL 33014	
+394	Medley Town Hall	7777 NW 72 Ave	Medley, FL 33166	
+395	Virginia Gardens Town Hall	6498 NW 38 Ter	Virginia Gardens, FL 33166	
+396	Ruben Dario Park	9825 W Flagler St	Miami, FL 33174	
+398	Miami Arts Studio 6-12 @ Zelda Glazer	15015 SW 24 St	Miami, FL 33185	
+399	Miami-Dade County Fire Station #61	15155 SW 10 St	Miami, FL 33194	
+400	Hialeah Moose Lodge #1074	305 E 32 St	Hialeah, FL 33013	
+401	Flagami Elementary School	920 SW 76 Ave	Miami, FL 33144	
+402	Lamar Louise Curry Middle School	15750 SW 47 St	Miami, FL 33185	
+403	La Catedral Del Pueblo	190 NW 79 Ave	Miami, FL 33126	
+405	Ruben Dario Park	9825 W Flagler St	Miami, FL 33174	
+406	E.W.F. Stirrup Elementary School	330 NW 97 Ave	Miami, FL 33172	
+407	Mildred & Claude Pepper Senior Center	10600 SW 4 St	Miami, FL 33174	
+408	Fontainebleau Milton Rental Apartments	9517 Fontainebleau Blvd	Miami, FL 33172	
+409	Sweetwater Elementary School	10655 SW 4 St	Miami, FL 33174	
+410	Jorge Mas Canosa Youth Center	250 SW 114 Ave	Miami, FL 33174	
+411	La Catedral Del Pueblo	190 NW 79 Ave	Miami, FL 33126	
+412	Belen Jesuit Preparatory School	500 SW 127 Ave	Miami, FL 33184	
+413	Greenglade Elementary School	3060 SW 127 Ave	Miami, FL 33175	
+414	Joe Hall Elementary School	1901 SW 134 Ave	Miami, FL 33175	
+415	University Lakes Recreation Hall	12850 SW 14 St	Miami, FL 33184	
+416	Marjory Stoneman Douglas Elementary School	11901 SW 2 St	Miami, FL 33184	
+417	Miami-Dade County Fair & Expo Center	10901 SW 24 St	Miami, FL 33165	
+418	Primera Iglesia Bautista Coral Park	8755 SW 16 St	Miami, FL 33165	
+419	Westchester Regional Library	9445 Coral Way	Miami, FL 33165	
+420	Iglesia Adventista del Septimo Dia Westchester	9500 SW 16 St	Miami, FL 33165	
+421	Primera Iglesia Bautista Coral Park	8755 SW 16 St	Miami, FL 33165	
+422	Everglades K-8 Center	8375 SW 16 St	Miami, FL 33155	
+423	West Miami Middle School	7525 SW 24 St	Miami, FL 33155	
+424	Tamiami Baptist Church	860 SW 76 Ct	Miami, FL 33144	
+425	El Camino Church	6790 SW 12 St	Miami, FL 33144	
+426	Open Bible Temple	5720 SW 17 St	Miami, FL 33155	
+427	El Camino Church	6790 SW 12 St	Miami, FL 33144	
+428	West Miami Recreation Center	1700 SW 62 Ave	Miami, FL 33155	
+429	Biltmore Hotel	1200 Anastasia Ave	Coral Gables, FL 33134	
+430	Sylvania Heights Elementary School	5901 SW 16 St	Miami, FL 33155	
+431	Ebenezer Spanish SDA Church	6566 SW 33 St	Miami, FL 33155	
+432	A. D. Barnes Park	3401 SW 72 Ave	Miami, FL 33155	
+433	Emerson Elementary School	8001 SW 36 St	Miami, FL 33155	
+434	Banyan Elementary School	3060 SW 85 Ave	Miami, FL 33155	
+435	Rockway Middle School	9393 SW 29 Ter	Miami, FL 33165	
+436	Rockway Park Recreation Bldg	9460 SW 27 Dr	Miami, FL 33165	
+437	Olympia Heights Elementary School	9797 SW 40 St	Miami, FL 33165	
+438	Mision Luterana Sagrado Corazon	9850 Coral Way	Miami, FL 33165	
+439	St. Simons Episcopal Church	10950 SW 34 St	Miami, FL 33165	
+440	Village Green Elementary School	12265 SW 34 St	Miami, FL 33175	
+441	MDC Herbert S. Saffir Permit & Inspection Ctr	11805 SW 26 St	Miami, FL 33175	
+442	Days Inn Miami Int'l Airport Hotel	7250 NW 11 St	Miami, FL 33126	
+443	Charles R. Hadley Elementary School	8400 NW 7 St	Miami, FL 33126	
+444	Wesley Matthews Elementary School	12345 SW 18 Ter	Miami, FL 33175	
+445	Fire Fighters Memorial Building	8000 NW 21 St	Doral, FL 33122	
+446	Fire Fighters Memorial Building	8000 NW 21 St	Doral, FL 33122	
+447	Miami Christian School	200 NW 109 Ave	Miami, FL 33172	
+448	Roxcy O'Neal Bolton Women's History Gallery	10251 W Flagler St	Miami, FL 33174	
+449	W.R. Thomas Middle School	13001 SW 26 St	Miami, FL 33175	
+450	John I. Smith K-8 Center - Main Campus	10415 NW 52 St	Doral, FL 33178	
+451	G. Holmes Braddock Senior High School	3601 SW 147 Ave	Miami, FL 33185	
+452	Eugenia B. Thomas K-8 Center	5950 NW 114 Ave	Doral, FL 33178	
+453	Imperial Lakes Club House	12301 NW 7 Ln	Miami, FL 33182	
+454	John I. Smith K-8 Center - Main Campus	10415 NW 52 St	Doral, FL 33178	
+455	Paul W. Bell Middle School	11800 NW 2 St	Miami, FL 33182	
+456	Fire Fighters Memorial Building	8000 NW 21 St	Doral, FL 33122	
+457	Joe Hall Elementary School	1901 SW 134 Ave	Miami, FL 33175	
+458	Miami-Dade County Fair & Expo Center	10901 SW 24 St	Miami, FL 33165	
+459	Greenglade Elementary School	3060 SW 127 Ave	Miami, FL 33175	
+460	Sweetwater Elementary School	10655 SW 4 St	Miami, FL 33174	
+461	John A. Ferguson Senior High School	15900 SW 56 St	Miami, FL 33185	
+462	Ronald W. Reagan/Doral Senior High School	8600 NW 107 Ave	Doral, FL 33178	
+463	Imperial Lakes Club House	12301 NW 7 Ln	Miami, FL 33182	
+464	Sweetwater Elementary School	10655 SW 4 St	Miami, FL 33174	
+465	West End Park Community House	250 SW 60 Ave	Miami, FL 33144	
+466	MDC Herbert S. Saffir Permit & Inspection Ctr	11805 SW 26 St	Miami, FL 33175	
+467	Iglesia El Redentor - Asamblea de Dios	3000 SW 107 Ave	Miami, FL 33165	
+468	Morgan Levy Park	5300 NW 102 Ave	Doral, FL 33178	
+469	Miami Arts Studio 6-12 @ Zelda Glazer	15015 SW 24 St	Miami, FL 33185	
+470	Ruben Dario Middle School	350 NW 97 Ave	Miami, FL 33172	
+471	Royal Ballrooms Banquet Hall	1405 SW 107th Ave	Miami, FL 33174	
+472	Chinese Baptist Church	595 SW 124 Ave	Miami, FL 33184	
+482	Cutler Bay Senior High School	8601 SW 212 St	Cutler Bay, FL 33189	
+487	Sweetwater Elementary School	10655 SW 4 St	Miami, FL 33174	
+488	Jorge Mas Canosa Youth Center	250 SW 114 Ave	Miami, FL 33174	
+498	Eden Eglise Adventist DU 7th Jour	7777 N Miami Ave	Miami, FL 33150	
+499	Liberty Square Community Center	6304 NW 14 Ave	Miami, FL 33147	
+500	Seminole Elementary School	121 SW 78 Pl	Miami, FL 33144	
+501	Jesse J. McCrary Jr. Elementary School	514 NW 77 St	Miami, FL 33150	
+502	Legion Memorial Park	6447 NE 7 Ave	Miami, FL 33138	
+503	H U D	1407 NW 7 St	Miami, FL 33125	
+504	Legion Memorial Park	6447 NE 7 Ave	Miami, FL 33138	
+505	St. Matthew Freewill Baptist Church	6700 NW 2 Ave	Miami, FL 33150	
+506	Edison Courts Community Center	325 NW 62 St	Miami, FL 33150	
+507	Thena C. Crowder Elementary School	757 NW 66 St	Miami, FL 33150	
+508	Liberty Square Community Center	6304 NW 14 Ave	Miami, FL 33147	
+509	The Universal Church of The Kingdom of God	3501 W Flagler St	Miami, FL 33135	
+510	The Universal Church of The Kingdom of God	3501 W Flagler St	Miami, FL 33135	
+511	Jordan Grove Baptist Church	5946 NW 12 Ave	Miami, FL 33127	
+512	St. Paul Institutional AME Church	1892 NW 51 Ter	Miami, FL 33142	
+514	iTech @ Thomas A. Edison Educational Center	6101 NW 2 Ave	Miami, FL 33127	
+515	Toussaint Louverture Elementary School	120 NE 59 St	Miami, FL 33137	
+516	Morningside Park	750 NE 55 Ter	Miami, FL 33137	
+517	Arthur E. Teele Jr Community Center	6301 NE 2 Ave	Miami, FL 33138	
+518	Church of God Prophecy #1	4528 NW 1 Ave	Miami, FL 33127	
+519	Shadowlawn Elementary School	149 NW 49 St	Miami, FL 33127	
+520	Carrie P. Meek Art Center	1350 NW 50 St	Miami, FL 33142	
+521	Edison Towers	5821 NW 7 Ave	Miami, FL 33127	
+522	Moore Park	765 NW 36 St	Miami, FL 33127	
+523	Ebenezer United Methodist Church	2001 NW 35 St	Miami, FL 33142	
+524	Coral Way K-8 Center	1950 SW 13 Ave	Miami, FL 33145	
+526	Curtis Park Community House	1901 NW 24 Ave	Miami, FL 33125	
+527	Juan P. Duarte Park	1776 NW 28 St	Miami, FL 33142	
+528	Allapattah Branch Library	1799 NW 35 St	Miami, FL 33142	
+529	Jose De Diego Middle School	3100 NW 5 Ave	Miami, FL 33127	
+530	Comstock Elementary School	2420 NW 18 Ave	Miami, FL 33142	
+531	Claude Pepper Community Center II	750 NW 18 Ter	Miami, FL 33136	
+532	Christ Episcopal Church	3481 Hibiscus St	Miami, FL 33133	
+533	Culmer Neighborhood Service Center	1600 NW 3 Ave	Miami, FL 33136	
+534	Miami Fire Station #2	1901 N Miami Ave	Miami, FL 33136	
+535	Paul Laurence Dunbar K-8 Center	505 NW 20 St	Miami, FL 33127	
+536	Phillis Wheatley Elementary School	1801 NW 1 Pl	Miami, FL 33136	
+537	Wynwood Community Resource Center	2902 NW 2 Ave	Miami, FL 33127	
+538	Temple Israel of Greater Miami	137 NE 19 St	Miami, FL 33132	
+540	Comstock Elementary School	2420 NW 18 Ave	Miami, FL 33142	
+541	First Presbyterian Church	609 Brickell Ave	Miami, FL 33131	
+542	Jack Orr Senior Center	550 NW 5 St	Miami, FL 33128	
+543	H U D	1407 NW 7 St	Miami, FL 33125	
+544	Trinity Cathedral Hall	464 NE 16 St	Miami, FL 33132	
+545	Miami Police Benevolent Association	2300 NW 14th St	Miami, FL 33125	
+546	Miami City Hall	3500 Pan American Dr	Miami, FL 33133	
+547	Miami Fire Station #7	314 Beacom Blvd	Miami, FL 33135	
+548	Miami-Dade County Auditorium	2901 W Flagler St	Miami, FL 33135	
+549	Kensington Park Elementary School	711 NW 30 Ave	Miami, FL 33125	
+550	Miami Fire Fighter Benevolent Association	2980 NW S River Dr	Miami, FL 33125	
+551	Grapeland Park	1550 NW 37 Ave	Miami, FL 33125	
+552	Armando Badia Senior Center	25 Tamiami Blvd	Miami, FL 33144	
+553	Robert King High Community House	7025 W Flagler St	Miami, FL 33144	
+554	Iglesia Bautista Misionera Renovacion	50 NW 51 Pl	Miami, FL 33126	
+556	Kinloch Park Community Center	455 NW 47 Ave	Miami, FL 33126	
+557	Sunlight Miami	4585 W Flagler St	Miami, FL 33134	
+558	Kinloch Park Community Center	455 NW 47 Ave	Miami, FL 33126	
+559	Ebenezer Freewill Baptist Church	4111 SW 4 St	Miami, FL 33134	
+560	Kinloch Park Middle School	4340 NW 3 St	Miami, FL 33126	
+561	Iglesia Bautista Resurreccion	2323 SW 27 Ave	Miami, FL 33145	
+562	Wesley United Methodist Church	133 Ponce De Leon Blvd	Miami, FL 33135	
+563	Jose Marti Park Gymnasium	434 SW 3 Ave	Miami, FL 33130	
+564	Hispanic Branch Library	1398 SW 1 St	Miami, FL 33135	
+565	Riverside Elementary School	1190 SW 2 St	Miami, FL 33130	
+566	Jose Marti Park Gymnasium	434 SW 3 Ave	Miami, FL 33130	
+567	Simpson Park Recreation Building	55 SW 17 Rd	Miami, FL 33129	
+568	Simpson Park Recreation Building	55 SW 17 Rd	Miami, FL 33129	
+569	Stanley Axlrod UTD Towers	1809 Brickell Ave	Miami, FL 33129	
+570	Coral Way K-8 Center	1950 SW 13 Ave	Miami, FL 33145	
+571	Shenandoah Branch Library	2111 SW 19 St	Miami, FL 33145	
+572	Shenandoah Elementary School	1023 SW 21 Ave	Miami, FL 33135	
+573	Rene Janero Recreation Center	1800 SW 21 Ave	Miami, FL 33145	
+574	Rene Janero Recreation Center	1800 SW 21 Ave	Miami, FL 33145	
+575	Central Christian Church of Dade County	222 Menores Ave	Coral Gables, FL 33134	
+576	Coral Gate Park Community Center	1415 SW 32 Ave	Miami, FL 33145	
+577	Frankie S. Rolle Service Center	3750 S Dixie Hwy	Miami, FL 33133	
+578	Providence Road/Coral Baptist Church	2732 SW 32 Ave	Miami, FL 33133	
+579	Silver Bluff Elementary School	2609 SW 25 Ave	Miami, FL 33133	
+580	Jesse J. McCrary Jr. Elementary School	514 NW 77 St	Miami, FL 33150	
+581	Little Havana Housing Project #1	1759 SW 5 St	Miami, FL 33135	
+582	Vizcaya Village Garage - Historic Garage	3250 S Miami Ave	Miami, FL 33129	
+583	Miami Fire Station #8	2975 Oak Ave	Miami, FL 33133	
+584	Frankie S. Rolle Service Center	3750 S Dixie Hwy	Miami, FL 33133	
+585	Elizabeth Virrick Park	3255 Plaza St	Miami, FL 33133	
+586	Miami-Dade Water & Sewer Authority	3575 S Le Jeune Rd	Miami, FL 33133	
+587	Plymouth Congregational Church	3400 Devon Rd	Miami, FL 33133	
+588	Allapattah Branch Library	1799 NW 35 St	Miami, FL 33142	
+589	Allapattah Branch Library	1799 NW 35 St	Miami, FL 33142	
+591	Malcolm Ross Senior Center	2800 NW 18 Ave	Miami, FL 33142	
+592	Curtis Park Community House	1901 NW 24 Ave	Miami, FL 33125	
+593	Citrus Grove Middle School	2153 NW 3 St	Miami, FL 33125	
+594	Juan P. Duarte Park	1776 NW 28 St	Miami, FL 33142	
+595	Juan P. Duarte Park	1776 NW 28 St	Miami, FL 33142	
+596	Miami Fire Station #7	314 Beacom Blvd	Miami, FL 33135	
+597	Moore Park	765 NW 36 St	Miami, FL 33127	
+598	Moore Park	765 NW 36 St	Miami, FL 33127	
+599	Wynwood Community Resource Center	2902 NW 2 Ave	Miami, FL 33127	
+601	The Country Club of Coral Gables	997 N Greenway Dr	Coral Gables, FL 33134	
+602	First UTD Methodist Church of Coral Gables	536 Coral Way	Coral Gables, FL 33134	
+603	Central Christian Church of Dade County	222 Menores Ave	Coral Gables, FL 33134	
+604	American Legion Post #98	303 Alhambra Cir	Coral Gables, FL 33134	
+606	South Miami American Legion #31	7710 SW 59 Ave	South Miami, FL 33143	
+607	Coral Gables Congregational Church	3010 Desoto Blvd	Coral Gables, FL 33134	
+608	The Country Club of Coral Gables	997 N Greenway Dr	Coral Gables, FL 33134	
+609	Coral Gables War Memorial Youth Center	405 University Dr	Coral Gables, FL 33134	
+611	Coral Gables Senior High School	450 Bird Rd	Coral Gables, FL 33146	
+612	St. Augustine Catholic Church	1400 Miller Rd	Coral Gables, FL 33146	
+613	Ponce De Leon Middle School	5801 Augusto St	Coral Gables, FL 33146	
+614	St. Augustine Catholic Church	1400 Miller Rd	Coral Gables, FL 33146	
+615	Coco Plum Woman's Club	1375 Sunset Dr	Coral Gables, FL 33143	
+616	Chamber South	6410 SW 80 St	South Miami, FL 33143	
+617	Coral Gables Fire Station #3	11911 Old Cutler Rd	Coral Gables, FL 33156	
+618	Pinecrest Branch Library	5835 SW 111 St	Pinecrest, FL 33156	
+621	Gibson Bethel Community Center	5800 SW 66 St	South Miami, FL 33143	
+622	Iglesia Cristiana Comunidad de Esperanza	6330 Bird Rd	Miami, FL 33155	
+623	One City Church	6750 Sunset Dr	Miami, FL 33143	
+624	Knights of Columbus Miami Council 1726	3601 S Miami Ave	Miami, FL 33133	
+625	Coral Pine Park	6955 SW 104 St	Pinecrest, FL 33156	
+626	Christ The King Lutheran Church	11295 SW 57 Ave	Pinecrest, FL 33156	
+627	Kendall United Methodist Church	7600 SW 104 St	Pinecrest, FL 33156	
+628	Miami Palmetto Senior High Community School	7460 SW 118 St	Pinecrest, FL 33156	
+630	Palmetto Elementary School	12401 SW 74 Ave	Pinecrest, FL 33156	
+631	Palmetto Middle School	7351 SW 128 St	Pinecrest, FL 33156	
+632	Bet Shira Congregation	7500 SW 120 St	Pinecrest, FL 33156	
+633	Wesley United Methodist Church	133 Ponce De Leon Blvd	Miami, FL 33135	
+634	Elizabeth Virrick Park	3255 Plaza St	Miami, FL 33133	
+635	Miami-Dade Water & Sewer Authority	3575 S Le Jeune Rd	Miami, FL 33133	
+636	Coral Gables Branch Library	3443 Segovia St	Coral Gables, FL 33134	
+640	Watsco Center at University of Miami	1245 Dauer Dr	Coral Gables, FL 33146	
+641	Riviera Presbyterian Church	5275 Sunset Dr	Miami, FL 33143	
+642	One City Church	6750 Sunset Dr	Miami, FL 33143	
+643	Central Christian Church of Dade County	222 Menores Ave	Coral Gables, FL 33134	
+644	American Legion Post #98	303 Alhambra Cir	Coral Gables, FL 33134	
+646	Pinecrest Branch Library	5835 SW 111 St	Pinecrest, FL 33156	
+648	Christ The King Lutheran Church	11295 SW 57 Ave	Pinecrest, FL 33156	
+649	Miami Palmetto Senior High Community School	7460 SW 118 St	Pinecrest, FL 33156	
+650	Palmetto Middle School	7351 SW 128 St	Pinecrest, FL 33156	
+651	Iglesia Cristiana Comunidad de Esperanza	6330 Bird Rd	Miami, FL 33155	
+652	Iglesia Cristiana Comunidad de Esperanza	6330 Bird Rd	Miami, FL 33155	
+653	One City Church	6750 Sunset Dr	Miami, FL 33143	
+655	Jack Orr Senior Center	550 NW 5 St	Miami, FL 33128	
+656	Jack Orr Senior Center	550 NW 5 St	Miami, FL 33128	
+658	Trinity Cathedral Hall	464 NE 16 St	Miami, FL 33132	
+659	Trinity Cathedral Hall	464 NE 16 St	Miami, FL 33132	
+667	Shenandoah Branch Library	2111 SW 19 St	Miami, FL 33145	
+668	Simpson Park Recreation Building	55 SW 17 Rd	Miami, FL 33129	
+669	Iglesia Adventista del Septimo Dia	862 SW 4 St	Miami, FL 33130	
+670	Miami-Dade County Auditorium	2901 W Flagler St	Miami, FL 33135	
+672	David Fairchild Elementary School	5757 SW 45 St	Miami, FL 33155	
+673	Gibson Bethel Community Center	5800 SW 66 St	South Miami, FL 33143	
+674	Iglesia Cristiana Comunidad de Esperanza	6330 Bird Rd	Miami, FL 33155	
+693	Christina M. Eve Elementary School	16251 SW 99 St	Miami, FL 33196	
+694	Christina M. Eve Elementary School	16251 SW 99 St	Miami, FL 33196	
+695	Herbert A. Ammons Middle School	17990 SW 142 Ave	Miami, FL 33177	
+696	Kenwood K-8 Center	9300 SW 79 Ave	Miami, FL 33156	
+697	Jane S. Roberts K-8 Center	14850 Cottonwood Cir	Miami, FL 33185	
+699	Kendall Breeze HOA	12300 SW 125 Ct	Miami, FL 33186	
+700	Jorge Mas Canosa Middle School	15735 SW 144 St	Miami, FL 33196	
+701	Bowman Ashe/ Doolin K-8 Academy	6601 SW 152 Ave	Miami, FL 33193	
+702	Lake of the Meadows Recreation Center	4450 SW 152 Ave	Miami, FL 33185	
+703	Ramblewood Condominium	13711 SW 66 St	Miami, FL 33183	
+704	Bent Tree Elementary School	4861 SW 140 Ave	Miami, FL 33175	
+705	West Bird Fire Station #37	4200 SW 142 Ave	Miami, FL 33175	
+706	Elim Missionary Assembly	11989 SW 56 St	Miami, FL 33175	
+707	German American Social Club	11919 SW 56 St	Miami, FL 33175	
+708	Royal Palm Elementary School	4200 SW 112 Ct	Miami, FL 33165	
+710	Westwood Park	11350 SW 53 Ter	Miami, FL 33165	
+711	Devon Aire K-8 Center	10501 SW 122 Ave	Miami, FL 33186	
+712	Saint Timothy Catholic Church	5400 SW 102 Ave	Miami, FL 33165	
+713	Tropical Estates Recreation Center	10201 SW 48 St	Miami, FL 33165	
+714	Miller Drive Park	5510 SW 94 Ct	Miami, FL 33165	
+715	Southwest Miami Senior High School	8855 SW 50 Ter	Miami, FL 33165	
+716	Tropical Park Community Center	7900 SW 40 St	Miami, FL 33155	
+717	South Miami Senior High School	6856 SW 53 St	Miami, FL 33155	
+718	Miami Elk's Lodge #948	10301 SW 72 St	Miami, FL 33173	
+719	Unitarian Universalist Congregation	7701 SW 76 Ave	Miami, FL 33143	
+720	Alpha & Omega Church	7800 SW 56 St	Miami, FL 33155	
+721	Kings Creek Village Recreation Center	8333 SW 81 Ave	Miami, FL 33143	
+723	Kendall Branch Library	9101 SW 97 Ave	Miami, FL 33176	
+725	Blue Lakes Elementary School	9250 SW 52 Ter	Miami, FL 33165	
+726	Snapper Creek Elementary School	10151 SW 64 St	Miami, FL 33173	
+727	Sunset Park Elementary School	10235 SW 84 St	Miami, FL 33173	
+728	Ruth Owens Kruse Educational Center	11001 SW 76 St	Miami, FL 33173	
+729	Terra Environmental Research Institute	11005 SW 84 St	Miami, FL 33173	
+730	Snapper Creek Townhouse Recreation Center	11200 SW 71 St	Miami, FL 33173	
+731	Cypress Elementary School	5400 SW 112 Ct	Miami, FL 33165	
+732	Howard D. McMillan Middle School	13100 SW 59 St	Miami, FL 33183	
+733	Winston Park Club House	8100 SW 132 Ave	Miami, FL 33183	
+734	Kendale Lakes Elementary School	8000 SW 142 Ave	Miami, FL 33183	
+735	Promenade Condominium Club House #2	14225 SW 88 St	Miami, FL 33186	
+736	Dante B. Fascell Elementary School	15625 SW 80 St	Miami, FL 33193	
+737	Oliver Hoover Elementary School	9050 Hammocks Blvd	Miami, FL 33196	
+738	Felix Varela Senior High School	15255 SW 96 St	Miami, FL 33196	
+739	Hammocks Fire Station #36	10001 Hammocks Blvd	Miami, FL 33196	
+740	Claude Pepper Elementary School	14550 SW 96 St	Miami, FL 33186	
+741	The Crossings Country Club	11578 SW 132 Ave	Miami, FL 33186	
+742	Miami Vineyard Community Church	12725 SW 122 Ave	Miami, FL 33186	
+743	Devon Aire Park	10411 SW 122 Ave	Miami, FL 33186	
+744	Calusa Elementary School	9580 W Calusa Club Dr	Miami, FL 33186	
+745	Riverside Baptist Church	10775 SW 104 St	Miami, FL 33176	
+746	William Lehman Elementary School	10990 SW 113 Pl	Miami, FL 33176	
+747	Miami Dade College - Kendall Campus	11011 SW 104 St	Miami, FL 33176	
+748	Kendale Elementary School	10693 SW 93 St	Miami, FL 33176	
+749	Ron Ehmann Recreation Center	10995 SW 97 Ave	Miami, FL 33176	
+750	Kendall Church of God	8795 SW 112 St	Miami, FL 33176	
+751	Grace A Metro Life Church	8100 SW 104 St	Miami, FL 33156	
+752	Continental Park	10000 SW 82 Ave	Miami, FL 33156	
+753	Suniland Park	12855 S Dixie Hwy	Pinecrest, FL 33156	
+754	Leewood K-8 Center	10343 SW 124 St	Miami, FL 33176	
+755	Killian Pines UTD Methodist Church	10755 SW 112 St	Miami, FL 33176	
+756	Gloria Floyd Elementary School	12650 SW 109 Ave	Miami, FL 33176	
+757	Country Walk Park Recreation Center	14601 Country Walk Dr	Miami, FL 33186	
+758	Miami First Church of the Nazarene	17569 SW 147 Ave	Miami, FL 33187	
+759	Norma Butler Bossard Elementary School	15950 SW 144 St	Miami, FL 33196	
+760	Kendall Church of God	8795 SW 112 St	Miami, FL 33176	
+761	West Kendall Regional Library	10201 Hammocks Blvd	Miami, FL 33196	
+762	Wild Lime Park	14751 Hammocks Blvd	Miami, FL 33196	
+763	Miami Sunset Sr. High School	13125 SW 72 St	Miami, FL 33183	
+764	Bowman Ashe/Doolin K-8 Academy	6401 SW 152 Ave	Miami, FL 33193	
+765	General Conference Seventh-day Adventist Church	8100 SW 117 Ave	Miami, FL 33183	
+766	Dr. Gilbert L. Porter Elementary School	15851 SW 112 St	Miami, FL 33196	
+767	Calusa Elementary School	9580 W Calusa Club Dr	Miami, FL 33186	
+768	Deerwood Bonita Lakes Park	14445 SW 122 Ave	Miami, FL 33186	
+769	Arvida Middle School	10900 SW 127 Ave	Miami, FL 33186	
+770	Kendall Village Center	8625 SW 124 Ave	Miami, FL 33183	
+771	Killian Pines UTD Methodist Church	10755 SW 112 St	Miami, FL 33176	
+772	McMillan Park	6125 SW 133 Ave	Miami, FL 33183	
+773	Bird Lakes Park	14365 SW 48 Ln	Miami, FL 33175	
+774	Hammocks Middle School	9889 Hammocks Blvd	Miami, FL 33196	
+775	Westwind Lakes Park	6805 SW 152 Ave	Miami, FL 33193	
+776	Eureka Park	18320 SW 119 Ave	Miami, FL 33177	
+777	Miami Elk's Lodge #948	10301 SW 72 St	Miami, FL 33173	
+778	Snapper Creek Elementary School	10151 SW 64 St	Miami, FL 33173	
+779	Snapper Creek Elementary School	10151 SW 64 St	Miami, FL 33173	
+781	Miami Dade College - Kendall Campus	11011 SW 104 St	Miami, FL 33176	
+782	Ramblewood Condominium	13711 SW 66 St	Miami, FL 33183	
+783	Suniland Park	12855 S Dixie Hwy	Pinecrest, FL 33156	
+784	Kendall Reception Hall	15544 SW 72 St	Miami, FL 33193	
+785	Kendale Lakes Elementary School	8000 SW 142 Ave	Miami, FL 33183	
+786	Faith International Fellowship	15190 SW 136 St	Miami, FL 33196	
+787	Faith International Fellowship	15190 SW 136 St	Miami, FL 33196	
+788	Miami Vineyard Community Church	12725 SW 122 Ave	Miami, FL 33186	
+789	Faith International Fellowship	15190 SW 136 St	Miami, FL 33196	
+790	Norma Butler Bossard Elementary School	15950 SW 144 St	Miami, FL 33196	
+791	Gloria Floyd Elementary School	12650 SW 109 Ave	Miami, FL 33176	
+792	Our Lady of Lourdes Catholic Church	11291 SW 142 Ave	Miami, FL 33186	
+793	Kendale Lakes Branch Library	15205 SW 88 St	Miami, FL 33196	
+794	Unity Center of Miami	16320 SW 147 Ave	Miami, FL 33187	
+796	Kendale Lakes Branch Library	15205 SW 88 St	Miami, FL 33196	
+797	Miami-Dade County Fire Station #56	16250 SW 72 St	Miami, FL 33193	
+798	Dr. Manuel C. Barreiro Elementary School	5125 SW 162 Ave	Miami, FL 33185	
+800	Miami Baptist Church	14955 SW 88 St	Miami, FL 33196	
+801	Sgt. Joseph Delancy Park	14450 Boggs Dr	Miami, FL 33176	
+802	Dorothy M. Wallace C.O.P.E. Center	10225 SW 147 Ter	Miami, FL 33176	
+803	Richmond Heights Middle School	15015 SW 103 Ave	Miami, FL 33176	
+804	Coral Reef Branch Library	9211 SW 152 St	Miami, FL 33157	
+805	St. Luke the Physician Episcopal Church	12355 SW 104 St	Miami, FL 33186	
+806	Coral Reef Elementary School	7955 SW 152 St	Palmetto Bay, FL 33157	
+807	Howard Drive Elementary School	7750 SW 136 St	Miami, FL 33156	
+808	St. Andrews Episcopal Church	14260 Old Cutler Rd	Palmetto Bay, FL 33158	
+809	Christ Congregational Church	14920 SW 67 Ave	Palmetto Bay, FL 33158	
+810	St. Richard Parish Center	7500 SW 152 St	Palmetto Bay, FL 33157	
+811	Marlin Moore Post #133	16401 SW 90 Ave	Palmetto Bay, FL 33157	
+812	Kingdom Covenant Church	10300 SW 162 St	Miami, FL 33157	
+813	Christ the King Catholic Church	16000 SW 112 Ave	Miami, FL 33157	
+814	Glendale Baptist Church	14580 SW 117 Ave	Miami, FL 33186	
+815	Miami Heights Elementary School	17661 SW 117 Ave	Miami, FL 33177	
+816	Church of The Ascension	11201 SW 160 St	Miami, FL 33157	
+817	Colonial Drive Park	10750 SW 156 Ter	Miami, FL 33157	
+818	Ethel F. Beckford/Richmond Elementary School	16929 SW 104 Ave	Miami, FL 33157	
+819	Palmetto Bay Park	17535 SW 95 Ave	Palmetto Bay, FL 33157	
+820	Edward & Arlene Feller Community Room	17641 Old Cutler Rd	Palmetto Bay, FL 33157	
+821	Whispering Pines Elementary School	18929 SW 89 Rd	Cutler Bay, FL 33157	
+822	Cutler Bay Worship Center	8601 SW 199 St	Cutler Bay, FL 33189	
+823	Gulfstream Elementary School	20900 SW 97 Ave	Cutler Bay, FL 33189	
+824	Pinelands Presbyterian Church	10201 Bahia Dr	Cutler Bay, FL 33189	
+825	South Dade Regional Library	10750 SW 211 St	Cutler Bay, FL 33189	
+826	Robert Russa Moton Elementary School	18050 Homestead Ave	Miami, FL 33157	
+827	Iglesia Bautista McCall	18880 SW 114 Ave	Miami, FL 33157	
+829	Caribbean K-8 Center	11990 SW 200 St	Miami, FL 33177	
+830	Isaac A. Withers Enrichment Center	21300 SW 122 Ave	Miami, FL 33177	
+831	Isaac A. Withers Enrichment Center	21300 SW 122 Ave	Miami, FL 33177	
+832	Dr. Edward L. Whigham Elementary School	21545 SW 87 Ave	Cutler Bay, FL 33189	
+833	Goulds Park	11350 SW 216 St	Miami, FL 33170	
+834	Morning Star Baptist Church	22769 SW 120 Ave	Miami, FL 33170	
+835	Silver Palm United Methodist Church	15855 SW 248 St	Homestead, FL 33031	
+836	Silver Palm United Methodist Church	15855 SW 248 St	Homestead, FL 33031	
+837	Southwood Middle School	16301 SW 80 Ave	Palmetto Bay, FL 33157	
+838	South Miami Heights Elementary School	12231 SW 190 Ter	Miami, FL 33177	
+839	Mount Pleasant Baptist Church	11591 SW 220 St	Miami, FL 33170	
+840	Palmetto Golf Course	9300 SW 152 St	Palmetto Bay, FL 33157	
+841	Robert Morgan Educational Center	18180 SW 122 Ave	Miami, FL 33177	
+842	Kingdom Covenant Church	10300 SW 162 St	Miami, FL 33157	
+843	Goulds Church of Christ	22800 SW 112 Ave	Miami, FL 33170	
+844	Southwood Middle School	16301 SW 80 Ave	Palmetto Bay, FL 33157	
+845	Iglesia Metodista Unida Peace	12755 Quail Roost Dr	Miami, FL 33177	
+846	Upper Room Assembly of God	19701 SW 127 Ave	Miami, FL 33177	
+847	Cutler Bay Senior High School	8601 SW 212 St	Cutler Bay, FL 33189	
+848	Miami First Church of the Nazarene	17569 SW 147 Ave	Miami, FL 33187	
+849	Mt Pleasant Baptist Church	11591 SW 220 St	Miami, FL 33170	
+850	Christ Congregational Church	14920 SW 67 Ave	Palmetto Bay, FL 33158	
+851	Miami Southridge Senior High School	19355 SW 114 Ave	Miami, FL 33157	
+852	Morning Star Baptist Church	22769 SW 120 Ave	Miami, FL 33170	
+853	Silver Palm United Methodist Church	15855 SW 248 St	Homestead, FL 33031	
+854	Cutler Bay Worship Center	8601 SW 199 St	Cutler Bay, FL 33189	
+856	Goulds Park	11350 SW 216 St	Miami, FL 33170	
+857	Ministerio Cristiano Exodo 13:21	15420 SW 136 St	Miami, FL 33196	
+858	Unity Center of Miami	16320 SW 147 Ave	Miami, FL 33187	
+859	West Kendall Regional Library	10201 Hammocks Blvd	Miami, FL 33196	
+860	Deerwood Bonita Lakes Park	14445 SW 122 Ave	Miami, FL 33186	
+862	Centro Evangelistico La Roca	20851 Gulfstream Rd	Cutler Bay, FL 33189	
+888	Waterstone Grand	4002 Waterstone Way	Homestead, FL 33033	
+889	Iglesia Cristiana El Buen Samaritano	13550 SW 256 St	Homestead, FL 33032	
+890	Air Base K-8 Center	12829 SW 272 St	Homestead, FL 33032	
+891	Homestead Air Reserve Park	27401 SW 127 Ave	Homestead, FL 33032	
+892	Gate Way Church of Christ	1800 E Mowry Dr	Homestead, FL 33033	
+893	Oasis Club House	171 NE 30 Rd	Homestead, FL 33033	
+894	Villages of Homestead Audubon Club House	1851 S Canal Dr	Homestead, FL 33035	
+895	Oasis Club House	171 NE 30 Rd	Homestead, FL 33033	
+896	Villages of Homestead Audubon Club House	1851 S Canal Dr	Homestead, FL 33035	
+897	Gate Way Church of Christ	1800 E Mowry Dr	Homestead, FL 33033	
+900	Silver Palm United Methodist Church	15855 SW 248 St	Homestead, FL 33031	
+901	Fruit & Spice Park	24801 SW 187 Ave	Homestead, FL 33031	
+903	Naranja Park Recreation Center	14150 SW 264 St	Homestead, FL 33032	
+904	Naranja Community Resource Center	13955 SW 264 St	Homestead, FL 33032	
+905	Iglesia Cristiana El Buen Samaritano	13550 SW 256 St	Homestead, FL 33032	
+906	Homestead Branch Library	700 N Homestead Blvd	Homestead, FL 33030	
+907	Villages of Homestead Audubon Club House	1851 S Canal Dr	Homestead, FL 33035	
+909	Naranja Branch Library	14850 SW 280th St	Naranja, FL 33032	
+910	Iglesia Centro de Fe	29800 SW 153 Ct	Homestead, FL 33033	
+911	St. Martin De Porres Catholic Church	14881 SW 288 St	Homestead, FL 33033	
+913	South Dade Park	28151 SW 164 Ave	Homestead, FL 33033	
+914	John D. Campbell Agricultural Center	18710 SW 288 St	Homestead, FL 33030	
+915	Homestead Community Center (William F. Dickinson)	1601 N Krome Ave	Homestead, FL 33030	
+916	Phichol Williams Community Center	951 SW 4 St	Homestead, FL 33030	
+918	Homestead Branch Library	700 N Homestead Blvd	Homestead, FL 33030	
+919	Oasis Club House	171 NE 30 Rd	Homestead, FL 33033	
+920	Phichol Williams Community Center	951 SW 4 St	Homestead, FL 33030	
+922	Florida City/Homestead Neighborhood Service Center	1600 NW 6 Ct	Homestead, FL 33034	
+923	Homestead Senior High School	2351 SE 12 AVE	Homestead, FL 33034	
+924	Fruit & Spice Park	24801 SW 187 Ave	Homestead, FL 33031	
+926	West Homestead Elementary School	1550 SW 6 St	Homestead, FL 33030	
+928	Homestead Senior High School	2351 SE 12 AVE	Homestead, FL 33034	
+930	Phichol Williams Community Center	951 SW 4 St	Homestead, FL 33030	
+931	Homestead Mennonite Church	30695 SW 162 Ave	Homestead, FL 33033	
+932	Goulds Church of Christ	22800 SW 112 Ave	Miami, FL 33170	
+933	Florida City Elementary School	364 NW 6 Ave	Florida City, FL 33034	
+934	Waterstone Grand	4002 Waterstone Way	Homestead, FL 33033	
+935	Florida City Elementary School	364 NW 6 Ave	Florida City, FL 33034	
+936	Phichol Williams Community Center	951 SW 4 St	Homestead, FL 33030	
+937	Florida City Elementary School	364 NW 6 Ave	Florida City, FL 33034	
+938	Florida City Elementary School	364 NW 6 Ave	Florida City, FL 33034	
+939	Miami-Dade County East Homestead Fire Station #65	1350 SE 24 St	Homestead, FL 33035	
+940	Ctr for Int'l Education-A Cambridge Assoc. School	900 NE 23 Ave	Homestead, FL 33033	
+941	Silver Palm United Methodist Church	15855 SW 248 St	Homestead, FL 33031	
+942	Naranja Park Recreation Center	14150 SW 264 St	Homestead, FL 33032	
+943	Florida City Elementary School	364 NW 6 Ave	Florida City, FL 33034	
+944	Naranja Park Recreation Center	14150 SW 264 St	Homestead, FL 33032	
+945	Florida City Elementary School	364 NW 6 Ave	Florida City, FL 33034	
+947	Coconut Palm K-8 Academy	24400 SW 124 Ave	Homestead, FL 33032	
+948	Miami-Dade County East Homestead Fire Station #65	1350 SE 24 St	Homestead, FL 33035	
+949	Gateway Environmental K-8 Learning Center	955 SE 18 Ave	Homestead, FL 33035	
+950	Homestead Senior High School	2351 SE 12 AVE	Homestead, FL 33034	
+951	Florida City City Hall	404 W Palm Dr	Homestead, FL 33034	
+953	South Dade Baptist Church	17105 SW 296 St	Homestead, FL 33030	
+955	Florida City City Hall	404 W Palm Dr	Homestead, FL 33034	
+957	Cutler Cay Homeowners Association	7755 SW 192 St	Cutler Bay, FL 33157	
+959	Club Malibu Bay	1020 Malibu Way	Homestead, FL 33033	
+960	Morning Star Baptist Church	22769 SW 120 Ave	Miami, FL 33170	
+961	Morning Star Baptist Church	22769 SW 120 Ave	Miami, FL 33170	
+963	Avant School of Excellence	777 W Palm Dr	Homestead, FL 33034	
+965	Miami-Dade County Fire Station #69	11151 NW 74 St	Doral, FL 33178	
+966	Morning Star Baptist Church	22769 SW 120 Ave	Miami, FL 33170	
+967	Isaac A. Withers Enrichment Center	21300 SW 122 Ave	Miami, FL 33177	
+968	Isaac A. Withers Enrichment Center	21300 SW 122 Ave	Miami, FL 33177	
+969	Iglesia Bautista Manantial De Vida	13155 SW 232 St	Miami, FL 33170	
+970	Silver Palm United Methodist Church	15855 SW 248 St	Homestead, FL 33031	
+971	Kinloch Park Middle School	4340 NW 3 St	Miami, FL 33126	
+974	Kinloch Park Community Center	455 NW 47 Ave	Miami, FL 33126	
+975	Claude Pepper Community Center II	750 NW 18 Ter	Miami, FL 33136	
+976	Paul Laurence Dunbar K-8 Center	505 NW 20 St	Miami, FL 33127	
+978	Morningside K-8 Academy	6620 NE 5 Ave	Miami, FL 33138	
+979	Silver Palm United Methodist Church	15855 SW 248 St	Homestead, FL 33031	
+980	Comstock Elementary School	2420 NW 18 Ave	Miami, FL 33142	
+981	Allapattah Neighborhood Service Center	1897 NW 20 St	Miami, FL 33142	
+982	Alfred I. DuPont Building	169 E Flagler St	Miami, FL 33131	
+983	Trinity Cathedral Hall	464 NE 16 St	Miami, FL 33132	
+984	Alfred I. DuPont Building	169 E Flagler St	Miami, FL 33131	
+985	Jack Orr Senior Center	550 NW 5 St	Miami, FL 33128	
+987	Curtis Park Community House	1901 NW 24 Ave	Miami, FL 33125	
+989	H U D	1407 NW 7 St	Miami, FL 33125	
+990	H U D	1407 NW 7 St	Miami, FL 33125	
+991	Iglesia Bautista Misionera Renovacion	50 NW 51 Pl	Miami, FL 33126	
+992	Iglesia Bautista Misionera Renovacion	50 NW 51 Pl	Miami, FL 33126	
+993	Vizcaya Village Garage - Historic Garage	3250 S Miami Ave	Miami, FL 33129	
+994	Ebenezer Freewill Baptist Church	4111 SW 4 St	Miami, FL 33134	
+995	Knights of Columbus Miami Council 1726	3601 S Miami Ave	Miami, FL 33133	
+996	Vizcaya Village Garage - Historic Garage	3250 S Miami Ave	Miami, FL 33129	
+997	Miami Police Benevolent Association	2300 NW 14th St	Miami, FL 33125	
+999	Morningside Park	750 NE 55 Ter	Miami, FL 33137	

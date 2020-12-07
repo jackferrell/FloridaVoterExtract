@@ -1,0 +1,70 @@
+101	Church of Hope	1701 10th St W	Palmetto, FL 34221	
+103	Terra Ceia VIA Club	1505 Center RD	Terra Ceia, FL 34250	
+107	Palmetto Point Civic Association	637 43rd Street Blvd W	Palmetto, FL 34221	
+111	Piney Point MHP Rec Hall	8624 29th Ave E	Palmetto, FL 34221	
+117	Shadowbrook MHP Rec Hall	6710 Ellenton Gillette Rd	Palmetto, FL 34221	
+119	Imperial Lakes Clubhouse	8565 Crowns Ct	Palmetto, FL 34221	
+121	Faith Lutheran Church	9608 US 301 N	Parrish, FL 34219	
+123	Rocky Bluff Library	6750 US 301 N	Ellenton, FL 34222	
+125	Colony Cove - Harmony Hall	7615 Lakeshore Dr	Ellenton, FL 34222	
+127	New Hope Baptist Church	9422 Old Tampa Rd	Parrish, FL 34219	
+129	River Wilderness Country Club	2250 Wilderness Blvd W	Parrish, FL 34219	
+131	Heritage Harbour Golf & Eatery	8000 Stone Harbour Loop	Bradenton, FL 34212	
+133	Waterlefe Golf Club	1022 Fish Hook Cv	Bradenton, FL 34212	
+135	Christian Retreat ITC Bldg	1200 Glory Way Blvd	Bradenton, FL 34212	
+137	Bayside Community Church	15800 State Road 64 E	Bradenton, FL 34212	
+139	Parrish United Methodist Church	12180 US 301 N	Parrish, FL 34219	
+141	Duette Fire & Rescue District	35800 State Road 62	Duette, FL 34219	
+201	Family of God United Methodist Ch	5601 16th Ave E	Palmetto, FL 34221	
+203	Coach House MHP Rec Hall	4907 28th Ave E	Palmetto, FL 34221	
+205	Palmetto Youth Center	501 17th St W	Palmetto, FL 34221	
+207	Bradenton Area Convention Center	1 Haben Blvd	Palmetto, FL 34221	
+209	Mt Raymond Baptist Church	2410 4th Ave E	Palmetto, FL 34221	
+211	Ellenton United Methodist Church	3607 US 301 N	Ellenton, FL 34222	
+213	Bradenton Dreamcenter	1816 9th St W	Bradenton, FL 34205	
+215	Samoset Baptist Church	3200 15th St E	Bradenton, FL 34208	
+217	Wakeland Support Center	1812 27th St E	Bradenton, FL 34208	
+219	Manatee River Garden Center	3120 1st Ave W	Bradenton, FL 34205	
+221	Bethel Baptist Church	1805 30th Ave W	Bradenton, FL 34205	
+223	Rogers Community United Meth Ch	1100 15th St E	Bradenton, FL 34208	
+301	Roser Memorial Community Church	512 Pine Ave	Anna Maria, FL 34216	
+303	St Bernard Catholic Church	248 Harbor Dr S	Holmes Beach, FL 34217	
+305	St Bernard Catholic Church	248 Harbor Dr S	Holmes Beach, FL 34217	
+307	Bradenton Beach Fire Hall	201 2nd St N	Bradenton Beach, FL 34217	
+309	Longboat Island Chapel	6200 Gulf of Mexico Dr	Longboat Key, FL 34228	
+311	Palma Sola Presbyterian Church	6510 3rd Ave W	Bradenton, FL 34209	
+313	Mount Vernon Rec Hall	4701 Independence Dr	Bradenton, FL 34210	
+315	American Legion Post #24	2000 75th St W	Bradenton, FL 34209	
+317	Redeemer Lutheran Church	6311 3rd Ave W	Bradenton, FL 34209	
+321	Freedom Village - The Landings	6406 21st Ave W	Bradenton, FL 34209	
+323	Elks Lodge #1511	2511 75th St W	Bradenton, FL 34209	
+325	G T Bray Park	5502 33rd Avenue Dr W	Bradenton, FL 34209	
+327	Kingdom Life Christian Church	3700 26th St W	Bradenton, FL 34205	
+329	Emmanuel United Methodist Church	5115 Cortez Rd W	Bradenton, FL 34210	
+331	IMG Academy - Golf Club	4350 El Conquistador Pkwy	Bradenton, FL 34210	
+333	West Bradenton Baptist Church	1305 43rd St W	Bradenton, FL 34209	
+401	Church of the Cross	5051 26th St W	Bradenton, FL 34207	
+403	South Manatee Library	6081 26th St W	Bradenton, FL 34207	
+405	Trailer Estates Auditorium	1903 69th Ave W	Bradenton, FL 34207	
+407	Midway Church of Christ	7226 Tamiami Trl N	Sarasota, FL 34243	
+409	Golf Lakes MHP Rec Hall	5050 5th St E	Bradenton, FL 34203	
+411	Plantation Village West Rec Hall	211 63rd Ave W	Bradenton, FL 34207	
+413	Legacy Baptist Church	415 67th Ave W	Bradenton, FL 34207	
+415	Our Lady Queen of Martyrs Rec Hall	6600 Pennsylvania Ave	Sarasota, FL 34243	
+417	Oneco United Methodist Church	2112 53rd Ave E	Bradenton, FL 34203	
+419	Beautiful Savior Lutheran Church	7461 Prospect Rd	Sarasota, FL 34243	
+421	Bayshore Gardens Rec Center	6919 26th St W	Bradenton, FL 34207	
+501	River Life Church	1012 57th St E	Bradenton, FL 34208	
+503	Braden River Library	4915 53rd Ave E	Bradenton, FL 34203	
+505	Palm Aire Country Club	5601 Country Club Way	Sarasota, FL 34243	
+507	St Barbara Greek Orthodox Church	7671 Lockwood Ridge Rd	Sarasota, FL 34243	
+509	Bible Baptist Church	2113 57th St E	Bradenton, FL 34208	
+511	The Preserve at Tara	7340 Tara Preserve Ln	Bradenton, FL 34203	
+513	University Park Country Club	7671 The Park Blvd	University Park, FL 34201	
+515	LWR-Sarasota Elks Lodge #2855	4602 Lena rd	Lakewood Ranch, FL 34202	
+517	Lakewood Ranch Town Hall	8175 Lakewood Ranch Blvd	Lakewood Ranch, FL 34202	
+519	Risen Savior Lutheran Church	14605 59th Ave E	Lakewood Ranch, FL 34211	
+521	Harvest United Methodist Church	14305 Covenant Way	Lakewood Ranch, FL 34202	
+523	St Mary Magdalene Episcopal Church	11315 Palmbrush Trl	Lakewood Ranch, FL 34202	
+525	Bethany Baptist Church	26604 State Road 64 E	Myakka City, FL 34251	
+527	Myakka City United Methodist Ch	10525 Lebanon St	Myakka City, FL 34251	

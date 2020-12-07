@@ -1,0 +1,13 @@
+01	WAKULLA-First Baptist Chu WAK-STAT	945 Woodville Hwy	Crawfordville, FL 32327	
+02	CRAWFORDVILLE - LIVESTOCK PAVILION	84 Cedar Ave	Crawfordville, FL 32327	
+03	SOPCHOPPY Old High School	164 Yellow Jacket Ave	Sopchoppy, FL 32358	
+04	SMITH CREEK - VOL FIRE DEPT	2984 Smith Creek Rd	Sopchoppy, FL 32358	
+05	ST MARKS - CITY HALL	788 Port Leon Dr	St. Marks, FL 32355	
+06	MEDART - PUBLIC LIBRARY	4330 Crawfordville Hwy	Crawfordville, FL 32327	
+07	IVAN - COUNTY POLLING HOUSE	73 Whiddon Lake Rd	Crawfordville, FL 32327	
+08	SHELL POINT-APALACHEE BAY FIRE DEPT	1448 Shell Point Rd	Crawfordville, FL 32327	
+09	PANACEA - WOMENS CLUB	115 Otter Lake Rd	Panacea, FL 32346	
+10	OCHLOCKONEE BAY - VOL. FIRE DEPT	19 Wakulla Cir	Panacea, FL 32346	
+11	BETHEL-MT. OLIVE PRIMITIVE BAPTIST	8 Spring Creek Hwy	Crawfordville, FL 32327	
+12	SHADEVILLE-WAK EDUCATIONAL CENTER	87 Andrew J Hargrett Sr. Rd	Crawfordville, FL 32327	
+13	SOE Office	3115 B Crawfordville hwy	Crawfordville, FL 32327	

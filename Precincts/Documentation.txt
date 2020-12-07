@@ -1,0 +1,2 @@
+Tab delimted:
+Precinct Num - Name of Precinct - Address L1 - Address L2

@@ -1,0 +1,14 @@
+001	1st United Methodist Ch	302 N Jefferson St	Perry, FL 32347	
+002	Big Bend Technical College	3233 HWY 19 S	Perry, FL 32348	
+003	Blue Creek Bapt Church	21028 Beach Rd	Perry, FL 32348	
+004	Salem Baptist Church	10400 Fish Creek Rd	Salem, FL 32356	
+005	Steinhatchee Comm Cntr	1013 S Riverside Dr	Steinhatchee, FL 32359	
+006	Shady Gr Missnry Bapt Ch	4230 Alton Wentworth Rd	Greenville, FL 32331	
+007	Johnson Strip Rd Voting	3160 Johnson Stripling Rd	Perry, FL 32347	
+008	United Steel Workers Bdg	1878 S OLD DIXIE HWY	Perry, FL 32348	
+009	Forest Capital Hall	203 Forest Park Dr	Perry, FL 32348	
+010	Lakeside Bapt Church	3111 Lakeside Dr	Perry, FL 32348	
+011	Kelly Grade Voting House	3239 Kelly Grade	Perry, FL 32348	
+012	Perry Shrine Bldg	1050 Courtney Rd	Perry, FL 32347	
+013	Jerkins Bldg	1201 Martin Luther King Ave	Perry, FL 32348	
+014	Mt. Carmel Baptist Church	2975 Pisgah Rd	Perry, FL 32347	

@@ -1,0 +1,44 @@
+1	Fountain Fire Station	17822 Center Dr	Fountain, FL 32438	
+2	Youngstown Fire Station	11771 Hwy 231	Youngstown, FL 32466	
+3	Bear Creek Assembly of God	11412 N Bear Creek Rd	Panama City, FL 32404	
+4	Bayou George Jaycee Clubhouse	6010 Jaycee Dr	Panama City, FL 32404	
+5	Sand Hills Fire Station	13010 Hwy 77	Southport, FL 32409	
+6	Southport Community Bldg	7734 Franklin Ave	Southport, FL 32409	
+7	Hope Christian Church	6326 Laird Park Rd	Panama City Beach, FL 32413	
+8	1st Baptist of Sunnyside	21321 Panama City Beach Pkwy	Panama City Beach, FL 32413	
+9	Woodstock Church of PCB	17495 Panama City Beach Pkwy	Panama City Beach, FL 32413	
+10	Frank Brown Park Comm Bldg	16200 Panama City Beach Pkwy	Panama City Beach, FL 32413	
+11	PCB Senior Center	423 Lyndell Ln	Panama City Beach, FL 32407	
+12	The Palms Conference Center	9129 Front Beach Rd	Panama City Beach, FL 32407	
+13	Cornerstone Baptist Church	213 Carolyn Ave	Panama City Beach, FL 32407	
+14	LaQuinta Inn	7115 Coastal Palms Blvd	Panama City Beach, FL 32408	
+15	Hampton Inn	2909 Thomas Dr	Panama City Beach, FL 32408	
+16	1st Baptist of Deerpoint Lake	5940 Hwy 2311	Panama City, FL 32404	
+17	Bayou George Assembly	5715 N Hwy 231	Panama City, FL 32404	
+18	Lynn Haven Senior Center	905 Pennsylvania Ave	Lynn Haven, FL 32444	
+19	1st Baptist Ch of Lynn Haven	1005 Ohio Ave	Lynn Haven, FL 32444	
+20	The Mission Center	1202 Virginia Ave	Lynn Haven, FL 32444	
+21	Harvest Worship Center	3238 E Hwy 390	Lynn Haven, FL 32444	
+22	Emerald Coast Fellowship	4102 Hwy 390	Lynn Haven, FL 32444	
+23	Salvation Army	2601 S Hwy 77	Lynn Haven, FL 32444	
+24	Messiah Lutheran Church	3701 W HWY 390	Lynn Haven, FL 32444	
+25	Fellowship Baptist Church	2501 Michigan Ave	Panama City, FL 32401	
+26	Grace Presbyterian Church	1415 Airport Rd	Panama City, FL 32401	
+27	The Rock (Gym)	2413 Harris Ave	Panama City, FL 32405	
+28	Frank Nelson Building	4201 W 22nd St	Panama City, FL 32405	
+29	Shaddai Shrine Center	1101 W 19th St	Panama City, FL 32405	
+30	First Assembly of God	1701 N East Ave	Panama City, FL 32405	
+31	Bay County Public Library	898 W 11th St	Panama City, FL 32401	
+32	Glenwood Community Ctr	722 E 9th Crt	Panama City, FL 32401	
+33	Bay County Extension Office	2728 E 14th St	Panama City, FL 32405	
+34	Marina Civic Center	8 Harrison Ave	Panama City, FL 32401	
+35	1st United Trinity Center	903 E 4th St	Panama City, FL 32405	
+36	Daffin Park Clubhouse	320 Kraft Ave	Panama City, FL 32401	
+37	Springfield City Hall	408 School Ave	Panama City, FL 32401	
+38	Callaway United Methodist Ch	6619 Hwy 22	Panama City, FL 32404	
+39	Callaway Arts and Conf Ctr	500 Callaway Pkwy	Panama City, FL 32404	
+40	Parkway Presbyterian Church	505 S Tyndall Pkwy	Panama City, FL 32404	
+41	Callaway Community Building	530 Beulah Ave	Panama City, FL 32404	
+42	Parker Community Building	935 W Park St	Panama City, FL 32404	
+43	Parker United Methodist Ch	908 S Tyndall Pkwy	Panama City, FL 32404	
+44	1st Baptist of Mexico Beach	823 N 15th St	Mexico Beach, FL 32456	

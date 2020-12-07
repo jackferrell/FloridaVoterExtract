@@ -1,0 +1,122 @@
+0001	0001 1st Presbyterian Church	511 SE 3rd St	Ocala, FL 34471	
+0002	0002 The Hampton Center Room 102	1501 W Silver Springs Blvd	Ocala, FL 34475	
+0003	0003 Reilly Arts Center	500 NE 9th ST	Ocala, FL 34470	
+0004	0004 Central Christian Church	3010 NE 14th St	Ocala, FL 34470	
+0005	0005 1st Christian Church	1908 E Fort King St	Ocala, FL 34471	
+0006	0006 South Point Church	3401 SE Lake Weir Ave	Ocala, FL 34471-6711	
+0007	0007 Cala Hills Clubhouse	2400 SW 21st Cir	Ocala, FL 34471	
+0008	0008 College Park Church of God	3140 SW 26th St	Ocala, FL 34474	
+0009	0009 Zion U.M. Church	510 NW ML King Jr Ave	Ocala, FL 34475-5811	
+0010	0010 Lillian Bryant Center	2200 NW 17th Pl	Ocala, FL 34475	
+0011	0011 County Ag Ctr. - Auditorium	2232 NE Jacksonville Rd	Ocala, FL 34470	
+0012	0012 Oakcrest Baptist Church	1109 NE 28th St	Ocala, FL 34470-3774	
+0013	0013 Central Christian Church	3010 NE 14th St	Ocala, FL 34470	
+0014	0014 First Baptist Church - Foyer	2801 SE Maricamp Rd	Ocala, FL 34471-5537	
+0015	0015 Scottish Rite Temple	3632 NE 7th St	Ocala, FL 34470	
+0016	0016 St. Paul's UM Fellowship Hall	800 SE 41st Ave	Ocala, FL 34471	
+0017	0017 Ocala Golf Club	3130 E Silv Sprgs Blvd	Ocala, FL 34470	
+0018	0018 Holiday Inn & Suites of Ocala	3600 SW 38th Ave	Ocala, FL 34474	
+0019	0019 Fore Ranch Prairie Club	4001 SW 53rd Ave	Ocala, FL 34474	
+0040	0040 American Legion Hall	5515 SE 109th St	Belleview, FL 34420	
+0050	0050 Dunnellon City Hall	20750 River Dr	Dunnellon, FL 34431	
+0060	0060 McIntosh Civic Center	5835 Avenue G	McIntosh, FL 32664	
+0070	0070 Reddick Community Center	4345 NW 152nd St	Reddick, FL 32686	
+1500	1500 Forest Baptist Church	23241 NE 160th Avenue Rd	Ft McCoy, FL 32134	
+1510	1510 Orange Springs Comm. Bldg.	24545 NE 129th Ter	Ft. McCoy, FL 32134	
+1520	1520 Citra Community Center	2351 E HWY 318	Citra, FL 32113	
+1530	1530 1st Baptist Church Salt Spring	24100 NE HWY 314	Salt Springs, FL 32134	
+1540	1540 Ft. McCoy Public Library	14660 NE HWY 315	Ft McCoy, FL 32134	
+1550	1550 Sparr United Methodist Church	13100 NE Jacksonville Rd	Sparr, FL 32113	
+1560	1560 Tall Timber Mobile Home Park	14575 NE 21st St	Silver Springs, FL 34488	
+1570	1570 Ocala Boat Club	9570 NE 28th Ln	Silver Springs, FL 34488	
+1580	1580 Anthony UM Church - Educ. Bldg	2396 NE 97th Street Rd	Anthony, FL 32617	
+1590	1590 Trinity Lutheran Church	4001 NE 25th Ave	Ocala, FL 34479	
+1600	1600 County Ag Ctr - Auditorium	2232 NE Jacksonville Rd	Ocala, FL 34470	
+1610	1610 Sheriff's NW District Office	8311 N Hwy 441	Ocala, FL 34475	
+2500	2500 Shiloh U.M. Church	11020 NW HWY 320	Micanopy, FL 32667	
+2510	2510 McIntosh United Methodist Church	20627 NW 8th St	McIntosh, FL 32664	
+2520	2520 Fairfield Baptist Church	14855 NW HWY 225	Reddick, FL 32686	
+2530	2530 IBEW Local 222	17850 N HWY 441	Reddick, FL 32686	
+2540	2540 Christ The King Mission	14045 N HWY 301	Citra, FL 32113	
+2550	2550 Fellowship Baptist Church	10500 NW HWY 27	Ocala, FL 34482	
+2551	2550 Fellowship Baptist Church	10500 NW HWY 27	Ocala, FL 34482	
+2560	2560 Fire College - Bldg B	11655 NW Gainesville Rd	Ocala, FL 34482	
+2570	2570 Sweetwater Oaks Clubhouse	3151 NW 44th Ave	Ocala, FL 34482	
+2580	2580 Sweetwater Oaks Clubhouse	3151 NW 44th Ave	Ocala, FL 34482	
+2590	2590 Living Waters Worship Center	3801 N Hwy 441	Ocala, FL 34475	
+2600	2600 St Johns UM Church-Conley Hall	12390 W HWY 328	Ocala, FL 34482	
+2610	2610 New Life Family Church	1700 NW 60th Ave	Ocala, FL 34482	
+2620	2620 Howard Johnson	3951 NW Blitchton Rd	Ocala, FL 34475	
+2621	2620 Howard Johnson	3951 NW Blitchton Rd	Ocala, FL 34475	
+2630	2630 Fraternal Order of Police Lodge 145	5675 W HWY 40	Ocala, FL 34482	
+3510	3510 Sunnyhill Restoration Area - Blue House	19561 SE HWY 42	Umatilla, FL 32784	
+3520	3520 Lake Weir Kiwanis Club Bldg	15380 SE 140th Avenue Rd	Weirsdale, FL 32195	
+3530	3530 Stonecrest - Community Center	11050 SE 176th Place Rd	Summerfield, FL 34491	
+3540	3540 Spruce Creek South - Clubhouse	9880 SE 176th St	Summerfield, FL 34491	
+3550	3550 Mulberry Center (Liberty & Old Glory Rm)	8445 SE 165th Mulberry Ln	The Villages, FL 32162	
+3560	3560 1st Baptist Church of S'field	14550 SE 65th Ct	Summerfield, FL 34491	
+3570	3570 Community Harvest Baptist Church	14915 SE 36th Ave	Summerfield, FL 34491	
+3580	3580 O.B.H.H.A. Community Center	9230 SE 154th St	Summerfield, FL 34491	
+3590	3590 Ocklawaha Community Center	12350 SE 131st Ct	Ocklawaha, FL 32179	
+3600	3600 Hope Lutheran Church	10495 SE Sunset Harbor Rd	Summerfield, FL 34491	
+3610	3610 Sunset Harbor Baptist Church	9200 SE Sunset Harbor Rd	Summerfield, FL 34491	
+3620	3620 Spruce Creek CC (BallRoom)	13601 SE Del Webb Blvd	Summerfield, FL 34491	
+3621	3621 Spruce Creek CC (BallRoom)	13601 SE Del Webb Blvd	Summerfield, FL 34491	
+3622	3622 Spruce Creek CC (BallRoom)	13601 SE Del Webb Blvd	Summerfield, FL 34491	
+3630	3630 St Theresa Catholic Church (Room 6)	11528 SE HWY 301	Belleview, FL 34420	
+3640	3640 Sacred Fire Church	12226 S Hwy 301	Belleview, FL 34420-4416	
+3650	3650 Woods & Lakes Club House	5970 SE 158th Ct	Ocklawaha, FL 32179	
+3660	3660 Immaculate Heart/Social Hall	10670 SE Maricamp Rd	Ocala, FL 34472	
+3670	3670 SSS - Community Center	590 Silver Rd	Ocala, FL 34472	
+3680	3680 SSS Presbyterian Church - Gym	674 Silver Rd	Ocala, FL 34472	
+3690	3690 Wings of Faith (Life Ctr)	5066 SE 64th Avenue Rd	Ocala, FL 34472	
+3700	3700 Christ Community Church	37 Dogwood Rd	Ocala, FL 34472	
+3710	3710 Church at the Springs	5424 SE 58th Ave	Ocala, FL 34480	
+3720	3720 Belleview 1st Assembly Of God	10050 S HWY 441	Belleview, FL 34420	
+3721	3720 Belleview 1st Assembly Of God	10050 S HWY 441	Belleview, FL 34420	
+3730	3730 1st Baptist Church of S'field	14550 SE 65th Ct	Summerfield, FL 34491	
+3740	3740 Sheriff's South Dist Office	3260 SE 80th St	Ocala, FL 34480	
+3750	3750 Olivet Baptist Church	8495 S Magnolia Ave	Ocala, FL 34476-4924	
+3760	3760 Ocala Shrine Club	4301 SE Maricamp Rd	Ocala, FL 34480	
+3770	3770 Forest Assembly Of God	17530 E HWY 40	Silver Springs, FL 34488	
+3780	3780 Grace Presbyterian Church	2255 SE 38th St	Ocala, FL 34480	
+3790	3790 Forest Comm Ctr	777 S HWY 314A	Ocklawaha, FL 32179	
+3800	3800 Ascension Lutheran Church	5730 SE 28th St	Ocala, FL 34480	
+3810	3810 St George Anglican Cathedral	5646 SE 28th St	Ocala, FL 34480	
+3820	3820 Rolling Greens West (Clubhouse)	2026 Peeble Beach Rd	Ocala, FL 34472	
+3830	3830 Ocala East Villas Clubhouse	191 NE 63rd Ct	Ocala, FL 34470	
+3840	3840 Abiding Hope Lutheran Church	777 SE 58th Ave	Ocala, FL 34480	
+4500	4500 Rainbow Springs Village Church	20222 SW 102nd Street Rd	Dunnellon, FL 34431	
+4510	4510 Rainbow Springs CC	19330 SW 83rd Place Rd	Dunnellon, FL 34432	
+4520	4520 Living Water Wesleyan Church	11120 SW HWY 484	Dunnellon, FL 34432	
+4521	4520 Living Water Wesleyan Church	11120 SW HWY 484	Dunnellon, FL 34432	
+4530	4530 Spruce Creek Preserve	11376 SW 136th Pl	Dunnellon, FL 34432	
+4540	4540 Florida Highlands Baptist Church	10891 SW 155th St	Dunnellon, FL 34432-8548	
+4550	4550 Marion Oaks Comm Ctr - Bldg B	294 Marion Oaks Ln	Ocala, FL 34473	
+4560	4560 Marion Oaks Comm Ctr - Aud.	294 Marion Oaks Ln	Ocala, FL 34473	
+4570	4570 SummerGlen Clubhouse	1474 SW 154th Street Rd	Ocala, FL 34473	
+4580	4580 Maranatha Baptist Church	525 Marion Oaks Trl	Ocala, FL 34473	
+4590	4590 Marion Oaks Assembly of God	13977 SW 32nd Terrace Rd	Ocala, FL 34473	
+4600	4600 Timber Ridge Comm. Church of Ocala	10260 SW 110th St	Dunnellon, FL 34432	
+4610	4610 Oak Run Orchid Clubhouse	8885 SW 110th St	Ocala, FL 34481	
+4620	4620 Oak Run Palm Grove Clubhouse	6951 SW 115th Street Rd	Ocala, FL 34476	
+4630	4630 Palm Cay Oasis Clubhouse	8063 SW 106th Pl	Ocala, FL 34481	
+4640	4640 Hebron Evangelical Church	125 Marion Oaks Trl	Ocala, FL 34473	
+4650	4650 OTOW - Arbor Conference Ctr. (Suite E)	10070 SW 94th St	Ocala, FL 34481	
+4651	4651 OTOW - Arbor Conference Suites (F&G)	10070 SW 94th St	Ocala, FL 34481	
+4652	4652 OTOW - Master the Possibilities	8415 SW 80th ST	Ocala, FL 34481	
+4653	4653 OTOW - Master the Possibilities	8415 SW 80th ST	Ocala, FL 34481	
+4654	4654 Stone Creek Reunion Ctr.	6111 SW 89th COURT RD	OCALA, FL 34481	
+4660	4660 Countryside Presbyterian Church	7768 SW HWY 200	Ocala, FL 34476	
+4670	4670 Countryside Presbyterian Church	7768 SW HWY 200	Ocala, FL 34476	
+4680	4680 Shady Road Villas	9100 SW 27th Ave	Ocala, FL 34476	
+4690	4690 Rainbow Lakes Estates	4030 SW Deepwater Ct	Dunnellon, FL 34431	
+4700	4700 Lake Tropicana Civic Assoc.	3380 SW 181st Ct	Dunnellon, FL 34432	
+4710	4710 Lake Tropicana Civic Assoc.	3380 SW 181st Ct	Dunnellon, FL 34432	
+4720	4720 St Johns U.M. Church	12390 W Hwy 328	Ocala, FL 34482	
+4730	4730 Christ's Church of Marion County	6768 SW 80th St	Ocala, FL 34476	
+4740	4740 Marion Landing Lifestyle Ctr	8601 SW 65th Avenue Rd	Ocala, FL 34476	
+4750	4750 Joy Evangelical Lutheran	7045 SW 83rd Pl	Ocala, FL 34476	
+4760	4760 Saddle Oak Club Clubhouse	5610 SW 60th St	Ocala, FL 34474	
+4770	4770 Cornerstone UPC Church	3300 SW 66th St	Ocala, FL 34476	
+4771	4770 Cornerstone UPC Church	3300 SW 66th St	Ocala, FL 34476	

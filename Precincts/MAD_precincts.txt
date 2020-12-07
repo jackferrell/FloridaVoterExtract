@@ -1,0 +1,11 @@
+1	MADISON Agriculture Center	184 NW College Loop	Madison, FL 32340	
+2	MADISON Recreation Center	243 SW Arnold St	Madison, FL 32340	
+3	LEE-Lee City Hall	286 NE CR 255	Lee, FL 32059	
+4	SIRMANS-Sirmans Vol. Fire Dept.	118 SW Okaloo Way	Greenville, FL 32331	
+5	Greenville - American Legion	133 SW Broad Ave	Greenville, FL 32331	
+6	HAMBURG-Volunteer Fire Dept	7286 NW Lovett Rd	Greenville, FL 32331	
+7	CHERRY LAKE-Voting House Crossroads	7983 N SR 53	Madison, FL 32340	
+8	PINETTA-Volunteer Fire Dept	509 NE Persimmon Dr	Pinetta, FL 32350	
+9	ERIDU-Recycling Center	11389 SW Overstreet Ave	Lamont, FL 32336	
+10	SOE - Annex (Back of Office)	239 SW Pinckney St	Madison, FL 32340	
+11	MADISON-Voting House Bunker	146 SE Bunker St	Madison, FL 32340	
