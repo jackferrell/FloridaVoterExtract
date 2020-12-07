@@ -16,8 +16,6 @@ for county_name in counties:
     temp_county.process_data()
     temp_county.create_file()
     county_dict[county_name] = temp_county
-   
-
 
 #when search is input just call it on the county object here
 
@@ -25,14 +23,14 @@ for county_name in counties:
 #Hashmap based
 def search_regular(name, address, county):
     if not bool(county_dict[county].people_dict):
-        county_dict[county].store_people
+        county_dict[county].store_people()
     county_dict[county].search_people_regular(name, address)
 
 
 #Tree based
 def search_sorted(name, address, county):
     if not bool(county_dict[county].people_dict):
-        county_dict[county].store_people
+        county_dict[county].store_people()
     county_dict[county].search_people_sorted(name, address)
 
 #function to read data from the statistics file

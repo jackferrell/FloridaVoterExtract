@@ -74,7 +74,10 @@ class County:
         address = address.lower()
         #correction for 3 spaces in address from data
         address_arr = address.split(" ", 1)
-        number = address_arr[0] + "   "
+        if self.countycode == "ALA":
+            number = address_arr[0] + "  "
+        else:
+            number = address_arr[0] + "   "
         address = number + address_arr[1] + " "
         start_time = time.time()
         #check if voter exists
@@ -127,7 +130,10 @@ class County:
         address = address.lower()
         #correction for 3 spaces in address from data
         address_arr = address.split(" ", 1)
-        number = address_arr[0] + "   "
+        if self.countycode == "ALA":
+            number = address_arr[0] + "  "
+        else:
+            number = address_arr[0] + "   "
         address = number + address_arr[1] + " "
         start_time = time.time()
         #check if voter exists
